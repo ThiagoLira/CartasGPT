@@ -5,5 +5,5 @@ title: Home
 
 # Cartas de Gestoras Sumarizadas
 
-- [Verde](gestoras/verde)
-- [Alaska](gestoras/alaska)
+- [Verde](gestoras/verde.md)
+- [Alaska](gestoras/alaska.md)
