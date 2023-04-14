@@ -1,3 +1,4 @@
+# Verde
 ## Fevereiro
 O fundo Verde obteve ganhos em posições de renda fixa no mês de fevereiro, destacando-se a inflação implícita no Brasil, opções na curva curta americana e nova posição nos EUA. Na bolsa brasileira, houve perdas, especialmente em commodities como ouro. O mercado desenvolvido apresentou uma mudança de narrativa, com dados positivos da economia americana que levaram a mudanças significativas nos preços de ativos em fevereiro. 
 
