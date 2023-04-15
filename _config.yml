@@ -1,3 +1,6 @@
 title: Cartas GPT
+baseurl: "/CartasGPT"
 theme: minima
+# build settings
+markdown: kramdown
 
