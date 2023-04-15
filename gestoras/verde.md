@@ -1,4 +1,0 @@
-## Fevereiro
-O fundo Verde obteve ganhos em posições de renda fixa no mês de fevereiro, destacando-se a inflação implícita no Brasil, opções na curva curta americana e nova posição nos EUA. Na bolsa brasileira, houve perdas, especialmente em commodities como ouro. O mercado desenvolvido apresentou uma mudança de narrativa, com dados positivos da economia americana que levaram a mudanças significativas nos preços de ativos em fevereiro. 
-
-A empresa está focada na precificação das bolsas globais e nos riscos de uma nova aceleração da inflação. No Brasil, o novo governo gerou polêmicas que preocupam e há sinais de um incipiente credit crunch atingindo a economia. O Verde manteve exposição na bolsa brasileira e implementou hedges na bolsa americana. O investimento em inflação implícita no Brasil foi mantido, com posições tomadas em juros e compra em inflação nos EUA. Posições em crédito high yield global e local foram mantidas.
