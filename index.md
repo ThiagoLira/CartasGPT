@@ -3,8 +3,10 @@ layout: default
 title: Home
 ---
 <script type="module">
-  import { Octokit } from "https://cdn.skypack.dev/@octokit/rest";
+  import { Octokit as ImportedOctokit } from "https://cdn.skypack.dev/@octokit/rest";
+  window.Octokit = ImportedOctokit;
 </script>
+
 <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 <div id="menu">
   <ul>
