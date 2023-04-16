@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+<script type="module" src="https://cdn.skypack.dev/@octokit/core"></script>
+<script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 <div id="menu">
   <ul>
     <li><a href="#" onclick="loadFiles('Verde')">Option 1</a></li>
@@ -11,5 +13,3 @@ title: Home
 </div>
 <div id="file-list"></div>
 <div id="content"></div>
-<script type="module" src="https://cdn.skypack.dev/@octokit/core"></script>
-<script src="{{ "/assets/js/main.js" | relative_url }}"></script>
