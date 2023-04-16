@@ -1,6 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Cartas GPT 
 ---
+
+{{ site.categories | inspect }}
+{{ site.categories  }}
+<ul>
+{% for category in site.categories %}
+    <li><a href="/{{ category[0] }}">{{ category[0] }}</a></li>
+{% endfor %}
+</ul>
