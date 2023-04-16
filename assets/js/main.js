@@ -1,7 +1,7 @@
 import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
 
 const octokit = new Octokit({
-  auth: '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'
+  auth: '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'
 })
 
 await octokit.request('GET /repos/{owner}/{repo}/pages', {
