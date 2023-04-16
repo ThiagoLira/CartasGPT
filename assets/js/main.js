@@ -5,7 +5,7 @@ const octokit = new Octokit({
 
 window.loadFiles = async function (folder) {
   try {
-    const response = await octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
+    const response = await octokit.request(`GET /repos/ThiagoLira/CartasGPT/contents/${folder}?ref=new_struct`, {
       owner: "ThiagoLira",
       repo: "CartasGPT",
       path: folder,
