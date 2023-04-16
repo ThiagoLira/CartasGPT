@@ -4,21 +4,12 @@ const octokit = new Octokit({
   auth: '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'
 })
 
-await octokit.request('GET /repos/{owner}/{repo}/pages', {
-  owner: 'ThiagoLira',
-  repo: 'CartasGPT',
-  headers: {
-    'X-GitHub-Api-Version': '2022-11-28'
-},
-});
-
-
 
 async function loadFiles(folder) {
   try {
     const response = await octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
-      owner: "OWNER",
-      repo: "REPO",
+      owner: "ThiagoLira",
+      repo: "CartasGPT",
       path: folder,
       headers: {
         "X-GitHub-Api-Version": "2022-11-28",
