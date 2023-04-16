@@ -11,4 +11,5 @@ title: Home
 </div>
 <div id="file-list"></div>
 <div id="content"></div>
+<script type="module" src="https://cdn.skypack.dev/@octokit/core"></script>
 <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
