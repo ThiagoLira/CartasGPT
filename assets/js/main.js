@@ -1,37 +1,49 @@
-const accessToken = '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'; // Replace with your generated token
+import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
+
+const octokit = new Octokit({
+  auth: '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'
+})
+
+await octokit.request('GET /repos/{owner}/{repo}/pages', {
+  owner: 'ThiagoLira',
+  repo: 'CartasGPT',
+  headers: {
+    'X-GitHub-Api-Version': '2022-11-28'
+},
+});
+
+
 
 async function loadFiles(folder) {
-	const response = await fetch(`https://api.github.com/repos/ThiagoLira/ThiagoLira.github.io/CartasGPT/${folder}`,
-		{
-			headers: {
-				Authorization: `token ${accessToken}`,
-			},
-		}
+  try {
+    const response = await octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
+      owner: "OWNER",
+      repo: "REPO",
+      path: folder,
+      headers: {
+        "X-GitHub-Api-Version": "2022-11-28",
+      },
+    });
+    const files = response.data;
 
-	);
-	const files = await response.json();
-
-	if (!Array.isArray(files)) {
-		console.error('Error fetching files:', files);
-		return;
-	}
-
-
-	let fileList = '<ul>';
-	for (const file of files) {
-		if (file.name.endsWith('.md')) {
-			fileList += `<li><a href="#" onclick="loadFile('${folder}/${file.name}')">${file.name}</a></li>`;
-		}
-	}
-	fileList += '</ul>';
-	document.getElementById('file-list').innerHTML = fileList;
+    let fileList = "<ul>";
+    for (const file of files) {
+      if (file.name.endsWith(".md")) {
+        fileList += `<li><a href="#" onclick="loadFile('${file.path}')">${file.name}</a></li>`;
+      }
+    }
+    fileList += "</ul>";
+    document.getElementById("file-list").innerHTML = fileList;
+  } catch (error) {
+    console.error("Error fetching files:", error);
+  }
 }
 
 async function loadFile(filePath) {
-	const response = await fetch(filePath);
-	const fileContent = await response.text();
+  const response = await fetch(filePath);
+  const fileContent = await response.text();
 
-	const converter = new showdown.Converter();
-	const html = converter.makeHtml(fileContent);
-	document.getElementById('content').innerHTML = html;
+  const converter = new showdown.Converter();
+  const html = converter.makeHtml(fileContent);
+  document.getElementById("content").innerHTML = html;
 }
