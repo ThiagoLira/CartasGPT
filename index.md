@@ -2,7 +2,9 @@
 layout: default
 title: Home
 ---
-<script type="module" src="https://cdn.skypack.dev/@octokit/core"></script>
+<script type="module">
+  import { Octokit } from "https://cdn.skypack.dev/@octokit/rest";
+</script>
 <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 <div id="menu">
   <ul>
