@@ -1,5 +1,5 @@
 const octokit = new Octokit({
-  auth: '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'
+  auth: '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'
 })
 
 
