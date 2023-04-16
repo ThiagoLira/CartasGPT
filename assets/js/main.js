@@ -5,7 +5,7 @@ const octokit = new Octokit({
 })
 
 
-async function loadFiles(folder) {
+window.loadFiles = async function (folder) {
   try {
     const response = await octokit.request("GET /repos/{owner}/{repo}/contents/{path}", {
       owner: "ThiagoLira",
