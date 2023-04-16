@@ -7,7 +7,7 @@ title: Home
   window.Octokit = ImportedOctokit;
 </script>
 
-<script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+<script type="module" src="{{ "/assets/js/main.js" | relative_url }}"></script>
 <div id="menu">
   <ul>
     <li><a href="#" onclick="loadFiles('Verde')">Option 1</a></li>
