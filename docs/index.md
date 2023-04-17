@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Cartas GPT 
 ---
 
-{{ site.categories | inspect }}
-{{ site.categories  }}
+<h1>Lista de Gestoras</h1>
 <ul>
-{% for category in site.categories %}
-    <li><a href="/{{ category[0] }}">{{ category[0] }}</a></li>
+{% for collection in site.collections %}
+  <li>
+    <a href="{{ site.baseurl }}/{{ collection.label }}/">{{ collection.label }}</a>
+  </li>
 {% endfor %}
 </ul>

@@ -24,4 +24,16 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+header_pages:
+  - about.md
+  - /indexes/Verde_index.md
+  - /indexes/Veritas_index.md
+collections:
+  Verde:
+    permalink: /:collection/:path.html
+    index_permalink: /Verde/
+    output: true
+  Veritas:
+    permalink: /:collection/:path.html
+    index_permalink: /Veritas/
+    output: true
