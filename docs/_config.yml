@@ -28,10 +28,15 @@ header_pages:
   - about.md
   - /indexes/Verde_index.md
   - /indexes/Veritas_index.md
+  - /indexes/Vinci_index.md
 collections:
   Verde:
     permalink: /:collection/:path.html
     index_permalink: /Verde/
+    output: true
+  Vinci:
+    permalink: /:collection/:path.html
+    index_permalink: /Vinci/
     output: true
   Veritas:
     permalink: /:collection/:path.html
