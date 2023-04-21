@@ -27,7 +27,6 @@ plugins:
 header_pages:
   - about.md
   - /indexes/Verde_index.md
-  - /indexes/Veritas_index.md
   - /indexes/Vinci_index.md
 collections:
   Verde:
@@ -38,7 +37,19 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Vinci/
     output: true
-  Veritas:
+  Itau:
     permalink: /:collection/:path.html
-    index_permalink: /Veritas/
+    index_permalink: /Itau/
+    output: true
+  Hashdex:
+    permalink: /:collection/:path.html
+    index_permalink: /Hashdex/
+    output: true
+  JGP:
+    permalink: /:collection/:path.html
+    index_permalink: /JGP/
+    output: true
+  Kinea:
+    permalink: /:collection/:path.html
+    index_permalink: /Kinea/
     output: true
