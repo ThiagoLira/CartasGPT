@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<script src="{{ site.baseurl }}{% link assets/js/pdfjs-dist/build/pdf.js %}"></script>
+<script src="{{ site.baseurl }}{% link assets/js/pdfjs-dist/web/viewer.js %}"></script>
+
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+
+{{content}}
+<script>
+	window.pdf_path = "{{site.baseurl}}/{{page.category}}/{{page.category}} - Carta - {{ page.date | date: "%Y-%m-%d" }}.pdf";
+</script>
+
+
+<div>
+    <iframe id="pdf-js-viewer" src="{{ site.baseurl }}{% link assets/js/pdfjs-dist/web/viewer.html %}?file={{site.baseurl}}/{{page.category}}/{{page.category}} - Carta - {{ page.date | date: "%Y-%m-%d" }}.pdf" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
+
+<script defer> 
+const iframeDocument = document.getElementById('pdf-js-viewer').contentWindow;
+let searchText = "Comentario";
+iframeDocument.PDFViewerApplication.eventBus.dispatch('find', {
+    caseSensitive: false,
+    findPrevious: undefined,
+    highlightAll: true,
+    phraseSearch: true,
+    query: searchText
+});
+</script>
