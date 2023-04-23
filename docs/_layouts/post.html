@@ -17,13 +17,15 @@ layout: default
 </div>
 
 <script defer> 
-const iframeDocument = document.getElementById('pdf-js-viewer').contentWindow;
-let searchText = "Comentario";
-iframeDocument.PDFViewerApplication.eventBus.dispatch('find', {
-    caseSensitive: false,
-    findPrevious: undefined,
-    highlightAll: true,
-    phraseSearch: true,
-    query: searchText
-});
+	function search_on_pdf(query){
+		const iframeDocument = document.getElementById('pdf-js-viewer').contentWindow;
+		let searchText = query; 
+		iframeDocument.PDFViewerApplication.eventBus.dispatch('find', {
+		    caseSensitive: false,
+		    findPrevious: undefined,
+		    highlightAll: true,
+		    phraseSearch: true,
+		    query: searchText
+		});
+}
 </script>
