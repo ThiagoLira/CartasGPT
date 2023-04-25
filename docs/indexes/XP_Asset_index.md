@@ -8,7 +8,7 @@ permalink: /XP_Asset/
 {%for item in site.XP_Asset%}
   <li>
     <a href="{ site.baseurl }{ item.url }">{ item.title }</a>
-    <span>{ item.date | date: "%B %-d, %Y" }</span>
+<span>{{ item.date | date: "%B %-d, %Y" }}</span>
   </li>
     {% endfor %}
 </ul>

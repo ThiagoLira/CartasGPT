@@ -8,7 +8,7 @@ permalink: /Genoa_Capital/
 {%for item in site.Genoa_Capital%}
   <li>
     <a href="{ site.baseurl }{ item.url }">{ item.title }</a>
-    <span>{ item.date | date: "%B %-d, %Y" }</span>
+<span>{{ item.date | date: "%B %-d, %Y" }}</span>
   </li>
     {% endfor %}
 </ul>
