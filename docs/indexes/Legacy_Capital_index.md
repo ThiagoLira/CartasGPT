@@ -1,11 +1,11 @@
 ---
 layout: default
-permalink: /Hashdex/
+permalink: /Legacy_Capital/
 ---
 
-<h1>Cartas da Gestora Hashdex</h1>
+<h1>Cartas da Gestora Legacy_Capital</h1>
 <ul>
-{%for item in site.Hashdex%}
+{%for item in site.Legacy_Capital%}
   <li>
     <a href="{ site.baseurl }{ item.url }">{ item.title }</a>
     <span>{ item.date | date: "%B %-d, %Y" }</span>

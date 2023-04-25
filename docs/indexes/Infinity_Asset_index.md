@@ -1,11 +1,11 @@
 ---
 layout: default
-permalink: /Hashdex/
+permalink: /Infinity_Asset/
 ---
 
-<h1>Cartas da Gestora Hashdex</h1>
+<h1>Cartas da Gestora Infinity_Asset</h1>
 <ul>
-{%for item in site.Hashdex%}
+{%for item in site.Infinity_Asset%}
   <li>
     <a href="{ site.baseurl }{ item.url }">{ item.title }</a>
     <span>{ item.date | date: "%B %-d, %Y" }</span>

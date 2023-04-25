@@ -52,4 +52,151 @@ collections:
   Kinea:
     permalink: /:collection/:path.html
     index_permalink: /Kinea/
-    output: true
+  Alaska_Asset:
+          permalink: /:collection/:path.html
+          index_permalink: /Alaska_Asset/
+          output: true
+  Apex_Capital:
+          permalink: /:collection/:path.html
+          index_permalink: /Apex_Capital/
+          output: true
+  Armor_Capital:
+          permalink: /:collection/:path.html
+          index_permalink: /Armor_Capital/
+          output: true
+  ASA_Hedge:
+          permalink: /:collection/:path.html
+          index_permalink: /ASA_Hedge/
+          output: true
+  Atmosphere_Capital:
+          permalink: /:collection/:path.html
+          index_permalink: /Atmosphere_Capital/
+          output: true
+  AZ_Quest:
+          permalink: /:collection/:path.html
+          index_permalink: /AZ_Quest/
+          output: true
+  BNP_Asset_Management:
+          permalink: /:collection/:path.html
+          index_permalink: /BNP_Asset_Management/
+          output: true
+  Canvas_Vector:
+          permalink: /:collection/:path.html
+          index_permalink: /Canvas_Vector/
+          output: true
+  Clave_Capital:
+          permalink: /:collection/:path.html
+          index_permalink: /Clave_Capital/
+          output: true
+  Dahlia_Capital:
+          permalink: /:collection/:path.html
+          index_permalink: /Dahlia_Capital/
+          output: true
+  Gap_Asset:
+          permalink: /:collection/:path.html
+          index_permalink: /Gap_Asset/
+          output: true
+  Garde:
+          permalink: /:collection/:path.html
+          index_permalink: /Garde/
+          output: true
+  Genoa_Capital:
+          permalink: /:collection/:path.html
+          index_permalink: /Genoa_Capital/
+          output: true
+  Ibiuna_Crédito:
+          permalink: /:collection/:path.html
+          index_permalink: /Ibiuna_Crédito/
+          output: true
+  Ibiuna_Hedge_STH:
+          permalink: /:collection/:path.html
+          index_permalink: /Ibiuna_Hedge_STH/
+          output: true
+  Ibiuna_Long_Short:
+          permalink: /:collection/:path.html
+          index_permalink: /Ibiuna_Long_Short/
+          output: true
+  Indie_Capital:
+          permalink: /:collection/:path.html
+          index_permalink: /Indie_Capital/
+          output: true
+  Infinity_Asset:
+          permalink: /:collection/:path.html
+          index_permalink: /Infinity_Asset/
+          output: true
+  Itaú_BBA:
+          permalink: /:collection/:path.html
+          index_permalink: /Itaú_BBA/
+          output: true
+  JGP_Idex-CDI:
+          permalink: /:collection/:path.html
+          index_permalink: /JGP_Idex-CDI/
+          output: true
+  Kapitalo_K10:
+          permalink: /:collection/:path.html
+          index_permalink: /Kapitalo_K10/
+          output: true
+  Kapitalo_Kappa:
+          permalink: /:collection/:path.html
+          index_permalink: /Kapitalo_Kappa/
+          output: true
+  Kapitalo_Zeta:
+          permalink: /:collection/:path.html
+          index_permalink: /Kapitalo_Zeta/
+          output: true
+  Legacy_Capital:
+          permalink: /:collection/:path.html
+          index_permalink: /Legacy_Capital/
+          output: true
+  Mar_Asset:
+          permalink: /:collection/:path.html
+          index_permalink: /Mar_Asset/
+          output: true
+  Meta_Asset_Management:
+          permalink: /:collection/:path.html
+          index_permalink: /Meta_Asset_Management/
+          output: true
+  Occam_Investimentos:
+          permalink: /:collection/:path.html
+          index_permalink: /Occam_Investimentos/
+          output: true
+  parse.py:
+          permalink: /:collection/:path.html
+          index_permalink: /parse.py/
+          output: true
+  RPS_Capital:
+          permalink: /:collection/:path.html
+          index_permalink: /RPS_Capital/
+          output: true
+  Somma_Investimentos:
+          permalink: /:collection/:path.html
+          index_permalink: /Somma_Investimentos/
+          output: true
+  Sparta:
+          permalink: /:collection/:path.html
+          index_permalink: /Sparta/
+          output: true
+  SPX:
+          permalink: /:collection/:path.html
+          index_permalink: /SPX/
+          output: true
+  Tenax_Capital:
+          permalink: /:collection/:path.html
+          index_permalink: /Tenax_Capital/
+          output: true
+  Titanium_Asset:
+          permalink: /:collection/:path.html
+          index_permalink: /Titanium_Asset/
+          output: true
+  Trafalgar_Investimentos:
+          permalink: /:collection/:path.html
+          index_permalink: /Trafalgar_Investimentos/
+          output: true
+  Verde_Asset_Management:
+          permalink: /:collection/:path.html
+          index_permalink: /Verde_Asset_Management/
+          output: true
+  XP_Asset:
+          permalink: /:collection/:path.html
+          index_permalink: /XP_Asset/
+          output: true   
