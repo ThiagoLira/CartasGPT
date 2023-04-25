@@ -7,7 +7,7 @@ permalink: /Itaú_BBA/
 <ul>
 {%for item in site.Itaú_BBA%}
   <li>
-    <a href="{ site.baseurl }{ item.url }">{ item.title }</a>
+<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
 <span>{{ item.date | date: "%B %-d, %Y" }}</span>
   </li>
     {% endfor %}
