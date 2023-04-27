@@ -1,0 +1,22 @@
+---
+layout: post
+title: Carta Mensal
+category: BNP_Asset_Management
+tags: Carta_Mensal
+date: 2023-03-01
+---
+
+- A carta fala sobre a estratégia do fundo em relação aos bancos centrais Fed e ECB.
+<a href="#" onclick="search_on_pdf('FedECB      Sem aumento de cargaMetas Primario100 bi temporario100 bi permamentePIB Potencia')">Ref</a>
+- Não há previsão de aumento da carga tributária e há metas primárias estabelecidas.
+<a href="#" onclick="search_on_pdf('FedECB      Sem aumento de cargaMetas Primario100 bi temporario100 bi permamentePIB Potencia')">Ref</a>
+- Haverá um aporte temporário de 100 bilhões e outro permanente.
+<a href="#" onclick="search_on_pdf('FedECB      Sem aumento de cargaMetas Primario100 bi temporario100 bi permamentePIB Potencia')">Ref</a>
+- O PIB potencial está em 2,5%.
+<a href="#" onclick="search_on_pdf('FedECB      Sem aumento de cargaMetas Primario100 bi temporario100 bi permamentePIB Potencia')">Ref</a>
+- Há expectativa de reacomodação e aceleração da inflação.
+<a href="#" onclick="search_on_pdf('FedECB      Sem aumento de cargaMetas Primario100 bi temporario100 bi permamentePIB Potencia')">Ref</a>
+- São mencionados alguns indicadores financeiros como CDI, IRF-M, IMA Geral, IMA-B, Dólar, Ibovespa, IBX e SMLL.
+<a href="#" onclick="search_on_pdf('CDI IRF-M IMA Geral IMA-B Dólar Ibovespa IBX SMLL Março')">Ref</a>
+- O período mencionado é março.
+<a href="#" onclick="search_on_pdf('CDI IRF-M IMA Geral IMA-B Dólar Ibovespa IBX SMLL Março')">Ref</a>

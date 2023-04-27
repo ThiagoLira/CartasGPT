@@ -1,0 +1,24 @@
+---
+layout: post
+title: Comentário Mensal
+category: Indie_Capital
+tags: Comentário_Mensal
+date: 2023-03-01
+---
+
+- Março foi um mês de alta volatilidade nos principais mercados, com incertezas nos setores bancários americano e europeu
+<a href="#" onclick="search_on_pdf('COMENTÁRIO MENSALCOMENTÁRIO MENSALCOMENTÁRIO MENSALO mês de março foi mais um mês dealtavolatil')">Ref</a>
+- A bolsa brasileira teve desempenho negativo, mas está descontada em comparação a múltiplos históricos de preço sobre lucro esperado para os próximos 12 meses (8,6x)
+<a href="#" onclick="search_on_pdf('refletiuemjuroslongos mais moderados.O efeito desse movimento nas bolsasemergentesfoipositivo')">Ref</a>
+- A decisão do Copom de manter a SELIC inalterada teve um discurso hawkish diante da pouca visibilidade fiscal, apesar da apresentação do primeiro esboço do arcabouço fiscal
+<a href="#" onclick="search_on_pdf('comparação a múltiplos históricos depreço sobre lucro esperado para ospróximos 12 meses (8,6x).No')">Ref</a>
+- O Indie FIC FIA teve rentabilidade de -4,01% e os maiores contribuidores de performance foram as posições em Eletromidia (ELMD3) e Rumo Logística (RAIL3), enquanto os principais detratores foram Hapvida (HAPV3) e Eneva (ENEV3)
+<a href="#" onclick="search_on_pdf('setoreseempresaspoderão ser impactados.O Indie FIC FIA encerrou o mês comrentabilidade de -4,01')">Ref</a>
+- Investimentos foram feitos em Equatorial Energia (EQTL3) e Grupo Mateus (GMAT3)
+<a href="#" onclick="search_on_pdf('Rumo Logística (RAIL3), enquanto osprincipais detratores foram Hapvida(HAPV3) e Eneva (ENEV3).Ao ')">Ref</a>
+- O objetivo do fundo é obter retornos reais acima do custo de oportunidade dos investidores através de investimentos no mercado de renda variável
+<a href="#" onclick="search_on_pdf('Exposição líquida por setor (média-mês)Objetivo do fundo: Obter retornos reais acima do custo de o')">Ref</a>
+- A aplicação mínima inicial é de R$ 5.000,00 e a taxa de adm máxima é de 2.0%
+<a href="#" onclick="search_on_pdf('Aplicação mínima inicial: R$ 5.000,00Cota de aplicação: D+1du (fechamento)Cota de resgate: D+30dc ')">Ref</a>
+- A exposição líquida por setor inclui utilidades públicas, serviços financeiros, logística, consumo, imobiliário e shopping, energia, TI/Telecom, serviços, saúde, educação e materiais. A concentração é em small, mid e large cap e a liquidez é de dias.
+<a href="#" onclick="search_on_pdf('Exposição líquida por setor (média-mês)Objetivo do fundo: Obter retornos reais acima do custo de o')">Ref</a>

@@ -19,9 +19,7 @@ Indie Capital
 Infinity Asset
 Itau BBA
 JGP Idex-CDI
-Kapitalo K10
-Kapitalo Kappa
-Kapitalo Zeta
+Kapitalo
 Kinea
 Legacy Capital
 Mar Asset

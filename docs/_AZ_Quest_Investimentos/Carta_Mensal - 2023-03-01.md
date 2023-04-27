@@ -1,0 +1,24 @@
+---
+layout: post
+title: Carta Mensal
+category: AZ_Quest_Investimentos
+tags: Carta_Mensal
+date: 2022-03-01
+---
+
+- O governo apresentou novo arcabouço fiscal desafiador em termos de controle de despesas, porém crível e com sinalização de superávit primário sustentável;
+<a href="#" onclick="search_on_pdf('O governo apresentou o arcabouço fiscal para substituir o teto de gastos, caracterizado por impor l')">Ref</a>
+- Economia global apresenta perspectivas melhores de crescimento, porém há incertezas em relação à persistência da inflação;
+<a href="#" onclick="search_on_pdf('ESTRATÉGIA MACRO A economia global tem apresentado perspectivas melhores em termos de crescimento ')">Ref</a>
+- Fundo da Az Quest apresentou retorno positivo com estratégia de gestão e gerenciamento de riscos;
+<a href="#" onclick="search_on_pdf('resultado de 2,66% e o fundo AZ Quest Multi PWR, versão arrojada da estratégia Macro e que busca um')">Ref</a>
+- Mercado enfrentou desafios com incertezas econômicas e políticas;
+<a href="#" onclick="search_on_pdf('estrutura de gerenciamento de risco, que nos ajudou a navegar pela volatilidade do mercado. Ao lon')">Ref</a>
+- Posições em empresas de saúde e e-commerce contribuíram positivamente, enquanto empresas do setor de Petróleo & Petroquímica e Varejo foram detratores de performance;
+<a href="#" onclick="search_on_pdf('empresas dos setores de Petróleo & Petroquímica e Varejo foram os maiores detratores de performance')">Ref</a>
+- Estratégia de crédito teve rendimento positivo, mas com abertura dos spreads de crédito nos ativos em geral;
+<a href="#" onclick="search_on_pdf('Na estratégia de debêntures em CDI tivemos mais um mês de abertura dos spreads de crédito nos ativo')">Ref</a>
+- Gestora de fundos Az Quest oferece diversas opções de investimentos com diferentes características e público-alvo, incluindo prazos de cotização e tributação variáveis;
+<a href="#" onclick="search_on_pdf('para seus cotistas. AZ QUEST AÇÕES FIC FIA (07.279.657/0001-89): ações livre, tributação renda vari')">Ref</a>
+- Investimento em fundos não é garantido pelo Fundo Garantidor de Crédito.
+<a href="#" onclick="search_on_pdf('como parte integrante de suas políticas de investimento. Tais estratégias, da forma como são adotada')">Ref</a>
