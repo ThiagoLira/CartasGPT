@@ -1,14 +1,14 @@
 ---
 layout: default
-permalink: /Kapitalo_Kappa/
+permalink: /Kapitalo/
 ---
 
-{% assign category_name = "Kapitalo_Kappa" %}
+{% assign category_name = "Kapitalo" %}
 {% assign modified_string = category_name| replace: "_", " " %}
 {{ modified_string }}
 <h1>Cartas da Gestora {{modified_string}}</h1>
-{% if site.Kapitalo_Kappa %}
-{% assign sorted_posts = site.Kapitalo_Kappa | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
+{% if site.Kapitalo %}
+{% assign sorted_posts = site.Kapitalo | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
 {% for tag in sorted_posts %}
 <h2>{{ tag.name }}</h2>
 {% assign posts_by_date = tag.items | sort: "date" %}
