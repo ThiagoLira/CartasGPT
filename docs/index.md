@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Lista de Gestoras</h1>
+<h1>Gestoras</h1>
 <ul>
 {% for collection in site.collections %}
   <li>
