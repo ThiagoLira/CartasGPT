@@ -132,17 +132,9 @@ collections:
           permalink: /:collection/:path.html
           index_permalink: /JGP_Idex-CDI/
           output: true
-  Kapitalo_K10:
+  Kapitalo:
           permalink: /:collection/:path.html
-          index_permalink: /Kapitalo_K10/
-          output: true
-  Kapitalo_Kappa:
-          permalink: /:collection/:path.html
-          index_permalink: /Kapitalo_Kappa/
-          output: true
-  Kapitalo_Zeta:
-          permalink: /:collection/:path.html
-          index_permalink: /Kapitalo_Zeta/
+          index_permalink: /Kapitalo/
           output: true
   Legacy_Capital:
           permalink: /:collection/:path.html
