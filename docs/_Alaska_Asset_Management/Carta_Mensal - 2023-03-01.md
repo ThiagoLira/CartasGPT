@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carta Mensal
-category: Alaska_Asset
+category: Alaska_Asset_Management
 tags: Carta_Mensal
 date: 2023-03-01
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Carta
-category: Canvas_Vector
-tags: Carta
+title: Carta Mensal
+category: Canvas_Capital
+tags: Canvas_Vector_FIC_FIM
 date: 2023-03-01
 ---
 

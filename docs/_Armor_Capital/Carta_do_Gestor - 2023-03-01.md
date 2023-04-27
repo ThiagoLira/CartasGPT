@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Carta
+title: Carta do Gestor
 category: Armor_Capital
-tags: Carta do Gestor
+tags: Carta_do_Gestor
 date: 2023-03-01
 ---
 

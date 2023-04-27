@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Carta
-category: AZ_Quest
-tags: Carta
+title: Carta Mensal
+category: AZ_Quest_Investimentos
+tags: Carta_Mensal
 date: 2022-03-01
 ---
 
