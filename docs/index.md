@@ -6,7 +6,8 @@ layout: default
 <ul>
 {% for collection in site.collections %}
   <li>
-    <a href="{{ site.baseurl }}/{{ collection.label }}/">{{ collection.label }}</a>
+    {% assign modified_string = collection.label | replace: "_", " " %}
+    <a href="{{ site.baseurl }}/{{ collection.label }}/">{{ modified_string }}</a>
   </li>
 {% endfor %}
 </ul>
