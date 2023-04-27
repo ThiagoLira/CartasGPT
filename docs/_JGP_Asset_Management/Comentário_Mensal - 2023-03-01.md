@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Relatorio
-category: JGP_Idex-CDI
-tags: Relatorio
-date: 2022-03-01
+title: Comentário Mensal
+category: _JGP_Asset_Management
+tags: Idex-CDI_JGP
+date: 2023-03-01
 ---
 
 - A carta da gestora de fundo apresenta informações sobre a evolução do spread diário do Idex-CDI (ex-Lame e Light), a rentabilidade do Idex-CDI Geral nos últimos 12 meses e os destaques de performance com maiores aberturas e fechamentos de spread.

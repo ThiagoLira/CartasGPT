@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Carta
+title: Comentário Mensal
 category: Indie_Capital
-tags: Carta
+tags: Comentário_Mensal
 date: 2023-03-01
 ---
 

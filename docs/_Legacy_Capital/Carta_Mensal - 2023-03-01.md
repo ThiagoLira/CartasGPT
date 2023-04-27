@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Carta
+title: Carta Mensal
 category: Legacy_Capital
-tags: Carta
+tags: Carta_Mensal
 date: 2023-03-01
 ---
 

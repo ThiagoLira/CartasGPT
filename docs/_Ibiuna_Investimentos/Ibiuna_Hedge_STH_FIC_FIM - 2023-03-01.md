@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Carta
-category: Ibiuna_Hedge_STH
-tags: Carta
+title: Comentário Mensal
+category: _Ibiuna_Investimentos
+tags: Ibiuna_Hedge_STH_FIC_FIM
 date: 2023-03-01
 ---
 

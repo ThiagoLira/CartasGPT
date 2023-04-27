@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Carta
-category: Ibiuna_Crédito
-tags: Carta
+title: Comentário Mensal
+category: _Ibiuna_Investimentos
+tags: Ibiuna_Credit_FIC_FIM_Cred_Priv
 date: 2023-03-01
 ---
 

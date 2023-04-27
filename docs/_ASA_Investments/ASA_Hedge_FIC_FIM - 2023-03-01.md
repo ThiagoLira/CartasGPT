@@ -3,7 +3,6 @@ layout: post
 title: Carta de Gestão
 category: ASA_Investments
 tags: ASA_Hedge_FIC_FIM
-tag: Comunicado
 date: 2023-03-01
 ---
 

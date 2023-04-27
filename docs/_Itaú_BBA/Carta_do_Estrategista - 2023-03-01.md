@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Carta
+title: Carta do Estrategista
 category: Itaú_BBA
-tags: Carta
+tags: Carta_do_Estrategista
 date: 2023-03-01
 ---
 

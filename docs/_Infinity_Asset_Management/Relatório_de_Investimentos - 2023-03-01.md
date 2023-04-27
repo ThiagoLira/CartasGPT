@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Carta
-category: Infinity_Asset
-tags: Carta
+title: Relatório de Investimentos
+category: _Infinity_Asset_Management
+tags: Relatório_de_Investimentos
 date: 2023-03-01
 ---
 
