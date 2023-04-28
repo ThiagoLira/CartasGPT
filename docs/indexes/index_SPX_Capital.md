@@ -14,7 +14,8 @@ permalink: /SPX_Capital/
 {% assign posts_by_date = tag.items | sort: "date" %}
 <ul>
 {% for post in posts_by_date %}
-<li><a href="{{ post.url | relative_url }}">{{ post.title }} </a><span>{{ post.date | date: "%B, %Y" }}</span></li>
+{% assign clean_title = post.title | replace: "_", " " %}
+<li><a href="{{ post.url | relative_url }}">{{ clean_title }} </a><span>{{ post.date | date: "%B, %Y" }}</span></li>
 {% endfor %}
 </ul>
 {% endfor %}
