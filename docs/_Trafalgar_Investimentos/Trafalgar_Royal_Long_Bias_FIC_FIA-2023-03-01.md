@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trafalgar_Royal_Long_Bias_FIC_FIA
+title: Trafalgar Royal Long Bias FIC FIA
 category: Trafalgar_Investimentos
 tag: Trafalgar_Royal_Long_Bias_FIC_FIA
 date: 2023-03-01
