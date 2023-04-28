@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Canvas Vector FIC FIM
+title: Canvas_Vector_FIC_FIM
 category: Canvas_Capital
 tag: Canvas_Vector_FIC_FIM
 date: 2023-03-01
