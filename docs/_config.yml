@@ -141,3 +141,7 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Verde_Asset_Management/
     output: true
+  XP_Asset_Manegement:
+    permalink: /:collection/:path.html
+    index_permalink: /XP_Asset_Manegement/
+    output: true
