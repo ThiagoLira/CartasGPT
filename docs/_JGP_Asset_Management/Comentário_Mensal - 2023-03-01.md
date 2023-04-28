@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comentário Mensal
-category: _JGP_Asset_Management
+category: JGP_Asset_Management
 tags: Idex-CDI_JGP
 date: 2023-03-01
 ---
