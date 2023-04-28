@@ -2,11 +2,7 @@
 layout: post
 title: Carta Mensal
 category: Meta_Asset_Management
-<<<<<<< HEAD
 tags: Carta_Mensal
-=======
-tags: Carta
->>>>>>> d3cb6ff81fbab1ee3483237515bbbb6b15640c50
 date: 2023-03-01
 ---
 

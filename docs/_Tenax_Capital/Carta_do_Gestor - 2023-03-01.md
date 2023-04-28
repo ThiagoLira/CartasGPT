@@ -2,11 +2,7 @@
 layout: post
 title: Carta do Gestor
 category: Tenax_Capital
-<<<<<<< HEAD
 tags: Carta_do_Gestor
-=======
-tags: Carta
->>>>>>> d3cb6ff81fbab1ee3483237515bbbb6b15640c50
 date: 2023-03-01
 ---
 

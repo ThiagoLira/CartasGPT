@@ -1,14 +1,8 @@
 ---
 layout: post
-<<<<<<< HEAD:docs/_Occam_Brasil/2023-03-01.md
 title: Carta Mensal
 category: Occam_Brasil
 tags: Carta_Mensal
-=======
-title: Carta
-category: Occam_Investimentos
-tags: Carta
->>>>>>> d3cb6ff81fbab1ee3483237515bbbb6b15640c50:docs/_Occam_Investimentos/2023-03-01.md
 date: 2023-03-01
 ---
 
