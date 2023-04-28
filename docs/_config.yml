@@ -137,3 +137,5 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /XP_Asset_Management/
     output: true
+
+
