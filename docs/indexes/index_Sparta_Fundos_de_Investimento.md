@@ -9,7 +9,8 @@ permalink: /Sparta_Fundos_de_Investimento/
 {% if site.Sparta_Fundos_de_Investimento %}
 {% assign sorted_posts = site.Sparta_Fundos_de_Investimento | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
 {% for tag in sorted_posts %}
-<h2>{{ tag.name }}</h2>
+{% assign cleaned_string = tag.name | remove: "[" | remove: "]" | remove: '"' | replace: "_", " " %}
+<h2>{{ cleaned_string }}</h2>
 {% assign posts_by_date = tag.items | sort: "date" %}
 <ul>
 {% for post in posts_by_date %}
