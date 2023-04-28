@@ -3,7 +3,7 @@ layout: post
 title: Carta Mensal
 category: AZ_Quest_Investimentos
 tags: Carta_Mensal
-date: 2022-03-01
+date: 2023-03-01
 ---
 
 - O governo apresentou novo arcabouço fiscal desafiador em termos de controle de despesas, porém crível e com sinalização de superávit primário sustentável;
