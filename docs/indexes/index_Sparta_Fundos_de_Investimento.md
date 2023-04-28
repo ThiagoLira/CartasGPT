@@ -5,8 +5,7 @@ permalink: /Sparta_Fundos_de_Investimento/
 
 {% assign category_name = "Sparta_Fundos_de_Investimento" %}
 {% assign modified_string = category_name| replace: "_", " " %}
-{{ modified_string }}
-<h1>Gestora {{modified_string}}</h1>
+<h1>{{modified_string}}</h1>
 {% if site.Sparta_Fundos_de_Investimento %}
 {% assign sorted_posts = site.Sparta_Fundos_de_Investimento | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
 {% for tag in sorted_posts %}

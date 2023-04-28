@@ -5,8 +5,7 @@ permalink: /Somma_Investimentos/
 
 {% assign category_name = "Somma_Investimentos" %}
 {% assign modified_string = category_name| replace: "_", " " %}
-{{ modified_string }}
-<h1>Gestora {{modified_string}}</h1>
+<h1>{{modified_string}}</h1>
 {% if site.Somma_Investimentos %}
 {% assign sorted_posts = site.Somma_Investimentos | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
 {% for tag in sorted_posts %}

@@ -5,8 +5,7 @@ permalink: /Ibiuna_Investimentos/
 
 {% assign category_name = "Ibiuna_Investimentos" %}
 {% assign modified_string = category_name| replace: "_", " " %}
-{{ modified_string }}
-<h1>Gestora {{modified_string}}</h1>
+<h1>{{modified_string}}</h1>
 {% if site.Ibiuna_Investimentos %}
 {% assign sorted_posts = site.Ibiuna_Investimentos | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
 {% for tag in sorted_posts %}
