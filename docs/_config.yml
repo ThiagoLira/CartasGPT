@@ -81,7 +81,7 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Infinity_Asset_Management/
     output: true
-  Itaú_BBA:
+  Itau_BBA:
     permalink: /:collection/:path.html
     index_permalink: /Itaú_BBA/
     output: true
