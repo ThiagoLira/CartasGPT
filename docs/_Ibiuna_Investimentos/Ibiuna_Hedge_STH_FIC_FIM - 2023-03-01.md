@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comentário Mensal
-category: _Ibiuna_Investimentos
+category: Ibiuna_Investimentos
 tags: Ibiuna_Hedge_STH_FIC_FIM
 date: 2023-03-01
 ---
