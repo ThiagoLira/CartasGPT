@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: CartasGPT
 email: thlira15@gmail.com
-baseurl: "/CartasGPT/" 
-url: "https://cartasgpt.com.br/" 
+baseurl: "/CartasGPT" 
+url: "https://cartasgpt.com.br" 
 github_username:  ThiagoLira
 
 # Build settings
