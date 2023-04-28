@@ -1,14 +1,8 @@
 ---
 layout: post
-<<<<<<< HEAD:docs/_SPX_Capital/2023-03-01.md
 title: Carta do Gestor
 category: SPX_Capital
 tags: SPX_Nimitz
-=======
-title: Carta
-category: SPX
-tags: Carta
->>>>>>> d3cb6ff81fbab1ee3483237515bbbb6b15640c50:docs/_SPX/2023-03-01.md
 date: 2023-03-01
 ---
 
