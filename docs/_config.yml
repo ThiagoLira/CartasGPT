@@ -53,10 +53,6 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /AZ_Quest_Investimentos/
     output: true
-  BNP_Asset_Management:
-    permalink: /:collection/:path.html
-    index_permalink: /BNP_Asset_Management/
-    output: true
   Canvas_Capital:
     permalink: /:collection/:path.html
     index_permalink: /Canvas_Capital/
@@ -84,10 +80,6 @@ collections:
   Itau_BBA:
     permalink: /:collection/:path.html
     index_permalink: /Itaú_BBA/
-    output: true
-  JGP_Asset_Management:
-    permalink: /:collection/:path.html
-    index_permalink: /JGP_Asset_Management/
     output: true
   Kapitalo:
     permalink: /:collection/:path.html
