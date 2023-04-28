@@ -5,8 +5,7 @@ permalink: /Legacy_Capital/
 
 {% assign category_name = "Legacy_Capital" %}
 {% assign modified_string = category_name| replace: "_", " " %}
-{{ modified_string }}
-<h1>Gestora {{modified_string}}</h1>
+<h1>{{modified_string}}</h1>
 {% if site.Legacy_Capital %}
 {% assign sorted_posts = site.Legacy_Capital | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
 {% for tag in sorted_posts %}
