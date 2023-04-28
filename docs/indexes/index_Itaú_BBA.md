@@ -5,8 +5,7 @@ permalink: /Itaú_BBA/
 
 {% assign category_name = "Itaú_BBA" %}
 {% assign modified_string = category_name| replace: "_", " " %}
-{{ modified_string }}
-<h1>Gestora {{modified_string}}</h1>
+<h1>{{modified_string}}</h1>
 {% if site.Itaú_BBA %}
 {% assign sorted_posts = site.Itaú_BBA | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
 {% for tag in sorted_posts %}

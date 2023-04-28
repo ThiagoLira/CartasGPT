@@ -5,8 +5,7 @@ permalink: /ASA_Investments/
 
 {% assign category_name = "ASA_Investments" %}
 {% assign modified_string = category_name| replace: "_", " " %}
-{{ modified_string }}
-<h1>Gestora {{modified_string}}</h1>
+<h1>{{modified_string}}</h1>
 {% if site.ASA_Investments %}
 {% assign sorted_posts = site.ASA_Investments | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
 {% for tag in sorted_posts %}

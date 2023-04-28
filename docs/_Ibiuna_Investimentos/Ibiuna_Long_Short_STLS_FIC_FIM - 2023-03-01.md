@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Comentário Mensal
-category: _Ibiuna_Investimentos
-tags: Ibiuna_Credit_FIC_FIM_Cred_Priv
+category: Ibiuna_Investimentos
+tags: Ibiuna_Long_Short_STLS_FIC_FIM
 date: 2023-03-01
 ---
 
