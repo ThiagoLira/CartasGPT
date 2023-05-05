@@ -5,8 +5,8 @@ layout: default
 <style>
   .column {
     float: left;
-    width: 50%;
-    padding: 5px;
+    width: 40%;
+    padding: 29px;
   }
 
   .row::after {
