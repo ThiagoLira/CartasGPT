@@ -1,17 +1,9 @@
+BRASIL: Ceticismo em relação ao crescimento econômico, aumento da carga tributária, Selic estável, inflação preocupante, desempenho negativo em empresas varejistas. Novo arcabouço fiscal apresentado para melhora da situação fiscal do país.
 
+EUROPA: BCE eleva taxa de juros, previsão de novos ajustes. Fusão do Credit Suisse com o UBS para evitar colapso. Europa em posição favorável para lidar com choques financeiros.
 
-DÓLAR:
-- Fortalecimento do dólar em relação ao real devido ao cenário desafiador no Brasil e enfraquecimento do USD;
+ÁSIA: Retomada da atividade econômica na China, crescimento previsto em 6% para 2023, consumo interno em recuperação. 
 
-INFLAÇÃO:
-- Inflação preocupa tanto na Europa quanto no Brasil, com necessidade de combate persistente e possíveis impactos nas decisões dos Bancos Centrais;
+ESTADOS UNIDOS: Alta volatilidade devido a indicadores de atividade e inflação, possível última alta na taxa de juros, estresse bancário e possível recessão leve. 
 
-JUROS:
-- Bancos Centrais, como FED e ECB, aumentam taxas básicas em resposta às pressões inflacionárias;
-- Posicionamento divergente entre gestoras quanto à curva de juros no Brasil;
-
-BOLSA BRASILEIRA:
-- Ibovespa em queda, com destaque para setores de transporte, logística e utilities, e foco em ações resilientes;
-
-BOLSA AMERICANA:
-- S&P 500 apresenta retorno positivo impulsionado por empresas de tecnologia, com exposição externa focada em tecnologia e financeiro não-bancário.
+CRIPTO: Bitcoin tem alta de 72%, aumento do staking de ether pode atrair mais investidores, regulamentação intensificada nos Estados Unidos. Novidades como o serviço de custódia da Nasdaq e a atualização "Shapella" do Ethereum também são apontadas como destaques no setor.
