@@ -1,3 +1,5 @@
+
+
 DÓLAR:
 - Fortalecimento do dólar em relação ao real devido ao cenário desafiador no Brasil e enfraquecimento do USD;
 
