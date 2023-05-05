@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CartasGPT
+title: CartasGPT - BETA
 email: thlira15@gmail.com
 baseurl: "" 
 url: "https://www.cartasgpt.com.br" 
