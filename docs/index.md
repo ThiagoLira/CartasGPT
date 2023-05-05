@@ -16,18 +16,17 @@ layout: default
   }
 </style>
 
-<h1>Gestoras</h1>
 
 <div class="row">
   <div class="column">
-    <h2>Contents</h2>
+    <h2>Sentimentos Gerais das Gestoras</h2>
     {% capture contents %}
       {% include contents.md %}
     {% endcapture %}
     {{ contents | markdownify }}
   </div>
   <div class="column">
-    <h2>Collections</h2>
+    <h2>Lista de Gestoras</h2>
     <ul>
       {% for collection in site.collections %}
         <li>
