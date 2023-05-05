@@ -26,7 +26,6 @@ layout: default
     {% endcapture %}
     {{ contents | markdownify }}
   </div>
-</div>
   <div class="column">
     <h2>Collections</h2>
     <ul>
@@ -38,4 +37,5 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+</div>
 
