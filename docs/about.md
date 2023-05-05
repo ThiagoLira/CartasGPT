@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Cartas de Gestoras resumidas pelo ChatGPT, com referências ao texto original para validação feitas com a API de embeddings da OpenAI. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Embora nos esforcemos para fornecer informações precisas e atualizadas, não garantimos a exatidão, confiabilidade ou integridade das informações fornecidas.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+As informações contidas neste site são fornecidas apenas para fins informativos e educacionais. Elas não devem ser interpretadas como aconselhamento financeiro, legal ou de investimento. Não nos responsabilizamos por quaisquer decisões de negociação, investimento ou outras ações tomadas com base nas informações fornecidas neste site.

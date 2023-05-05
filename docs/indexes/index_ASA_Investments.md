@@ -1,13 +1,13 @@
 ---
 layout: default
-permalink: /Legacy_Capital/
+permalink: /ASA_Investments/
 ---
 
-{% assign category_name = "Legacy_Capital" %}
+{% assign category_name = "ASA_Investments" %}
 {% assign modified_string = category_name| replace: "_", " " %}
 <h1>{{modified_string}}</h1>
-{% if site.Legacy_Capital %}
-{% assign sorted_posts = site.Legacy_Capital | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
+{% if site.ASA_Investments %}
+{% assign sorted_posts = site.ASA_Investments | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
 {% for tag in sorted_posts %}
 {% assign cleaned_string = tag.name | remove: "[" | remove: "]" | remove: '"' | replace: "_", " " %}
 <h2>{{ cleaned_string }}</h2>
