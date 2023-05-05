@@ -19,7 +19,7 @@ layout: default
 
 <div class="row">
   <div class="column">
-    <h2>Resumo Geral - Março/23</h2>
+    <h2>Resumo - Mar/23</h2>
     {% capture contents %}
       {% include contents.md %}
     {% endcapture %}
