@@ -1,3 +1,4 @@
+
 BRASIL: Ceticismo em relação ao crescimento econômico, aumento da carga tributária, Selic estável, inflação preocupante, desempenho negativo em empresas varejistas. Novo arcabouço fiscal apresentado para melhora da situação fiscal do país.
 
 EUROPA: BCE eleva taxa de juros, previsão de novos ajustes. Fusão do Credit Suisse com o UBS para evitar colapso. Europa em posição favorável para lidar com choques financeiros.
