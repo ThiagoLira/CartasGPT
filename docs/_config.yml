@@ -26,9 +26,11 @@ plugins:
   - jekyll-feed
 header_pages:
   - about.md
-  - /indexes/Verde_index.md
-  - /indexes/Vinci_index.md
 collections:
+  Transcrições:
+    permalink: /:collection/:path.html
+    index_permalink: /Transcrições/
+    output: true
   Alaska_Asset_Management:
     permalink: /:collection/:path.html
     index_permalink: /Alaska_Asset_Management/
