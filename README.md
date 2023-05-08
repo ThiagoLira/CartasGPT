@@ -27,6 +27,16 @@ registrada no _config.yml.
 
 
 O layout *post.html* na pasta layouts irá usar esses metadados para buscar o pdf correspondente à um documento da seguinte forma.
-O pdf deve ser nomeado como {{page.tags}} - {{ page.date | date: "%Y-%m-%d" }}, por exemplo:
-![image](https://user-images.githubusercontent.com/11686042/236899481-11698df7-fd10-4217-9bea-69345aa7b0e9.png)
+O pdf deve ser nomeado como TAG - DATA.pdf, por exemplo, para o markdown com os seguintes metadados:
 
+```text
+---
+layout: post
+title: Carta do Gestor
+category: Armor_Capital
+tag: Carta_do_Gestor
+date: 2023-03-01
+---
+```
+O pdf deverá ser nomeado "Carta_do_Gestor - 2023-03-01.pdf"
+Note que o markdown por acaso tem o mesmo título e a mesma tag, o que não necessariamente precisa ser verdade. O que importa para o pdf são a tag e a data.
