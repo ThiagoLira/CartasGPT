@@ -12,6 +12,7 @@ As páginas de índice são geradas rodando o script:
 Documentos em cada gestora devem ser colocados na pasta de mesmo nome da collection registrada no _config.yml
 e devem necessariamente definir os seguintes metadados em seu header:
 
+```text
 ---
 layout: post
 title: Carta_do_Gestor
@@ -19,6 +20,7 @@ category: Tenax_Capital
 tag: Carta_do_Gestor
 date: 2023-03-01
 ---
+```
 
 A tag irá ser usada para separar conteúdos de cada gestora em seu índice, a categoria deve ser identica ao nome da collection da gestora 
 registrada no _config.yml. 
