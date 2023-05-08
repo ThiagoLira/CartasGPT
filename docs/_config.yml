@@ -27,9 +27,9 @@ plugins:
 header_pages:
   - about.md
 collections:
-  Transcrições:
+  Transcricoes:
     permalink: /:collection/:path.html
-    index_permalink: /Transcrições/
+    index_permalink: /Transcricoes/
     output: true
   Alaska_Asset_Management:
     permalink: /:collection/:path.html
