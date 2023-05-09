@@ -10,9 +10,11 @@ O CartasGPT tem como critério de seleção das cartas de gestoras, as 70 maiore
 
 
 
+
 Resumo Mensal
 
 Os resumos mensais das cartas de gestão de investimentos serão divulgados na segunda quinzena de cada mês, a fim de consolidar o maior número possível de gestoras dentro do resumo mensal.
+
 
 
 
