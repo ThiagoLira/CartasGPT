@@ -25,8 +25,8 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
-  - about.md
   - metodologia.md
+  - about.md
 collections:
   Transcricoes:
     permalink: /:collection/:path.html
