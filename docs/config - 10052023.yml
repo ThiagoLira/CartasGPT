@@ -27,6 +27,31 @@ plugins:
 header_pages:
   - metodologia.md
   - about.md
+collections:
+  Transcricoes:
+    permalink: /:collection/:path.html
+    index_permalink: /Transcricoes/
+    output: true
+  Alaska_Asset_Management:
+    permalink: /:collection/:path.html
+    index_permalink: /Alaska_Asset_Management/
+    output: true
+  Apex_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Apex_Capital/
+    output: true
+  Armor_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Armor_Capital/
+    output: true
+  ASA_Investments:
+    permalink: /:collection/:path.html
+    index_permalink: /ASA_Investments/
+    output: true
+  Atmosphere_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Atmosphere_Capital/
+    output: true
   AZ_Quest_Investimentos:
     permalink: /:collection/:path.html
     index_permalink: /AZ_Quest_Investimentos/
@@ -47,15 +72,59 @@ header_pages:
     permalink: /:collection/:path.html
     index_permalink: /Caixa_Asset/
     output: true
+  Canvas_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Canvas_Capital/
+    output: true
+  Dahlia_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Dahlia_Capital/
+    output: true
+  Garde_Asset_Management:
+    permalink: /:collection/:path.html
+    index_permalink: /Garde_Asset_Management/
+    output: true
   Genoa_Capital:
     permalink: /:collection/:path.html
     index_permalink: /Genoa_Capital/
+    output: true
+  Ibiuna_Investimentos:
+    permalink: /:collection/:path.html
+    index_permalink: /Ibiuna_Investimentos/
+    output: true
+  Indie_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Indie_Capital/
+    output: true
+  Infinity_Asset_Management:
+    permalink: /:collection/:path.html
+    index_permalink: /Infinity_Asset_Management/
+    output: true
+  Itau_BBA:
+    permalink: /:collection/:path.html
+    index_permalink: /Itau_BBA/
+    output: true
+  Kapitalo:
+    permalink: /:collection/:path.html
+    index_permalink: /Kapitalo/
     output: true
   Legacy_Capital:
     permalink: /:collection/:path.html
     index_permalink: /Legacy_Capital/
     output: true
-  Opportunity_Asset:
+  Mar_Asset_Management:
+    permalink: /:collection/:path.html
+    index_permalink: /Mar_Asset_Management/
+    output: true
+  Meta_Asset_Management:
+    permalink: /:collection/:path.html
+    index_permalink: /Meta_Asset_Management/
+    output: true
+  Occam_Brasil:
+    permalink: /:collection/:path.html
+    index_permalink: /Occam_Brasil/
+    output: true
+  Opportunity:
     permalink: /:collection/:path.html
     index_permalink: /Opportunity/
     output: true
@@ -63,9 +132,13 @@ header_pages:
     permalink: /:collection/:path.html
     index_permalink: /Porto_Asset_Management/
     output: true
-  Rio_Bravo_Investimentos:
+  Rio_Bravo:
     permalink: /:collection/:path.html
     index_permalink: /Rio_Bravo/
+    output: true
+  RPS_Capital_Investment_Management:
+    permalink: /:collection/:path.html
+    index_permalink: /RPS_Capital_Investment_Management/
     output: true
   Santander_Asset_Management:
     permalink: /:collection/:path.html
@@ -75,9 +148,29 @@ header_pages:
     permalink: /:collection/:path.html
     index_permalink: /Sicredi_Asset_Management/
     output: true
+  Somma_Investimentos:
+    permalink: /:collection/:path.html
+    index_permalink: /Somma_Investimentos/
+    output: true
+  Sparta_Fundos_de_Investimento:
+    permalink: /:collection/:path.html
+    index_permalink: /Sparta_Fundos_de_Investimento/
+    output: true
   SPX_Capital:
     permalink: /:collection/:path.html
     index_permalink: /SPX_Capital/
+    output: true
+  Tenax_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Tenax_Capital/
+    output: true
+  Titanium_Asset:
+    permalink: /:collection/:path.html
+    index_permalink: /Titanium_Asset/
+    output: true
+  Trafalgar_Investimentos:
+    permalink: /:collection/:path.html
+    index_permalink: /Trafalgar_Investimentos/
     output: true
   Verde_Asset_Management:
     permalink: /:collection/:path.html
