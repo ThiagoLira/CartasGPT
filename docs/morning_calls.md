@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Morning Calls
 permalink: /morning_calls/
 ---
 
