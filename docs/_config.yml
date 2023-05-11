@@ -25,6 +25,7 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
+  - morning_calls.md
   - metodologia.md
   - about.md
 collections:
