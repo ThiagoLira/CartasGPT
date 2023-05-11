@@ -27,6 +27,7 @@ plugins:
 header_pages:
   - metodologia.md
   - about.md
+collections:
   AZ_Quest_Investimentos:
     permalink: /:collection/:path.html
     index_permalink: /AZ_Quest_Investimentos/
