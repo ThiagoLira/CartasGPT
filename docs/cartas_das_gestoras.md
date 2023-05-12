@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cartas das Gestoras
-permalink: /morning_calls/
+permalink: /cartas/
 ---
 
 Cartas das Gestoras
