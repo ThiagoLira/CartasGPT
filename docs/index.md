@@ -19,19 +19,18 @@ layout: default
 
 <div class="row">
   <div class="column">
-    <h2>Resumo - Mar/23</h2>
-    {% capture contents %}
-      {% include contents.md %}
-    {% endcapture %}
-    {{ contents | markdownify }}
+    {% assign last_resumo = site.resumos | sort: "date" | last %}
+    <h2>{{last_resumo.title}}</h2>
+    {{last_resumo.content}}
+
   </div>
   <div class="column">
     <h2>Lista de Gestoras</h2>
     <ul>
-      {% for collection in site.collections %}
+      {% assign gestoras = site.gestoras | where: "show_in_gestoras_index", true | sort: "gestora_name" %}
+      {% for gestora in gestoras %}
         <li>
-          {% assign modified_string = collection.label | replace: "_", " " %}
-          <a href="{{ site.baseurl }}/{{ collection.label }}/">{{ modified_string }}</a>
+          <a href="{{ site.baseurl }}/{{ gestora.gestora_path }}/">{{ gestora.gestora_name }}</a>
         </li>
       {% endfor %}
     </ul>

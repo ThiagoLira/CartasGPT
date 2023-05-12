@@ -15,82 +15,22 @@
 # in the templates via {{ site.myvariable }}.
 title: CartasGPT - BETA
 email: thlira15@gmail.com
-baseurl: "" 
-url: "https://www.cartasgpt.com.br" 
+baseurl: ""
+url: "https://www.cartasgpt.com.br"
 github_username:  ThiagoLira
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+
 header_pages:
   - cartas_das_gestoras.md
   - morning_calls.md
   - metodologia.md
   - about.md
+
 collections:
-  AZ_Quest_Investimentos:
-    permalink: /:collection/:path.html
-    index_permalink: /AZ_Quest_Investimentos/
+  gestoras:
     output: true
-  BB_Asset_Management:
-    permalink: /:collection/:path.html
-    index_permalink: /BB_Asset_Management/
-    output: true
-  Bradesco_Asset_Management:
-    permalink: /:collection/:path.html
-    index_permalink: /Bradesco_Asset_Management/
-    output: true
-  BV_Asset:
-    permalink: /:collection/:path.html
-    index_permalink: /BV_Asset/
-    output: true
-  Caixa_Asset:
-    permalink: /:collection/:path.html
-    index_permalink: /Caixa_Asset/
-    output: true
-  Genoa_Capital:
-    permalink: /:collection/:path.html
-    index_permalink: /Genoa_Capital/
-    output: true
-  Legacy_Capital:
-    permalink: /:collection/:path.html
-    index_permalink: /Legacy_Capital/
-    output: true
-  Opportunity_Asset:
-    permalink: /:collection/:path.html
-    index_permalink: /Opportunity/
-    output: true
-  Porto_Asset_Management:
-    permalink: /:collection/:path.html
-    index_permalink: /Porto_Asset_Management/
-    output: true
-  Rio_Bravo_Investimentos:
-    permalink: /:collection/:path.html
-    index_permalink: /Rio_Bravo/
-    output: true
-  Santander_Asset_Management:
-    permalink: /:collection/:path.html
-    index_permalink: /Santander_Asset_Management/
-    output: true
-  Sicredi_Asset_Management:
-    permalink: /:collection/:path.html
-    index_permalink: /Sicredi_Asset_Management/
-    output: true
-  SPX_Capital:
-    permalink: /:collection/:path.html
-    index_permalink: /SPX_Capital/
-    output: true
-  Verde_Asset_Management:
-    permalink: /:collection/:path.html
-    index_permalink: /Verde_Asset_Management/
-    output: true
-  Western_Asset:
-    permalink: /:collection/:path.html
-    index_permalink: /Western_Asset/
-    output: true
-  XP_Asset_Management:
-    permalink: /:collection/:path.html
-    index_permalink: /XP_Asset_Management/
+
+  resumos:
     output: true
