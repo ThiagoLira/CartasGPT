@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carta_Mensal
-category: Suete_Capital
+category: Sueste_Capital
 tag: Carta_Mensal
 date: 2023-04-01
 ---

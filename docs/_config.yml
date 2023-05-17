@@ -30,6 +30,14 @@ header_pages:
   - metodologia.md
   - about.md
 collections:
+  ARX_Investimentos:
+    permalink: /:collection/:path.html
+    index_permalink: /ARX_Investimentos/
+    output: true
+  Atmos_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Atmos_Capital/
+    output: true
   AZ_Quest_Investimentos:
     permalink: /:collection/:path.html
     index_permalink: /AZ_Quest_Investimentos/
@@ -50,13 +58,25 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Caixa_Asset/
     output: true
+  Dynamo:
+    permalink: /:collection/:path.html
+    index_permalink: /Dynamo/
+    output: true
   Genoa_Capital:
     permalink: /:collection/:path.html
     index_permalink: /Genoa_Capital/
     output: true
+  JPG_Asset_Management:
+    permalink: /:collection/:path.html
+    index_permalink: /JPG_Asset_Management/
+    output: true
   Legacy_Capital:
     permalink: /:collection/:path.html
     index_permalink: /Legacy_Capital/
+    output: true
+  MAG_Investimentos:
+    permalink: /:collection/:path.html
+    index_permalink: /MAG_Investimentos/
     output: true
   Opportunity_Asset:
     permalink: /:collection/:path.html
@@ -78,9 +98,13 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Sicredi_Asset_Management/
     output: true
-  SPX_Capital:
+  Sueste_Capital:
     permalink: /:collection/:path.html
-    index_permalink: /SPX_Capital/
+    index_permalink: /Sueste_Capital/
+    output: true
+  SulAmerica_Investimentos:
+    permalink: /:collection/:path.html
+    index_permalink: /SulAmerica_Investimentos/
     output: true
   Verde_Asset_Management:
     permalink: /:collection/:path.html
