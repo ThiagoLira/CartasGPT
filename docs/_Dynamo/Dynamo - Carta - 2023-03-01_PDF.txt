@@ -1,0 +1,664 @@
+Carta
+Na Carta anterior, constatamos a dificuldade 
+que as companhias enfrentam diante do fenômeno 
+da complexidade.  
+Presas sob o paradigma mecânico-linear, as 
+iniciativas visando lidar com esta experiência no final 
+do dia acabam gerando ainda mais complexidade, o 
+que traz mais insegurança, que por sua vez se converte 
+em novas ações, que acabam produzindo maior com-
+plexidade, e assim o ciclo se autoalimenta.  A espiral 
+precisa ser interrompida. E tudo começa incorporando 
+um modelo mental diferente. Não mais linear, e sim, 
+digamos, “complexo”. Aqui a palavra complexidade 
+muda de estado. Saímos do substantivo, sinônimo de 
+confusão, complicação, para a ciência que trata de 
+fenômenos com grande número de agentes conecta-
+dos, interagindo frequentemente sem controle central, 
+resultando em comportamentos emergentes. Ou seja, 
+algo “diferente” aparece, que não podia ser previsto 
+pela análise fatiada das propriedades dos componentes 
+Quais são as propriedades deste modelo que aqui nos 
+interessam especificamente?
+Diversidade de Perspectivas – Diversidade diz res-
+peito à variedade de experiências, pensamentos 
+e repertórios cognitivos dos agentes ou membros 
+que interagem no sistema. Estamos falando em 
+nível dos componentes, e não da amplitude de 
+respostas programadas para lidar com o am-
+biente (Lei de Ashby). Em sistemas que operam 
+em rede, ou conectados como as companhias, a 
+importância da diversidade dos elementos advém 
+não apenas de assegurar um espectro mais amplo 
+de visões e perspectivas, mas também por geral-
+mente aportar mais robustez. Sistemas diversos 
+dificilmente colapsam por inteiro. 
+Autonomia – Compreende a capacidade de inicia-
+tiva própria e liberdade de decisão. Encontrar o 
+adequado equilíbrio entre autonomia x controle 
+tem sido um desafio permanente para as com-
+panhias.  A fim de lidar com o ambiente externo 
+cada vez mais instável, experiências têm mostra-
+do que os modelos mais descentralizados, com 
+times menores, promovem mais colaboração, 
+confiança mútua, responsabilidade, empode-
+ramento e apresentam respostas mais ágeis 
+e mais adaptadas. Companhias têm buscado 
+inovações nos desenhos organizacionais precisa-
+mente nesta direção, como é o caso dos squads. 
+São dispositivos que, quando usados de forma 
+correta e com a devida parcimônia, ensejam 
+agilidade e permitem que uma grande empresa 
+consiga operar com uma mentalidade de start 
+up, pois cada unidade se comporta como tal. Na 
+Spotify, empresa pioneira na implementação do 
+squad, cada célula “basicamente decide o que 
+construir, como construir e como trabalhar junto 
+enquanto se constrói” (Kniberg, 2014), tornando 
+a autonomia o principal elemento de motivação. 
+Naturalmente, a autonomia dos times se alinha 
+com as prioridades e estratégias corporativas. 
+Tal arranjo é tão próximo do modelo da ciência 
+da complexidade que a Spotify já foi classificada 
+como “organização emergente”1. 
+ 
+ 
+Outra companhia conhecida pelo modelo de 
+gestão descentralizado é a Constellation Software 
+Inc. (CSI), que desde 1995 vem construindo um 
+portfólio único com cerca de 500 empresas de 
+software. A Constellation transformou-se em uma 
+máquina bem-sucedida de aquisições e as cartas 
+anuais de seu discreto fundador, Mark Leonard, 
+Da mesma forma, as ferramentas de gestão também se renovaram 
+a partir do entendimento desta nova configuração de trabalho 
+mais colaborativo e colegiado, que empodera capacidade de 
+decisão nas pontas, como é o caso do scrum (metodologia de 
+gerenciamento de projetos) e dos próprios OKRs, sistema dinâmico 
+de metas e medições que incorpora inputs dos colaboradores, 
+trazendo mais comprometimento e engajamento ao processo.
+A Outra Complexidadepromover previsibilidade e as estruturas hierárqui-
+cas garantem a definição precisa da divisão de 
+tarefas a fim de assegurar baixos níveis de entropia 
+organizacional. Assim, o modelo de comando e 
+controle, onde as decisões são centralizadas no 
+top-management, costuma gerar mais coerência 
+e estabilidade. Por outro lado, costuma trazer 
+mais resignação do que comprometimento. Já 
+nas companhias mais horizontais, onde há mais 
+flexibilidade e liberdade de ação, desordem e 
+entropia seriam mais elevadas. “Um nível mais 
+elevado de entropia organizacional é necessário 
+para aumentar a criatividade e inovação, o que 
+contribui significativamente para alcançar vanta-
+gem competitiva” (Bratianu, 2019).
+Sob a ótica da complexidade, as companhias 
+podem ser vistas como “sistemas dissipativos” (cf. 
+Prigogine), distantes do equilíbrio, permanentemente 
+trocando energia com o ambiente externo. É fato que 
+muitos sistemas abertos (tais como os seres vivos, por 
+exemplo) conseguem aprender, se auto modificar e 
+manter coerência interna através da formação espon-
+tânea de ordem, mesmo diante da aparente desordem, 
+propriedade conhecida como “auto-organização”. 
+Ou seja, a partir da interação local de componentes/
+agentes sem qualquer comando central, liderança ou 
+necessidade de desenho prévio, comportamentos coe-
+rentes em nível global emergem de forma espontânea.
+De ordem prática, a mudança do modelo 
+mental mecânico para o complexo significa deslocar 
+a ênfase dos processos/regras para as pessoas, das 
+partes/componentes para as interações/conexões. 
+Autonomia está associada a maior motivação, ao senso 
+de pertencimento, e tende a tornar a companhia mais 
+inovativa, responsiva e ágil. Sob este entendimento, o 
+papel da administração agora é outro. Consiste em 
+promover as condições para facilitar a emergência 
+espontânea de comportamentos colaborativos, ou seja, 
+a auto-organização típica dos ambientes complexos. 
+E assim, as companhias estão descobrindo que ao 
+invés de especificar previamente cada etapa do pro-
+cesso de gestão, oferecer mais liberdade para que os 
+indivíduos de forma espontânea possam engajar em 
+experimentação interativa e exercer criatividade parece 
+trazer resultados mais satisfatórios. “A melhor coisa 
+que as companhias podem fazer é dar às pessoas as 
+ferramentas que elas precisam para fazer o melhor que 
+elas podem – e a partir daí sair do caminho” (Klein, 
+são umas das raras oportunidades em que este 
+expert da alocação de capital divide reflexões 
+sobre o modelo tão particular de integração e 
+alinhamento das companhias incorporadas: 
+ 
+ 
+Continuamos a acreditar que autonomia e 
+responsabilidade atraem e motivam os melhores 
+executivos e colaboradores (Leonard, 2015); e 
+ainda, explicando a simplicidade incomum do 
+desenho organizacional da CSI: Os Grupos 
+Operacionais fornecem um ambiente de baixo 
+overhead, onde autonomia, colegialidade e co-
+nhecimento compartilhado são a norma cultural 
+e as pessoas competentes prosperam. Estou 
+incrivelmente orgulhoso do que eles realizaram 
+(Leonard, 2021).
+Inovação – Como consequência do desenho mais 
+descentralizado, não-hierárquico, que promove 
+autonomia, motivação e empoderamento, as 
+companhias ganham em velocidade de inovação. 
+O relaxamento do controle tende a trazer modula-
+ridade o que facilita a emergência de inovações. 
+Onde o ambiente de negócios é mais fluído, a 
+importância de um fluxo permanente de novas 
+ideias e soluções na ponta torna-se fundamental. 
+Jeff Bezos, que já definiu a “inovação como a 
+segunda natureza da Amazon”, em suas cartas 
+anuais costuma lembrar a conexão direta entre 
+cultura corporativa, empoderamento e inovação:
+ 
+ 
+A invenção vem em muitas formas e em muitas 
+escalas. As invenções mais radicais e transforma-
+doras costumam ser aquelas que capacitam os 
+outros a liberar sua criatividade – a perseguir seus 
+sonhos (2011).
+ 
+ 
+Temos a sorte de ter uma equipe grande e cria-
+tiva e uma cultura paciente, pioneira e obcecada 
+pelo cliente – importantes inovações, grandes e 
+pequenas, estão acontecendo todos os dias a 
+favor dos clientes e em todos os níveis através 
+da empresa. Essa distribuição descentralizada de 
+invenção através da companhia - não limitada 
+aos líderes seniores - é a única maneira de obter 
+inovação robusta e de alto rendimento” (2013).
+Auto-organização – No modelo mecânico, que en-
+tende a companhia como um sistema fechado, 
+quanto menos entropia, menos atividade termo-
+dinâmica, mais próximo se está do equilíbrio, 
+mais ordem no sistema. Neste ordenamento, o 
+papel precípuo da administração “científica” seria 2000). Por exemplo, muitas empresas de tecnologia 
+viveram o dilema de abrir ou não suas interfaces para 
+que o ecossistema de desenvolvedores externos pu-
+desse se conectar. A despeito dos riscos e trade offs, 
+as que assim o fizeram capturaram na frente enormes 
+benefícios dos efeitos de rede. Emulando as condições 
+da vida, é de se esperar que um ambiente mais aberto 
+e livre se torne mais sustentável e exporte entropia, ao 
+invés de absorvê-la2. Ou seja, de forma contraintuitiva, 
+pelos veios da ciência da complexidade, pode-se gerar 
+ordem a partir da autonomia, e não exclusivamente do 
+exercício do controle, até porque “alcançar o controle 
+perfeito de um sistema aberto auto-organizado é uma 
+utopia não-atingível” (Martínez-Barumen et al., 2014)3. 
+O ganho resultante é claro: quando uma companhia 
+operando em um sistema aberto é capaz de se auto-
+-organizar, por construção, ela será mais robusta às 
+perturbações e demostrará maior habilidade para se 
+adaptar às mudanças.
+Na Carta anterior, trouxemos o argumento de 
+Reed Hastings da Netflix sobre o que, na sua visão, 
+seria o principal efeito da complexidade: a diluição 
+dos talentos de maior performance. O aumento da 
+complexidade produz desordem, estimulando uma 
+mentalidade processual e o exercício do controle. 
+Ao tornar as companhias mais burocráticas, acaba 
+expulsando os melhores talentos. A partir deste diag-
+nóstico, Hastings sugere a prescrição: ao invés de 
+tentar “controlar” a complexidade, é preciso estimular 
+a inovação, deslocar para cima a curva de contratação 
+de indivíduos de alta performance. Contra a comple-
+xidade; a autonomia, a inovação, a colaboração, a 
+auto-organização. 
+Um dos exemplos mais conhecidos de sucesso 
+empresarial baseado no conceito de auto-organiza-
+ção é a Visa. Ainda no final dos anos 60, quando 
+não havia internet nem tarjas magnéticas, de forma 
+“Exportar entropia” não significa produzir externalidades negativas 
+para o meio ambiente. Ao contrário, como dizia Edgar Morin, 
+filósofo da complexidade, qualquer sistema auto-organizado é de 
+fato auto-eco-organizado, no sentido de que não apenas depende 
+do ambiente externo, mas que o ambiente está “dentro dele, 
+desempenhando um papel de coorganização”. (Morin, 2008). 
+Naturalmente, a hipótese subjacente é que estejam presentes nesses 
+sistemas abertos elementos de controles internos que permitam 
+manter um mínimo de coerência eliminando ou balanceando as 
+perturbações que poderiam eventualmente destruí-los.
+absolutamente visionária, Dee Hock, seu fundador e 
+primeiro CEO, concebeu a arquitetura de organização 
+e de governança entre os bancos que transformou o 
+então precário negócio de cartões de crédito em um 
+“sistema global eletrônico de troca de valor”. Hock 
+foi um pensador original e um “rebelde corporativo”, 
+inconformado com o padrão tradicional de gestão 
+dominado por estruturas hierárquicas de comando-e-
+-controle. Nascido em uma pequena cidade às bordas 
+das Rocky Mountains, desde jovem buscou na natureza 
+inspirações para seus pensamentos. Acreditava que 
+as companhias deveriam se configurar de maneira 
+“auto-organizada” e “autogovernada”, considerando 
+elementos típicos dos sistemas complexos como surpre-
+sa, adaptação e não-linearidade. Desta maneira, em 
+meio à aparente confusão, coerência deveria emergir, 
+como foi o caso da Visa, definida por ele mesmo com 
+o neologismo de uma organização “caórdica” (caos 
++ ordem – Hock, 2005).
+Outra consequência de se incorporar o modelo 
+mental da complexidade é o entendimento de que 
+o princípio de conservação, mencionado na Carta 
+anterior, não constitui padrão universal válido. E as-
+sim, diferente da visão de mundo linear, sob a ótica 
+da complexidade, regras simples podem produzir 
+ 
+Dynamo Cougar x Ibovespa  
+Rentabilidade em R$ até abril de 2023
+(*) Ibovespa Fechamento. O índice é apresentado para mera referência 
+econômica e não constitui meta ou parâmetro de performance do Fundo.
+ 
+ 
+ 
+   
+Período  
+Dynamo Cougar 
+Ibovespa* 
+No ano (2023)
+No mês (Abril)
+ 
+ 
+ 
+ 
+ 
+ 
+ comportamentos bastante intricados, como a enig-
+mática geometria dos fractais de Mandelbrot, que 
+são formados a partir de comandos relativamente 
+simples. Por outro lado, processos complexos com 
+grande número de componentes/agentes densamente 
+conectados podem redundar em padrões de comporta-
+mentos emergentes bem definidos. E aqui são inúmeros 
+os exemplos na biologia, física, química e ciências 
+humanas, como formigueiros e colmeias, revoadas 
+de pássaros, tornados, a vida, a mente, as cidades, a 
+rede mundial de computadores, a linguagem, o mer-
+cado de ações e as próprias companhias, fenômenos 
+que expressam coesão e sentido a partir de elementos 
+diversos e dispersos.
+Lidar com a complexidade (no sentido tradicional 
+do que diz respeito ao que é complicado, intrincado) 
+tem sido um desafio crescente imposto às companhias. 
+Problema que se agrava particularmente no Brasil. 
+Afeito à excessiva e muitas vezes intempestiva produção 
+de normas legais, o país favorece a instabilidade da 
+ordem jurídica. O que, muitas vezes, acaba elevando o 
+status da atividade de gerir empresas brasileiras àquele 
+que se atribui aos esportes radicais. As discussões sobre 
+revogações, reinterpretações, reinvenções e retroativi-
+dades das regras rondam com alguma frequência a 
+pauta regulatório-legal no país, produzindo incertezas e 
+dificuldades adicionais à já estressante tarefa executiva. 
+Como resultante, vemos executivos extenuados, prazos 
+de tenures encurtados e infelizmente aposentadorias 
+precoces, causando uma preocupante atrofia no es-
+toque de talentos experientes na profissão. 
+Um ambiente em que as mudanças se aceleram 
+e as surpresas são cotidianas provoca ansiedades e 
+exige iniciativas que reduzam tamanha ambiguidade. 
+O resultado destas ações não tem sido satisfatório. 
+As companhias se tornam burocráticas, patinam em 
+regras, controles, ferramentas e processos. E a com-
+plexidade só faz crescer em espiral.
+Vemos conselhos aumentados, proliferação 
+de comitês, multiplicidade de regimentos internos, 
+de ferramentas de gestão e até de classes de ações. 
+Organogramas e estruturas societárias emaranhadas, 
+configurações matriciais, aumento do número de ca-
+madas de gestão e criação de holdings intermediárias, 
+excesso de relatórios, controles redundantes, proli-
+feração de consultorias, desenhos de remuneração 
+complicados, planejamentos estratégicos difusos, orça-
+mentos pesados. Sabemos que muitas destas iniciativas 
+são respostas necessárias impostas por exigências regu-
+latórias. Algumas representam importantes conquistas 
+na direção de maior transparência e accountability em 
+benefício de todos os stakeholders. Muitas, no entanto, 
+surgem completamente redundantes impondo um ônus 
+desnecessário às companhias, seus acionistas e aos 
+próprios executivos. 
+À luz deste emaranhado de expedientes que 
+produzem mais calor do que luz, talvez estejamos anco-
+rados em um modelo mental que nos leva a responder 
+de uma forma mecânica a um problema que mereça 
+ser entendido sob lentes diversas. Por formação e ex-
+periência, a resposta default tem sido a de aumentar o 
+nível de controle e incorporar novas ferramentas ao já 
+congestionado aparato de microgestão. Acreditando 
+resolver, como consequência não intencional, muitas 
+vezes aumenta-se o problema. “Quando vemos as 
+organizações como objetos-máquina, inevitavelmente 
+elas se transformam em complexidade de estrutu-
+ras, políticas e tarefas” (Wheatley e Kellner-Rogers, 
+1996). Como as iniciativas se dão em um ambiente 
+de crescente digitalização, a tecnologia por definição 
+produz uma quantidade cada vez maior de dados que 
+precisam ser reunidos, tratados e traduzidos em novas 
+iniciativas. O ambiente mais densamente conectado é 
+terra fértil para acidentes, descontinuidades e rupturas, 
+produzindo sensação de ainda maior ambiguidade.
+O modelo mental da complexidade (ciência) 
+ensina que sistemas abertos, como as companhias, 
+são passíveis de auto-organização, propriedade que 
+emerge a partir da possibilidade de autonomia/ino-
+vação. Não estamos insinuando que os controles são 
+desnecessários. Absolutamente. Somos entusiastas da 
+disciplina de gestão e controle de custos/despesas, 
+que em muitos casos consiste em pilar fundamental 
+de vantagem e principal barreira competitiva. Até 
+porque, também sabemos que as numerosas intera-
+ções próprias dos sistemas complexos podem levar à 
+desorganização e até ao caos. 
+O recado aqui é que pela nossa observação as 
+companhias parecem ter focado excessivamente na 
+necessidade, quase imperativo, dos controles e con-
+tinuam desprezando o potencial, contraintuitivo, que pode advir de um modelo de gestão que ofereça es-
+paço para alguma auto-organização. Outro equívoco 
+é imaginar que o que parece complicado só pode ser 
+tratado com ações complicadas. Na verdade, muitas 
+vezes a solução está “simplesmente” em tornar as coi-
+sas simples. Alinhar um conjunto de princípios básicos 
+de conduta, dispor com clareza poucos objetivos a 
+serem perseguidos, propor desenhos de incentivos não 
+exaustivos, resgatar a potência dos princípios fundacio-
+nais, fomentar o engajamento colaborativo, deixando 
+espaço para participação responsável, ou seja, adotar 
+o pacote “back to basics”, por vezes, pode expressar 
+o que há de mais sofisticado em técnica de gestão. 
+Bem sabemos que tentar sintetizar comporta-
+mentos e atributos qualitativos em métricas numéricas 
+consiste em exercício imperfeito. Ainda assim, coerente 
+com esta reflexão sobre o papel da simplicidade, ter-
+minamos arriscando uma mensagem também muito 
+simples. Uma sugestão para acompanhamento dos 
+indícios de desvios no labirinto da complexidade dos 
+controles e da microgestão seria um olhar mais agudo 
+sobre a rubrica “despesas gerais e administrativas”. E 
+aqui vale observar não apenas valores absolutos e per-
+centuais (sobre receita líquida), mas também procurar 
+atentar para sua composição. No limite, deveríamos 
+procurar distinguir o G&A de “crescimento” daquele 
+de “manutenção”, a exemplo do que se já faz de for-
+ma corriqueira com respeito ao capex (investimentos). 
+Um descolamento do G&A poderia ser justificado pelo 
+aumento proporcional do componente “crescimento”. 
+Por outro lado, a obesidade do componente “manuten-
+ção” é sempre mais preocupante. Pode sugerir, como 
+indicador de tendência, que a companhia começa a 
+perder a batalha fundamental da agilidade, o que nos 
+remete a uma passagem da Carta Dynamo 108 em 
+que comentávamos a obra Scale do físico Geoffrey 
+West. Lá dizíamos: Sob o imperativo da eficiência e 
+da competitividade, à medida em que as companhias 
+crescem elas precisam ficar mais focadas, se tornam 
+mais rígidas e monolíticas, perdem diversidade e capa-
+cidade de inovação. Tornam-se mais burocráticas e as 
+despesas começam a crescer desproporcionalmente, 
+como um organismo que envelhece e perde o equilíbrio 
+homeostático, passando a alocar energia crescente à 
+manutenção e menos ao metabolismo.
+Naturalmente, mesmo uma métrica aparente-
+mente tão “inofensiva” quanto o G&A pode esconder 
+liberalidades contábeis e nem sempre costuma ser 
+tão fácil identificar com precisão as bordas de cada 
+subconjunto. Pior ainda quando vemos algumas destas 
+despesas típicas sendo capitalizadas como investi-
+mentos. Escapando do Demonstrativo de Resultados, 
+deixam um resultado operacional mais limpo, o que 
+costuma agradar ao mercado e principalmente aos 
+executivos cujos desenhos de remuneração estariam 
+mais alinhados ao EBITDA do que ao ROIC. 
+Uma companhia que vem sofrendo com os 
+efeitos de um aumento da complexidade é a Natura. 
+A opção por uma estrutura de holding como desenho 
+para alavancar crescimento mostrou-se cara e dis-
+funcional. Exemplo típico dos efeitos perversos que a 
+criação de novas camadas gerenciais pode trazer. Em 
+linha com as reflexões e experiências que expusemos 
+ao longo das duas últimas Cartas, vínhamos manifes-
+tando nossas apreensões em relação à eficácia desta 
+configuração, cujos efeitos passaram a se refletir não 
+apenas nas margens operacionais, mas indo repercutir 
+até na estrutura de capital do Grupo. Percebendo a 
+gravidade da situação, a companhia vem tomando 
+medidas estruturais a fim de reduzir custos corporati-
+vos, bem como promover mudanças que gerem maior 
+agilidade operacional e adequação financeira. Sob 
+esta ordenação mais adequada e enxuta, a potência 
+da marca Natura, com o seu significado tão singular, 
+poderá ocupar proeminência ainda maior nos resul-
+tados do Grupo. 
+Como ilustração positiva, quem impressiona pela 
+disciplina no regime de despesas é a Weg. Se tomarmos 
+os últimos doze anos por exemplo (a série pode ser 
+bem mais longa), a companhia cresceu receita 6,8x, ou 
+17,3%aa, enquanto as despesas G&A multiplicaram por 
+apenas 3,3x, um crescimento composto de 10,5%aa, 
+com isso, o G&A/receita caiu pela metade, saindo de 
+var que enquanto as despesas se diluem o retorno sobre 
+o capital investido (ROIC) aumenta, apresentando 
+trajetória praticamente inversa, como se a economia 
+de energia da austeridade se convertesse em potência 
+de crescimento e dinâmica de retorno (Gráfico 1). De 
+fato, neste período, a Weg avançou em seu processo 
+de internacionalização – onde a receita no exterior saiu 
+de 36% para 50% do faturamento total –, ampliou seu 
+portfólio de marcas e produtos através da aquisição 
+de 34 empresas, espalhando 52 parques fabris pe-
+las Américas (Norte, Central e Sul), Europa, África e 
+Ásia-Pacífico, estabelecendo hegemonia global com capacidade para produzir até 70 mil motores/dia, em-
+pregando 39 mil colaboradores. Ainda que parte deste 
+resultado possa ser explicado pelo efeito do câmbio, 
+a Weg desafia a estatística das companhias brasileiras 
+que invariavelmente enfrentam dificuldades tanto na 
+execução dos processos de internacionalização quanto 
+na construção de um portfólio de produtos via aquisi-
+ções. A disciplina de custos/despesas da Weg é uma 
+das faces visíveis de uma cultura de Gente & Gestão 
+singular, que reflete uma visão de mundo e uma lógi-
+ca de negócios pautadas pelas lentes da engenharia, 
+onde perseguir simplicidade, mais do que estratégia, 
+constitui valor em si mesmo. Aqui, a austeridade traz 
+um duplo ganho de competitividade, de economia e 
+de aptidão (fitness), já que por definição, produtos e 
+serviços de engenharia serão tão melhores quanto mais 
+simples forem. E assim, na Weg, a parcimônia acaba 
+servindo de motor de propulsão para uma expansão 
+bastante consistente e rentável, conforme capturado 
+pela simetria das curvas no gráfico. 
+Se o G&A comedido serve como aproximação 
+da disciplina e do regime de controle bem executado, 
+as despesas com pesquisa e desenvolvimento (P&D) 
+sintetizam o esforço por inovação. Por definição, inovar 
+é um processo colaborativo, pois geralmente consiste 
+em recombinação de conhecimento e experiências 
+dispersas. Pode-se até pensar em equipes de inovação 
+no formato de comando-e-controle, mas geralmente 
+as unidades de inovação e novos negócios são onde 
+mais se exercita autonomia e liberdade para explorar. 
+E assim, o P&D pode sim ser considerado um vestígio 
+bastante razoável de auto-organização4.
+Outro exemplo que ilustra de forma insuspeita 
+como autonomia, inovação e criatividade são aspi-
+rações perfeitamente compatíveis com o exercício do 
+controle e da disciplina é o Mercado Livre. No Meli, o 
+foco no detalhe da execução e o rigor técnico convivem 
+com uma cultura corporativa que incentiva aprendiza-
+do, experimentação, autonomia com responsabilidade 
+e inovação. Na Carta Dynamo 98, quando descreve-
+mos os fundamentos do nosso investimento no Meli, 
+lembramos uma frase do CFO desde então, que resume 
+bem este aspecto: “A inovação permanente constitui a 
+linha da vida de uma empresa voltada para o consumo 
+na internet”. Como ilustração, vejamos o que aconteceu 
+ao longo do tempo com o G&A/Receita (disciplina) 
+e P&D/Receita (autonomia e inovação). Tomando o 
+mesmo período dos últimos doze anos, a receita líquida 
+do Meli cresceu quase cinquenta vezes (equivalente a 
+De fato, estudos empíricos mostram que nos espaços tecnológicos, 
+as estruturas de inovação (P&D) auto-organizadas, onde por 
+desenho há mais liberdade de exploração, apresentam resultados 
+superiores (Rycroft, R. & Kash, D, 2004; Silverberg, G., 2007). 
+Exemplos icônicos foram os Laboratórios de Pesquisas da General 
+Electric (GE Labs) e da AT&T Bell (Bell Labs), instituições centenárias, 
+que colecionam inúmeras inovações importantes e abrigaram em 
+seus quadros dezenas de vencedores de prêmio Nobel. Ambos os 
+Labs sempre foram reconhecidos pela ampla abertura concedida 
+aos cientistas, que podiam escolher livremente suas linhas de 
+pesquisa sem qualquer determinação superior.
+Gráfico 1 – Weg - ROIC e G&A/Receita Líquida
+Fonte: Relatórios da Companhia, elaboração Dynamo.
+Weg - ROIC e G&A/Receita Líquida
+ROIC
+G&A/RL
+ROIC               G&Auma taxa composta de 38,2%aa), enquanto “o” G&A se 
+expandiu pouco mais de vinte vezes (29,1%aa), fazendo 
+com que o ratio G&A/RL caísse de 14,2% para 6,3%. 
+No mesmo período, o ratio P&D/RL subiu de 7,3% para 
+14,4%, o que representa um crescimento de quase se-
+tenta vezes no período (42,3%aa). Em termos absolutos, 
+estamos falando de um montante que saltou de US$ 
+15,9 milhões em 2010 (só como comparação, metade 
+do G&A daquele exercício) para os impressionantes 
+US$ 1,1 bilhão em 2020 (1,7x o G&A) – (Gráfico 2). 
+No caso do Meli, os gastos com P&D refletem a cren-
+ça fundacional da tecnologia como instrumento de 
+transformação de vida das pessoas e da paisagem de 
+negócios na América Latina. Todos os demais valores 
+corporativos, como empreendedorismo, inovação e 
+empoderamento estão apoiados no alicerce central da 
+tecnologia, que por sua vez, resulta de um ambiente de 
+trabalho onde se cultiva uma experiência de cocriação, 
+que promove “conexão humana e empatia”, “apren-
+dizado”, “colaboração”, “engajamento” e “bem-estar 
+físico e emocional”, ou seja, propriedades típicas de 
+processos que se auto-organizam. São atributos que 
+podem soar aspirações pueris, mas que não o são. Se 
+perseguidos com convicção fazem diferença.
+A complexidade desafia as companhias porque 
+as coloca à beira de uma bifurcação importante. 
+Aquelas que conseguem lidar bem com a dificuldade 
+do complexo avançam estabelecendo distância ain-
+da maior frente aos competidores. Aquelas que, ao 
+contrário, não conseguem tratá-la, se envolvem em 
+uma espiral perversa. Na mesma Carta Dynamo 98, 
+expressamos precisamente essa ambiguidade típica 
+da complexidade quando dizíamos: “o que mais nos 
+anima no Meli é que a Companhia tem muito projetos 
+e o que mais nos preocupa é justamente que ela tem 
+muitos projetos”. O Mercado Livre tem provado que é 
+uma destas companhias que navega bem em mares 
+complexos. Desde então, a maior parte dos projetos 
+se transformou em realidade, traduzida em um ecos-
+sistema de comércio online e pagamentos ainda mais 
+extenso e profundo.
+São inúmeros os obstáculos que se antepõem 
+no caminho do sucesso corporativo. A origem dos 
+problemas pode vir de diversas taxonomias bem co-
+nhecidas: ciclos econômicos, competição, ambiente 
+de negócios, gente, incentivos, estratégia, execução, 
+organização, liderança, estrutura de capital, entre 
+outros. Menos lembrados são os modelos mentais, as 
+“visões de mundo”, fundamentalmente importantes, 
+pois são anteriores: concebem princípios que orientam 
+desenhos e cursos de ações.
+Aqui na Dynamo, questionar é verbo intransitivo. 
+Consiste em ferramenta básica do nosso trabalho de 
+análise. Temos por hábito pensar e repensar também 
+os modelos mentais, sabendo que estes apresentam 
+particular propensão à sempre perigosa cristalização. 
+Exercício não tão óbvio, mas com isso acreditamos 
+ganhar alguma profundidade e compreensão adicional 
+ 
+Gráfico 2 – MELI - G&A/RL e P&D/RL
+G&A/RL             P&D/RL
+Fonte: Relatórios da Companhia, elaboração Dynamo.DYNAMO COUGAR x IBOVESPA 
+(Rentabilidade em US$*)
+DYNAMO ADMINISTRAÇÃO DE RECURSOS LTDA.
+Av. Ataulfo de Paiva, 1235 / 6º andar – Leblon – 22440-034 – Rio – RJ – Tel.: (21) 2512-9394
+ 
+  
+DYNAMO COUGAR  
+IBOVESPA**
+Período 
+No Ano 
+Desde 
+No Ano 
+Desde
+ 
+ 
+ 
+ 
+Para mais informações sobre a Dynamo,  
+sobre o Dynamo Cougar ou para comparar a 
+performance do Fundo com diversos índices,  
+em períodos específicos, visite nosso site: 
+www.dynamo.com.br
+Esta carta é publicada somente com o propósito de divulgação de informações e não deve ser considerada como uma oferta de venda do Dynamo Cougar ou de qualquer 
+outro fundo, nem tampouco como uma recomendação de investimento ou desinvestimento em nenhum dos valores mobiliários citados. Todos os julgamentos e estimativas 
+aqui contidos são apenas exposições de opiniões e podem mudar a qualquer momento, sem necessidade de aviso. As informações contidas neste documento são, no 
+melhor entendimento da Dynamo, materialmente precisas. Não obstante, a Dynamo não se responsabiliza por eventuais erros, omissões ou imprecisões nas informações 
+divulgadas. A rentabilidade obtida no passado não representa garantia de resultados futuros. A rentabilidade divulgada não é líquida de impostos, ajuste de performance 
+e taxa de saída, caso aplicáveis.  O investimento em fundos de investimentos apresenta riscos. Leia cuidadosamente o regulamento antes de investir.  O regulamento do 
+Dynamo Cougar está disponível na página da Dynamo na rede mundial de computadores em www.dynamo.com.br. Os investimentos em fundos não são garantidos pelo 
+administrador ou por qualquer mecanismo de seguro, ou ainda, pelo Fundo Garantidor de Crédito. Supervisão e Fiscalização: Comissão de Valores Mobiliários - CVM. 
+Serviço de Atendimento ao Cidadão em www.cvm.gov.br.
+(*) Tendo em vista se tratar de um Fundo existente desde 1993, os valores 
+foram convertidos para dólar (US$) como forma de expurgar a volatilidade 
+da moeda brasileira ao logo do período e, dessa forma, minimizar o risco de 
+possíveis interpretações equivocadas do leitor em uma decisão de investimento/
+desinvestimento. O Dynamo Cougar é um fundo de investimento em cotas de fundo 
+de investimento em ações e está fechado para captação. (**) Ibovespa fechamento. 
+O índice é apresentado para mera referência econômica e não constitui meta 
+ou parâmetro de performance do Fundo. (***) Rentabilidade até abril de 2023.
+Informações adicionais:
+• 
+Data de Início: 01/09/1993
+• 
+Objetivo: Proporcionar aos cotistas valorização real de suas cotas a 
+médio e longo prazo, mediante aplicação de, no mínimo, 95% (noventa 
+e cinco por cento) do seu patrimônio líquido em cotas do Dynamo 
+Cougar Master Fundo de Investimento em Ações (“Fundo Master”)
+• 
+Público-alvo: Investidores qualificados
+• 
+Status: Fechado para aplicações
+• 
+Carência para resgate: 12 meses de carência ou taxa de liquidez 
+de 3% para resgates dentro deste período*
+• 
+Cota de Resgate: D+12 (corridos)*
+• 
+Pagamento do Resgate: D+2 (úteis) da conversão da cota* 
+• 
+Tributação aplicável: Renda variável
+• 
+Classificação Anbima: Ações Livre
+• 
+Taxa de administração: 1,90% ao ano no Fundo + 0,10% ao 
+ano no Fundo Master
+• 
+Taxa de Performance: 15% do que exceder IPCA + IMAB*
+• 
+Patrimônio líquido médio mensal dos últimos 12 (doze) meses: 
+R$  5.727,7 milhões.
+(*) Veja descrição detalhada no regulamento.
+na inóspita tarefa de decifrar a realidade aparente-
+mente inexpugnável das companhias. Neste caso, a 
+armadilha da complexidade, que atormenta o cotidiano 
+dos executivos, talvez possa ser endereçada sob prisma 
+diverso, a partir das lentes da outra complexidade. A 
+complexidade enquanto ciência dos sistemas abertos, 
+que prioriza as interações de agentes autônomos capa-
+zes de inovar, se auto-organizar, se adaptar e evoluir. 
+Paradigma que nos parece muito mais adequado para 
+um melhor entendimento e evolução das companhias.
+Rio de Janeiro, 04 de maio de 2023.
