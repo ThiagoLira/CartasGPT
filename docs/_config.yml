@@ -42,10 +42,6 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /AZ_Quest_Investimentos/
     output: true
-  BB_Asset_Management:
-    permalink: /:collection/:path.html
-    index_permalink: /BB_Asset_Management/
-    output: true
   Bradesco_Asset_Management:
     permalink: /:collection/:path.html
     index_permalink: /Bradesco_Asset_Management/
