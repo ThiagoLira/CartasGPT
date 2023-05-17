@@ -66,9 +66,9 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Genoa_Capital/
     output: true
-  JPG_Asset_Management:
+  JGP_Asset_Management:
     permalink: /:collection/:path.html
-    index_permalink: /JPG_Asset_Management/
+    index_permalink: /JGP_Asset_Management/
     output: true
   Legacy_Capital:
     permalink: /:collection/:path.html

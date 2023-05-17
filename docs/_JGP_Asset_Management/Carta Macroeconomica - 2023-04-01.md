@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carta_Macroeconomica
-category: JPG_Asset_Management
+category: JGP_Asset_Management
 tag: Carta_Macroeconomica
 date: 2023-04-01
 ---
