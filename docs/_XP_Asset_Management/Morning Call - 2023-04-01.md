@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morning Call
-category: Transcricoes
+category: XP_Asset_Management
 tag: Morning_Call
 date: 2023-05-16
 ---
