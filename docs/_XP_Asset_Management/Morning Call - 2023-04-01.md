@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: transcricao
 title: Morning Call
 category: XP_Asset_Management
 tag: Morning_Call
@@ -8,22 +8,23 @@ date: 2023-05-16
 
 
 <script src="https://www.youtube.com/iframe_api"></script>
-    <script>
-        let player;
+<script>
+let player;
 
-        function onYouTubeIframeAPIReady() {
-            player = new YT.Player('youtubeVideo', {
-                height: '390',
-                width: '640',
-                videoId: 'POKKXXNXIlc',
-            });
-        }
+function onYouTubeIframeAPIReady() {
+    player = new YT.Player('youtubeVideo', {
+        height: '390',
+        width: '640',
+        videoId: 'POKKXXNXIlc',
+    });
+}
 
-        function jumpToTimestamp(secs) {
-            let timestamp = secs; // Set the desired timestamp in seconds
-            player.seekTo(timestamp);
-        }
-    </script>
+function jumpToTimestamp(secs) {
+    let timestamp = secs; // Set the desired timestamp in seconds
+    player.seekTo(timestamp);
+}
+</script>
+
 - Bolsa brasileira teve dias positivos devido à inflação nos EUA e expectativa de recuperação da economia chinesa;
 <a href="#" onclick="jumpToTimestamp(84)">Jump to timestamp</a>
 - Governo enfrenta dificuldades para construir base no Congresso e a reforma do ar-cavôs fiscal pode ser mais rígida ou flexível;
