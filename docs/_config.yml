@@ -90,6 +90,10 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Sicredi_Asset_Management/
     output: true
+  SPX_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /SPX_Capital/
+    output: true
   Sueste_Capital:
     permalink: /:collection/:path.html
     index_permalink: /Sueste_Capital/
