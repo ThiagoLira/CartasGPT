@@ -4,6 +4,7 @@ title: Relatorio_de_Gestao
 category: Verde_Asset_Management
 tag: VERDE_FIC_FIM
 date: 2023-03-01
+GPT: gpt-4
 ---
 
 - Ganhos em março: posição comprada em ouro, posições de inflação americana e juros longos europeus.

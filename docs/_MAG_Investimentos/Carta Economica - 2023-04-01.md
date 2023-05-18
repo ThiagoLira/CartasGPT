@@ -4,6 +4,7 @@ title: Carta_Economica
 category: MAG_Investimentos
 tag: Carta_Economica
 date: 2023-04-01
+GPT: gpt-3.5-turbo
 ---
 
 - Mercados têm menor aversão a risco devido à ausência de notícias sobre crise bancária nos EUA

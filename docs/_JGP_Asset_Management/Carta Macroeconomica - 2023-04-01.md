@@ -4,6 +4,7 @@ title: Carta_Macroeconomica
 category: JGP_Asset_Management
 tag: Carta_Macroeconomica
 date: 2023-04-01
+GPT: gpt-3.5-turbo
 ---
 
 - A situação dos bancos regionais nos EUA inspira cautela no exterior e aumenta o receio de uma desaceleração econômica mais forte e/ou recessão.

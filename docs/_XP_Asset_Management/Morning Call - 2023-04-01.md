@@ -4,6 +4,7 @@ title: Morning Call
 category: XP_Asset_Management
 tag: Morning_Call
 date: 2023-05-16
+GPT: gpt-3.5-turbo
 ---
 
 

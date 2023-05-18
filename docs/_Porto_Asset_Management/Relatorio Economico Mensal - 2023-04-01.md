@@ -4,6 +4,7 @@ title: Relatorio_Economico_Mensal
 category: Porto_Asset_Management
 tag: Relatorio_Economico_Mensal
 date: 2023-04-01
+GPT: gpt-3.5-turbo
 ---
 
 - Quebra de dois bancos regionais nos EUA alimentou expectativas de recessão global

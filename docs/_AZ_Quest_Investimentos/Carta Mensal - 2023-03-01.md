@@ -4,6 +4,7 @@ title: Carta_Mensal
 category: AZ_Quest_Investimentos
 tag: Carta_Mensal
 date: 2023-03-01
+GPT: gpt-4
 ---
 
 - Mudança no regime de despesa apresentada pelo governo;

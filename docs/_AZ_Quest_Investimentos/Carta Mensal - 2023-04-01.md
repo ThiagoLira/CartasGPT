@@ -4,6 +4,7 @@ title: Carta_Mensal
 category: AZ_Quest_Investimentos
 tag: Carta_Mensal
 date: 2023-04-01
+GPT: gpt-3.5-turbo
 ---
 
 - A carta aborda o ajuste fiscal brasileiro e a trajetória de contenção de despesas proposta pelo governo, destacando a necessidade de cooperação da sociedade e do Parlamento para que o plano seja cumprido e o Brasil conviva com juros reais baixos;

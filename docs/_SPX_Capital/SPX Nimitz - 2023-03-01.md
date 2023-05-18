@@ -4,6 +4,7 @@ title: Carta_do_Gestor
 category: SPX_Capital
 tag: SPX_Nimitz
 date: 2023-03-01
+GPT: gpt-4
 ---
 
 - Reviravolta no status quo dos mercados globais em março de 2023, com falências e tensões financeiras;

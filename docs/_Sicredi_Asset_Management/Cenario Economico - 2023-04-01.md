@@ -4,6 +4,7 @@ title: Cenario_Economico
 category: Sicredi_Asset_Management
 tag: Cenario_Economico
 date: 2023-04-01
+GPT: gpt-3.5-turbo
 ---
 
 - Lei de Diretrizes Orçamentárias fixa meta fiscal e valores para o próximo ano

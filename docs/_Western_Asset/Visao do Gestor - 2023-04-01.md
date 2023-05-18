@@ -4,12 +4,13 @@ title: Visao_do_Gestor
 category: Western_Asset
 tag: Visao_do_Gestor
 date: 2023-04-01
+GPT: gpt-3.5-turbo
 ---
 
 - Percepção de início de afrouxamento monetário pelo Fed devido a dados econômicos mais fracos, enfraquecendo o dólar
-<a href="#" onclick="search_on_pdf('Visão do GestorNewsletter MensalSumário � Ganhou força a percepção de um in-ício de afrouxamento')">Ref</a>
+<a href="#" onclick="search_on_pdf('Visão do GestorNewsletter MensalSumário   Ganhou força a percepção de um in-ício de afrouxamento')">Ref</a>
 - Curva de juros local recuou, seguindo tendência global
-<a href="#" onclick="search_on_pdf('dólar. � A curva de juros local recuou mais uma vez, seguindo a tendência global. � O real també')">Ref</a>
+<a href="#" onclick="search_on_pdf('dólar.   A curva de juros local recuou mais uma vez, seguindo a tendência global.   O real també')">Ref</a>
 - Real valorizou-se em relação ao dólar
 <a href="#" onclick="search_on_pdf('continuou atuando para a desvalorização do dólar, mas a performance da moeda brasileira tem chamado')">Ref</a>
 - Bolsa brasileira teve performance positiva, refletindo melhora do risco-país

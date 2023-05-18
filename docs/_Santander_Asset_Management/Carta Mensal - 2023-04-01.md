@@ -4,6 +4,7 @@ title: Carta_Mensal
 category: Santander_Asset_Management
 tag: Carta_Mensal
 date: 2023-04-01
+GPT: gpt-3.5-turbo
 ---
 
 - Cenário externo desafiador, com incerteza elevada nos países desenvolvidos
