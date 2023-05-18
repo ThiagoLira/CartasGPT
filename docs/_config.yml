@@ -74,7 +74,7 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /MAG_Investimentos/
     output: true
-  Opportunity_Asset:
+  Opportunity:
     permalink: /:collection/:path.html
     index_permalink: /Opportunity/
     output: true
@@ -82,7 +82,7 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Porto_Asset_Management/
     output: true
-  Rio_Bravo_Investimentos:
+  Rio_Bravo:
     permalink: /:collection/:path.html
     index_permalink: /Rio_Bravo/
     output: true
