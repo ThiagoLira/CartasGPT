@@ -38,6 +38,10 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /AZ_Quest_Investimentos/
     output: true
+  Banrisul:
+    permalink: /:collection/:path.html
+    index_permalink: /Banrisul/
+    output: true
   Bradesco_Asset_Management:
     permalink: /:collection/:path.html
     index_permalink: /Bradesco_Asset_Management/
