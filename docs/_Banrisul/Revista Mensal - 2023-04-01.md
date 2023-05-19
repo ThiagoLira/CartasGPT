@@ -5,6 +5,7 @@ category: Banrisul
 tag: Revista_Mensal
 date: 2023-04-01
 GPT: gpt-3.5-turbo
+tipo: Carta
 ---
 
 - O mês de abril foi positivo nos mercados internacionais, com destaque para a superação de uma crise financeira e perspectiva de "pouso suave" na economia dos EUA, enquanto a Zona do Euro demonstra resiliência econômica com inflação desacelerando devagar.

@@ -5,6 +5,7 @@ category: Caixa_Asset
 tag: Resenha_Mensal
 date: 2023-04-01
 GPT: gpt-3.5-turbo
+tipo: Carta
 ---
 
 - Guerra na Ucrânia completa 14 meses sem perspectiva de negociações diplomáticas

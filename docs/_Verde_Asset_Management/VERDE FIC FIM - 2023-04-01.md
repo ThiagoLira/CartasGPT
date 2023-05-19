@@ -5,6 +5,7 @@ category: Verde_Asset_Management
 tag: VERDE_FIC_FIM
 date: 2023-04-01
 GPT: gpt-3.5-turbo
+tipo: Carta
 ---
 
 - Ganhos em posições de commodities, ouro e petróleo

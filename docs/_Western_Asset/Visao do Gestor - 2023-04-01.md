@@ -5,6 +5,7 @@ category: Western_Asset
 tag: Visao_do_Gestor
 date: 2023-04-01
 GPT: gpt-3.5-turbo
+tipo: Carta
 ---
 
 - Percepção de início de afrouxamento monetário pelo Fed devido a dados econômicos mais fracos, enfraquecendo o dólar

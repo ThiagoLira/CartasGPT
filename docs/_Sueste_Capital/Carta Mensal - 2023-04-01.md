@@ -5,6 +5,7 @@ category: Sueste_Capital
 tag: Carta_Mensal
 date: 2023-04-01
 GPT: gpt-3.5-turbo
+tipo: Carta
 ---
 
 - Em abril, os mercados estavam preocupados com a instabilidade financeira, mas os receios foram diminuindo. 

@@ -5,6 +5,7 @@ category: Rio_Bravo
 tag: Carta_Estrategias
 date: 2023-04-01
 GPT: gpt-3.5-turbo
+tipo: Carta
 ---
 
 - 100 dias do novo governo sem primavera política ou Nova República;

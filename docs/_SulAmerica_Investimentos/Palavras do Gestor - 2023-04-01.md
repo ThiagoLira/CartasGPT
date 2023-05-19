@@ -5,6 +5,7 @@ category: SulAmerica_Investimentos
 tag: Palavras_do_Gestor
 date: 2023-04-01
 GPT: gpt-3.5-turbo
+tipo: Carta
 ---
 
 - O mercado de crédito teve volatilidade em abril, mas não houve eventos relevantes e recompras indicam que não é o momento de sair de fundos de crédito.

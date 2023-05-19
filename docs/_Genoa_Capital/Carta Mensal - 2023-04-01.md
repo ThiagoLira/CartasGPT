@@ -5,6 +5,7 @@ category: Genoa_Capital
 tag: Carta_Mensal
 date: 2023-04-01
 GPT: gpt-3.5-turbo
+tipo: Carta
 ---
 
 - Crise bancária nos EUA afeta First Republic Bank, parcialmente vendido ao JP Morgan
