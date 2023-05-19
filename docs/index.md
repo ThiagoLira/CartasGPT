@@ -48,7 +48,8 @@ layout: default
 {% assign sorted_posts = all_posts | sort: "date" | reverse %}
 
 {% for post in sorted_posts limit:10 %}
-  <a href="{{ post.url }}">{{ post.title }} ({{post.tag}})</a>
+<a href="{{ post.url }}"> {{ post.title | replace: "_", " " }} - ({{ post.category | replace: "_", " " }})</a>
+  <br>
   <br>
 {% endfor %}
 
