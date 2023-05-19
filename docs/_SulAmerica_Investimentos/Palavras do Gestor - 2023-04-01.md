@@ -4,15 +4,29 @@ title: Palavras_do_Gestor
 category: SulAmerica_Investimentos
 tag: Palavras_do_Gestor
 date: 2023-04-01
-GPT: gpt-3.5-turbo
+GPT: gpt-4
 tipo: Carta
 ---
 
-- O mercado de crédito teve volatilidade em abril, mas não houve eventos relevantes e recompras indicam que não é o momento de sair de fundos de crédito.
+- Volatilidade no mercado de crédito em abril; spreads de crédito corporativo aumentam ao longo do mês
 <a href="#" onclick="search_on_pdf('Carta MensalPalavra do GestorCréditoO mês de abril foi mais um mês devolatilidade para o mercado')">Ref</a>
-- O Ibovespa teve desvalorização, mas os mercados internacionais mantiveram desempenho estável apesar da preocupação com a recessão global.
-<a href="#" onclick="search_on_pdf('OPEP – e na curva de juros americana – que precifica afrouxamento de política monetária ainda em202')">Ref</a>
-- A inflação ao produtor no Brasil está em níveis deflacionários, mesmo com investimento público. A China tem expectativa de crescimento do PIB, mas com possível desaceleração nos próximos trimestres. Nos EUA, há recuo nos juros futuros e ganhos no S&P, mas desvalorização do dólar, inflação ao consumidor e desempenho misto na atividade. Na Zona do Euro, diminuição do receio com o estresse bancário e manutenção da inflação alta, levando a mais duas altas de juros. Na China, há surpresas baixistas de inflação e foco na recuperação da atividade e estímulos fiscais e monetários mais calibrados. No Brasil, há movimento de fechamento de juros, apreciação cambial e ganhos na bolsa, com dados de inflação e atividade indicando desinflação e resiliência.
+- IDA-DI (índice de debêntures da Anbima) fechou em CDI + 2,61% em abril, maior que março (CDI + 2,52%)
+<a href="#" onclick="search_on_pdf('spreads de crédito corporativo cederam naprimeira quinzena do mês, mas voltaram aabrir na segunda ')">Ref</a>
+- Sem eventos de crédito relevantes ou inadimplência nas carteiras durante o mês
+<a href="#" onclick="search_on_pdf('Carta MensalPalavra do GestorCréditoO mês de abril foi mais um mês devolatilidade para o mercado')">Ref</a>
+- Carregos de fundos de crédito atrativos, não recomendado sair neste momento
+<a href="#" onclick="search_on_pdf('porcompanhiasepassam a interessar algumas tesourarias,dadoaoelevadospread.Assim,acreditamos')">Ref</a>
+- Ibovespa encerrou abril com desvalorização de +2,50%; demais índices variaram (S&P +1,46%, Euro Stoxx +1,03%, Nikkei)
+<a href="#" onclick="search_on_pdf('encerrouomêscomdesvalorização de +2,50%. Os demais índicestiveramasseguintesvariações:S&P+')">Ref</a>
+- Inflação no Brasil abaixo da estimativa anima investidores e foco nos dados de atividade econômica
 <a href="#" onclick="search_on_pdf('crescimento global mais fraco estão no radar.PIB chinês no 1º trimestre de 2023 cresceu4,5%, surpr')">Ref</a>
-- Um fundo pode resultar em perdas patrimoniais significativas e não tem garantias ou seguro.
-<a href="#" onclick="search_on_pdf('(doze) meses. ESTE FUNDO UTILIZA ESTRATÉGIAS QUE PODEM RESULTAR EM SIGNIFICATIVAS PERDASPATRIMONIAI')">Ref</a>
+- Aumento da volatilidade na bolsa devido a dúvidas sobre novo arcabouço fiscal e taxação das empresas
+<a href="#" onclick="search_on_pdf('docenário.Dúvidasemrelaçãoaonovoarcabouço fiscal, recomposição das receitas,retiradadeince')">Ref</a>
+- Continuada preocupação global com a estabilidade financeira e recessão
+<a href="#" onclick="search_on_pdf('por quem conhece o assuntoRenda FixaNo mundo, manteve-se a preocupação com a estabilidade financei')">Ref</a>
+- Crescimento econômico na China no 1º trimestre de 2023 em 4,5%, acima das expectativas; sinais de falta de demanda ainda presentes
+<a href="#" onclick="search_on_pdf('crescimento global mais fraco estão no radar.PIB chinês no 1º trimestre de 2023 cresceu4,5%, surpr')">Ref</a>
+- Desaceleração do crescimento econômico na China esperada para o restante de 2023
+<a href="#" onclick="search_on_pdf('crescimento global mais fraco estão no radar.PIB chinês no 1º trimestre de 2023 cresceu4,5%, surpr')">Ref</a>
+- No Brasil, descompressão de prêmio de risco nos ativos depende de corte da taxa de juros pelo Banco Central e inflação compatível com metas
+<a href="#" onclick="search_on_pdf('prêmios de risco dos ativos brasileiros. Avaliamos queo início de ciclo de corte da taxa de juros p')">Ref</a>

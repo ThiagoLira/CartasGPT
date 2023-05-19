@@ -4,19 +4,47 @@ title: Carta_Mensal
 category: AZ_Quest_Investimentos
 tag: Carta_Mensal
 date: 2023-04-01
-GPT: gpt-3.5-turbo
+GPT: gpt-4
 tipo: Carta
 ---
 
-- A carta aborda o ajuste fiscal brasileiro e a trajetória de contenção de despesas proposta pelo governo, destacando a necessidade de cooperação da sociedade e do Parlamento para que o plano seja cumprido e o Brasil conviva com juros reais baixos;
-<a href="#" onclick="search_on_pdf('CARTA MENSAL – ABRIL 2023                      A saga do difícil processo de ajuste f')">Ref</a>
-- O cenário macro é de diminuição do grau de incerteza relacionado à crise de crédito internacional e ampliação das perspectivas de crescimento global para 2023, mas persistência da incerteza sobre o cenário inflacionário global. No Brasil, a previsão é que o IPCA registre alta de 5,9% e caia para 3,6% em 2024, indicando convergência à meta de inflação, e a taxa básica de juros encerre o ano de 2023 em 12,00%;
-<a href="#" onclick="search_on_pdf('No Brasil, em março, o IPCA foi de 0,71%, acumulando 4,65% em 12 meses, abaixo dos 5,60% observados')">Ref</a>
-- A bolsa americana e a bolsa brasileira tiveram desempenhos positivos em abril, mas com oscilações em relação ao novo arcabouço fiscal. Fundos Long Only tiveram contribuição positiva dos setores de Serviços Financeiros e Petróleo e Petroquímica, e maior exposição nesses setores. Fundos que operam short tiveram retorno com posições vendidas em ações de empresas do setor de Bens de Consumo e de posições compradas em ações de empresas do setor de Serviços Financeiros;
-<a href="#" onclick="search_on_pdf('relevantes no mês. A única contribuição negativa foi em Bolsa Internacional, em operações na bolsa ')">Ref</a>
-- Na estratégia de renda variável, o fundo obteve resultados positivos no book de Bolsa Local e de Juros Locais, e a compra de BRL na estratégia de Moedas também gerou contribuição positiva;
-<a href="#" onclick="search_on_pdf('principalmente na compra de BRL, mas também com contribuição positiva de posições em outros pares (')">Ref</a>
-- A estratégia de crédito mostra estabilização dos spreads de crédito, mas com aberturas ainda maiores do que fechamentos. Fundos AZ Quest Luce, Valore, e Altro tiveram resultados abaixo da rentabilidade-alvo de longo prazo pensada para os fundos. AZ Quest Low Vol e AZ Quest Termo tiveram bons rendimentos;
-<a href="#" onclick="search_on_pdf('para algum patamar de estabilização dos spreads de crédito. O AZ Quest Luce teve um rendimento de 0')">Ref</a>
-- A gestora de fundos AZ Quest possui diversas opções de investimento, incluindo fundos de renda fixa, multimercado livre, e previdência, com tributação e prazos de cotização e liquidação específicos. Alguns são destinados a investidores qualificados, enquanto outros são abertos ao público em geral. A performance dos fundos deve ser avaliada por um período mínimo de 12 meses.
-<a href="#" onclick="search_on_pdf('para seus cotistas. AZ QUEST AÇÕES FIC FIA (07.279.657/0001-89): ações livre, tributação renda vari')">Ref</a>
+- Desequilíbrio fiscal histórico no Brasil;
+<a href="#" onclick="search_on_pdf('O Brasil convive com desequilíbrio fiscal secular, compensado historicamente por períodos de alta i')">Ref</a>
+- Tentativas de ajuste fiscal de 1994 a 2015 focaram na receita, com aumento das despesas primárias como proporção do PIB;
+<a href="#" onclick="search_on_pdf('hiperinflação, trocando-a por maior carga tributária e mais endividamento.  Do Real até 2015, as te')">Ref</a>
+- Ligeira redução das despesas primárias ao final dos governos Temer e Bolsonaro, sem cortes efetivos;
+<a href="#" onclick="search_on_pdf('limite de despesas e incentivo ao fim de distorções tributárias, deixando claro o desejo do governo')">Ref</a>
+- Candidatos eleitos em 2022 comprometeram-se com pautas que exigiam aumento das despesas, interrompendo processo de ajuste fiscal;
+<a href="#" onclick="search_on_pdf('orçamentária. Contribuiu para essa visão a não reoneração dos combustíveis, em               ')">Ref</a>
+- Mercado preocupado com possível retorno à expansão fiscal como na era Dilma;
+<a href="#" onclick="search_on_pdf('Contudo, os agentes de mercado, em geral, recepcionaram essa PEC como a primeira etapa de uma nova ')">Ref</a>
+- Anúncio do novo marco fiscal como forma de conter despesas e incentivar o fim das distorções tributárias;
+<a href="#" onclick="search_on_pdf('limite de despesas e incentivo ao fim de distorções tributárias, deixando claro o desejo do governo')">Ref</a>
+- Desafio é conter despesas e recuperar receita líquida 19% do PIB para tornar a dívida público sustentável;
+<a href="#" onclick="search_on_pdf('para obter o superávit que torna a dívida sustentável: conter as despesas e recuperar a receita líq')">Ref</a>
+- Parceria entre sociedade e parlamento é fundamental para avançar na agenda fiscal e alcançar juros reais baixos no Brasil;
+<a href="#" onclick="search_on_pdf('essa agenda seja cumprida e o Brasil conviva com juros reais baixos.  Alexandre Manoel é economist')">Ref</a>
+- Diminuição  do grau de incerteza relacionado a uma eventual crise de crédito internacional;
+<a href="#" onclick="search_on_pdf('ESTRATÉGIA MACRO Em abril, observamos a diminuição do grau de incerteza relacionado a uma eventual ')">Ref</a>
+- Incerteza sobre cenário inflacionário global persiste;
+<a href="#" onclick="search_on_pdf('ESTRATÉGIA MACRO Em abril, observamos a diminuição do grau de incerteza relacionado a uma eventual ')">Ref</a>
+- Aperto monetário maior que o esperado nos EUA e Europa;
+<a href="#" onclick="search_on_pdf('esperado, tanto por parte do Banco Central Americano (Fed) quanto do Banco Central Europeu (ECB). ')">Ref</a>
+- Bolsa brasileira em alta em abril, com o novo arcabouço fiscal gerando incertezas;
+<a href="#" onclick="search_on_pdf('mês) surpreendeu positivamente e reforçou a expectativa de revisão para cima nas expectativas de cr')">Ref</a>
+- Exposição maior nos setores de petróleo, serviços financeiros e mineração;
+<a href="#" onclick="search_on_pdf('Financeiros e Petróleo e Petroquímica foram os que mais contribuíram positivamente, enquanto Minera')">Ref</a>
+- Mercado primário retomando atividade com precificação ajustada ao momento atual;
+<a href="#" onclick="search_on_pdf('O mercado primário ainda não voltou ao seu ritmo normal, mas vimos ao longo do mês algumas ofertas ')">Ref</a>
+- Spreads de crédito oscilando em meses anteriores, com sinais de estabilização em abril;
+<a href="#" onclick="search_on_pdf('ESTRATÉGIA MACRO Em abril, observamos a diminuição do grau de incerteza relacionado a uma eventual ')">Ref</a>
+- Rentabilidade dos fundos AZ Quest Low Vol e AZ Quest Termo mantendo rentabilidade-alvo;
+<a href="#" onclick="search_on_pdf('performance, encerrou o mês de abril com retorno de 0,80% e, em 12 meses, rendeu 14,51%, equivalent')">Ref</a>
+- Fundo de investimento de tributação longo prazo destinado ao público em geral;
+<a href="#" onclick="search_on_pdf('investimento, tributação longo prazo, destinado ao público em geral, prazo de cotização e liquidação')">Ref</a>
+- Inclui multimercado dinâmico, renda fixa, ações e previdência;
+<a href="#" onclick="search_on_pdf('II IE FIC FIM (40.792.737/0001-09): previdência multimercado livre, tributação previdência, destinad')">Ref</a>
+- Diversos prazos de cotização e liquidação de resgate;
+<a href="#" onclick="search_on_pdf('tributação longo prazo, destinado ao público em geral, prazo de cotização e liquidação de resgate em')">Ref</a>
+- Destinado tanto a investidores qualificados quanto ao público em geral.
+<a href="#" onclick="search_on_pdf('investimento, tributação longo prazo, destinado ao público em geral, prazo de cotização e liquidação')">Ref</a>

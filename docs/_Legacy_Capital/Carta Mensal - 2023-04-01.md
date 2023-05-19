@@ -4,8 +4,6 @@ title: Carta_Mensal
 category: Legacy_Capital
 tag: Carta_Mensal
 date: 2023-04-01
-GPT: gpt-3.5-turbo
-tipo: Carta
 ---
 
 - Alívio de tensões associadas aos eventos do mês anterior
