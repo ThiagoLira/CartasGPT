@@ -1,17 +1,24 @@
+Atmos Capital
 AZ Quest Investimentos
+Banrisul
 BB Asset Management
 Bradesco Asset Management
 BV Asset
 Caixa Asset
+Dynamo
 Genoa Capital
 Itau BBA
+JGP_Asset_Management
 Legacy Capital
-Opportunity Asset
+MAG_Investimentos
+Opportunity
 Porto Asset Management
-Rio Bravo Investimentos
+Rio Bravo
 Santander Asset Management
 Sicredi Asset Management
 SPX Capital
+Sueste_Capital
+SulAmerica_Investimentos
 Verde Asset Management
 Western Asset
 XP Asset Management
