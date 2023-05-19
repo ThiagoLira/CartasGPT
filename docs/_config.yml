@@ -30,6 +30,10 @@ header_pages:
   - metodologia.md
   - about.md
 collections:
+  Ace_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Ace_Capital/
+    output: true
   Atmos_Capital:
     permalink: /:collection/:path.html
     index_permalink: /Atmos_Capital/
@@ -50,9 +54,17 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /BV_Asset/
     output: true
+  BTG_Pactual_Asset_Management:
+    permalink: /:collection/:path.html
+    index_permalink: /BTG_Pactual_Asset_Management/
+    output: true
   Caixa_Asset:
     permalink: /:collection/:path.html
     index_permalink: /Caixa_Asset/
+    output: true
+  Dahlia_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Dahlia_Capital/
     output: true
   Dynamo:
     permalink: /:collection/:path.html
@@ -73,6 +85,10 @@ collections:
   MAG_Investimentos:
     permalink: /:collection/:path.html
     index_permalink: /MAG_Investimentos/
+    output: true
+  Occam_Brasil:
+    permalink: /:collection/:path.html
+    index_permalink: /Occam_Brasil/
     output: true
   Opportunity:
     permalink: /:collection/:path.html
@@ -106,6 +122,14 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /SulAmerica_Investimentos/
     output: true
+  V8_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /V8_Capital/
+    output: true
+  Valora_Investimentos:
+    permalink: /:collection/:path.html
+    index_permalink: /Valora_Investimentos/
+    output: true
   Verde_Asset_Management:
     permalink: /:collection/:path.html
     index_permalink: /Verde_Asset_Management/
@@ -113,6 +137,10 @@ collections:
   Western_Asset:
     permalink: /:collection/:path.html
     index_permalink: /Western_Asset/
+    output: true
+  WHG:
+    permalink: /:collection/:path.html
+    index_permalink: /WHG/
     output: true
   XP_Asset_Management:
     permalink: /:collection/:path.html
