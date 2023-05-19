@@ -1,17 +1,18 @@
+Ace Capital
 Atmos Capital
 AZ Quest Investimentos
 Banrisul
-BB Asset Management
 Bradesco Asset Management
 BV Asset
 BTG Pactual Asset Management
 Caixa Asset
+Dahlia Capital
 Dynamo
 Genoa Capital
-Itau BBA
 JGP Asset Management
 Legacy Capital
 MAG Investimentos
+Occam Brasil
 Opportunity
 Porto Asset Management
 Rio Bravo
@@ -20,8 +21,11 @@ Sicredi Asset Management
 SPX Capital
 Sueste Capital
 SulAmerica Investimentos
+V8 Capital
+Valora Investimentos
 Verde Asset Management
 Western Asset
+WHG
 XP Asset Management
 
 
