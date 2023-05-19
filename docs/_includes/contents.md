@@ -1,10 +1,8 @@
 
-BRASIL: Ceticismo em relação ao crescimento econômico, aumento da carga tributária, Selic estável, inflação preocupante, desempenho negativo em empresas varejistas. Novo arcabouço fiscal apresentado para melhora da situação fiscal do país.
+BRASIL: A aprovação do arcabouço fiscal e avanço da reforma tributária podem gerar valência positiva, mas o Copom deve continuar conservador na política monetária. Previsão de Selic terminal em 12,50% para o final de 2023 e cenário favorável aos mercados emergentes.
 
-EUROPA: BCE eleva taxa de juros, previsão de novos ajustes. Fusão do Credit Suisse com o UBS para evitar colapso. Europa em posição favorável para lidar com choques financeiros.
+EUA: Balanços corporativos do setor de tecnologia mostraram bons resultados, mas persistência do stress financeiro e preocupações com a economia e inflação. Último aumento de 25 pb esperado na reunião de maio e S&P 500/Bolsa Americana com retornos positivos em março.
 
-ÁSIA: Retomada da atividade econômica na China, crescimento previsto em 6% para 2023, consumo interno em recuperação. 
+EUROPA: Inflação acima da meta e incertezas sobre manutenção das altas de juros. Banco Central Europeu espera anunciar mais duas elevações de juros de 25 pb em maio e junho.
 
-ESTADOS UNIDOS: Alta volatilidade devido a indicadores de atividade e inflação, possível última alta na taxa de juros, estresse bancário e possível recessão leve. 
-
-CRIPTO: Bitcoin tem alta de 72%, aumento do staking de ether pode atrair mais investidores, regulamentação intensificada nos Estados Unidos. Novidades como o serviço de custódia da Nasdaq e a atualização "Shapella" do Ethereum também são apontadas como destaques no setor.
+ÁSIA: Recuperação econômica pós-COVID na China, impulsionada por consumo doméstico e retomada da construção, mas desaceleração do setor industrial e preocupações com falta de demanda.
