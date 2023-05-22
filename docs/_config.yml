@@ -25,7 +25,6 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
-  - cartas_das_gestoras.md
   - feed.md
   - metodologia.md
   - about.md
