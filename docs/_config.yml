@@ -26,7 +26,7 @@ plugins:
   - jekyll-feed
 header_pages:
   - cartas_das_gestoras.md
-  - morning_calls.md
+  - feed.md
   - metodologia.md
   - about.md
 collections:
