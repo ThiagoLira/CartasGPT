@@ -18,7 +18,3 @@ permalink: /feed/
   <br>
   <br>
 {% endfor %}
-
-</div>
-
-
