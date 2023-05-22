@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Feed
+permalink: /feed/
 ---
 
 <h2>Últimas Morning Calls e Cartas</h2>
