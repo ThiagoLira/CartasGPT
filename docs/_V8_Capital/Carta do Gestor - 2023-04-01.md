@@ -6,6 +6,7 @@ tag: Carta_do_Gestor
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Cenário externo: mercado financeiro americano enfrenta problemas de solvência em bancos regionais; 3 grandes bancos incorporados neste ano somam depósitos de $548 bilhões.

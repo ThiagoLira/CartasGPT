@@ -6,6 +6,7 @@ tag: Carta_do_Gestor
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Cenário econômico: taxas de juros básicas mantidas no Brasil a 13,75% a.a. e elevadas nos EUA para intervalo entre 4,75% e 5,00%; pressões inflacionárias na Europa; crescimento da economia chinesa impulsionado por consumo doméstico e retomada da construção.

@@ -6,6 +6,7 @@ tag: Carta_Estrategias
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Primeiros 100 dias do novo governo com descontinuação de políticas tóxicas, retomada de programas e digestão dos efeitos da intentona de 8 de janeiro.

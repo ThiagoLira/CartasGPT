@@ -6,6 +6,7 @@ tag: Visao_do_Gestor
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Percepção de afrouxamento monetário do Fed devido a dados mais fracos de atividade econômica e inflação, enfraquecendo o dólar

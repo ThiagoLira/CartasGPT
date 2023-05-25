@@ -4,6 +4,8 @@ title: Carta_Mensal
 category: Legacy_Capital
 tag: Carta_Mensal
 date: 2023-04-01
+tipo: Carta
+twitter: false
 ---
 
 - Alívio de tensões associadas aos eventos do mês anterior

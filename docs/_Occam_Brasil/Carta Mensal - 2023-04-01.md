@@ -6,6 +6,7 @@ tag: Carta_Mensal
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Stress financeiro nos EUA persiste, First Republic Bank torna-se insolvente

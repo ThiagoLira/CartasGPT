@@ -6,6 +6,7 @@ tag: Cenario_Macroeconomico
 date: 2023-04-01
 GPT: gpt-3.5-turbo
 tipo: Carta
+twitter: false
 ---
 
 

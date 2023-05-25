@@ -6,6 +6,7 @@ tag: Resenha_Mensal
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Guerra da Ucrânia completa 14 meses sem perspectiva de negociações diplomáticas

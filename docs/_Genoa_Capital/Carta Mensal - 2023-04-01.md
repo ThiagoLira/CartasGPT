@@ -6,6 +6,7 @@ tag: Carta_Mensal
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Crise bancária nos EUA afeta First Republic Bank, parcialmente vendido ao JP Morgan

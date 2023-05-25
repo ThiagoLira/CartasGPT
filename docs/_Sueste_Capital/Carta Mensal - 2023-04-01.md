@@ -6,6 +6,7 @@ tag: Carta_Mensal
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Abril: preocupação com instabilidade financeira, foco em impacto no mercado de crédito

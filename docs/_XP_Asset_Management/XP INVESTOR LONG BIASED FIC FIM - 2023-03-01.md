@@ -4,6 +4,7 @@ title: Lamina
 category: XP_Asset_Management
 tag: XP_INVESTOR_LONG_BIASED_FIC_FIM
 date: 2023-03-01
+twitter: false
 ---
 
 - Estratégia Long-biased com análise fundamentalista

@@ -6,6 +6,7 @@ tag: VERDE_FIC_FIM
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Fundo Verde teve ganhos em abril nas posições de commodities, ouro e petróleo, juros longos europeus, e bolsa global

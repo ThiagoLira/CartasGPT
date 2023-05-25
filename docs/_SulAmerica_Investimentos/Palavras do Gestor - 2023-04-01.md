@@ -6,6 +6,7 @@ tag: Palavras_do_Gestor
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Volatilidade no mercado de crédito em abril; spreads de crédito corporativo aumentam ao longo do mês

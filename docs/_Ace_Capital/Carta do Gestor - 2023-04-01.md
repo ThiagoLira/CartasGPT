@@ -6,6 +6,7 @@ tag: Carta_do_Gestor
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Fundo Ace Capital FIC FIM obteve ganho de 0,61% em abril e 4,61% no acumulado do ano

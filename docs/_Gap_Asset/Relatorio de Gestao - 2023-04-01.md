@@ -6,6 +6,7 @@ tag: Relatorio_de_Gestao
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Resultado negativo em abril devido a posições em bolsa internacional, vendidas no real e aplicadas em juros emergentes

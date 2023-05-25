@@ -6,6 +6,7 @@ tag: Carta_Economica
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Ausência de notícias sobre crise bancária nos EUA diminui aversão a risco nos mercados;

@@ -4,6 +4,8 @@ title: Carta_Mensal
 category: Legacy_Capital
 tag: Carta_Mensal
 date: 2023-03-01
+tipo: Carta
+twitter: false
 ---
 
 - Colapso de dois bancos regionais nos EUA e absorção de um banco suíço de grande porte por outro, gerando tensão nos mercados

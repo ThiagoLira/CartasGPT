@@ -6,6 +6,7 @@ tag: Carta_Macroeconomica
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Economia americana enfrenta inflação e desaceleração do crescimento econômico

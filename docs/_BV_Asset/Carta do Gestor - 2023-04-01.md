@@ -6,6 +6,7 @@ tag: Carta_do_Gestor
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Volatilidade no ambiente externo retrocedeu em abril

@@ -5,6 +5,7 @@ category: Valora_Investimentos
 tag: Carta_Mensal
 date: 2023-04-01
 GPT: gpt-4
+twitter: false
 ---
 
 - Melhora geral nos mercados e ativos de risco globais em abril

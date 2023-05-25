@@ -6,6 +6,7 @@ tag: Revista_Mensal
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Cenário macroeconômico otimista em abril, superando ameaças de crise e perspectivas após fim do ciclo de alta de juros nos EUA

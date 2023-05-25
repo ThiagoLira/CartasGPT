@@ -6,6 +6,7 @@ tag: Cenario_Economico
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Arcabouço fiscal brasileiro é preocupante, com falta de mecanismos para garantir metas de resultado primário e exceções ao limite de despesa

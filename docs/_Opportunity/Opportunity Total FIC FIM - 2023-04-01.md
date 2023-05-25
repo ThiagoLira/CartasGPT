@@ -6,6 +6,7 @@ tag: Opportunity_Total_FIC_FIM
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
+twitter: false
 ---
 
 - Crises no sistema financeiro norte-americano e europeu, decorrentes da liquidação do Silicon Valley Bank (SVB) e incorporação emergencial do Credit Suisse pelo UBS
