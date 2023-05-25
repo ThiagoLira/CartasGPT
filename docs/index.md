@@ -2,21 +2,6 @@
 layout: default
 ---
 
-<style>
-  .column {
-    float: left;
-    width: 40%;
-    padding: 29px;
-  }
-
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-</style>
-
-
 <div class="row">
   <div class="column">
     <h2>Resumo - Abr/23</h2>
