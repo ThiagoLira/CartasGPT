@@ -4,6 +4,8 @@ title: Relatorio_de_Gestao
 category: Verde_Asset_Management
 tag: VERDE_FIC_FIM
 date: 2023-03-01
+GPT: gpt-4
+tipo: Carta
 twitter: false
 ---
 

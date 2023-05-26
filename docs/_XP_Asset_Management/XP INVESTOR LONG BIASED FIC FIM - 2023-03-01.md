@@ -4,6 +4,7 @@ title: Lamina
 category: XP_Asset_Management
 tag: XP_INVESTOR_LONG_BIASED_FIC_FIM
 date: 2023-03-01
+tipo: Lamina
 twitter: false
 ---
 
@@ -20,7 +21,7 @@ twitter: false
 - FED aumentou juros americanos em 25bps; BCB manteve Selic estável, com alerta sobre riscos inflacionários
 <a href="#" onclick="search_on_pdf('com o FED decidindo subir mais 25bps do juro americano e o BCB mantendo a taxa Selic estável, porém,')">Ref</a>
 - Governo brasileiro anunciou novas regras fiscais para controle de gastos e arrecadação
-<a href="#" onclick="search_on_pdf('existentes. No mercado local, o mês foi focado na agenda �scal. O governo anunciou novas regras para')">Ref</a>
+<a href="#" onclick="search_on_pdf('existentes. No mercado local, o mês foi focado na agenda  scal. O governo anunciou novas regras para')">Ref</a>
 - Principais contribuições positivas: ENGI e GGBR; negativas: LREN e RECV
 <a href="#" onclick="search_on_pdf('controle de gastos e também de arrecadação. As principais contribuições positivas no mês foram as aç')">Ref</a>
 - Redução de exposição em HYPE; abertura de posição em GGBR e PRIO
