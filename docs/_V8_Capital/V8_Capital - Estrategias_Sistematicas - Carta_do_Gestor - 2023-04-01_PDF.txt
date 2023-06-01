@@ -1,0 +1,433 @@
+Carta do Gestor
+Estratégias Sistemáticas
+Abril de 2023Prezados investidores, 
+No mundo dos investimentos, risco não é um conceito totalmente pacificado. Apesar de definições como
+volatilidade2 e beta3 serem populares e amplamente ensinadas nas escolas de finanças, vários investidores
+discordam frontalmente dessas ideias. Para muitos profissionais a volatilidade dos preços está mais para uma
+oportunidade do que para um risco.
+Tradicionalmente, risco é visto como algo negativo. O dicionário de Oxford define risco como a “probabilidade de
+perigo, geralmente com ameaça física para o homem e/ou para o meio ambiente”. Porém, essa definição é
+incompleta e ignora uma dimensão importante do ato de tomar risco. O verbo arriscar vem do italiano risicare4,
+como no provérbio antigo chi non risica non rosica: “quem não arrisca não petisca”, ou seja, intuitivamente
+esperamos que exista um trade-off entre risco e oportunidade.
+Um problema de assumir que risco é igual a volatilidade ou ao beta é que os eventos econômicos e financeiros
+são muito heterogêneos e muitas vezes os dados históricos não refletem todas as nuances específicas de cada
+situação. Frank Knight, um dos fundadores da escola de Chicago, propôs que risco e incerteza devem ser tratados
+como coisas diferentes5. Para o economista o risco seria algo quantificável e associado a um grande número de
+eventos com características parecidas – essa é a natureza das probabilidades atuariais e é o mundo dos
+engenheiros, físicos e estatísticos. Já a incerteza seria o problema que os empresários e investidores enfrentam e
+não estaria sujeita a cálculos numéricos devido à falta de experiências passadas capazes de refletirem
+exatamente as mesmas condições de temperatura e pressão de uma situação específica de incerteza.
+Dadas as limitações das ferramentas estatísticas, não surpreende que muitos value investors desdenhem dos
+métodos quantitativos de gestão de risco, acolham a volatilidade dos mercados como algo positivo e defendam
+conceitos alternativos como a “possibilidade de perda permanente de capital”. Afinal, as críticas são válidas e
+guardam alguma relação com a realidade. De fato, a volatilidade dos mercados eventualmente permite que
+investidores comprem ou vendam ativos a preços descolados de suas estimativas de valor justo e a capacidade
+de suportar a volatilidade negativa no curto-prazo viabiliza que retornos expressivos sejam capturados em
+algumas situações. Entretanto, essas ideias também têm limitações, pois são muito subjetivas.
+O que significa, objetivamente, a possibilidade de perda permanente de capital? É a chance de uma empresa falir?
+Ou seria a possibilidade de que nossos investidores resgatem seus recursos e de que sejamos com isso
+obrigados a zerar nossas posições a qualquer preço? Qual o horizonte de investimentos que estamos falando?
+Será que um investidor que precisa investir recursos para financiar um fluxo de gastos ao longo do tempo
+realmente não precisa se preocupar com a volatilidade da sua carteira? E se uma crise acontecer exatamente
+quando um investidor estiver próximo à sua aposentadoria? Nesse caso, quem está mais alocado em ativos mais
+voláteis, como a bolsa, não estaria tomando mais risco?
+Apesar das críticas, o beta e a volatilidade também podem ser considerados métricas intuitivas de risco. Ações
+são mais voláteis que títulos de renda-fixa, as techs são mais voláteis e tem mais beta que os papéis das utilities e
+as criptomoedas são mais voláteis que ações. A volatilidade realizada nos últimos 30 dias de um portfólio de t-
+bills foi de 0,22%, enquanto para o S&P500 a volatilidade foi de 10,89% e para o Bitcoin foi de 39,54%, por
+exemplo.
+“Volatility is not synonymous of risk but – for those who truly understand it – of wealth.1”
+Francois RochonÉ muito difícil argumentar que uma posição em um título público, que representa uma dívida do governo, tem
+mais risco que uma posição no equity de uma empresa. Ou que uma posição em uma criptomoeda tem menos
+risco que uma participação em um negócio. Nesse sentido, a volatilidade é sim uma boa representação do risco
+subjacente dos ativos. Ademais, para um mesmo retorno esperado, investir em ativos mais voláteis aumenta a
+chance que o investidor não atinja seus objetivos.
+Com relação ao trade-off risco-retorno, o CAPM6 - que foi desenvolvido em conjunto por Sharpe, Lintner e Mossin
+nos anos 1960 - é um dos modelos mais famosos da teoria financeira moderna até hoje e fornece um framework
+que busca compreender como o retorno esperado de um ativo estaria associado ao seu nível de risco. De acordo
+com o CAPM, quanto maior o risco sistêmico de uma ação, maior seu retorno. O risco sistêmico, por sua vez, é o
+beta da ação em relação ao mercado, tal que ações com beta maior/menor que 1 são mais/menos arriscadas que
+o mercado. Além disso, matematicamente, quanto maior/menor o beta também maior/menor é a volatilidade7.
+Assim, de acordo com o modelo, ativos com beta alto e mais volatilidade, i.e. ativos mais “arriscados”, deveriam ter
+um retorno esperado maior como uma compensação pelo risco de performar pior que o mercado em janelas de
+retorno negativo.
+Com isso, podemos concluir que não é razoável ignorar completamente métricas como a volatilidade e o beta
+para representar o risco dos ativos. Em geral, ativos mais voláteis e com mais beta estão associados a
+instrumentos financeiros mais arriscados. Isso talvez não seja novidade para a maioria dos nossos leitores, mas o
+que é surpreendente é que a evidência empírica mostra que ativos mais voláteis e com mais beta NÃO tem
+retorno esperado maior! Os dados mostram exatamente o contrário: no longo-prazo, ativos com menos
+volatilidade e menos beta tendem a ter um retorno ajustado ao risco maior que seus pares mais “arriscados”.
+Essa anomalia em relação ao CAPM é observada em diversos mercados diferentes – inclusive no Brasil. Nessa
+carta vamos explorar e detalhar os resultados, benefícios e riscos das estratégias que focam em ativos com
+volatilidade e beta mais baixos, além de discutir as possíveis razões por trás desse fenômeno. Esses fatores são
+conhecidos como baixa volatilidade (low vol) e BAB8 e são uma adição importante aos nossos books de fatores,
+pois são uma forma de construirmos portfólios mais eficientes de ações, com mais retorno esperado e
+simultaneamente reduzindo volatilidade.
+Por fim, ao final dessa carta também discursamos brevemente sobre o cenário macro atual e sobre os resultados
+dos nossos fundos de renda variável, o V8 Veyron Smart Beta FIC FIA e o Speedway FIC FIM.
+Boa leitura!
+Cripto
+Bitcoin
+Ethereum
+Polkadot
+Avalanche
+Solana
+Dogecoin
+Bolsa
+Nasdaq
+Hang Seng
+Ibovespa
+Câmbio
+MXN
+CHF
+GBP
+EUR
+JPY
+BRL
+Renda Fixa
+Bloomberg US 
+Treasury Bills To
+Bloomberg Pan-
+European High Yi
+Bloomberg EM 
+USD Aggregate 
+Tot
+Bloomberg US 
+Treasury 1-5 Yr 
+T
+Bloomberg US 
+Corporate Total 
+R
+Bloomberg U.S. 
+Gráfico 1 – Matriz de Volatilidade (30d Vol) Quanto mais “risco”, mais volatilidade 
+Fonte: Bloomberg | Elaboração: V8 CapitalFatores de low vol e BAB
+Já nos anos 1970 começaram a surgir artigos acadêmicos desafiando o CAPM. Black, Jensen e Scholes (1972),
+por exemplo, mostraram que o excesso de retorno das ações não é estritamente proporcional aos seus
+betas, como esperaríamos que fossem caso as conclusões do CAPM fossem verdadeiras. Mais
+recentemente, Ang, Hodrick, Xing e Zhang (2006) expuseram que ações americanas com alta volatilidade
+obtiveram retornos negativos anormais no período entre 1963-2000 e Frazzini e Pedersen (2014)
+demonstraram que ativos com beta mais baixo outperformaram seus pares de beta alto entre os anos de
+1926 e 2012.
+Essas descobertas são notavelmente consistentes e robustas.
+Ambos os fatores já foram observados em vários mercados,
+para diversas métricas alternativas de risco e em janelas
+temporais diferentes. Blitz e Vliet (2007) mostraram que para o
+universo de ações que compunham o FTSE World Developed
+Index no período 1985-2006, o excesso de retorno do decil com
+volatilidade mais baixa supera o decil oposto em 5,9% a.a. Ao
+desagregar os papéis entre EUA, Europa e Japão a conclusão é
+a mesma, conforme o gráfico 2 ao lado.
+Curiosamente, no mesmo estudo, observamos que o retorno
+dos decis com volatilidades mais baixas não superam o retorno
+médio do mercado de forma expressiva. Não obstante, como a
+volatilidade desses decis é muito inferior à volatilidade do
+mercado, o sharpe dessas carteiras é consideravelmente maior.
+Assim, mesmo um investidor restrito a operar apenas comprado
+poderia se beneficiar e aumentar seu retorno ajustado ao risco
+se concentrasse sua carteira em ativos menos voláteis.
+As conclusões para o fator BAB são análogas. Frazzini e Pedersen (2014) exploraram os resultados inclusive
+para outras classes de ativos, como renda fixa e commodities, e chegaram em resultados semelhantes. Ao
+fatiar o universo de ativos em decis, o sharpe decresce de forma aproximadamente monotônica dos decis de
+beta mais baixo até os ativos com mais beta. Desde 1988 o BAB para equities obteve um retorno médio de
+8,9% a.a. entre diversos agregados regionais diferentes, conforme o gráfico 3 abaixo mostra.
+Fonte: The volatility effect: lower risk without lower return. 
+Blitz e Vliet (2007). Elaboração:  V8 Capital.
+Gráfico 2 – Fator Low Vol a.a. (3yr vol) 
+Global
+US
+Europa
+Japão
+Univ
+Evidência Internacional
+Gráfico 3 – Retorno acumulado hipotético (12/1988 = 100)
+Fonte:  AQR. Betting Against Beta Equity Factors Daily Dataset. Elaboração própriaFatores
+Universo
+Cash Neutral
+Beta Hedged
+BAB (2yr Beta)
+ Retorno anualizado
+  Volatilidade a.a.
+  Beta
+  Sharpe
+Low Vol (260d Vol)
+ Retorno anualizado
+  Volatilidade a.a.
+  Beta 
+  Sharpe 
+Ambos os prêmios Q1-Q4 são positivos. Entretanto, os betas desses prêmios contra o universo são negativos
+em -0,78 e -0,88, para os fatores BAB e low vol, respectivamente. Por construção, como as estratégias long-
+short estão compradas em ativos com menos volatilidade e menos beta e vendidas em ativos com
+características opostas, a posição cash-neutral tem exposição negativa ao mercado. Assim, os retornos das
+estratégias são muito negativos durante regimes de alta do universo de ações e outperformam bastante
+durante os mercados de baixa.
+Para visualizar o desempenho dos fatores de uma forma mais limpa, neutralizamos a exposição das
+estratégias ao mercado utilizando uma metodologia equivalente à utilizada em Frazzini e Pedersen (2014)9 e,
+por simplicidade, assumimos betas estáticos10 iguais aos betas dos Qs para todo o intervalo analisado (ver
+tabela acima). Essa implementação alternativa significa que o investidor irá assumir uma posição financeira
+net-comprada, pois os betas das carteiras short são mais de 2 vezes os betas das carteiras long, assim é
+preciso investir mais dinheiro na carteira long relativamente à carteira short para que os betas das
+estratégias long-short sejam iguais a zero.
+Conforme observamos na tabela acima, há uma melhoria significativa não somente nos prêmios, mas
+também em termos de volatilidade e sharpe (o gráfico 4 acima já considerada as estratégias neutralizadas).
+Com isso, podemos concluir que os fatores de low vol e BAB também ocorrem no mercado local.
+Fonte: Bloomberg | Elaboração: V8 Capital
+Fatores de low vol e BAB
+Desempenho no Mercado Local
+Para ilustrar o desempenho no Brasil
+consideramos a volatilidade histórica para
+uma janela de 260 dias e o beta dos
+papéis contra o Ibovespa em uma janela
+de 2 anos. Adicionalmente, em linha com
+nossas cartas anteriores particionamos o
+IBrX-100 em quartis, tal que o primeiro
+quartil (Q1) é composto pelos 25% papéis
+menos voláteis e com os betas mais
+baixos e o último quartil (Q4) pelos papéis
+mais voláteis e com os maiores betas. Em
+seguida, montamos duas estratégias long-
+short, uma para cada fator, que compram
+o Q1 e vendem o Q4 mensalmente,
+durante o período de 186 meses entre
+maio de 2007 e dezembro de 2022.
+Conforme a evidência internacional, apesar
+do prêmio baixo em comparação ao
+universo, o Q1 do BAB possui um sharpe
+maior, de 0,54 contra 0,37 para o universo.
+No caso do fator de low vol, há um prêmio
+mais
+significativo
+de
+sobre
+o
+universo,
+com
+sharpe
+de
+0,73.
+As
+volatilidades de ambos os fatores, em
+17,2% e 16,8% para o BAB e low vol,
+respectivamente, são melhores que os
+23,7% do universo.
+BAB
+Low Vol
+Gráfico 4 – Retorno acumulado hipotético (05/2007 = 100)Fatores de low vol e BAB
+Até hoje, tanto na academia quanto no mercado, não existe consenso quanto às razões exatas que explicam
+os prêmios dos fatores. Entretanto, as possíveis explicações para todos os fatores se dividem em argumentos
+baseados no risco, em vieses comportamentais e/ou em explicações estruturais. Em nossas últimas cartas
+tivemos a oportunidade de introduzir alguns argumentos baseados no risco e em vieses comportamentais.
+Para o fator Valor um dos argumentos é de que as empresas mais baratas têm mais risco, pois são negócios
+que tipicamente vêm de uma tendência negativa de resultados e/ou estão inseridas em setores mais cíclicos,
+por exemplo. Falamos também do fator Momentum, onde uma das razões possíveis é que existe um viés
+comportamental de reação atrasada à novas informações, o que causaria tendências nos preços dos ativos.
+No caso dos fatores BAB e low vol os argumentos se baseiam em pontos comportamentais e estruturais.
+Baker, Bradley e Wurgler (2011), por exemplo, sugerem que a explicação para o fator de baixa volatilidade é a
+interação entre o comportamento irracional de alguns investidores do varejo (viés comportamental) e limites
+de arbitragem (explicações estruturais) que impedem que investidores mais informados explorem essa
+ineficiência de mercado. A tese defende que os investidores de varejo teriam uma preferência por ativos com
+características de loteria que, somada com os vieses de representatividade e excesso de confiança,
+aumentaria a demanda por ativos voláteis tal que seus preços ficariam sobrevalorizados. O argumento
+estrutural por sua vez – que também vale para os ativos de beta baixo – argumenta que os limites
+regulatórios de alavancagem e os incentivos econômicos do mercado (que remuneram os gestores com
+base em performance relativa) desincentivam os investidores profissionais a investirem em ativos com beta
+baixo e baixa volatilidade – pelo contrário, esses investidores teriam um custo de oportunidade alto de
+desviar dos índices, pois eles são incentivados a minimizar o tracking error11 de suas carteiras.
+Você aceitaria uma aposta com chance de 50% de perder R$ 100 contra uma chance de 50% de ganhar R$
+110? Provavelmente não, apesar da aposta ter um valor esperado positivo. Porém, caso fosse oferecida uma
+aposta com chance de 99,88% de perder R$ 1,00 e 0,12% de ganhar R$ 500 a maioria das pessoas aceitaria,
+apesar do valor esperado um pouco negativo. Essa tendência representa a preferência por apostas com
+característica de loteria. Adicionalmente, normalmente lembramos mais de casos que deram muito certo,
+como MFST, AMZN e MGLU e desconsideramos a grande quantidade de ações com características
+semelhantes à época que deram errado. Fora tudo isso, a maioria das pessoas tem uma confiança excessiva
+na própria capacidade do prever o futuro. Quando somamos todos esses vieses, a hipótese é de que muitos
+investidores de varejo teriam uma preferência pelos ativos “assimétricos”, ou, em outras palavras, ativos que
+tem uma probabilidade baixa de valorizarem expressivamente, porém com alta probabilidade de entregarem
+retornos ruins.
+É curioso que ao analisarmos os papéis atuais das
+carteiras compostas pelo Q4 dos fatores de low vol e
+BAB no Brasil, de fato encontramos tickers bastante
+populares entre o varejo, como VIIA3, MGLU3,
+COGN3 e CASH3. Alguns desses papéis inclusive
+tiverem alta atividade em fóruns e redes sociais
+durante o último bull-market, corroborando com a
+hipótese de preferência por ativos com característica
+de loteria. No exterior podemos citar o caso do fórum
+Wall Street Bets na rede social Reddit, onde casos
+como GME e AMC ficaram bastante famosos.
+Meme do fórum Wall Street Bets no Reddit. Onde investidores de varejo 
+trocam dicas e análises sobre oportunidades de investimento.
+Por que as estratégias funcionam?Conclusão
+As pessoas dizem que não dá para ter tudo na vida. Mas quando o assunto é retorno e volatilidade, os dados
+são convincentes: é possível ter mais retorno com menos volatilidade. Apesar da evidência empírica dos
+fatores low vol e BAB contradizer o CAPM, que até hoje é utilizado em diversos contextos como na
+precificação de empresas e avaliação de projetos, os dados mostram claramente que há edge em comprar
+ativos com menos volatilidade e beta, comparativamente aos seus pares opostos.
+Pelo ponto de vista da gestão de carteiras de ações essas descobertas são muito positivas, pois permitem a
+construção de portfólios com sharpe mais alto, tanto por uma melhora na expectativa de retornos quanto
+pela redução de volatilidade. Entretanto, essas estratégias não estão disponíveis para todos os investidores. A
+implementação das estratégias de baixa volatilidade e baixo beta exigem um desvio significativo dos
+benchmarks e/ou a utilização de estruturas de investimentos mais complexas, como fundos long-short que
+precisam operar vendidos e/ou alavancados para capturar o prêmio dos papéis com menos risco.
+Em nosso fundo de ações long-only (V8 Veyron Smart Beta FIC FIA) utilizamos uma abordagem multifatores
+onde os fatores de baixa volatilidade e baixo beta fazem parte de um conjunto grande de fatores que
+consideramos para compor nossos portfólios e, no caso da nossa estratégia long-short (Speedway FIC FIM),
+como não temos restrição em operar vendidos temos mais liberdade que o investidor médio para capturar
+prêmios como low vol e BAB.
+Até agora discutimos os fatores de Valor, Momentum e low vol/BAB. Para completar os fatores “tradicionais”,
+a partir da próxima carta vamos começar a discutir os fatores de qualidade. Para os leitores mais
+interessados em análise fundamentalista, os fatores de qualidade são um prato cheio, pois vamos explorar
+com mais detalhes alguns fundamentos que são reportados das empresas que estão de fato associados a
+retornos esperados positivos. Até a próxima carta!
+Obrigado pela confiança!
+¹ Volatilidade não é sinônimo de risco, mas – para aqueles que realmente a entendem – de riqueza. 
+2 A volatilidade é equivalente ao desvio-padrão dos retornos. Comumente é calculada em janelas móveis e é expressa como uma taxa anualizada. 
+3 Para os leitores mais inclinados matematicamente: O beta (β) é o coeficiente da regressão linear ( Ri - Rf )=∝ + βi ( Rm- Rf ) + ε. Representa a sensibilidade do ativo ao prêmio 
+de risco do mercado ( Rm – Rf ) e é considerado uma medida de risco sistêmico, i.e. quanto maior o beta maior o risco do ativo. 
+4 Bernstein, 1996.
+5 Risk, Uncertainty and Profit (1921).
+6 Capital Asset Pricing Model.
+7   𝜎𝑖 =
+𝛽𝑖
+2𝜎𝑚2 + 𝜎𝜀,𝑖
+2 onde 𝜎𝑖, 𝛽𝑖 e 𝜎𝜀,𝑖 são a volatilidade, beta e risco idiossincrático do ativo i e 𝜎𝑚 é a volatilidade do mercado.
+8 Betting Against Beta. Em português: “apostando contra o beta” (Frazzini e Pedersen, 2014).
+9 De forma parecida com Frazzini e Pedersen (2014), para ajustar os retornos das estratégias long-short fazemos 𝑟 =
+𝛽𝑞4 𝑟𝑄4 .Considerando, por exemplo, que os 
+betas do BAB para o Q1 e Q4 são 0,62 e 1,40, respectivamente, a estratégia neutralizada do BAB fica long R$ 1,62 no Q1 e short R$ 0,71 no Q4. Com isso, essa implementação 
+fica net-long em R$ 0,91.
+10 É importante salientar que isso é uma simplificação, visando deixar nossa discussão o mais intuitiva possível. Na realidade utilizamos betas projetados para as carteiras. 
+Esses betas são dinâmicos e mudam conforme as carteiras e as condições de mercado.
+11 Tracking error é a volatilidade do excesso de retorno do portfólio contra um benchmark de referênciaDesempenho das Estratégias – ICVM 555
+Ao longo do mês de abril o mercado continuou digerindo a crise dos bancos regionais americanos. Durante
+o mês mais um banco regional colapsou: o First Republic Bank foi o segundo maior bailout da história
+americana. Preocupações com a severidade do problema e a realização de que talvez seja muito cedo para
+considerar que a crise no setor bancário está superada causaram bastante volatilidade na bolsa na última
+semana do mês. O Western Alliance Bancorp e o Pacwest Bancorp desvalorizaram 8,55% e 10,10% na
+semana, por exemplo.
+A crise no crédito fortalece o cenário de contração na atividade econômica americana nos próximos 3 a 12
+meses. Na última reunião do FOMC o FED aumentou a taxa básica em 25bps, porém reconheceu que a
+compreensão do impacto que a crise dos bancos terá sobre a economia e inflação serão fatores importantes
+para decidir os próximos passos do comitê. Com isso, ao longo do mês os ativos negociaram como se
+estivéssemos próximos ao fim do ciclo global de aperto monetário. Os futuros de juros americanos já estão
+precificando cortes na fed funds a partir de julho, o S&P500 fechou o mês em alta de 1,46% e o DXY em
+queda de 0,83%.
+Adicionalmente, Wall Street tem ficado cada vez mais ansiosa com a aproximação do limite da dívida pública
+nos EUA. A secretária do tesouro, Janet Yellen, entende que o governo consegue evitar um default técnico
+apenas até o início de junho. Com o congresso dividido entre Republicanos e Democratas as negociações
+para aprovar o aumento no debt ceiling (atualmente em US$ 20,45 trilhões) estão tensas. Os Republicanos
+estão demandando contrapartidas, como a redução no nível de gastos do orçamento, para aprovar o
+aumento no teto de gastos. Em 2011 o presidente Obama enfrentou um problema semelhante e os títulos
+americanos sofreram um downgrade pela S&P. Entendemos que esse é um risco importante a ser
+monitorado, pois um cenário semelhante a 2011 seria bastante negativo para os ativos de risco.
+No Brasil continuamos à espera das definições do arcabouço fiscal. A proposta já foi entregue à Câmara e
+em breve teremos uma visibilidade mais objetiva do plano. Em linha com o que expusemos na carta anterior,
+por enquanto o arcabouço parece tirar da mesa o risco de cauda de um espiral negativo da dívida até o final
+desse governo, mas como depende de um aumento na receita para parar de pé, aumenta a probabilidade de
+termos um aumento de carga tributária até o final do governo. Em um sinal de suas intenções arrecadatórias,
+em abril o governo publicou a MP 1171/2023 que, apesar de aumentar a faixa de isenção do IRPF,
+surpreendeu o mercado com um aumento atabalhoado na tributação de investimentos no exterior que, pela
+complexidade e importância do tema, teriam sido melhor introduzidas e discutidas por outros meios que não
+uma medida provisória. Além disso, a comunicação do governo em assuntos como uma possível reversão da
+privatização da Eletrobrás e a independência do BCB continuam afetando negativamente o nível de
+sentimento do mercado.
+Do lado da política monetária, o BCB manteve novamente a taxa Selic estável em 13,75%, mas trouxe alguns
+sinais relativamente dovish no comunicado. Nas previsões do próprio BCB o cenário de manutenção de juros
+e a redução dos riscos fiscais leva a inflação de 2024 para as metas, o que sugere que o início de um ciclo de
+baixa está se aproximando. Atualmente a curva de DIvsPré já está precificando uma Selic abaixo de 12% até
+a reunião do Copom de janeiro de 2024. Considerando que o nível de juro real está acima do neutro há mais
+de um ano e que o mercado de crédito continua apertado, as condições econômicas sugerem que iremos
+passar por uma desaceleração da economia nos próximos meses, o que corrobora com o cenário de um
+início de ciclo de baixa no próximo semestre.
+V8 Veyron Smart Beta FIC FIAAtribuição de Performance por Setor – Abril de 2023
+Atribuição de Performance por Setor – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+Desempenho das Estratégias – ICVM 555
+mantém exposição a 41 empresas e 22 segmentos
+diferentes. O maior overweight setorial está no setor de
+Utilidade Pública.
+Em ambas as nossas estratégias decidimos manter
+nossas posições em PETR via opções. A Petrobrás deve
+gerar bastante caixa ao longo dos próximos trimestres e
+está negociando a um valuation muito descontado - e
+por
+isso
+fica
+bem
+ranqueada
+nos
+nossos
+scores
+multifatores. Entretanto, as perspectivas de mudanças no
+direcionamento estratégico da empresa introduzem um
+risco
+binário
+que
+entendemos
+que
+é
+mais
+bem
+equacionado via a compra de calls, ao invés de ficarmos
+comprados diretamente nas ações da cia.
+Retorno Acumulado
+Rentabilidade Mensal
+Período
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+FUNDO
+ANO
+IBOV
+ANO
+FUNDO
+ACUM.
+IBOV
+ACUM.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 6.914.771,33 
+Patrimônio Médio 12 Meses: R$ 21.764.484,86
+Fonte: Quantum | Elaboração: V8 Capital
+O V8 Veyron Smart Beta FIC FIA fechou abril em linha com o Ibovespa, em alta de 2,45%. No ano o fundo
+acumula uma queda de 3,13% e supera o índice em 1,70%. No mês o setor Financeiro foi o maior destaque
+positivo, enquanto o segmento de Materiais Básicos continuou se destacando negativamente. Atualmente o
+fundoEndereço: Rua Castilho, 392, conjunto 51, Brooklin, São Paulo, SP
+Relações com Investidores
+Nossos Distribuidores
+Este documento tem o único propósito de divulgar informações e dar transparência à gestão executada pela V8 Capital Gestão de
+Investimentos Ltda., não deve ser considerado como oferta de venda de cotas de fundos de investimento ou de qualquer título ou valor
+mobiliário e não constitui o prospecto previsto na regulamentação vigente ou no Código de Auto-Regulação da ANBIMA. A V8 Capital
+Gestão de Investimentos Ltda., não comercializa nem distribui cotas de fundos de investimento ou qualquer outro valor mobiliário. Ao
+investidor é recomendada a leitura cuidadosa do regulamento do fundo de investimento antes de aplicar os seus recursos. Os
+investidores não devem se basear nas informações aqui contidas sem buscar o aconselhamento de um profissional. A rentabilidade
+obtida no passado não representa garantia de rentabilidade futura. A rentabilidade divulgada não é líquida de impostos e taxas de saída.
+Fundos de Investimento não contam com a garantia do administrador do fundo, do gestor da carteira, de qualquer mecanismo de seguro
+ou, ainda, do Fundo Garantidor de Créditos - FGC. Os fundos Multimercados utilizam estratégias com derivativos como parte integrante
+de sua política de investimento. Tais estratégias, da forma como são adotadas, podem resultar em significativas perdas patrimoniais para
+Disclaimer
+seus cotistas, podendo inclusive acarretar perdas superiores ao capital aplicado e a consequente obrigação do
+cotista de aportar recursos adicionais para cobrir o prejuízo do fundo. Os fundos podem estar expostos a
+significativa concentração em ativos de poucos emissores, com os riscos daí decorrentes. Os Indicadores
+econômicos são meras referencias econômicas, e não metas ou parâmetros de performance. Para avaliação da
+performance de um fundo de investimento, é recomendável a análise, no mínimo, de 12(doze) meses.
