@@ -1,7 +1,6 @@
 Ace Capital
 Atmos Capital
 AZ Quest Investimentos
-Banrisul
 Bradesco Asset Management
 BV Asset
 BTG Pactual Asset Management
@@ -12,6 +11,7 @@ Genoa Capital
 JGP Asset Management
 Legacy Capital
 MAG Investimentos
+O3 Capital
 Occam Brasil
 Opportunity
 Porto Asset Management

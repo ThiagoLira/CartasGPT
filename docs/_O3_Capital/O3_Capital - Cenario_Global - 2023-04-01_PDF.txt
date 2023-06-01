@@ -1,0 +1,459 @@
+Cenário Macroeconômico Após a disrupção causada pelas quebras do SVB e do Signature Bank, seguidas
+por estresse financeiro e de expectativas, o cenário global começou a acalmar
+passado mais de um mês. As ações de fornecimento de garantias aos depósitos
+pelo FDIC, Tesouro Norte-Americano e FED evitaram uma corrida bancária,
+contendo o risco de liquidez bancária que se apresentava. O impulso negativo de
+crédito foi menor do que se previa inicialmente, e o cenário passou a voltar a
+permitir um ambiente de aperto monetário maior à frente, para combater a
+inflação que mantêm-se resiliente.
+Diante disso, nos EUA e Europa, as atenções foram se voltando lentamente para
+o combate à inflação, com perspectiva de juros mais elevados por mais tempo. A
+China confirmou dados fortes de atividade na retomada pós-lockdowns, e no
+Brasil as discussões em torno do arcabouço fiscal foram aprofundadas com a
+entrega do texto do projeto de lei proposto pelo Ministério da Fazenda, afetando
+as expectativas.
+Estados Unidos
+Os números do PIB do 1º trimestre para os EUA apresentaram um crescimento
+menor se comparado aos últimos dois trimestres, porém com um aumento
+significativo do consumo, especialmente de bens, indicando que a demanda
+continua
+aquecida
+nos
+EUA.
+Nesse
+mesmo
+sentido
+a
+inflação
+continua
+desacelerando lentamente, especialmente nos núcleos, bem como a inflação de
+salários. Esses resultados corroboram com a necessidade de uma política
+monetária austera para reequilibrar a economia e trazer a inflação à meta.
+PIB - EUA, Contribuições
+Consumo de Bens
+Consumo de Serviços
+Investimento não-residencial
+Investimento Residencial
+Inventories
+Exportações Líquidas
+Gastos do Governo
+GDP
+Fonte: BEA e O3 CapitalO grande dilema passa a ser a possibilidade de elevar os juros, ou ainda mantê-
+los em um patamar alto em um ambiente de risco bancário. À medida que os
+juros aumentam a fragilidade bancária e o risco de liquidez se tornam mais
+presentes, e qualquer choque pode ter uma repercussão muito maior na
+economia. Nesse ambiente, um choque transitório é amplificado, uma vez que as
+condições de crédito apertadas tendem a aprofundá-lo, aumentando a sua
+gravidade, o que
+faz com que seus efeitos sejam mais perenes. A economia
+como um todo fica mais debilitada.
+O presidente do FED, Jeremy Powell, afirmou que esse dilema pode ser resolvido
+pela própria contração de crédito promovida pelas condições mais apertadas
+diante do aumento de riscos. Nesse cenário a redução de empréstimos seria um
+substituto aos aumentos de juros pelo FED, de forma que a elevação dos juros
+depende do impulso atual de crédito na economia.
+Crédito Bancário (Todos os Bancos) - EUA 
+Semana das quebras do SVB e do Signature = 100
+Crédito Total
+Securities
+Empréstimos
+Fonte: FED e O3 Capital
+Depósitos Bancários (Todos os Bancos) - EUA 
+Semana das quebras do SVB e do Signature = 100
+Depósitos
+Large Time Deposits
+Fonte: FED e O3 CapitalO que se observou ao longo do mês foi que tanto o impulso negativo nos
+depósitos, que poderia levar à uma crise de liquidez nos bancos, quanto o
+impulso de contração de empréstimos, foram tímidos diante do receio inicial
+quando ocorreram as quebras dos bancos SVB e Signature.
+De fato, houve uma redução maior de depósitos nos bancos pequenos que
+migraram para os bancos maiores, e percebe-se que houve um aumento da
+competição entre bancos por depósitos, ao se oferecerem taxas de juros mais
+vantajosas nos “large time deposits”. Porém esses efeitos parecem estar sob
+controle, especialmente após a ampliação das políticas de garantias aos
+depósitos implementadas pelas autoridades.
+Também houve uma redução limitada de empréstimos à economia, seja às
+famílias ou às empresas. Os bancos reagiram ao aumento de risco reduzindo
+mais o crédito via securities e aumentando seus caixas, do que limitando a oferta
+de empréstimos.
+Em outras palavras, tanto o risco quanto o impacto agregado no crédito foram
+contidos. A implicação imediata é da possibilidade, e mesmo da necessidade, de
+uma política monetária mais austera, com perspectiva de juros mais elevados até
+o final do ano, pelo menos.
+China
+Em abril, tivemos a divulgação do PIB do primeiro trimestre e a confirmação do
+bom momento da atividade nesse início de ano. O crescimento de 4,5% YoY e
+2,2% no trimestre surpreendeu as expectativas do mercado, com o setor de
+serviços puxando a volta da atividade (contribuindo com aproximadamente 3
+dos 4,5 pontos de PIB na comparação interanual), conforme era de se esperar. As
+vendas no varejo, que já acumulam crescimento de 5,8% em termos nominais só
+no primeiro trimestre do ano, também confirmaram que o consumo será mesmo
+o grande motor de crescimento neste ano. Mais importante de tudo é que o
+consumo tem andado mesmo sem as famílias estarem, em tese, gastando seu
+excesso de poupança. Na realidade, o primeiro trimestre desse ano registrou um
+aumento de depósitos bancários das famílias na casa de 9,9 trilhões de yuans,
+acima dos 7,8 trilhões do ano passado e mais da metade dos 17,8 trilhões
+acumulados durante todo o ano de 2022.
+Os dados de crédito também foram novamente destaque esse mês, com a
+continuidade da expansão dos empréstimos para o setor privado do país, o que
+coloca viés positivo sobre nossas expectativas de crescimento do investimento
+esse ano, mas também apresentando pela primeira vez em um bom tempo uma
+recuperação relevante da demanda por empréstimos das famílias. O último
+destaque de março foi o setor externo, onde o saldo da balança comercial
+superou
+todas
+as
+expectativas
+e
+as
+exportações
+voltaram
+a
+apresentar
+crescimento positivo depois de 6 meses seguidos de queda.Os dados setoriais de março, entretanto, também nos indicam que o período de
+euforia com a reabertura pode estar no caminho de normalização. Os dados de
+produção industrial continuam com crescimento limitado, mesmo com o setor
+externo forte no mês. O investimento total da economia, mesmo com a
+expansão recorde do crédito (que possui defasagens para chegar à economia
+real), caiu em março, com uma pequena expansão no setor imobiliário sendo
+mais
+do
+que
+compensada
+por
+quedas
+no
+setor
+manufatureiro
+e
+de
+infraestrutura.
+No setor imobiliário, mesmo com a relevante expansão nas
+vendas de casas, construção de novas casas e vendas de terrenos seguem
+indicando que a atividade de construção civil ainda dá poucos sinais de
+recuperação. Além disso, o aumento de vendas de casas tem sido puxado pelas
+cidades mais desenvolvidas do país (as chamadas cidades Tier 1), enquanto as
+regiões mais afastadas dos centros, onde o problema do setor imobiliário é
+muito maior, seguem com níveis de vendas próximos aos do ano passado.
+Olhando para o mês de abril, os indicadores antecedentes que possuímos em
+mãos nos mostram que a expansão de atividade deve seguir em toada de
+suavização daqui para frente. Os PMIs para o mês enviaram uma mensagem
+importante: foi a primeira vez desde o fim do COVID-Zero (dezembro) que houve
+queda no indicador. Além disso, o PMI do setor industrial voltou à terreno
+contracionista. Os dados de mais alta frequência também indicam que vendas de
+casas e o setor externo terão crescimento menor em abril. Os dados de inflação
+de março, os indicadores de preços diários para abril (especialmente alimentos e
+commodities) e os componentes de preços dos PMIs também apontam para
+pressões inflacionárias bem tímidas no mês, assim como tem sido desde a
+reabertura da economia.
+O alto escalão do governo, o chamado Politburo Standing Committee, também
+enxerga (ou busca passar essa impressão no discurso) que o país ainda possui
+desafios relevantes ao crescimento e que a recuperação ainda não está
+completa, mesmo com os números melhores de atividade. Na sua reunião de
+abril (a primeira das três do ano), o comitê reconheceu, apesar da melhora, que a
+recuperação da demanda interna ainda não é sólida, que a transformação
+econômica do país ainda enfrenta obstáculos e que ainda há a necessidade de se
+recuperar a confiança dos agentes privados para solidificar o crescimento, se
+comprometendo
+em
+manter
+políticas
+fiscal,
+monetária
+e
+regulatória
+acomodativas. Dessa maneira, na nossa visão, o Politburo esvaziou qualquer
+temor que poderia existir no mercado de retirada de estímulos e aperto das
+condições econômicas de forma prematura, como ocorreu em outros ciclos de
+recuperação do país.Acreditamos que a meta de crescimento de “perto de 5%” do governo será
+facilmente alcançada (ela foi colocada em níveis baixos de forma proposital), mas
+é difícil acreditar em algum aperto monetário/fiscal daqui para frente, à medida
+que a economia ainda enfrenta fraquezas (conjunturais e também estruturais)
+relevantes. Seguimos acreditando que a assimetria segue na direção de possíveis
+cortes de juros e/ou maiores injeções de liquidez, e não o contrário, à medida
+que pressões inflacionárias domésticas se mantêm contidas, o FED chega perto
+do final do seu ciclo de alta, o yuan se recuperou dos seus piores momentos e
+alguns pontos da economia chinesa em específico seriam extremamente
+prejudicados por um aperto prematuro de condições monetárias (especialmente
+o setor imobiliário e a situação fiscal dos governos das
+províncias e de seus
+veículos de investimento estatal, os LGFVs – Local Government Financing
+Vehicles).
+Europa
+Após a quebra do SVB no começo de março, grande parte da preocupação dos
+mercados estava direcionada ao nível de stress financeiro e às condições de
+crédito na zona do euro. No começo de abril o índice de stress financeiro do
+Banco Central Europeu (BCE) teve uma queda significativa em comparação com
+as últimas semanas do mês de março, indicando queda no cenário de incerteza
+do setor bancário ao redor dos países da região.
+Fonte: Dados do Bloomberg e elaboração O3 Capital
+Índice de Stress Financeiro do Banco Central EuropeuAlém do indicador de stress financeiro, diversos membros do comitê de política
+monetária ressaltaram que a autoridade monetária se encontra em fase intensa
+de “data-dependency”, sendo que os últimos dados preliminares de PIB e
+inflação — que foram divulgados no final de abril e início de maio — resumem o
+conjunto de informações mais importantes para a próxima reunião de decisão da
+taxa de juros que acontecerá no dia 04 de maio. Seguindo nessa linha, a zona do
+euro
+registrou
+um
+crescimento
+do
+PIB
+levemente
+abaixo
+do
+esperado,
+configurando variação trimestral, já com ajuste sazonal, de 0.1% ou 0.4% na taxa
+anualizada no primeiro trimestre de 2023.
+Fonte: Dados do EUROSTAT e elaboração O3 Capital
+Apesar de os dados de crescimento seguirem relativamente em linha com as
+médias das previsões, houve certa heterogeneidade no crescimento entre as
+principais economias da região. Por exemplo, a Alemanha registrou estagnação,
+ou seja, crescimento de 0% no primeiro trimestre (abaixo do esperado),
+enquanto que Espanha e Itália cresceram a taxas anualizadas de 2% (acima das
+expectativas).
+Já
+a
+França
+apresentou
+crescimento
+igual
+da
+médias
+das
+expectativas de 0.2%. Em geral, podemos observar certa heterogeneidade entre
+o crescimento das principais economias, mas um resultado que mostra que a
+região escapou de uma recessão técnica.
+Além
+dos
+dados
+de
+PIB,
+os
+PMIs
+—
+que
+procuram
+mensurar
+a
+expansão/contração dos setores de serviços e manufaturas — são fundamentais
+para a decisão do BCE. Os dados preliminares mostram uma continuidade na
+tendência
+de
+expansão
+no
+setor
+de
+serviços
+e
+contração
+no
+setor
+de
+manufaturas.
+Europa - Dados Preliminares de Crescimento do PIB (Variação Trimestral Anualizada)Podemos observar o descolamento entre os setores nos PMIs, sendo importante
+ressaltar a resiliência no setor de serviços, que vem sendo um componente
+muito relevante para a dinâmica da inflação na região. Esse fato pode ser
+explicado principalmente pelas pressões por reajustes salariais recentes, sendo
+retroalimentadas pelos aumentos no custos de vida gerados pela inflação.
+Fonte: Dados da S&P Global e elaboração O3 Capital
+Já os dados preliminares de inflação não foram muito animadores para a zona do
+euro. O mês de abril registrou uma taxa year-over-year de 7% (contra 6.9% em
+março), enquanto que o núcleo — que exclui alimentação e energia — registrou
+leve queda de 5.7% para 5.6%. Olhando para as aberturas há certa sinalização
+para o esgotamento dos ganhos nos preços de energia, enquanto que a inflação
+de alimentos apresentou recuo significativo em abril. Além disso, a dinâmica de
+preços no setor de serviços ainda permanece bastante resiliente, o que conversa
+bem com os dados dos PMIs.
+Além dos dados de inflação, foi publicado no dia 2 de maio o survey de
+condições de crédito do BCE, que registrou um aperto nas condições de crédito
+acima do esperado pela autoridade monetária.Fonte: Dados do BCE e elaboração O3
+O gráfico acima mostra um aperto significativo na demanda por crédito por parte
+das firmas, o que pode refletir de certa forma os efeitos da defasagem da política
+monetária. Na ótica da oferta de crédito, o índice de credit standards também
+mostrou aperto significativo nas condições no mês de março. Dessa forma, tanto
+o aperto de crédito observado recentemente quanto os dados do núcleo de
+inflação resiliente entrarão como variáveis chaves para a reunião de decisão da
+taxa de juros no começo de maio.
+UK
+O cenário de inflação no Reino Unido ainda se encontra muito resiliente e com
+um núcleo de inflação — que exclui componentes voláteis do índice — que ainda
+não demonstra sinais de reversão. No mês de março a região registrou uma
+variação mensal de +0.8% nos preços, enquanto que o núcleo configurou
+aumento de 0.9%. Dessa forma, as taxas de crescimento dos preços acumuladas
+em 12 meses para o índice cheio e para o núcleo ficaram em 10.1% e 6.2%
+respectivamente.
+Além disso, na metade do mês o Office for National Statistics divulgou os dados
+de contratações líquidas no mercado de trabalho. Os dados mostram um saldo
+de 30 mil vagas para o mês de março (contratações menos demissões), o que
+gerou um aumento na média móvel de 3 meses da variável. Já a taxa de
+desemprego — que leva em conta o ajuste sazonal — passou de 3.8% para 3.9%.
+Em geral, um dado positivo para o mercado de trabalho com um aumento pouco
+expressivo
+no
+desemprego,
+mas
+que
+também
+indica
+possíveis
+pressões
+inflacionárias adicionais originadas por um mercado de trabalho ainda frouxo na
+região.
+Demanda por crédito - FirmasBrasil
+As expectativas sobre a economia brasileira estão diretamente relacionadas ao
+arcabouço fiscal em tramitação no Congresso Nacional. Nesse sentido, a equipe
+econômica enviou o texto com os parâmetros propostos no projeto de lei
+complementar, que deve ser avaliado pelo relator e pelo Congresso onde alguns
+ajustes podem ser incorporados para termos as definições sobre o cenário à
+frente.
+A determinação da trajetória de crescimento da dívida/PIB depende claramente
+de dois fatores: i) Capacidade de se implementar um aumento significativo de
+carga tributária pelo governo; ii) Enforcement da regra de gastos.
+Nesse sentido, a regra proposta trouxe um leque muito amplo de cenários
+possíveis para a trajetória de gastos ao determinar que as metas de primário e
+suas bandas podem ser ajustadas livremente; ao eliminar a necessidade de
+contingenciamento de gastos em caso de descumprimento provável da meta
+estipulada; e ao isentar de responsabilidade o não cumprimento da meta de
+primário. Essas propostas incorporadas no texto da regra criam um ambiente em
+que a execução da regra passe a ser opcional. Na prática é como se não
+houvesse regra.
+Ao mesmo tempo, a estabilização da dívida/PIB depende fortemente do
+crescimento econômico. Ao mesmo tempo a regra cria o incentivo de aumento
+de carga tributária, que desestimula o crescimento. Ou seja, a própria regra cria
+as armadilhas para boicotar o seu sucesso.
+Mas, ignorando os efeitos sobre o crescimento, e considerando um crescimento
+de 1,5% ao ano, a regra estabiliza a dívida/PIB em quais condições? Para
+responder à essa questão, usando as projeções de inflação e juros de um
+modelo semi-estrutural do Banco Central, construímos quatro cenários para
+realizarmos simulações:
+Cenário 1 - Consideramos as receitas atuais (sem aumento de carga), despesas
+para 2024 seguindo a projeção da PLOA, e execução da regra de aumento de
+gastos de 70% do aumento de receitas a partir de 2025;
+Cenário 2 - Equivalente ao Cenário 1 adicionada um aumento de carga tributária
+de 1,5% do PIB;
+Cenário 3 – Equivalente ao Cenário 2, mas com aumento de gastos reais de
+gastos em 2,5% ao ano a partir de 2025;
+Cenário 4 – Equivalente ao Cenário 2 mas com uma regra de aumento de gastos
+equivalente ao aumento de receitas a partir de 2025.Dessa forma, o Cenário 2 seria o ideal pelo governo, considerando que consegue
+o aumento de carga e segue à risca a regra proposta. O cenário 1 é pessimista no
+sentido que considera que a busca por mais tributos não seria bem sucedida.
+Assim, a comparação entre os cenários 1 e 2 nos fornece a relevância do
+aumento de carga tributária para a estabilização da dívida/PIB.
+Os cenários 3 e 4 explicitam o que ocorreria com a dívida/PIB em caso de não
+execução da rega, diante da ausência de mecanismos que garantam o seu
+enforcement, deixando claro como esse ponto pode ser crucial para a trajetória
+futura da dívida/PIB. O cenário 3 considera o caso extremo de aumento real de
+gastos de 2,5% ao ano, pois é o único limite de gastos que, se excedido, implicará
+em responsabilização. Ou seja, seria o comportamento mais expansionista
+permitido diante da regra. O cenário 4 é um meio termo, onde o governo não
+conseguiria cumprir a regra dos 70%, mas não chega a gastar o limite.
+As trajetórias de dívida/PIB calculadas a partir de cada cenário indicam que o
+aumento de carga é o fator mais importante para se obter uma dívida/PIB menor
+ao final do mandato, com uma diferença de 81% a 87,5% a depender desse
+aumento de arrecadação. Por outro lado, os cenários 3 e 4 deixam claro que, no
+médio-longo prazos, a trajetória da dívida/PIB depende mais crucialmente do
+enforcement da regra. Esse passa a ser então o parâmetro crucial para a
+determinação de estabilidade da dívida.O3 RETORNO GLOBAL QUALIFICADO FIC FIM
+Atribuição de performance - Ano
+Patrimônio em 28/04/2023
+PL Atual – R$
+PL Médio (12 meses)
+Rentabilidade 12 meses Fundo X CDI
+Estatísticas
+Descrição
+Início*
+Volatilidade anualizada
+Melhor mês
+Pior mês
+* em 18/12/2020
+AS INFORMAÇÕES CONTIDAS NESTE MATERIAL TÊM O CARÁTER MERAMENTE INFORMATIVO E NÃO DEVEM SER CONSIDERADAS COMO OFERTA DE VENDA, NEM TAMPOUCO UMA RECOMENDAÇÃO DE INVESTIMENTOS DOS REFERIDOS
+FUNDOS DE INVESTIMENTO. É RECOMENDADA A LEITURA CUIDADOSA DO PROPECTO E REGULAMENTO DO FUNDO DE INVESTIMENTO PELO INVESTIDOR AO APLICAR SEUS RECURSOS. RENTABILIDADE PASSADA NÃO REPRESENTA GARANTIA
+DE RENTABILIDADE FUTURA. A AUTORIZAÇÃO PARA FUNCIONAMENTO E/OU VENDA DAS COTAS DESTE FUNDO DE INVESTIMENTO NÃO IMPLICA, POR PARTE DA COMISSÃO DE VALORES MOBILIÁRIOS OU DA ANBIMA, GARANTIA DE
+VERACIDADE DAS INFORMAÇÕES PRESTADAS. OS INVESTIMENTO DOS FUNDO DE INVESTIMENTO DE QUE TRATAM ESTE PROSPECTO APRESENTAM RISCOS PARA O INVESTIDOR. AINDA QUE O GESTOR DA CARTEIRA MANTENHA SISTEMA DE
+GERENCIAMENTO DE RISCOS, NÃO HÁ GARANTIA DE COMPLETA ELIMINAÇÃO DA POSSIBILIDADE DE PERDAS PARA O FUNDO DE INVESTIMENTO E PARA O INVESTIDOR, QUE NÃO CONTA COM GARANTIA DO ADMINISTRADOR DO FUNDO, DO
+GESTOR DA CARTEIRA, DE QUALQUER MECANISMO DE SEGURO OU, AINDA, DO FUNDO GARANTIDOR DE CRÉDITOS - FGC. OS FUNDOS DE INVESTIMENTO PODEM UTILIZAR ESTRATÉGIAS COM DERIVATIVOS COMO PARTE INTEGRANTE DE SUA
+POLÍTICA DE INVESTIMENTO, AS QUAIS PODEM RESULTAR EM PERDAS PATRIMONIAIS PARA SEUS COTISTAS. A RENTABILIDADE INFORMADA NÃO É LÍQUIDA DE IMPOSTOS.
+Informações complementares
+Gestor: O3 Gestão de Recursos LTDA
+Administrador: BTG Pactual Serviços 
+Financeiros S/A DTVM
+Custodiante: Banco BTG Pactual S.A
+Auditor: Ernst & Young
+Risco: Lote 45
+Categoria ANBIMA: Multimercado Macro
+Tributação: Longo prazo
+Público: Investidor Qualificado
+Investimento inicial mínimo: R$ 5.000
+Movimentação mínima: R$ 1.000 
+Aplicação: até às 14h30. Cotização: D+1
+Resgate: até às 14h30. Cotização: D+30. 
+Taxa de Adm.: 1,95%a.a.
+Taxa de Perf.: 20% sobre 100% do CDI
+Risco
+*Segundo BTG Pactual Serviços financeiros S/A DTVM
+Menor risco
+Maior risco
+O3 Retorno Global
+Objetivo do fundo
+O fundo tem como objetivo obter ganhos de capital mediante operações nos mercados de juros, câmbio, ações, commodities, dívida, além de exposição ainda que
+indireta em ativos digitais, utilizando-se de instrumentos tanto nos mercados à vista quanto nos de derivativos. Poderá utilizar-se, entre outros, de mecanismos de
+hedge, operações de arbitragem e alavancagem. A exposição dependerá, entre outros fatores, da liquidez e volatilidade dos mercados em que estiver atuando.
+Comentário do gestor
+Rentabilidade mensal
+Jan
+Fev
+Mar
+Abr
+Mai
+Jun
+Jul
+Ago
+Set
+Out
+Nov
+Dez
+Ano
+Desde o 
+início* 
+O3 RET G
+% CDI
+-
+-
+CDI +
+O3 RET G
+% CDI
+-
+-
+CDI +
+O3 RET G
+QF
+% CDI
+-
+-
+-
+CDI +
+* em 18/12/2020
+Avenida Brigadeiro Faria Lima, 2.277, 22º andar, Jd. Paulistano – CEP: 01452-000, São Paulo - SP | E-mail: contato@o3capital.com.br | www.o3capital.com.br | Youtube: O3 Capital
+Destaques do mês
+Em abril, ganhos ficaram concentrados em posições na bolsa americana e
+europeia. Em renda fixa, estratégia visando a queda de juros na China e visando
+aumento na Itália contribuíram positivamente no mês. As posições visando
+queda de juros na Alemanha contribuíram negativamente. Na parte de crédito,
+destaque positivo para a posição comprada no índice de High Yield americano.
+Em moedas, ganhos vieram da estratégia comprada em real, peso chileno e em
+euro, com perdas na posição comprada no iene japonês. Em commodities, as
+posições compradas em ouro contribuíram positivamente em abril. Por fim, na
+estratégia quantitativa, ganhos vieram da estratégia de arbitragem de juros
+local, especialistas de bolsas internacionais e tendência de commodities.
+Destaque negativo ficou para a estratégia de tendência de moedas e de juros
+internacionais.
+Posicionamento atual
+Em renda fixa, iniciamos posições esperando queda de juros na China e no
+Brasil, além de posições vendidas em inclinação no Chile. Em renda variável,
+continuamos com posições compradas na bolsa europeia e americana. Na parte
+de crédito, aumentamos as posições compradas no índice de High Yield
+americano. Em relação às moedas, seguimos com posições compradas em real,
+peso chileno e euro contra o dólar. Com relação às commodities, adicionamos
+posições compradas em ouro.O3 Capital (Asset Management)
+Dialogue conosco!

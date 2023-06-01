@@ -1,13 +1,13 @@
 ---
 layout: default
-permalink: /Banrisul/
+permalink: /O3_Capital/
 ---
 
-{% assign category_name = "Banrisul" %}
+{% assign category_name = "O3_Capital" %}
 {% assign modified_string = category_name| replace: "_", " " %}
 <h1>{{modified_string}}</h1>
-{% if site.Banrisul %}
-{% assign sorted_posts = site.Banrisul | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
+{% if site.O3_Capital %}
+{% assign sorted_posts = site.O3_Capital | where_exp: "post", "post.category == category_name" | sort: "tags" | group_by: "tags" %}
 {% for tag in sorted_posts %}
 {% assign cleaned_string = tag.name | remove: "[" | remove: "]" | remove: '"' | replace: "_", " " %}
 <h2>{{ cleaned_string }}</h2>
