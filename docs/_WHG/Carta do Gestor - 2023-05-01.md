@@ -6,7 +6,7 @@ tag: Carta_do_Gestor
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Dois anos de WHG Global Long Biased: retorno de +47,8% em comparação ao MSCI ACWI +4,5%

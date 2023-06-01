@@ -6,7 +6,7 @@ tag: Relatorio_Economico_Mensal
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Quebra de dois bancos regionais em março nos EUA aumenta expectativa de recessão global

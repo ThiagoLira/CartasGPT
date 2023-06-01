@@ -6,15 +6,15 @@ tag: Visao_do_Gestor
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Percepção de afrouxamento monetário do Fed devido a dados econômicos e inflação mais fracos, enfraquecendo o dólar.
-<a href="#" onclick="search_on_pdf('Visão do GestorNewsletter MensalSumário � Ganhou força a percepção de um in-ício de afrouxamento')">Ref</a>
+<a href="#" onclick="search_on_pdf('Visão do GestorNewsletter MensalSumário   Ganhou força a percepção de um in-ício de afrouxamento')">Ref</a>
 - Curva de juros local recua, acompanhando tendência global.
-<a href="#" onclick="search_on_pdf('dólar. � A curva de juros local recuou mais uma vez, seguindo a tendência global. � O real també')">Ref</a>
+<a href="#" onclick="search_on_pdf('dólar.   A curva de juros local recuou mais uma vez, seguindo a tendência global.   O real també')">Ref</a>
 - Real valoriza-se em relação ao dólar, seguindo tendência global.
-<a href="#" onclick="search_on_pdf('dólar. � A curva de juros local recuou mais uma vez, seguindo a tendência global. � O real també')">Ref</a>
+<a href="#" onclick="search_on_pdf('dólar.   A curva de juros local recuou mais uma vez, seguindo a tendência global.   O real també')">Ref</a>
 - Bolsa brasileira tem desempenho positivo comparado à média global, refletindo melhora do risco-país.
 <a href="#" onclick="search_on_pdf('BolsaA bolsa brasileira apresentou boa performance relativa no mês, subindo 3,5% em dólar e 1,9% e')">Ref</a>
 - Novo arcabouço fiscal anunciado em março recebe reações mistas do mercado.

@@ -6,7 +6,7 @@ tag: Cenario_Economico
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Lei de Diretrizes Orçamentárias fixa meta fiscal e valores para ano posterior

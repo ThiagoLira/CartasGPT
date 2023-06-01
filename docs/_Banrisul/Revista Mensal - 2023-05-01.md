@@ -6,7 +6,7 @@ tag: Revista_Mensal
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Otimismo nos mercados internacionais em abril devido à superação de potencial crise financeira e perspectiva de fim do ciclo de alta dos juros nos EUA
