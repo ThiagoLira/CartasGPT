@@ -6,7 +6,7 @@ tag: Opportunity_Total_FIC_FIM
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Aperto nas condições de crédito e políticas monetárias nos EUA e Europa
