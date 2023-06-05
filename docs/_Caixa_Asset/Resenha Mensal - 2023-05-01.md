@@ -6,7 +6,7 @@ tag: Resenha_Mensal
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Anfavea divulgará dados de maio sobre produção e vendas de veículos

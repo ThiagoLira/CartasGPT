@@ -6,7 +6,7 @@ tag: Carta_do_Gestor
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Cenário macroeconômico internacional focado em negociações sobre aumento do limite de endividamento dos EUA

@@ -6,7 +6,7 @@ tag: Relatorio_de_Gestao
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Resultado positivo do fundo em maio: devido a posições aplicadas em juros nominais e reais no Brasil, commodities, real e bolsa brasileira.

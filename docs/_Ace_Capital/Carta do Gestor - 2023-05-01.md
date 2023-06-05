@@ -6,7 +6,7 @@ tag: Carta_do_Gestor
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Fundo Ace Capital FIC FIM registrou ganho de 1,89% em maio, acumulando ganho de 6,59% no ano
