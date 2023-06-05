@@ -1,0 +1,313 @@
+INTERNO
+INTERNO
+Carta do Gestor
+Maio de 2023INTERNO
+INTERNO
+BV asset
+Carta aos Cotistas 
+O Cenário Macroeconômico – Maio 2023
+A temática no ambiente internacional, em maio, ficou centrada nas negociações sobre o
+aumento do limite de endividamento dos EUA. Em paralelo, com alguns bancos centrais ainda
+dependentes dos dados econômicos para a determinação dos próximos passos das respectivas
+políticas monetárias, a evolução deles também levou a ajustes nas expectativas.
+O desfecho favorável entre os Republicanos e Democratas para a retomada das emissões
+do Tesouro dos EUA afastou a possibilidade de um eventual default técnico dos títulos
+conceitualmente considerados livre de risco. Não fora a primeira vez que um impasse político quase
+levou a tal cenário extremo, como em 2011 e 2013, quando, no 1º caso, a agência de risco S&P
+chegou a rebaixar a classificação triplo A para AA-.
+Numa derivada do “chicken game”, traduzido como o “jogo dos covardes”, no qual quem
+ceder antecipadamente perde a disputa, os participantes Democratas, pelo lado da Casa Branca,
+tentam resistir ao máximo às demandas fiscalistas dos congressistas Republicanos, atualmente
+detentores do controle da Câmara dos Representantes. Apesar de grande o incentivo de ambos em
+chegarem a um acordo para não serem responsabilizados pelas consequências derivadas de um
+eventual fracasso das negociações, há sempre o risco de um acidente de percurso. No caso, em
+que pesem algumas resistências, houve a extensão até o final de 2024, após as eleições
+presidenciais, com introdução de limites para despesas discricionárias, os quais devem gerar
+impactos apenas marginais na atividade econômica mais à frente.
+Os ativos mais sensíveis ao tema foram os T-Bills com vencimentos próximos à “data-X” do
+dia 1º de junho, anunciada anteriormente pela Secretária do Tesouro, Yellen, e depois reestimada
+para o dia 5 do mesmo mês, quando, em tese, não disponibilizaria mais de caixa para pagá-los.
+Fonte: BV asset.
+BV asset
+C a r t a  a o s  C o t i s t a sINTERNO
+INTERNO
+BV asset
+Carta aos Cotistas 
+Em termos agregados, os ativos de risco, como a renda variável, por exemplo, refletiram
+aquelas preocupações apenas de forma moderada, prevalecendo a percepção de que, no final,
+uma solução razoável seria encontrada. Apenas períodos de breves correções, o índice acionário
+S&P 500 fechou o mês em alta de +1%, embora a composição das grandes empresas de
+tecnologia tenha contribuído para tal performance.
+Outro destaque no período ficou por conta da abertura das taxas de juros. Embora as
+incertezas fiscais anteriormente mencionadas impusessem viés baixista para elas, seja pela busca
+por ativos de qualidade ou uma atividade econômica potencialmente mais fraca devido às
+condições financeiras mais restritas, o que se viu foi o contrário. A resiliência do mercado de
+trabalho e a inflação em processo de convergência para as metas em velocidade aquém do
+esperado pelas autoridades monetárias suplantaram aqueles fatores.
+De fato, diversos dirigentes do Fed imprimiram recados mais duros e sinalizaram até
+mesmo a possibilidade de seguir no processo de alta de juros. Com os impactos da liquidação dos
+bancos regionais, por ora, apenas limitados na economia, eles parecem querer priorizar o combate
+à persistência inflacionária, ao mesmo tempo mantendo as expectativas de inflação para o médio
+prazo ancoradas.
+Desta forma, vemos como cenário mais provável ainda ajustes marginais das taxas de
+juros pelo Fed em junho, assim como o Banco Central Europeu também deve seguir neste sentido.
+No Brasil, o destaque ficou por conta do avanço do projeto sobre o novo arcabouço fiscal
+no Congresso. Já aprovado na Câmara, ele seguirá ao Senado, e todas as indicações são que não
+enfrentará resistências que alterem o teor.
+Fonte: Bloomberg, elaborado pela BV asset.
+Fed funds & T-Bills com vencimentos 06/06 e 15/06
+Fed funds
+T-Bill Vencimento 15/06/2023
+T-Bill Vencimento 06/06/2023INTERNO
+INTERNO
+BV asset
+Carta aos Cotistas 
+O afastamento do risco de descontrole da dívida pública, no caso da entrega a contento dos
+parâmetros estipulados, ajudou a reduzir o prêmio de risco de ativos brasileiros, notadamente da
+curva doméstica de juros. As taxas dos contratos mais longos (>1,5 ano) caíram entre -60 bps e
+mais de -80 bps no mês.
+Ademais, vimos como bastante construtiva, ainda a ser confirmada pela reunião do
+Conselho Monetário Internacional no final de junho, a discussão sobre o aperfeiçoamento do regime
+de metas, mais no sentido de ajustar a convergência para elas, eventualmente ajustando a banda,
+porém, principalmente, sem a alteração do valor central de 3%.
+Acreditamos que a confirmação desse cenário possa ser bastante auspiciosa para o
+processo de ancoragem das expectativas de médio prazo, a qual é fundamental para o início do
+ciclo de flexibilização monetária.
+Para a próxima reunião do Copom, no dia 21 de junho, esperamos que a evolução mais
+favorável tanto das regras fiscais como da conjuntura para o cenário inflacionário seja reconhecida
+pela autoridade monetária. Neste sentido, embora não esperemos nenhum movimento da taxa
+Selic, o comitê deve excluir o trecho de que não hesitará em retomar o ciclo de ajuste caso o
+processo de desinflação não transcorra como esperado.
+Fonte: Bloomberg, elaborado pela BV asset.
+Curva DI de juros
+(bps)
+%
+DiferençaINTERNO
+INTERNO
+BV asset
+Carta aos Cotistas 
+Juros e Inflação
+Fonte: BV asset.
+Em maio, vimos uma queda expressiva das taxas de juros futuros
+locais, indo na contramão do que ocorreu com as treasuries americanas. Além
+do avanço do projeto sobre o novo arcabouço fiscal no Congresso e do
+afastamento do risco de cauda do lado fiscal no Brasil, tivemos dados de
+inflação
+encorajadores
+e
+queda
+acentuada
+nos
+preços
+das
+principais
+commodities.
+O contrato de DI futuro com vencimento em jan/26 cedeu 89
+bps, enquanto o com vencimento em jan/29 cedeu 87 bps. As taxas das NTN-Bs
+curtas subiram, o que levou a uma queda acentuada das inflações implícitas na
+ordem de 100 bps. O restante da curva de NTN-B seguiu o movimento dos juros
+nominais, mas de maneira menos intensa.
+No horizonte da política monetária também houve movimentação
+relevante no que se refere às expectativas da taxa Selic. Atualmente, está
+apreçado um ciclo de corte da Selic de aproximadamente 400 bps (há 1 mês
+eram 280 bps), iniciando em ago/23 e encerrando em set/24 em 9,70% (10,90%
+no mês anterior). O mercado já embute boas perspectivas de manutenção da
+meta de inflação pelo CMN na próxima reunião de junho, e, com ela, um
+potencial alívio das expectativas de inflação mensuradas pelo Focus. Se esse
+cenário se confirmar e a inflação corrente continuar em trajetória descendente, é
+provável que os agentes façam revisões baixistas em suas expectativas para
+taxa terminal na Selic, na direção do que o mercado vem caminhando.
+Ao longo do mês, encerramos com lucro a posição de flattening na parte
+curta da curva e mantivemos posição aplicada na parte longa e comprada em
+NTN-Bs intermediárias. Por ora, vemos um mercado lateralizado, mas a
+possível manutenção da meta de inflação pelo CMN pode ser um trigger baixista
+para as taxas, ainda que esse movimento já tenha sido parcialmente antecipado.INTERNO
+INTERNO
+BV asset
+Carta aos Cotistas 
+Crédito Privado
+Podemos separar o mês de maio em dois momentos distintos, sendo
+que as primeiras semanas apresentaram ambiente mais negativo, ainda com
+razoável fluxo de resgate nos fundos e os spreads de crédito instáveis com viés
+de alta no mercado secundário. Em um segundo momento, a partir da metade
+do mês, o mercado se mostrou mais estável, com um fluxo menos relevante de
+resgates nos fundos de crédito e os spreads fechando para níveis menores que
+no início do mês. O mercado primário continua aquecendo com um número
+maior de operações sendo apresentadas, e o mês termina com bons indícios de
+que o mercado está se restabelecendo. Quando olhamos para os fundamentos
+das companhias, considerando os resultados do 1T23 de maneira geral,
+enxergamos estabilidade no nível de alavancagem dos emissores, o que sinaliza
+que o nível ainda elevado dos spreads dos títulos corporativos pode sinalizar
+oportunidades para frente.
+O
+movimento
+de
+fechamento
+dos
+spreads
+de
+crédito
+impactou
+positivamente a rentabilidade dos ativos de crédito privado em maio. Na amostra
+de 349 debêntures precificadas pela Anbima, verificamos um fechamento de
+aproximadamente 4 bps nos ativos indexados ao CDI+¹. A taxa média desses
+ativos é aproximadamente CDI+ 2,53% a.a. e a duration média é de 2,43 anos.
+Neste levantamento, desconsideramos os ativos da LIGHT S.A. pelo movimento
+desproporcional em relação aos outros papéis.
+Os ativos em IPCA+¹ tiveram um retorno maior que o CDI, devido ao
+movimento de fechamento das taxas das NTN-Bs nos vértices de médio e longo
+prazo.
+Em
+nosso
+acompanhamento
+de
+ativos
+indexados
+ao
+IPCA+, observamos um fechamento médio de 23 bps nos spreads de crédito.
+Este movimento, somado ao fechamento da curva real de juros e ao carrego da
+inflação no mês, contribuiu para performance positiva. A taxa média destes
+papéis está em aproximadamente IPCA + 7,35% ante IPCA + 7,68% no
+fechamento do mês anterior, e a duration média atual é próxima de 4,80 anos.
+Também desconsideramos os papéis da LIGHT S.A. neste acompanhamento.
+Fonte: BV asset. ¹ Consideramos apenas os papéis precificados pela Anbima durante o mês inteiro.INTERNO
+INTERNO
+BV asset
+Carta aos Cotistas 
+Nosso portfólio permanece com boa diversificação de nomes em
+empresas high grade. Seguimos equilibrando os portfólios entre emissões
+bancárias e corporativas, priorizando setores defensivos com foco no topo da
+escala de rating e alocação em ativos de duration mais curta. Em estratégias
+com prazo de resgate mais longo, posicionamos a maior parte do portfólio em
+crédito corporativo, buscando alocar nas melhores empresas entre seus pares,
+além de alocar em papéis de duration mais longa.
+Fonte: BV asset. 
+Crédito PrivadoINTERNO
+INTERNO
+BV asset
+Carta aos Cotistas 
+Moedas
+No mês de maio, o dólar se valorizou contra as moedas do G10, com
+destaque positivo para o dólar canadense, que foi a moeda que menos
+desvalorizou contra o dólar; destaque para o euro, que ficou entre as moedas de
+pior performance, e o índice DXY encerrou o mês com uma alta de quase 3%.
+Até a primeira metade do mês, as moedas ficaram bastante voláteis dado o
+impasse do teto da dívida nos EUA, como comentado no cenário macro, e um
+possível fim de ciclo de aperto pelo Fed. A narrativa na segunda metade do mês
+foi diferente, com comentários mais hawks dos dirigentes do Fed
+e dados
+econômicos da economia americana que foram mais resilientes.
+O euro caiu 3%, maior queda mensal desde abril de 2022, mesmo com
+os dirigentes do BCE sendo mais agressivos no discurso contra a inflação.
+Alguns dados econômicos também pesaram na moeda, como o PMI de
+manufatura, que continuou em nível de contração e abaixo do mês anterior, a
+revisão final do PIB alemão do primeiro trimestre de 2023, que mostrou um
+crescimento negativo de -0,3%, e a inflação da França e Alemanha, que
+veio abaixo das expectativas.
+O iene, uma das piores performances no ano contra o dólar, teve um
+mês difícil com a divulgação dos dados de inflação nos EUA mais fortes, em
+conjunto com a questão do teto da dívida americana, levando a moeda a sair de
+um patamar de 137 pra perto de 140. O vice-governador do Ministério das
+Finanças do Japão, Masato Kanda, disse que é importante que os mercados de
+câmbio reflitam os fundamentos e se movam de maneira estável e que
+movimentos excessivos na moeda não são desejáveis, e indicou também que
+tomará as medidas necessárias caso precise, o que levou o mercado a
+interpretar como uma intervenção verbal no câmbio.
+Fonte: BV asset. INTERNO
+INTERNO
+BV asset
+Carta aos Cotistas 
+Moedas
+Destaque para o dólar australiano e para o dólar neozelândes, onde
+seus respectivos bancos centrais surpreenderam os mercados nas suas
+decisões de juros. O RBA voltou a subir 25 pts depois de ter deixado inalterada
+a taxa na reunião anterior, a decisão surpreendeu o mercado e levou
+à valorização do AUD, que apagou todos os ganhos na segunda metade do mês
+com os dados decepcionantes da China. O dólar neozelândes caiu mais de 2%
+depois que o RBNZ entregou um aumento de taxas e sinalizou uma pausa no
+ciclo de apertos, o que foi suficiente para a moeda desvalorizar contra o dólar, o
+tom dovish do comunicado surpreendeu o mercado.
+Por último, continuamos a acreditar que o dólar continuará a perder
+força, à medida que os dados de desemprego da economia americana
+começarem a aumentar, e também acreditamos que o Fed não será capaz de
+estabilizar a economia sem um pouso forçado, assim como o BOE. Mantemos
+também posição em moedas com carry atrativo e pares relativos.
+Fonte: BV asset. INTERNO
+INTERNO
+BV asset
+Carta aos Cotistas 
+Maio foi um mês positivo para a renda variável no Brasil, com o
+Ibovespa subindo 3,74% e o SMLL em alta de 13,54%. O avanço do arcabouço
+fiscal no Congresso, com a sinalização de que eventuais alterações no seu teor
+serão barradas, afastou o risco de descontrole da dívida pública. Além disso,
+indicadores melhores de inflação corroboraram a percepção de melhora no
+cenário doméstico, ajudando a reduzir o prêmio de risco de ativos brasileiros.
+Por outro lado, indicadores mais fracos de atividades na China seguem
+pressionando o preço do minério de ferro, que caiu 3% no mês e, por
+consequência, pesando na performance da Vale, que teve desvalorização de
+mais de 10% em maio.
+A melhora da percepção de risco no Brasil e a expectativa de que o
+início do processo de corte de juros está se aproximando foram determinantes
+para a forte valorização em alguns ativos ligados à economia doméstica,
+especialmente no setor de varejo, saúde e construção civil. O que vimos ao
+longo do mês foi um movimento robusto de investidores locais aumentando sua
+exposição em Bolsa. Hoje, a bolsa brasileira negocia a um nível de valuation
+olhando relação P/L projetada de 12 meses na faixa de 6,9x contra uma média
+histórica de 10,9x. Excluindo Petrobras e Vale, a Bovespa está com P/L de 9,4x
+contra 12,4x de média, próximo das mínimas, olhando uma janela de 20 anos.
+Ao longo do mês optamos por reduzir nossa exposição no setor de
+commodities,
+aumentando nossos
+investimentos
+em
+empresas
+ligadas
+à
+dinâmica doméstica, principalmente no setor de saúde e consumo.
+Renda Variável
+Fonte: BV asset. INTERNO
+INTERNO
+Aviso importante
+¹Publicado no site www.standardandpoors.com, em junho de 2022.
+Conheça mais sobre a gente
+Escaneie o QR Code
+ou
+Clique aqui
+Este material foi preparado pela BV Distribuidora de Títulos e Valores Mobiliários S.A. (“BV asset”). As informações aqui apresentadas têm como única
+intenção fornecer um panorama da situação atual do mercado, estando baseadas em dados de conhecimento público, não significando, portanto,
+quaisquer compromissos e/ou recomendações de negócios por parte da BV asset, seus acionistas e demais empresas coligadas. As informações
+contidas neste material são de caráter meramente informativo. Este conteúdo não deve ser reproduzido no todo ou em parte, redistribuído ou
+transmitido para qualquer outra pessoa sem o consentimento prévio da BV asset.
+É
+recomendável
+que
+as
+decisões
+de
+investimento
+sejam
+tomadas
+com
+plena
+compreensão
+dos
+riscos
+envolvidos.
+Este
+material
+não deve ser considerado como recomendação de investimento nem deve servir como única base para tomada de decisão. A BV asset se exime de
+qualquer responsabilidade por quaisquer prejuízos, diretos ou indiretos, que venham a decorrer da utilização deste material, de seu conteúdo e da
+realização de operações com base neste material.
+Leia a lâmina de informações essenciais, se houver, e o regulamento antes de investir. Estes documentos podem ser encontrados no site
+www.bancobv.com.br/web/site/pt/vam. Leia previamente as condições de cada produto antes de investir. Os investimentos apresentados podem não
+ser adequados aos seus objetivos, situação financeira ou necessidades individuais. O preenchimento do formulário QPI – Questionário de Perfil de
+Investidor ou Suitability é essencial para garantir a adequação do perfil do cliente ao produto de investimento escolhido.
+A rentabilidade obtida no passado não representa garantia de resultados futuros. A rentabilidade divulgada não é líquida de impostos. Para avaliação
+da performance de fundo(s) de investimento(s), é recomendável uma análise de, no mínimo, 12 (doze) meses. Fundos de investimento não contam
+com garantia do administrador, do gestor, de qualquer mecanismo de seguro ou do Fundo Garantidor de Créditos (FGC). Os Fundos de Investimento
+apresentados neste material utilizam estratégias com derivativos como parte integrante de sua política de investimento. Tais estratégias, da forma
+como são adotadas, podem resultar em significativas perdas patrimoniais para seus cotistas, podendo inclusive acarretar perdas superiores ao capital
+aplicado e a consequente obrigação do cotista de aportar recursos adicionais para cobrir o prejuízo dos Fundos de Investimento.
+Dúvidas, sugestões e reclamações, entre em contato com o Serviço de Atendimento ao Cliente pelo telefone 0800 728 0083 ou pelo e-mail
+sac@bv.com.br. Pessoas com deficiência auditiva e de fala: 0800 701 8661. Se desejar entrar em contato com a Ouvidoria, ligue para 0800 707 0083
+(pessoa com deficiência auditiva e de fala: 0800 701 8661).
