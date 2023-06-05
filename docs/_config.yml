@@ -53,10 +53,6 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /BTG_Pactual_Asset_Management/
     output: true
-  Caixa_Asset:
-    permalink: /:collection/:path.html
-    index_permalink: /Caixa_Asset/
-    output: true
   Dahlia_Capital:
     permalink: /:collection/:path.html
     index_permalink: /Dahlia_Capital/
