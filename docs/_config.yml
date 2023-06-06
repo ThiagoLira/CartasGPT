@@ -61,6 +61,10 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /BTG_Pactual_Asset_Management/
     output: true
+  Capitania_Investimentos:
+    permalink: /:collection/:path.html
+    index_permalink: /Capitania_Investimentos/
+    output: true
   Dahlia_Capital:
     permalink: /:collection/:path.html
     index_permalink: /Dahlia_Capital/
