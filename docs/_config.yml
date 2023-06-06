@@ -28,6 +28,7 @@ gtag: "G-5FRQRL198F"
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 navbar-links:
   Gestoras: "/gestoras"
