@@ -23,6 +23,9 @@ github_username:  ThiagoLira
 markdown: kramdown
 theme: beautiful-jekyll-theme
 
+# Google Tag
+gtag: "G-5FRQRL198F"
+
 plugins:
   - jekyll-feed
 
