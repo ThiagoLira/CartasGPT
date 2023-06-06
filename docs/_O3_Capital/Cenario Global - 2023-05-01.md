@@ -6,7 +6,7 @@ tag: Cenario_Global
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Economia global em trajetória de normalização após choques em março
