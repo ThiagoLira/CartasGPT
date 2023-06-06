@@ -69,13 +69,25 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Dahlia_Capital/
     output: true
+  Daycoval_Asset_Management:
+    permalink: /:collection/:path.html
+    index_permalink: /Daycoval_Asset_Management/
+    output: true
   Dynamo:
     permalink: /:collection/:path.html
     index_permalink: /Dynamo/
     output: true
+  Gap Asset:
+    permalink: /:collection/:path.html
+    index_permalink: /Gap_Asset/
+    output: true
   Genoa_Capital:
     permalink: /:collection/:path.html
     index_permalink: /Genoa_Capital/
+    output: true
+  Icatu_Vanguarda:
+    permalink: /:collection/:path.html
+    index_permalink: /Icatu_Vanguarda/
     output: true
   JGP_Asset_Management:
     permalink: /:collection/:path.html
