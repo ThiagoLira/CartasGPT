@@ -4,16 +4,17 @@ layout: default
 
 <div class="container">
 	<div class="row">
-		<div class="col-12 col-md-6">
+		<div class="col-12 col-lg-7">
       <h2>Resumo - Abr/23</h2>
       {% capture contents %}
         {% include contents.md %}
       {% endcapture %}
       {{ contents | markdownify }}
     </div>
-		<div class="col-12 col-md-6">
+		<div class="col-lg-1"></div>
+		<div class="col-12 col-lg-4">
       <h2>Lista de Gestoras</h2>
-      <ul>
+      <ul class="list-unstyled">
         {% for collection in site.collections %}
           {% if collection.label == 'posts' %}
             {% continue %}
