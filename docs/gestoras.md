@@ -3,7 +3,7 @@ layout: page
 title: Lista de Gestoras
 permalink: /gestoras/
 ---
-<ul>
+<ul class="list-unstyled">
   {% for collection in site.collections %}
     {% if collection.label == 'posts' %}
       {% continue %}
