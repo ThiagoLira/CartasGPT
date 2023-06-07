@@ -141,6 +141,10 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /SulAmerica_Investimentos/
     output: true
+  Trigono_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /Trigono_Capital/
+    output: true
   V8_Capital:
     permalink: /:collection/:path.html
     index_permalink: /V8_Capital/
