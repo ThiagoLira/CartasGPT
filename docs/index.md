@@ -39,9 +39,11 @@ layout: default
     {% assign sorted_posts = all_posts | sort: "date" | reverse %}
 
     {% for post in sorted_posts limit:10 %}
+    {% unless post.category == "Morning_Call" %}
       <a href="{{ post.url }}"> {{ post.title | replace: "_", " " }} - ({{ post.category | replace: "_", " " }})</a>
       <span>{{ post.date | date: "%B, %d %Y" }}</span>
       <br>
+      {% endunless %}
     {% endfor %}
   </div>
 </div>
