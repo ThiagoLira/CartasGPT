@@ -22,6 +22,7 @@ github_username:  ThiagoLira
 # Build settings
 markdown: kramdown
 remote_theme: daattali/beautiful-jekyll@5.0.0
+language: pt-br
 
 # Google Tag
 gtag: "G-5FRQRL198F"
