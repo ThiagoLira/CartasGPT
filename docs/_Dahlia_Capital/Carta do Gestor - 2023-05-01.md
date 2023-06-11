@@ -6,7 +6,7 @@ tag: Carta_do_Gestor
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Queda de juros provável devido ao movimento de desinflação global e no Brasil

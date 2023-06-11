@@ -6,7 +6,7 @@ tag: Carta_Economica
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Fed sinaliza possibilidade de manutenção da taxa de juros

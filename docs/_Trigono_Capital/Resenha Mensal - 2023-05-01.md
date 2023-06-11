@@ -6,7 +6,7 @@ tag: Resenha_Mensal
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Mercado de crédito se recupera após rombo contábil de R$ 20 bilhões das Lojas Americanas em janeiro de 2023

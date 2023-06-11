@@ -6,7 +6,7 @@ tag: Carta_Mensal
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Atividade econômica resiliente nos Estados Unidos e recuperação contínua nas vendas de casas novas (+4%)
