@@ -6,7 +6,7 @@ tag: Carta_Macroeconomica
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Alívio financeiro nos bancos dos EUA leva a aumento de juros e valorização do dólar

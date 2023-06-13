@@ -6,7 +6,7 @@ tag: Carta_Estrategias
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Sexto mês de nova administração presidencial com incertezas e poucas realizações claras.
