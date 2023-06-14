@@ -6,7 +6,7 @@ tag: Palavras_do_Gestor
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Estresse bancário nos EUA contido, impasse em negociações de extensão do teto da dívida norte-americana impacta mercados

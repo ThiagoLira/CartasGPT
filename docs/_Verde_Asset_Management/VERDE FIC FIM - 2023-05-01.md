@@ -6,7 +6,7 @@ tag: VERDE_FIC_FIM
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Ganhos em maio nas posições ações no Brasil e em operações de juros nos EUA

@@ -6,7 +6,7 @@ tag: Estrategias_de_Renda_Fixa
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Cenário externo: EUA apresentam volatilidade no mercado de juros, com FED oscilando entre cortes e altas nas taxas; dados de PCE com núcleo consistente e desaceleração em outros componentes.

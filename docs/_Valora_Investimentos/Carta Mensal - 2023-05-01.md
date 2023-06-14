@@ -6,7 +6,7 @@ tag: Carta_Mensal
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Melhora geral nos mercados e ativos de risco globais em maio de 2023
