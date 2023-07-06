@@ -6,7 +6,7 @@ tag: Carta_Mensal
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Economias internacionais: Zona do euro apresentou desaceleração, com a Alemanha sendo bastante afetada. A China também apresenta sinais de estagnação, apesar das medidas de estímulo. Entretanto, a economia dos EUA continua resiliente, com destaque para o setor imobiliário. A inflação global apresentou queda.

@@ -6,7 +6,7 @@ tag: Relatorio_de_Gestao
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - O fundo Gap Absoluto teve rentabilidade positiva em junho de 2023, com contribuições positivas de posições em juros no Brasil e Chile e compras na bolsa do Brasil.

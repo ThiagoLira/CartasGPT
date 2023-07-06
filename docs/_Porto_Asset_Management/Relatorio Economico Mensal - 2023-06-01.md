@@ -6,7 +6,7 @@ tag: Relatorio_Economico_Mensal
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - A Porto Asset Management mantém a taxa Selic em 13,75% mas sinaliza cortes futuros devido a confiança no processo de desinflação.

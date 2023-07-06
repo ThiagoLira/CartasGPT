@@ -6,7 +6,7 @@ tag: Cenario_Economico
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - As negociações para o aumento ou suspendimento do teto da dívida pública nos Estados Unidos causou volatilidade nos preços dos ativos.

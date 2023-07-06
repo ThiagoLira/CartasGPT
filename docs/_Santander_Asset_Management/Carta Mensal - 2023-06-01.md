@@ -6,7 +6,7 @@ tag: Carta_Mensal
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Ciclo de alta dos juros nos EUA possivelmente encerrado em maio, colaborando para a desaceleração da atividade e inflação;

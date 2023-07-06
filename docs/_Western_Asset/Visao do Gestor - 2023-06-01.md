@@ -6,17 +6,17 @@ tag: Visao_do_Gestor
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Diretores do Federal Reserve sinalizaram futuras altas da taxa básica de juros, impactando a curva de juros negativamente. 
-<a href="#" onclick="search_on_pdf('Visão do GestorNewsletter MensalSumário � Os diretores do Fed sinalizaram novas altas da taxa bá')">Ref</a>
+<a href="#" onclick="search_on_pdf('Visão do GestorNewsletter MensalSumário   Os diretores do Fed sinalizaram novas altas da taxa bá')">Ref</a>
 - A curva de juros brasileira recuou, refletindo surpresas positivas de inflação e precificação do início do ciclo de corte de juros pelo Banco Central do Brasil (BC).
 <a href="#" onclick="search_on_pdf('uma vez, refletindo surpresas pos-itivas de inflação e precificando o início do ciclo de corte de ')">Ref</a>
 - O real seguiu a tendência global de valorização em relação ao dólar.
 <a href="#" onclick="search_on_pdf('uma vez, refletindo surpresas pos-itivas de inflação e precificando o início do ciclo de corte de ')">Ref</a>
 - A bolsa brasileira liderou em desempenho comparativo a outras bolsas globais.
-<a href="#" onclick="search_on_pdf('� A bolsa brasileira liderou entre seus pares, em um mês positivo para as bolsas globais.Fatos Qu')">Ref</a>
+<a href="#" onclick="search_on_pdf('  A bolsa brasileira liderou entre seus pares, em um mês positivo para as bolsas globais.Fatos Qu')">Ref</a>
 - IPCA de maio ficou abaixo das expectativas, o que torna previsível um ciclo de redução da taxa Selic pelo BC. 
 <a href="#" onclick="search_on_pdf('uma vez, refletindo surpresas pos-itivas de inflação e precificando o início do ciclo de corte de ')">Ref</a>
 - A inflação nos EUA provavelmente continuará a subir, pois o Fed sinalizou mais aumentos da taxa de juros para 2023.

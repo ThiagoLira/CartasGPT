@@ -6,7 +6,7 @@ tag: Opportunity_Total_FIC_FIM
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Aumento da incerteza proveniente do final do processo de alta nos juros iniciado pelos principais bancos centrais. 
