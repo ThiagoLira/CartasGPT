@@ -6,7 +6,7 @@ tag: Carta_do_Gestor
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - O fundo Ace Capital FIC FIM registrou ganho de 1,50% em junho, acumulando ganhos de 8,19% no ano e 14,63% nos últimos 12 meses.

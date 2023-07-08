@@ -6,7 +6,7 @@ tag: Carta_Mensal
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Em junho, economias desenvolvidas e emergentes mantiveram um crescimento sólido; bolsas e moedas seguiram se apreciando enquanto as curvas de juros de economias centrais abriram.
