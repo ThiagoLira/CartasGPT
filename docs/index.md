@@ -5,7 +5,7 @@ layout: default
 <div class="container">
 	<div class="row">
 		<div class="col-12 col-lg-7">
-      <h2>Resumo - Mai/23</h2>
+      <h2>Resumo - Jun/23</h2>
       {% capture contents %}
         {% include contents.md %}
       {% endcapture %}
