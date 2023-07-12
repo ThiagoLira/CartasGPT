@@ -1,0 +1,290 @@
+
+ Gestora: AZ Quest Investimentos
+
+- A estratégia de gestão de fundos avalia a vulnerabilidade fiscal do Brasil utilizando um indicador mensal desenvolvido pelos autores.
+- A vulnerabilidade fiscal é vista como uma razão para altos juros internos, apesar da independência operacional do Banco Central.
+- Existe uma necessidade urgente de o governo implementar ações para reduzir a vulnerabilidade fiscal e permitir taxas de juros reais mais baixas.
+- A confirmação desse entendimento vem da redução da taxa real de juros a partir de março de 2023, indicando que o arcabouço fiscal proporcionará previsibilidade.
+- O indicador de vulnerabilidade fiscal (IVF) foi criado para monitorar a situação fiscal do governo federal, quanto maior o indicador, pior é a situação fiscal.
+- Atualmente, o IVF está em um nível inferior ao do período 2017-2019, indicando menor vulnerabilidade fiscal do governo federal.
+- A estratégia macro para junho se baseia nas reuniões dos principais bancos centrais (FED, ECB e BoE) e seus ajustes monetários.
+- Em junho, os fundos tiveram resultados positivos nas bolsas locais e taxas de juros locais, com perdas leves em bolsas internacionais. 
+- As estratégias de crédito e renda variável para junho foram baseadas na análise do IPCA e Selic Brasil, com desempenho positivo.
+- A carta descreve uma variedade de fundos diferentes, incluindo múltiplas estratégias de fundos multimercados, fundos de renda fixa e fundos de ações, todos com diferentes prazos de cotização e liquidação de resgate.
+
+ Gestora: Western Asset
+
+- Diretores do Federal Reserve sinalizaram futuras altas da taxa básica de juros, impactando a curva de juros negativamente. 
+- A curva de juros brasileira recuou, refletindo surpresas positivas de inflação e precificação do início do ciclo de corte de juros pelo Banco Central do Brasil (BC).
+- O real seguiu a tendência global de valorização em relação ao dólar.
+- A bolsa brasileira liderou em desempenho comparativo a outras bolsas globais.
+- IPCA de maio ficou abaixo das expectativas, o que torna previsível um ciclo de redução da taxa Selic pelo BC. 
+- A inflação nos EUA provavelmente continuará a subir, pois o Fed sinalizou mais aumentos da taxa de juros para 2023.
+- No cenário brasileiro, é esperado um ciclo de afrouxamento monetário, visto que o Comitê de Política Monetária (Copom) do BC sinalizou que pode diminuir a taxa Selic.
+- A bolsa brasileira apresentou boa performance devido à perspectiva do início do ciclo de afrouxamento monetário. Porém, o cenário para empresas brasileiras é considerado delicado devido à necessidade de aumentar a arrecadação fiscal.
+- Uma política monetária inadequada pode causar uma desvalorização na moeda do país, exemplificado pela Turquia.
+- O real liderou a valorização contrapondo o dólar, mesmo com a perspectiva de início do ciclo de queda dos juros, o que sugere um potencial para uma valorização mais robusta do real se o risco-país for reduzido.
+
+ Gestora: Ace Capital
+
+- O fundo Ace Capital FIC FIM registrou ganho de 1,50% em junho, acumulando ganhos de 8,19% no ano e 14,63% nos últimos 12 meses.
+- Suas principais contribuições positivas em junho vieram da Renda Fixa (+0,26%), Renda Variável (+0,18%) e Moedas (+0,15%).
+- No cenário internacional, a gestora vê uma atividade econômica global resiliente, com o aperto monetário continuando.
+- Nos EUA, a gestora prevê uma economia resiliente com inflação em desaceleração e pelo menos duas altas de juros no segundo semestre.
+- No cenário brasileiro, a gestora enxerga um ciclo virtuoso, ancorado em um desempenho forte da atividade econômica, inflação baixa e moderação política.
+- A perspectiva do fundo para o segundo semestre permanece a mesma das últimas cartas, com uma visão de maior resiliência da atividade econômica internacional.
+- O fundo está posicionado na Renda Fixa com posições aplicadas em juros nominais e reais.
+- Na categoria de Moedas a estratégia do fundo é de manter posições relativas, com a moeda comprada mais relevante sendo o MXN.
+- Na categoria Valor Relativo, o fundo está aplicado na parte curta da curva de juros nominais e reais com hedge via compra de USDBRL.
+- Em Renda Variável, a posição do fundo é otimista para o Ibovespa e posições compradas nos setores de commodities, energia elétrica e saneamento.
+
+ Gestora: Bradesco Asset Management
+
+- Banco Central Brasileiro mantém taxa básica em 13,75%, reconhecendo impacto limitado da economia externa e redução gradual do crescimento doméstico.
+- Federal Reserve dos EUA aumenta taxa básica de juros em 25 pontos base, ficando entre 5,00% e 5,25%.
+- Banco Central Europeu retarda ritmo de atividade e aumenta taxa de juros em 25 pontos-base.
+- Economia chinesa apresenta crescimento moderado após reabertura.
+- O processo de desinflação e desaceleração do PIB brasileiro influenciam as estratégias de investimento.
+- Alívio no cenário global e local observado em maio, impulsionado pela estabilização da crise bancária nos EUA e por indicadores inflacionários positivos.
+- Permanecem incertezas como a crise bancária nos EUA e Europa, alta inflação e risco de recessão.
+- Ainda assim, a precificação de empresas reflete os riscos, especialmente em ativos brasileiros, havendo menos necessidade de cautela nas carteiras.
+- Projeção de cortes de juros no Brasil a partir de setembro de 2023, com taxa final de 12,50%.
+- Há apreciação contínua do Real, porém impactado negativamente por expectativa de aumento da taxa de juros nos EUA.
+- Renda fixa apresentou desempenho positivo, principalmente ativos atrelados à inflação.
+- Fundamental para destacar a performance positiva dos setores de Serviços Financeiros, Papel, Celulose & Madeira e Saúde, mesmo com redução em Utilidades Públicas, Energia e Varejo.
+- As maiores alocações estão em Utilidades Públicas, Imobiliário e Consumo.
+- Estratégias "Crescimento", "Long Biased", "Long and Short/Equity Hedge", "Global" e "Multigestor Ações" tiveram desempenho positivo e acima dos respectivos benchmarks. 
+- A monitorização da inflação ao consumidor e dos ajustes salariais é essencial.
+- Estratégias quantitativas Família Alocação e fundos Carteira Bradesco obtiveram resultados positivos em maio.
+- Fundos Cambial Dólar, Apex Infinity, Canvas Vector, Equitas Selection, GAP Absoluto Fic Multimercado, Kapitalo Zeta e Kappa Multimercado e Vinland Macro Multimercado tiveram desempenho positivo.
+- Incertezas fiscais no Brasil amenizaram após adoção de políticas fiscais mais rigorosas.
+- Taxas do IPCA-15 e IGPM caíram, elevando as expectativas de corte de juros pelo Banco Central.
+- Moat Capital Ações destacou-se em setores financeiros, de petróleo e utilidade pública.
+- Verde AM 60 Multimercado e Multiestratégia Multimercado otimistas com a economia brasileira devido às mudanças no arcabouço fiscal.
+- Kapitalo K10 Multimercado teve desempenho positivo por causa de estabilização de bancos e acordo para aumento do teto da dívida nos EUA, mas sofreu com a performance negativa do setor de juros, câmbio e commodities.
+- Kadima Multimercado teve desempenho positivo, apesar de resultados negativos no modelo de eventos internacionais.
+
+ Gestora: Verde Asset Management
+
+- O fundo Verde teve ganhos em junho nas posições de ações no Brasil, operações de juros nos EUA e Europa, no livro de crédito e na posição de inflação implícita americana.
+- As perdas foram provenientes de hedge em inflação implícita no Brasil, posições de commodities, principalmente ouro, bolsa global e juros no Japão.
+- Durante o primeiro semestre, o desempenho dos mercados globais contradisse as expectativas iniciais de recessão global e má performance dos ativos de risco.
+- Os principais fatores que explicam a performance superior dos mercados acionários foram: lucratividade corporativa melhor do que o esperado, economia americana mais robusta, redução da pressão de custos, posicionamento leve dos investidores e otimismo em torno da inteligência artificial.
+- No mercado brasileiro, sinais indicam um início de ciclo de corte de juros em agosto, com inflação declinante, ruído político reduzido, e meta de inflação mantida em 3% para 2026.
+- O fundo manteve uma pequena exposição à bolsa global, juntamente com uma alocação significativa no mercado brasileiro. Também manteve uma posição comprada em inflação implícita no Brasil.
+- As posições em crédito high yield global e local, juros na parte curta da curva, e em ouro também foram mantidas, juntamente com uma redução substancial na compra em inflação nos EUA.
+
+ Gestora: Genoa Capital
+
+- A economia global continua a desacelerar gradativamente, com o setor de serviços resistindo a uma desaceleração mais acentuada.
+- No EUA, o Federal Reserve indica uma ou duas altas de juros nos próximos meses, enquanto a economia apresenta sinais mistos.
+- No Brasil, eventos importantes ocorreram, incluindo três choques relacionados à inflação. Espera-se um ciclo de redução de juros a partir de agosto.
+- Os investimentos são concentrados em empresas brasileiras expostas à economia local, especialmente nos setores de consumo e utilidades públicas, e empresas americanas ligadas à computação em nuvem e IA.
+- A visão é construtiva para empresas domésticas com valuation atual razoável e dinâmicas operacionais resilientes, apesar dos riscos da condução política.
+- Em relação à performance, as posições compradas no real, vendidas em inflação e compradas em renda variável no Brasil contribuíram positivamente.
+- O cenário econômico global está desacelerando, mas acredita-se que a cautela será adotada pelos bancos centrais. 
+- Valoriza-se empresas com valuation descontados em setores específicos, enquanto mantém proteções em índices globais.
+- Exposições líquida e bruta à renda variável estão acima do neutro, cerca de 85% e 180% respectivamente.
+- Principais contribuições positivas vieram de posições compradas em empresas brasileiras no setor de utilidades públicas, energia, consumo e financeiro. Perdas foram concentradas nas estruturas de proteção em índices globais de ações.
+
+ Gestora: Gap Asset
+
+- O fundo Gap Absoluto teve rentabilidade positiva em junho de 2023, com contribuições positivas de posições em juros no Brasil e Chile e compras na bolsa do Brasil.
+- O cenário brasileiro apresentou revisões baixistas de inflação, manutenção da meta de inflação em 3,0%, e redução do risco fiscal, indicando o início da flexibilização monetária.
+- Posições aplicadas em juros no Brasil foram interrompidas devido à pequena margem de prêmio atual, optando-se por concentrar o risco na bolsa.
+- Nos EUA, a economia mostrou maior resiliência do que esperada, com o consumo mantido, apesar do aperto monetário. 
+- Na Europa, indicadores mostram desaceleração da economia e inflação elevada, motivando posições vendidas na bolsa alemã.
+- Reino Unido sofre com inflação elevada e mercado de trabalho aquecido, resultando em aumento da taxa de juros em 0,5%.
+- Na Noruega, o Norges Bank aumentou a taxa de juros em 0,5%, mantendo a posição de compra em coroa norueguesa.
+- A atividade econômica na China mostra desaceleração, com uma política monetária necessária para estimular o crescimento mais robusto.
+- Encerrou-se a pequena posição aplicada em juros no Chile, considerando-se a expectativa de inflações futuras baixas para o país.
+- O México apresenta um ótimo desempenho de moeda, enquanto a Colômbia beneficia-se dos fluxos de capitais e da falta de governabilidade do governo Petro. 
+- O objetivo do fundo é superar o CDI em horizontes de médio e longo prazo, capturando oportunidades nos mercados brasileiro e externo.
+
+ Gestora: Legacy Capital
+
+- Em junho, economias desenvolvidas e emergentes mantiveram um crescimento sólido; bolsas e moedas seguiram se apreciando enquanto as curvas de juros de economias centrais abriram.
+- O Fundo apresentou um desempenho positivo em junho, embora abaixo do CDI, com posições aplicadas em juros locais e externos contribuindo positivamente para o resultado.
+- A economia dos EUA mostrou resiliência, apesar dos sinais de desaceleração no mercado de trabalho e o FED é esperado elevar os juros.
+- Em outras economias centrais, a atividade é menos robusta, mas tanto o Banco Central Europeu quanto o Banco da Inglaterra também devem aumentar as taxas de juros.
+- O Brasil continua a apresentar um quadro de crescimento positivo com sinais de inflação melhorando, abrindo espaço para um ajuste de juros superior a 400 pontos.
+- A Legacy Capital reduziu a exposição a juros em economias centrais devido à resiliência da economia dos EUA, mas manteve a exposição em economias emergentes que estão próximas a iniciar cortes de juros.
+- Adotou-se uma postura liquida comprada em bolsa brasileira, dada a boa situação da economia e os efeitos da queda da taxa de juros em ativos locais.
+
+ Gestora: Dahlia Capital
+
+- O mercado brasileiro exibiu forte recuperação nos primeiros seis meses do ano. A gestora entende que essa é uma recuperação cíclica que pode se tornar estrutural.
+- Fatores que podem influenciar positivamente os mercados incluem queda da inflação e dos juros, atraente valuation da bolsa e um posicionamento favorável dos investidores.
+- Projeções apontam para uma diminuição contínua da inflação, chegando a menos de 4% em 2024.
+- Taxas de juros futuras diminuíram nos últimos meses, parte disso devido à expectativa de inflação menor.
+- Preços das ações ainda são considerados atrativos, com o índice Preço/Lucro para o Ibovespa em 8x atualmente, abaixo da média histórica de 10,4x.
+- Apesar da recente alta no mercado, a alocação em ações pelos investidores ainda parece baixa.
+- Em junho, os ativos de risco, especialmente no Brasil, apresentaram desempenho positivo.
+- A gestora mantém um nível de risco mais alto em seus fundos, com posições mais otimistas em ativos brasileiros, principalmente na bolsa.
+
+ Gestora: BV Asset
+
+- A BV asset observou a continuação do ajuste da política monetária global em junho de 2023, com bancos centrais mantendo taxas de juros elevadas para controlar a inflação.
+- O Federal Reserve (Fomc) manteve a taxa de juros básica dentro do intervalo de 5,00%-5,25%, mas planeja pelo menos mais duas aumentos até o final do ano.
+- O Banco Central Europeu (BCE) aumentou a taxa de depósito para 3,50%, com expectativa de um aumento similar na próxima reunião. A inflação resistente na região está influenciando esta decisão.
+- Os bancos centrais do Reino Unido e da Noruega surpreenderam o mercado com aumentos de 50 bps nas suas respectivas taxas de juros básicas.
+- A extensão do ajuste monetário para o segundo semestre de 2023 eleva o risco de uma desaceleração acentuada na economia global.
+- O banco central da China, em contrapartida, reduziu as principais taxas de juros em -10 bps na tentativa de estimular a economia.
+- No Brasil, destaca-se o avanço da aprovação do arcabouço fiscal no Congresso, como parte do processo de consolidação fiscal de médio prazo.
+- A reforma tributária com criação da Contribuição Social sobre Bens e Serviços (CBS) e do Imposto Seletivo está em discussão na Câmara dos Deputados.
+- A taxa Selic permaneceu em 13,75% a.a. pelo sétimo encontro seguido do Comitê de Política Monetária (Copom), mas havia indicações de um possível corte futuro.
+- Em junho, o mercado de renda fixa registrou queda nos juros futuros e nas Notas do Tesouro Nacional Série-B (NTN-Bs).
+- A atividade de crédito privado mostrou sinais de reaquecimento com redução dos spreads no mercado secundário.
+- Em termos de renda variável, a BV asset reforçou sua posição em cíclicos domésticos com o investimento na Arezzo, uma empresa do varejo.
+- No mercado de câmbio, o dólar se enfraqueceu em relação a todas as moedas do G10, exceto o iene japonês. Enquanto isso, a libra esterlina se destacou com um aumento das taxas de juros pelo Banco da Inglaterra.
+
+ Gestora: JGP Asset Management
+
+- Juros continuam subindo nos EUA devido a fortes dados econômicos e inflação resiliente; taxas de curto prazo subiram 60pb nos EUA, 120pb no Reino Unido, e 60pb na Alemanha.
+- Taxas de juros de longo prazo, de 10 anos, aumentaram 40pb nos EUA, 50pb na Inglaterra e 40pb na Alemanha.
+- Apesar do aumento de juros, bolsas de valores tiveram boa performance; Dow Jones subiu 4,7%, S&P 500 e NASDAQ subiram 6,6% e na Europa, STOXX 600 aumentou 2,4%, MSCI Emergentes cresceu 3,9%.
+- Inteligência Artificial foi o principal impulsor do setor de tecnologia.
+- FED manteve taxa de juros entre 5% e 5,25%, mas projeta ainda duas altas de juros no ano.
+- No Brasil, houve uma baixa significativa nas taxas de juros devido à revisões para baixo da inflação de 2023, e a manutenção da meta de inflação em 3%.
+- Projeção do IPCA em 2023 caiu de 5,70% para 4,98% e a projeção para 2024 passou de 4,13% para 3,92%.
+- Contratos de DI futuros no fim de junho previam uma Selic terminal de 9,0% em 2024, indicando uma queda esperada de 475 bps.
+- Apesar de cenário positivo com baixa inflação, gestora evita posições aplicadas devido à volatilidade econômica do Brasil.
+- Houve apreciação no câmbio dos países emergentes, incluindo o Real brasileiro, em junho.
+- A gestora considera ações de bolsa baratas e acredita que ainda há espaço para ganhos em posições compradas mesmo com a perspectiva de afrouxamento do ciclo monetário.
+
+ Gestora: SulAmerica Investimentos
+
+- O mercado financeiro nos Estados Unidos tem apresentando resiliência, especialmente no setor de serviços, e persistência dos núcleos de inflação em patamares elevados.
+- O mercado de crédito tem apresentado melhoras desde maio, com destaque para o crédito corporativo. A gestora tem aumentado a alocação em ativos de crédito no mercado secundário, aproveitando o nível de prêmio atrativo.
+- O Ibovespa teve valorização de +9%, enquanto o S&P teve ganhos de +6,61%. Entre as commodities, o petróleo Brent fechou em US $ 75,41 (+4,03% no mês) e o minério de ferro em US $110,88 (+12,68% no mês).
+- O fundo está posicionado em ações que se beneficiam com a queda de juros, principalmente em setores de consumo, transporte, construção civil e saúde.
+- Diante da alta de juros futuros e a aceleração dos ganhos do S&P, o fundo teve perdas com posições tomadas em juros curtos.
+- A comunicação recente do Banco Central do Brasil indica uma iminência de cortes de juros. Como resposta, o fundo reduziu posições tomadas na curva curta de juros.
+- A parcela de crédito do SulAmérica Capital, que compõe 43% do portfólio, apresenta potencial de valorização no segundo semestre.
+- A gestora espera cortes de juros pelo Banco Central do Brasil por conta da aprovação do arcabouço fiscal na Câmara e números de inflação mais baixos.
+- O Banco Central da China deve anunciar medidas de estímulo econômico ao longo de julho, em resposta à desaceleração da atividade econômica do país.
+
+ Gestora: Sueste Capital
+
+- Bancos centrais de economias desenvolvidas adoptaram postura mais hawkish em Junho; entretanto, bancos centrais de economias emergentes indicam possíveis reduções futuras. 
+- O Federal Reserve (FED) nos EUA manteve taxas de juros, mas a maioria dos membros indica expectativa de duas elevações futuras.   
+- O setor imobiliário nos EUA mostrou recuperação e a taxa de inflação medida pelo PCE permanece substancialmente acima da meta.
+- Na trilha brasileira, o Banco Central manteve a taxa de juros, mas a ata divulgada sugere a possibilidade de um próximo ciclo de redução da taxa de juros.
+- Na Europa, o Banco Central Europeu (ECB) aumentou a taxa de juros em 25bps e sinalizou outra possível elevação futura, apesar de uma redução no PMI composto em Junho.
+- Na China, o PBOC reduziu pontualmente as taxas de juros devido a um revés com o setor externo que parou de contribuir positivamente para as contas nacionais.
+- Em Julho, a atenção será voltada para a divulgação de indicadores econômicos nos EUA e para a reforma tributária no Brasil.
+- Nos EUA, é possível que ocorra mais uma ou duas elevações nas taxas de juros nos próximos meses, embora os indicadores mostrem uma desaceleração na economia.
+- Na Zona do Euro, os indicadores econômicos estão mostrando uma sequência de surpresas negativas.
+- Na China, a economia está mostrando sinais de desaceleração com uma redução na produção industrial e um ritmo mais lento no mercado imobiliário.
+- No Brasil, a postura flexivel do Banco Central indica a possibilidade de um ciclo de redução dos juros em Agosto, em meio a surpresas negativas na inflação e revisões para baixo das projeções de inflação. Além disso, o Conselho Monetário Nacional definiu a meta de inflação para 2026 em 3%.
+
+ Gestora: Porto Asset Management
+
+- A Porto Asset Management mantém a taxa Selic em 13,75% mas sinaliza cortes futuros devido a confiança no processo de desinflação.
+- Nas economias internacionais, a inflação ainda não foi vencida, logo os bancos centrais de países como Reino Unido, Canadá e Austrália continuam a aumentar as taxas de juros. 
+- A atividade doméstica está forte e oferece pressão inflacionária; o produto interno bruto (PIB) surpreendeu positivamente e o mercado de trabalho demonstra resiliência.
+- As expectativas de inflação têm recuado, associadas à melhora do quadro de alimentos e bens industriais e à valorização cambial do Real.
+- A gestora indica cautela quanto ao estado das contas públicas, embora o novo arcabouço fiscal prometa melhorar os resultados primários a partir de 2024.
+- A redução inicial da Selic será de 0,25 pontos percentuais em agosto, com progressivas quedas de 0,50pp, prevendo-se encerrar 2023 com a Selic em 12% e estender o ciclo de cortes até meados de 2024, atingindo 9,75%.
+- Mesmo com a melhora recente no quadro inflacionário, a gestora acredita que o processo de desinflação ainda exige cautela. 
+- De acordo com as estimativas da Porto Asset Management, as taxas inferiores a 9,75% não garantiriam a convergência do IPCA para o centro da meta (3%).
+
+ Gestora: Sicredi Asset Management
+
+- As negociações para o aumento ou suspendimento do teto da dívida pública nos Estados Unidos causou volatilidade nos preços dos ativos.
+- O limite para emissão de nova dívida foi atingido em 2023, colocando o país em risco de não conseguir cobrir suas despesas a partir de junho.
+- Devido ao risco, a agência de classificação Fitch colocou o rating soberano dos Estados Unidos com perspectiva negativa.
+- Essa situação gerou pressão na moeda americana em relação às principais economias globais e levou à desvalorização do real em 1,9%, cotado a R$ 5,10/US$.
+- O problema foi resolvido com a suspensão do teto da dívida pelo Congresso no dia 01/06.
+- No Brasil, o Projeto de Lei Complementar, que inclui um novo arcabouço fiscal, foi aprovado pela Câmara dos Deputados e agora deve passar pelo Senado.
+- O Produto Interno Bruto (PIB) brasileiro do primeiro trimestre cresceu 1,9%, acima das expectativas, levando a Sicredi Asset Management a revisar as projeções de crescimento da economia para 2,6% em 2023 e 1,4% em 2024.
+- O Índice de Preços ao Consumidor Amplo (IPCA) de maio desacelerou em relação a abril, levando a uma revisão de projeções de inflação para 2023 e 2024.
+- Dada a melhora nas expectativas de inflação, a Sicredi Asset Management antecipa o início do ciclo de cortes de juros para a reunião de setembro de 2023.
+- A gestora prevê que a taxa Selic encerre 2023 em 12,50% ao ano e 2024 em 8,50% ao ano.
+
+ Gestora: Santander Asset Management
+
+- Ciclo de alta dos juros nos EUA possivelmente encerrado em maio, colaborando para a desaceleração da atividade e inflação;
+- No Brasil, ajustes foram feitos nas projeções de crescimento e inflação, com cenário para a Selic mantido, mas com possibilidade de cortes a partir de novembro;
+- Mercados globais e brasileiro monitorados para dados de atividade e inflação, perspectivas para o setor bancário, passos dos principais bancos centrais, inflação, comunicação do Copom, expectativas de inflação e evolução da política fiscal;
+- Mercados em maio mostraram ganhos modestos nos índices acionários internacionais e alta nas curvas de juros dos EUA, contribuindo para o fortalecimento do dólar;
+- Queda nos juros no Brasil, principalmente nos vencimentos mais longos e alta do Ibovespa, refletindo dinâmica positiva internacional;
+- Na renda fixa, visão de cautela devido ao ciclo de aperto de juros nas economias desenvolvidas e as expectativas de inflação ainda distantes da meta;
+- Para a renda variável, visão neutra devido ao cenário internacional desafiador e incerteza sobre as discussões fiscais que poderiam impactar o lucro das empresas;
+- No câmbio, visão neutra considerando o diferencial de juros entre o Brasil e os EUA, que poderiam fortalecer o real, mas também as incertezas fiscais que poderiam limitar esse movimento;
+- Projeções ajustadas de PIB e inflação para o Brasil, com expectativa de início de cortes da taxa Selic possivelmente antes do quarto trimestre de 2023, observando a evolução da política fiscal.
+
+ Gestora: Opportunity
+
+- Aumento da incerteza proveniente do final do processo de alta nos juros iniciado pelos principais bancos centrais. 
+- Sinais ambíguos nos dados econômicos, especialmente em relação aos impactos tardios da política monetária e do recente aperto nas condições de crédito.
+- Choques resultantes da pandemia e conflito na Ucrânia já são menos visíveis nos principais indicadores.
+- Identificação dos componentes de tendência dificultada pela magnitude desses choques.
+- Inflação continua em queda, principalmente devido à queda nos preços da energia/combustíveis e commodities/alimentos.
+- Indicações mais robustas que sugerem que a inflação central, incluindo no setor de serviços, alcançou seu pico.
+- Dicotomia global nos indicadores de atividade entre os setores de serviços (forte) e indústria (fraco).
+- Vizinhos de desacordo no Federal Reserve (Fed) e consenso no Banco Central Europeu (ECB) sobre o final iminente do ciclo de alta nos juros.
+- Surpresa negativa com os dados de atividade econômica na China, principalmente devido a problemas no setor imobiliário e consumo.
+- No Brasil, dados recentes mostram sinais mais positivos para a inflação e desaceleração na demanda interna.
+- Expectativa de início de corte de juros a partir de agosto ou setembro, dependendo dos novos dados divulgados e da ausência de surpresas fiscais negativas.
+- No mercado brasileiro, a gestora mantém posições aplicadas na parte curta da curva DI e posições compradas na bolsa brasileira em papéis de qualidade que se beneficiarão de uma queda na taxa de juros.
+- No mercado internacional, procura posições aplicadas nas curvas de juros em países onde o aperto monetário esteja no fim ou próximo dele e mantém posições vendidas em bolsas internacionais devido ao aumento do risco de recessão.
+
+ Gestora: MAG Investimentos
+
+- O primeiro semestre de 2023 teve o aperto monetário continuado nas economias desenvolvidas e uma desaceleração lenta da inflação global.
+- O aumento dos juros e a normalização na cadeia de oferta levaram a uma queda nos preços das commodities, como petróleo, minério de ferro, milho e trigo.
+- Existe uma mudança de um cenário de hard-landing para um de soft-landing, devido à resiliência que a economia global tem apresentado, principalmente o setor de serviços.
+- Nos EUA, houve um crescimento anualizado do PIB de 2,0% em relação ao trimestre anterior no 1T23, superando as expectativas do mercado. Isso levou a revisões altistas para o PIB do ano, de 1,1% para 1,3%.
+- A Zona do Euro e o Reino Unido mantêm a política de aperto monetário, com novas altas nas taxas de juros.
+- Em contraste, os dados econômicos da China têm surpreendido negativamente, levando o governo a adotar medidas de estímulo, incluindo cortes nas taxas de juros.
+- Em relação às economias emergentes, espera-se que o próximo movimento seja um corte de juros.
+- No Brasil, o primeiro semestre do ano foi marcado por volatilidade e ataques à política de juros altos e ao nível da meta de inflação.
+- A percepção de risco melhorou no 2T23, à medida que as incertezas com a política econômica foram diminuindo.
+- A perspectiva de rating do Brasil foi revisada de neutra para positiva pela S&P.
+- O COPOM manteve a taxa Selic inalterada em 13,75% a.a, sinalizando um possível início do ciclo de corte de juros em agosto.
+- O Conselho Monetário Nacional (CMN) definiu a meta de inflação para 2026 em 3,00%, com intervalo de tolerância de ±1,5 p.p.
+- No mercado de renda fixa, após a evolução do novo arcabouço no Congresso, houve um ajuste na curva de juros.
+- O mercado de crédito primário está sendo retomado e houve um ligeiro aumento na média de spread devido à abertura nos papéis de duration mais longa.
+- Nos fundos multimercados, a agenda local foi o grande destaque do mês para os ativos de risco domésticos.
+- O desempenho do mercado de ações foi caracterizado por uma melhora expressiva de 9,00% no Ibovespa em junho, impulsionado pelo otimismo dos investidores estrangeiros.
+
+ Gestora: Occam Brasil
+
+- Economias internacionais: Zona do euro apresentou desaceleração, com a Alemanha sendo bastante afetada. A China também apresenta sinais de estagnação, apesar das medidas de estímulo. Entretanto, a economia dos EUA continua resiliente, com destaque para o setor imobiliário. A inflação global apresentou queda.
+- Brasil: Metas de inflação até 2025 foram mantidas e a de 2026 ajustada para 3%. Há uma possível alteração na forma como a meta será aferida a partir de 2025. A visão do Copom para a inflação é positiva, sinalizando possível início de flexibilização da política monetária.
+- Juros e Câmbio: Países desenvolvidos e emergentes apresentaram comportamentos divergentes. Nos EUA, há sinalização de necessidade de ajustes adicionais nos Fed Funds. Países emergentes mostram avanço na desinflação. No Brasil, há expectativa de início de ciclo de corte de juros.
+- No setor de ações, o Ibovespa teve forte alta em junho, acumulando ganhos de 7,6% no ano. Isso decorre de revisões positivas de PIB e cenário externo favorável. Houve um movimento de compra de empresas locais e redução nas ações mais defensivas.
+- A gestora optou por zerar as posições aplicadas em alguns emergentes no livro internacional, buscando posições que se beneficiem de uma inflexão nos ciclos de política monetária. Encerrou posição comprada em dólar e abriu posição comprada no real contra o peso chileno.
+
+ Gestora: Rio Bravo
+
+- A S&P colocou a classificação de crédito do Brasil em perspectiva positiva, com a expectativa de que ela aumente para BB (atualmente BB-).
+- Uma nova perspectiva positiva é prevista para 2023 ou 2024, com a previsão para alcançar grau de investimento em 2025, dependendo de vários fatores.
+- O rating é fundamental para direcionar a política econômica e facilitar a relação entre governo e mercado.
+- O PIB do primeiro trimestre de 2023 cresceu 1,9%, superando as projeções, impulsionado principalmente pelo setor agrícola, sobretudo a produção de soja.
+- Fundos imobiliários estão ganhando atratividade com a queda das taxas de juros.
+- O fenômeno El Niño está impactando a economia, afetando setores como indústria extrativa, agropecuária e transporte.
+- Os setores de utilidade pública, açúcar e etanol, e de grãos, bem como empresas como Omega Energia, podem se beneficiar do El Niño.
+- Há expectativa de melhora na performance dos fundos de ações da Rio Bravo.
+- A Rio Bravo é uma pioneira em Fundos de Investimento Imobiliário no Brasil, oferecendo diversos fundos com segmentações variadas, atuando em crédito desde 2007, e possui linha de Infraestrutura com o RBIF11.
+- A empresa desenvolve produtos utilizando uma abordagem multidisciplinar e uma equipe experiente de gestores.
+
+ Gestora: O3 Capital
+
+- Nos EUA, a taxa básica foi mantida em 5,25% em junho, mas há indicação de futuros aumentos. Essa decisão está orientada por uma persistente falta de sinais de desinflação e desequilíbrios no mercado de trabalho.
+- Dentro da economia chinesa, apesar de uma recuperação robusta do consumo, o mês de junho apresentou sinais de fraqueza na atividade econômica. O país também experimentou o seu primeiro corte na taxa de juros desde agosto de 2022.
+- Na Zona do Euro, os números de inflação indicaram baixa, embora haja sinais de recuperação em junho. No entanto, os indicadores de atividade econômica ainda sugerem fraqueza para o segundo trimestre.
+- No Brasil, os dados de inflação trouxeram surpresas positivas, com a inflação implícita e os juros projetados para os próximos trimestres caindo significativamente. Dado esse cenário, há uma expectativa de cortes na taxa Selic nas próximas reuniões.
+- Na América Latina, muitas economias foram as primeiras a iniciar um ciclo de alta de juros e devem ser as primeiras a iniciar um ciclo de corte. Especificamente, no México e no Chile, sinais de atividade econômica e inflação estão conduzindo a expectativa de cortes de juros.
+- No campo das estratégias aplicadas, continua a haver preferência por posições tomadas em juros na Europa, e uma tendência de precificação de queda nos juros no Brasil. Posições compradas em bolsa brasileira também se beneficiaram.
+
+ Gestora: Trigono Capital
+
+- A perspectiva do mercado é descrita através de uma analogia com o filme "Três Homens em Conflito", destacando a incerteza econômica atual.
+- O papel de Angel Eyes é atribuído ao próprio mercado, enquanto Fernando Haddad e Roberto Campos Neto são identificados como os personagens "bom" e "feio", respectivamente.
+- Há cautela com relação aos movimentos do mercado, com o gestor acreditando que as ações "heróicas" muitas vezes podem ser prejudiciais.
+- Críticas são feitas à prática de "vender em maio e ir embora" e à rápida valorização de setores populares.
+- O gestor expressa ceticismo em relação às flutuações dramáticas de mercado, vendo-as talvez como uma tendência temporária em vez de uma oportunidade de investimento sólida.
+- No entanto, a execução específica da estratégia do fundo não é abordada.
+- São feitas menções a diversos filmes e recursos de streaming de áudio, mas sua relevância exata para a estratégia de investimento não fica clara devido à falta de contexto.
