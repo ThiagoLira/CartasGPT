@@ -32,8 +32,8 @@ plugins:
   - jekyll-remote-theme
 
 navbar-links:
-  Twitter: "/twitter"
   Gestoras: "/gestoras"
+  Twitter: "/twitter"
   Feed: "/feed"
   Metodologia: "/metodologia"
   About: "/about"
