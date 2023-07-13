@@ -33,7 +33,6 @@ plugins:
 
 navbar-links:
   Gestoras: "/gestoras"
-  Twitter: "/twitter"
   Feed: "/feed"
   Metodologia: "/metodologia"
   About: "/about"
