@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Cartas de Gestoras resumidas pelo ChatGPT, com referências ao texto original para validação feitas com a API de embeddings da OpenAI. 
+Cartas de Gestoras resumidas pelo GPT-4, com referências ao texto original para validação feitas com a API de embeddings da OpenAI. 
 
 Embora nos esforcemos para fornecer informações precisas e atualizadas, não garantimos a exatidão, confiabilidade ou integridade das informações fornecidas.
 
