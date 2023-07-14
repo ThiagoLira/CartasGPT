@@ -1,0 +1,534 @@
+Carta do Gestor
+Estratégias Sistemáticas
+Maio de 2023Prezados investidores, 
+Em seus últimos anos em Stanford, Phil Knight escreveu um artigo sobre tênis. Knight era um corredor ávido e
+entendia sobre o assunto. Além disso, por ser fascinado pelo mundo dos negócios, também sabia que as
+câmeras japonesas haviam desafiado a liderança dos alemães no segmento. Em seu artigo ele defendia que a
+mesma coisa poderia acontecer no mercado de tênis para corridas, que até então era dominado pelas alemãs
+Adidas e Puma.
+Pouco tempo depois, em 1962 e aos 24 anos de idade, Knight decidiu fazer uma viagem de volta ao mundo, mas
+a ideia do seu artigo nunca saiu de sua cabeça. Em novembro ele chegou ao Japão e encontrou o que estava
+procurando na cidade de Kobe. De forma inusitada o jovem conseguiu uma reunião na Onitsuka Tiger, se
+apresentou como representante da Blue Ribbon Sports – uma empresa que ainda não existia de fato e que se
+transformaria na Nike nos anos seguintes – e saiu de lá com uma proposta para representar a empresa japonesa
+nos EUA.
+No primeiro ano de operação da Blue Ribbon, em 1965, a empresa faturou US$ 8.000 e lucrou US$ 250. Knight
+chegou a carregar vários tênis no porta-malas do próprio carro para vender os pares em competições de corrida.
+Bowerman, seu sócio, criou o primeiro tênis de corrida da marca Nike inspirado no formato da máquina de waffle
+que sua esposa utilizava para fazer o café da manhã. Hoje, quase 60 anos depois, a Nike vale mais de US$ 160
+bilhões na bolsa, com Receita de mais de US$ 50 bilhões e lucro de cerca de US$ 5,5 bilhões.
+Mais do que uma empresa gigante, a Nike é uma empresa com indicadores robustos e consistentes de
+lucratividade, com dívida baixa e geradora de caixa. Ainda hoje a empresa continua crescendo e a força de sua
+marca é uma vantagem competitiva que serve de sustentação para suas margens elevadas.
+NKE US Equity
+Em milhões de US$, exceto Ratios
+Highlights
+LTM
+Receita Líquida
+YoY%
+Lucro Bruto
+Margem Bruta %
+Lucro Líquido Adj
+Margem Líquida %
+Fluxo de Caixa Livre
+Ratios
+Média
+ROE
+ROIC
+Dívida Líquida / EBITDA
+“Growing sales, plus profitability, plus unlimited upside, equals quality company.” 1
+Phil Knight
+Fonte: Bloomberg. Elaboração própria.
+NIKE, Inc. – Indicadores Financeiros SelecionadosEssas características são comuns aos bons negócios e são indicadores que vem sendo utilizadas há muitas
+décadas por investidores profissionais na tentativa de identificar boas oportunidades de investimento. O conceito
+de empresas com alta “qualidade” abarca esses atributos e inclui outros traços como baixa volatilidade dos lucros
+e alto giro do ativo.
+Considerando esses conceitos em conjunto, a evidência empírica mostra que as empresas com alta qualidade
+entregam retornos maiores que empresas de baixa qualidade (principalmente durante mercados de baixa).
+Particularmente, ações de empresas que são rentáveis, têm lucros estáveis e possuem altas taxas de crescimento
+superam ações de empresas com características opostas.
+Junto com os fatores de Valor, os fatores de Qualidade ajudam a explicar boa parte do estilo de muitos
+investidores populares, como o próprio Warren Buffet. Empresas como a Microsoft, L’Oréal, Meta, Philip Morris,
+Apple e Mastercard são comparáveis à Nike, no sentido de apresentarem bons fatores de qualidade, além de
+também possuírem barreiras de entrada que sustentam suas vantagens competitivas.
+Nessa carta vamos explorar os resultados da evidência internacional, mostrar a performance da estratégia no
+mercado local e discutir as possíveis razões por trás do prêmio dos fatores de qualidade. Ao final da carta,
+também discutimos brevemente sobre o cenário macro e detalhamos a performance dos nossos fundos long-
+only e long-short no mês.
+Por fim, gostaríamos de reforçar que nosso fundo long-short, o V8 Speedway Long Short FIC FIM, completou 6
+meses no mês de maio e agora podemos divulgar os resultados do fundo. O objetivo do fundo é superar o CDI
+através de uma estratégia long-short neutra, isto é, buscamos gerar alfa acima do CDI sem risco direcional de
+bolsa. Desde o início, o fundo está com retorno acumulado de 9,80%, equivalente a 139,19% do CDI, e volatilidade
+de 4,53% a.a.
+Esse resultado se compara a uma queda e volatilidade do Ibovespa de -1,25% e 20,1% a.a., respectivamente,
+mostrando que sim: é possível ganhar dinheiro com bolsa, mesmo em um cenário de juros alto e
+independentemente da direção do mercado.
+Nosso time está à disposição para quaisquer dúvidas sobre os nossos produtos.
+Boa Leitura!Evidência Internacional 
+De acordo com o modelo de desconto de dividendos de Gordon2 o valor justo de uma empresa é o valor presente
+dos seus dividendos futuros, ou seja, empresas que distribuem mais caixa para seus acionistas deveriam valer
+mais que empresas que produzem menos proventos. Alternativamente, isso é o mesmo que dizer que empresas
+que lucram mais e retém menos caixa para reinvestimentos deveriam ter um valor justo mais alto do que
+negócios menos rentáveis e que investem mais.
+Fama-French (2006)3 testaram empiricamente essa relação no mercado americano para os anos entre 1963 e
+2004 e encontraram evidências que confirmam as previsões dessa teoria. Os autores mostram que indicadores
+como o Lucro Líquido, crescimento do ativo e accruals4 (que são utilizados como proxies para as expectativas de
+lucros e investimentos) estão relacionados aos retornos conforme as hipóteses do modelo de Gordon. Porém,
+seus testes de portfólios sugerem que os indicadores agregam pouco às previsões dos fatores de Valor (HML) e
+tamanho (SMB).
+Novy-Marx (2013)5 avançou nessa discussão e propôs que o Lucro Bruto é uma proxy melhor que o Lucro Líquido
+para a rentabilidade futura. Em sua visão, o Lucro Bruto é uma métrica mais limpa e menos suscetível a decisões
+estratégicas das empresas que podem afetar a última linha do resultado. Por exemplo, é possível que uma
+empresa com Margem Bruta elevada apresente uma Margem Líquida menor que seu pares caso tenha despesas
+com marketing ou P&D superiores aos seus concorrentes, tal que o Lucro Líquido irá mascarar o real potencial de
+lucros futuros da companhia.
+Para o período entre 1963 e 2010, Novy-Marx encontrou um prêmio de 0,31% a.m. entre portfólios ranqueados pelo
+fator Lucro Bruto/Ativo no mercado americano. Adicionalmente, a estratégia apresenta uma exposição negativa
+ao fator HML, ou seja: as empresas mais rentáveis tendem a ser empresas mais “caras” (growth stocks), e as
+empresas mais “baratas” (value stocks) tendem a ser empresas menos rentáveis. Porém, apesar da semelhança
+com ativos growth os papéis com Lucro Bruto/Ativo mais alto têm retorno esperado positivo, sugerindo que a
+presença de margens elevadas é uma característica importante das boas ações de crescimento.
+O prêmio de rentabilidade também é observado no mercado internacional. Para um universo de ações em
+mercados desenvolvidos fora da América do Norte (um grupo que inclui países como Austrália, França, Alemanha,
+Reino Unido dentre outros), entre julho de 1990 e outubro de 2009, os portfólios classificados com base no fator
+de rentabilidade de Novy-Marx apresentam um prêmio de 0,76% a.m. sobre os ativos de empresas com Lucro
+Bruto/Ativo baixo.
+Gráfico 1 - QMJ (Em US$. Base 100. Escala log) – jun/1993 a mar/2023
+Fonte:  AQR. Quality Minus Junk: Factors, Monthly. Elaboração própria
+Asness, Frazzini e Pedersen (2019)6 estenderam o
+debate
+criando
+uma
+definição
+mais
+ampla
+de
+“qualidade”,
+abrangendo
+diversos
+indicadores
+de
+lucratividade,
+crescimento
+e
+segurança.
+Mais
+especificamente,
+os
+autores
+criaram
+um
+score
+combinando
+indicadores
+como
+ROE,
+ROA,
+crescimento, beta e alavancagem, e mostraram que
+uma estratégia “Quality minus Junk” 7 (QMJ), na qual
+um investidor fica long em ações de empresas de alta
+qualidade e short em empresas com indicadores ruins,
+tem gerado prêmios significantes tanto nos EUA
+quanto em outros agregados globais. Conforme o
+gráfico 1 ao lado, o retorno do QMJ, desde junho de
+1993, foi em média de 5,54% a.a. entre os agregados
+globais.Gráfico 2 - Retorno acumulado hipotético (05/2007 = 100)
+Fatores
+Universo
+Cash Neutral
+Beta Hedged
+GPOA (Lucro Bruto/Ativo)
+ Retorno anualizado
+  Volatilidade a.a.
+  Beta
+  Sharpe
+ROIC (Retorno sobre o capital investido)
+ Retorno anualizado
+  Volatilidade a.a.
+  Beta 
+  Sharpe 
+Para exemplificar o fenômeno no mercado
+local nos concentramos em dois fatores de
+rentabilidade: Lucro Bruto/Ativo (GPOA8) e
+Retorno sobre o Capital Investido (ROIC9). O
+primeiro em linha com Novy-Marx (2013) e
+o segundo como uma métrica alternativa
+para mostrar que o fator é robusto a
+definições diferentes. Por uma questão de
+espaço não vamos explorar fatores de
+crescimento e “segurança” nessa carta,
+conforme propostos por Asness, Frazzini e
+Pedersen (2019). Entretanto, cabe salientar
+que em nossa última carta falamos sobre o
+BAB10, um dos fatores que os autores
+consideram na composição do score de
+“segurança” do QMJ.
+Continuamos utilizando o IBrX-100 para
+compor os quartis para a análise dos
+fatores, assim como nos limitamos ao
+mesmo período de 186 meses entre maio
+de 2007 e dezembro de 2022. Porém,
+excluímos dos rankings os papéis que não
+possuem observações para os fatores,
+acarretando principalmente na remoção de
+empresas
+financeiras.
+Os
+bancos,
+por
+exemplo, não reportam o Lucro Bruto no
+plano de contas de seus resultados.
+De acordo com a evidência internacional,
+os dois fatores também estão associados a
+prêmios de risco no Brasil.
+As ações no primeiro quartil do GPOA superam suas contrapartes de baixa rentabilidade em 5,2% a.a., enquanto
+os ativos com ROIC alto têm retorno 6% a.a. acima dos ativos com ROIC baixo. Além disso, o Q1 para os dois
+fatores tem volatilidade, beta e sharpe11 melhores que o universo analisado, assim como todas as métricas do Q4
+são piores que o mercado.
+Adicionalmente, como o prêmio cash-neutral 12 dos fatores tem o beta negativo para as duas estratégias - pois o
+beta do Q1 é menor que o beta do Q4 - também apresentamos o Q1-Q4 beta-hedged, em linha com a
+metodologia proposta por Frazzini e Pedersen (2014) e conforme fizemos em nossa última carta na análise dos
+fatores de baixa volatilidade e BAB13. Com isso, as estratégias long-short neutralizadas em relação ao mercado
+obtiveram um prêmio de 7,7% a.a. e 9,5% a.a. para o GPOA e ROIC, respectivamente.
+Por fim, a propriedade defensiva dos fatores fica evidente ao analisarmos o desempenho dos portfólios durante o
+mercado de baixa que ocorreu durante a primeira metade da década dos anos 2010. Entre 2010 e 2015 os Q1’s do
+GPOA e ROIC obtiveram retorno de 49,75% e 25,26%, contra uma queda de 71,61% e 72,31% para os Q4’s,
+respectivamente. Os dois portfólios long superaram o mercado, enquanto as duas carteiras short tiveram
+performance muito inferior ao universo analisado.
+Fonte e elaboração própria
+Fonte e elaboração própria
+Desempenho no Mercado LocalÉ difícil reconciliar esses resultados com argumentos baseados no risco, pois intuitivamente firmas mais rentáveis,
+com menos alavancagem e que crescem mais estão menos suscetíveis a riscos de distress. Diferente das
+empresas de Valor, que tipicamente estão vindo de uma tendência de quedas nos lucros e com mais
+alavancagem financeira e operacional.
+Além disso, os papéis de empresas que possuem atributos de qualidade apresentam beta mais baixo e se
+beneficiam dos movimentos de “flight to quality” 14 observados durante os momentos de crises, isto é, o risco de
+crash desses papéis é mais baixo do que para os ativos de empresas com qualidade ruim (que por sua vez
+possuem beta e volatilidade maiores que o mercado).
+Nesse sentido a evidência empírica não condiz com a ideia de que o prêmio de qualidade serviria de
+compensação para algum risco. A despeito dessas ressalvas, um possível argumento baseado no risco é de que
+as empresas mais rentáveis deveriam atrair mais competição ao longo do tempo, o que seria uma ameaça às
+suas margens elevadas no longo-prazo e, portanto, os investidores exigiriam uma compensação por isso.
+Entretanto, essa tese carece de evidência empírica.
+Dada a falta de indícios a favor dos argumentos baseados no risco, no caso dos fatores de qualidade as
+justificativas baseadas em vieses comportamentais acabam sendo mais convincentes. Os resultados do paper de
+Bouchaud et al. (2016)15 sugerem que os investidores subestimam a importância da informação contida nos sinais
+de qualidade, pois estariam mais focados em indicadores mais prestigiados e populares tal como o Lucro Por
+Ação. Assim, a hipótese é de que os analistas desprezam métricas mais limpas e robustas (como o Lucro
+Bruto/Ativo, conforme discutimos acima) na tentativa de antecipar a rentabilidade futura das empresas. Com isso,
+existiria um viés onde o mercado sistematicamente subavaliaria as empresas de qualidade em detrimento dos
+seus pares “junk”.
+Uma explicação complementar está associada ao viés de conservadorismo: os agentes se apegam a suas
+crenças e acabam reagindo de uma forma lenta a novas informações sobre uma empresa. Esses erros tendem a
+se retroalimentar à medida que os agentes descartam informações incongruentes com suas crenças iniciais (viés
+de confirmação) e superestimam a qualidade e importância das informações que utilizam para tomar suas
+próprias decisões (viés do excesso de confiança). Com isso, os investidores supostamente esperam que as
+margens das empresas de qualidade revertam à média mais rápido do que ocorre na realidade, além de serem
+atraídos por teses de turnaround em empresas não lucrativas, apesar dos indicadores de qualidade sugerirem
+cenários diferentes.
+Gráfico 3 – Lucro Bruto/Ativo (2022) 
+Empresas como a Nike, Apple e Colgate apresentam
+indicadores de rentabilidade robustos (mesmo quando
+mensurados
+numa
+base
+de
+caixa),
+continuam
+crescendo – o que permite que reinvistam seus
+recursos às elevadas taxas de rentabilidade dos seus
+próprios negócios – e além disso possuem vantagens
+competitivas sustentáveis que previnem que suas
+margens revertam para a média. Ao desconsiderar as
+métricas de qualidade os investidores acabariam
+subavaliando empresas como essas, que tem alto
+potencial de crescimento e geração de resultados no
+futuro.
+Fonte:  Bloomberg. Elaboração própria
+Por que as estratégias funcionam?A “anomalia” dos fatores de qualidade é um dos fenômenos mais fortes reportadas pela academia e já vem sendo
+utilizada na prática por investidores profissionais há bastante tempo. A estratégia é estatisticamente significante
+em mercados de vários países diferentes e funciona para diversas métricas alternativas. Complementarmente, o
+sinal da estratégia é lento o suficiente para que montantes significativos de capital sejam investidos na estratégia
+sem que isso gere custos de transação proibitivos e capazes de eliminar o prêmio dos fatores.
+Enquanto as estratégias de Valor tratam de comprar/vender ativos baratos/caros independentemente da
+qualidade das empresas, as estratégias de Qualidade tratam de comprar/vender ativos com alta/baixa qualidade
+independentemente de seus valuations. Naturalmente, os investidores podem combinar esses dois conceitos
+numa estratégia superior.
+Novy-Marx (2013) mostra que as estratégias de rentabilidade e valor analisadas em seu estudo tem correlação de
+-0,57 entre si. Com isso, um investidor que executasse ambas as estratégias simultaneamente no período
+analisado, teria capturado um retorno de 0,71% a.m., equivalente a quase 2 vezes a média das estratégias
+individuais (sem aumentar a volatilidade da estratégia de forma relevante).
+Combinar fatores de qualidade a uma estratégia de Valor ajuda os investidores a evitarem as “value traps”, isto é,
+comprar
+empresas
+que
+parecem
+baratas,
+mas
+realmente
+merecem
+ter
+um
+valuation
+descontado.
+Alternativamente, uma estratégia que agrega atributos de qualidade aos fatores de valor compra empresas
+baratas relativamente à sua qualidade. Com isso, a estratégia contribui para diversificar os outros fatores do
+portfólio e a construir uma carteira exposta a ações de excelentes negócios.
+Obrigado pela confiança!
+1 “Receita crescente, mais lucratividade, mais upside infinito, igual a empresa de qualidade”
+2 Em nossa carta de fevereiro de 2023 sobre o fator Valor apresentamos o modelo de Gordon. Link para a carta: https://www.v8capital.com.br/post/carta-do-gestor-
+3 Fama, E.F., & French, K.R. (2006). Profitability, investment and average returns. Journal of Financial Economics, 82(3), 491-518.
+4 Accruals são as Receitas e/ou Despesas provisionados no resultado de uma empresa, mesmo que os fluxos de caixa dessas Receitas e/ou Despesas ainda não tenham
+ocorrido de fato.
+5 Novy-Marx, R. (2013). The other side of value: The gross profitability premium. Journal of Financial Economics, 108(1), 1-28.
+6 Asness, C.S., Frazzini, A. & Pedersen, L.H. Quality minus junk. Rev Account Stud 24, 34–112 (2019)
+7 “Qualidade menos Porcaria”
+8 Gross Profits Over Assets, que traduzido para o português fica: Lucro Bruto sobre Ativos.
+9 Return On Invested Capital, que traduzido para o português fica: Retorno sobre o capital investido.
+10 Na carta de abril de 2023 falamos sobre os fatores de baixa volatilidade e BAB. Link para a carta: https://www.v8capital.com.br/post/carta-do-gestor-estrat%C3%A9gias-
+11 Em linha com a cartas anteriores, por simplicidade, estamos assumindo taxa livre de risco igual a zero. A ordenação dos sharpes não seria diferente caso assumíssemos
+taxa livre de risco diferente de zero.
+12 Cash-neutral significa que o mesmo montante financeiro é investido tanto no Q1 quanto no Q4, resultando numa posição que não exige desembolso de caixa para o
+investidor.
+13 De forma parecida com Frazzini e Pedersen (2014), para ajustar os retornos das estratégias long-short fazemos 𝑟 =
+𝛽𝑞4 𝑟𝑄4. Por simplicidade assumimos betas
+estáticos iguais aos betas dos Q’s para todo o intervalo analisado. Na execução de uma estratégia beta-neutral na prática os betas utilizados são dinâmicos e mudam
+conforme as carteiras e as condições de mercado mudam.
+14 “Voo para qualidade”. Em momentos de estresse de mercado é comum observar ativos com características defensivas outperformarem.
+15 Bouchaud, Jean-Philippe and Ciliberti, Stefano and Landier, Augustin and Simon, Guillaume and Thesmar, David, The Excess Returns of 'Quality' Stocks: A Behavioral
+Anomaly (January 15, 2016). HEC Paris Research Paper No. FIN-2016-1134
+ConclusãoCenário Macro
+No mercado internacional os dados econômicos americanos continuaram retratando uma economia e emprego
+resilientes. Além disso, o núcleo da inflação (medido pelo Core PCE) permaneceu estável. Assim, apesar da
+instabilidade causada pela crise dos bancos regionais e potencial contração no crédito, o mercado voltou a
+reprecificar a continuidade do ciclo de aperto monetário nos EUA. Atualmente, para a próxima reunião do FOMC o
+mercado está esperando manutenção dos juros, entretanto com a possibilidade de retomada do ciclo de alta nas
+próximas reuniões. No mês de maio também tivemos a resolução da crise do teto da dívida. O presidente Biden
+chegou a um acordo com o presidente da Câmara para suspender o teto até janeiro de 2025, com a
+contrapartida de cortes em gastos discricionários.
+No Brasil os avanços na agenda fiscal e dados mais positivos de inflação contribuíram para um mês mais benigno
+para os ativos de risco. No dia 23/05 a Câmara aprovou o texto do novo arcabouço fiscal, em substituição ao
+Teto de Gastos. Apesar das mudanças impostas pelos deputados não serem suficientes para reverter a
+perspectiva de que a nova regra fiscal depende da geração de novas receitas, o projeto aprovado foi mais
+restritivo do que o texto enviado pelo Executivo, dando um sinal positivo com relação ao perfil do Congresso.
+Com relação à inflação, continuamos observando uma tendência de queda em diversos indicadores. O IGP-M do
+mês, por exemplo, veio em queda de -1,94%, com destaque para os preços ao produtor, que vêm sendo afetados
+pela queda nas commodities agrícolas e minério. Os preços ao produtor tendem a antecipar os preços ao
+consumidor, corroborando com um cenário de convergência da inflação para os próximos meses.
+Adicionalmente, apesar da surpresa positiva no PIB, que veio acima do consenso (1,9% vs 1,2%), tirando a
+contribuição do agronegócio o número não foi tão positivo. Olhando pela ótica da demanda, o consumo e o
+investimento continuam em tendência de queda, com o último reportando uma queda de 3,4%. Com isso, a
+pesquisa Focus vem mostrando uma redução nas expectativas de inflação para 2023 e 2024.
+Esses fatores são coerentes com um cenário de queda da Selic a partir do segundo semestre desse ano.
+Atualmente a curva de DI vs Pré precifica cortes a partir da reunião de agosto, com a Selic terminando o ano
+entre 11,25% - 11,75%. Para 2024, o mercado espera que a partir de junho a Selic estará abaixo de 10%. Esse
+cenário contribuiu para a performance positiva dos ativos de risco no mês, com a ponta longa da curva de juros
+chegando a cair até 90 bps em alguns vértices e a bolsa subindo 3,74% no mês.
+Gráfico 1 – Retorno de fatores selecionados (05/2023)
+O
+rally
+da
+bolsa
+beneficiou
+principalmente
+as
+empresas com valuation mais descontado, e afetou
+mais positivamente as ações de empresas com níveis
+mais
+elevados
+de
+alavancagem
+e
+com
+posicionamento mais short. O mês foi negativo para
+os demais fatores, com destaque para o crash da
+estratégia de momentum. Conforme discutimos em
+nossa carta de janeiro de 2023, durante transições na
+tendência do mercado as estratégias long-short de
+momentum
+tendem
+a
+sofrer.
+Assim,
+a
+própria
+performance negativa dos fatores pode ser um
+indicativo de que estamos passando por uma virada
+do regime de mercado.
+Fonte e elaboração própria -
+V8 VEYRON SMART BETA FIC FIA
+IBOVESPA
+Desempenho das Estratégias – ICVM 555
+V8 Veyron Smart Beta FIC FIA
+Os principais destaques positivos foram os setores
+Industrial e Consumo Discricionário e os destaques
+negativos foram os setores Financeiro e Materiais
+Básicos. Atualmente o fundo mantém posições em 42
+empresas e 21 segmentos diferentes. Setorialmente
+estamos
+overweight
+nos
+setores
+de
+Consumo
+Discricionário e Industrial. O maior underweight setorial
+do fundo é no setor de Materiais Básicos.
+Retorno Acumulado
+Fonte: Quantum | Elaboração: V8 Capital
+Rentabilidade Mensal
+Período
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+FUNDO
+ANO
+IBOV
+ANO
+FUNDO
+ACUM.
+IBOV
+ACUM.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 7.422.678,50
+Patrimônio Médio 12 Meses: R$ 20.604.020,48
+O fundo fechou o mês de maio com retorno de 7,91% (IBOV + 4,17%) e acumula um resultado positivo de 4,53%
+no ano (IBOV + 5,81%).
+Atribuição de Performance por Setor – Maio de 2023
+Atribuição de Performance por Setor – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 CapitalDesempenho das Estratégias – ICVM 555
+V8 Speedway Long Short FIC FIM
+O fundo fechou o mês de maio com retorno negativo de -1,69% e acumula um resultado positivo de 4,30% no ano
+(80,01% do CDI). Desde o início o fundo acumula retorno de 9,80%, equivalente a 139,19% do CDI. O principal
+destaque negativo do mês foi o setor de Consumo Discricionário. Atualmente o fundo mantém posições em 50
+empresas e 38 segmentos diferentes. Setorialmente destacam-se os setores Financeiro e Bens Industriais com
+posição net-long e os setores de Consumo Cíclico e Consumo Não Cíclico com posição net-short.
+ -
+Retorno Acumulado
+No mês o fundo foi afetado negativamente pelo
+desempenho fraco dos fatores no mercado local. Os
+fatores de Valor foram os únicos destaques positivos,
+enquanto os fatores de Momentum, Rentabilidade e
+Baixa
+Volatilidade
+tiveram
+performance
+bastante
+negativa no mês. Também é interessante notar o
+desempenho positivos dos fatores de Alavancagem e
+Short-Interest.
+O
+movimento
+é
+coerente
+com
+o
+fechamento da curva de juros e, consequentemente,
+com a performance relativa superior de empresas mais
+alavancadas e com posicionamento mais short.
+Fonte: Quantum | Elaboração: V8 Capital
+Rentabilidade Mensal
+Período
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+12 MESES ACUM.
+Fundo
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Fundo
+-
+-
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 4.273.891,84
+Patrimônio Médio Desde o Início: R$ 2.905.538,20
+Atribuição de Performance por Setor – Maio de 2023
+Atribuição de Performance por Setor – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 CapitalEndereço: Rua Castilho, 392, conjunto 51, Brooklin, São Paulo, SP
+Relações com Investidores
+Nossos Distribuidores
+Este documento tem o único propósito de divulgar informações e dar transparência à gestão executada pela V8 Capital Gestão de
+Investimentos Ltda., não deve ser considerado como oferta de venda de cotas de fundos de investimento ou de qualquer título ou valor
+mobiliário e não constitui o prospecto previsto na regulamentação vigente ou no Código de Auto-Regulação da ANBIMA. A V8 Capital
+Gestão de Investimentos Ltda., não comercializa nem distribui cotas de fundos de investimento ou qualquer outro valor mobiliário. Ao
+investidor é recomendada a leitura cuidadosa do regulamento do fundo de investimento antes de aplicar os seus recursos. Os
+investidores não devem se basear nas informações aqui contidas sem buscar o aconselhamento de um profissional. A rentabilidade
+obtida no passado não representa garantia de rentabilidade futura. A rentabilidade divulgada não é líquida de impostos e taxas de saída.
+Fundos de Investimento não contam com a garantia do administrador do fundo, do gestor da carteira, de qualquer mecanismo de seguro
+ou, ainda, do Fundo Garantidor de Créditos - FGC. Os fundos Multimercados utilizam estratégias com derivativos como parte integrante
+de sua política de investimento. Tais estratégias, da forma como são adotadas, podem resultar em significativas perdas patrimoniais para
+Disclaimer
+seus cotistas, podendo inclusive acarretar perdas superiores ao capital aplicado e a consequente obrigação do
+cotista de aportar recursos adicionais para cobrir o prejuízo do fundo. Os fundos podem estar expostos a
+significativa concentração em ativos de poucos emissores, com os riscos daí decorrentes. Os Indicadores
+econômicos são meras referencias econômicas, e não metas ou parâmetros de performance. Para avaliação da
+performance de um fundo de investimento, é recomendável a análise, no mínimo, de 12(doze) meses.
