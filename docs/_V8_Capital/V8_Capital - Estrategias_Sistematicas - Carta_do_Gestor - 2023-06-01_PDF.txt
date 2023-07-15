@@ -1,0 +1,392 @@
+Carta do Gestor
+Estratégias Sistemáticas
+Junho de 2023Cenário Externo
+“There are decades where nothing happens; and there are weeks where decades happen”  1
+ Vladimir Ilyich Lenin
+Durante o primeiro semestre de 2023 observamos uma série de eventos econômicos e políticos que causaram 
+volatilidade significativa nos mercados globais. Após a eclosão da crise dos bancos regionais americanos em 
+março, passamos por uma reprecificação impressionante nas curvas de juros, com o mercado precificando 
+cortes agressivos no curto-prazo e causando movimentos extremos nos yields. Entretanto, o mercado digeriu o 
+problema nos meses seguintes e a economia americana continuou a dar sinais de robustez, com os índices de 
+inflação ainda persistentemente altos. Assim, a curva de juros americana devolveu todos os cortes que haviam 
+sido precificados no pior momento da crise bancária.
+O 2y americano, que chegou a fechar abril a 4%, 
+fechou o semestre em 4,8954%, equivalente a uma 
+alta de 69,43 bps no ano. No final de junho, a curva 
+americana precificava uma taxa terminal de 5,41% em 
+novembro 
+de 
+contrastando 
+com 
+as 
+perspectivas durante o auge da crise bancária. A volta 
+para o cenário anterior se deu principalmente pela 
+persistência da inflação, que apesar de estar em 
+queda, ainda continua em patamares elevados. O CPI 
+de junho veio 3% YoY, porém o Core-CPI permanece 
+em 4,8% YoY e vem caindo a um ritmo mais lento. 
+Além disso, muitos dados ainda não confirmam um 
+cenário de desaceleração nos EUA como, por 
+exemplo, o PIB americano que ainda está rodando a 
+1,8% no Q1 e a taxa de desemprego que continua nas 
+mínimas, a 3,6% em junho de 2023.
+Fonte: FRED. Elaboração própria.
+Fonte: Bloomberg. Elaboração própria.
+Não obstante esse cenário, não faltam sinais 
+antecedentes de que a economia americana deve 
+enfrentar uma desaceleração nos próximos trimestres. 
+O último PMI ISM Industrial veio a 46, com diversos 
+respondentes da pesquisa apontando dificuldades e 
+demonstrando expectativas negativas para as vendas e 
+produção nos próximos meses. Adicionalmente, os 
+bancos americanos estão contraindo o crédito. 
+Conforme comentamos na nossa carta de março, 30% 
+do crédito nos EUA está nas mãos dos bancos 
+pequenos e médios, que atendem principalmente os 
+negócios pequenos e médios. Assim, a redução na 
+oferta de crédito para esse segmento empresarial deve 
+ter impactos significantes sobre o PIB e emprego 
+americanos nos próximos meses. 
+Do lado positivo, a queda nos preços dos imóveis deve transbordar para o CPI-Core nos próximos meses, 
+ajudando na convergência da inflação e contribuindo para os objetivos do FED. Dado esse cenário, a 
+performance das bolsas no exterior foi surpreendente. No ano o S&P500 subiu 16% e o Nasdaq 
+impressionantes 32%. Porém, a participação setorial nesse rally foi muito concentrada nas empresas de 
+tecnologia, que foram as grandes perdedoras no ano passado. O retorno do S&P500 equal-weighted2 foi de 
+apenas 5% e o Dow Jones fechou o primeiro semestre em alta de 4%. Com isso, o valuation da bolsa americana 
+voltou para um patamar mais esticado, com o PE Case-Schiller voltando para 31x, mais de 80% acima da média 
+histórica.
+Contração de crédito – Bancos Americanos
+Preços dos imóveis (18m fwd) vs Owner’s Rent
+1 “Há décadas onde nada acontece; e há semanas onde décadas acontecem”Performance dos Ativos - YTD
+Ativo
+Chg YTD
+%YTD
+Câmbio
+BRL
+Juros 
+Títulos Públicos
+Anbima IRF-M
+Anbima IMA-B
+Anbima IMA-S
+Bolsa
+Ibovespa
+Smll 
+Fonte: Bloomberg. Elaboração própria.
+Os primeiros 6 meses do ano foram muito positivos para os ativos brasileiros. Ao longo do ano observamos a 
+convergência dos índices de inflação e também tivemos a redução de uma série de riscos políticos que 
+ajudaram na compressão dos prêmios de risco sobre os ativos locais.
+A combinação de um mercado muito barato com um 
+posicionamento fraco dos participantes ajudou a 
+potencializar o movimento de forte recuperação que 
+ocorreu principalmente na segunda metade do 
+semestre. Com a perspectiva de um novo ciclo de 
+baixa da Selic observamos queda nos vértices mais 
+curtos da curva de juros, como o F24 que cedeu 57bps. 
+Porém, a compressão dos prêmios de risco chama a 
+atenção principalmente nos vértices mais longos. O 
+F27, por exemplo, cedeu quase 250bps no semestre. 
+Também tivemos fechamento nos títulos públicos, 
+com evidência para os títulos atrelados à inflação. O 
+IMA-S valorizou 11,41% no acumulado do ano até agora 
+e o IRF-M (títulos pré-fixados) 9,67%.
+Essa ação de preços no mercado de renda-fixa foi um 
+vento de cauda para o mercado de bolsa. Com o 
+fechamento dos juros e consequente expansão de 
+múltiplos, tivemos excelente performance das ações. 
+O Ibovespa fechou o semestre com retorno 
+acumulado de 7,61% e o índice de small-caps, que 
+vinha negociando relativamente mais barato que o 
+Ibovespa, subiu 13,26%. Esse desempenho foi marcante principalmente para os papéis do setor de consumo, 
+além de ter impactado fortemente nos papéis mais alavancados e com posicionamento mais short. Além da 
+compressão dos prêmios de risco, a expectativa de redução de despesas financeiras e retomada da demanda 
+(conforme tivermos um novo ciclo de baixa da Selic) suportaram a performance relativa superior desses papéis.
+No front político também tivemos notícias positivas. Com o avanço das discussões do novo arcabouço fiscal, 
+com uma boa aceitação da mudança de metas de inflação proposta pelo CMN em sua última reunião e, mais 
+recentemente, com o avanço da reforma tributária, tivemos uma melhora no sentimento que também foi peça 
+chave na melhora de expectativas. Somando-se à trajetória benigna dos indicadores de inflação esses fatores 
+contribuíram para a ancoragem das expectativas para o IPCA e abriram espaço para que o BCB inicie o 
+próximo ciclo de baixa da Selic. O consenso espera uma diminuição da taxa em pelo menos 25bps na próxima 
+reunião do Copom em agosto.
+Até o fechamento do semestre, o institucional local comprou quase R$ 14 bilhões no mercado à vista, porém 
+ainda observamos pressão vendedora no mercado futuro, com venda de mais de R$ 24 bilhões. Apesar do 
+saldo de resgates nos FIAs ainda ser bastante relevante, o ritmo de retiradas dos fundos sofreu redução 
+significativa, sugerindo que podemos estar em um ponto de inflexão e representando um posicionamento 
+técnico mais positivo para a bolsa. Além disso, já tivemos cerca de R$ 8 bilhões em ofertas no mercado 
+primário até o final de junho, mostrando uma retomada importante do apetite do mercado. Principalmente do 
+fluxo estrangeiro, que tomou cerca de R$ 6 bilhões do total de ofertas no primário e, até o fechamento do 
+semestre, acumulava um saldo positivo de mais de R$ 3 bilhões de compras na bolsa (somando mercado à 
+vista, futuros e primário).
+Cenário InternoDesempenho dos Fatores 
+Analisando o desempenho individual dos fatores fica clara a distinção entre os fatores que performam melhor 
+em ambientes de risk-on. No mercado local os fatores de Valor foram os campeões de rentabilidade. O fator de 
+Valor teve retorno de 11,18% no YTD, enquanto fatores de Momentum, Rentabilidade e Baixa Volatilidade tiveram 
+performance bastante ruim.
+O fator de Rentabilidade teve retorno negativo de 29% até o final do primeiro semestre. O fator de Baixa 
+Volatilidade, que tende a funcionar melhor em ambientes de risk-off, também sofreu bastante, com queda de 
+16% no YTD. Por último, o fator de Momentum que, conforme discutimos em nossa carta de janeiro³, tende a 
+passar por crashes durante as viradas nos regimes de mercado está com retorno acumulado de -19% no ano.
+Desempenho de fatores selecionados 4 - YTD
+Fonte: Bloomberg. Elaboração própria.
+Por outro lado, durante o movimento de risk-on que 
+ganhou tração em maio, apenas o fator de Valor 
+teve performance positiva. Em maio o fator teve 
+retorno positivo de 6,9% e em junho de 9%.
+A performance ruim dos fatores se concentrou 
+principalmente nos últimos dois meses do semestre, 
+exatamente quando a bolsa local passou a ter uma 
+performance mais forte. Apenas no mês de maio o 
+fator de Baixa Volatilidade caiu quase 20% e o fator 
+de Momentum passou por um crash de quase 15%. 
+Essa performance ruim permaneceu no mês de 
+junho.
+Curiosamente, ao analisarmos o período de transição 
+entre o mercado de baixa que finalizou em 2015 e o 
+mercado de alta que iniciou em 2016 notamos um 
+comportamento semelhante dos fatores.
+Em meados de fevereiro de 2016 o fator de Valor 
+passou a outperformar os demais fatores de forma 
+relevante. E somente um ano depois, em torno de 
+fevereiro de 2017, os demais fatores voltaram a ter 
+performance positiva.
+Cabe reforçar que essa análise é ilustrativa e não 
+significa 
+que 
+necessariamente 
+o 
+mesmo 
+irá 
+acontecer no futuro. Adicionalmente, essa análise 
+também mostra o benefício de utilizar estratégias 
+multifatores, pois nem sempre os fatores individuais 
+performam positivamente. 
+Desempenho dos fatores – Transição no regime de mercado
+Fonte: Bloomberg. Elaboração própria
+Assim, ao se expor de maneira equilibrada a diversos fatores, o investidor 
+aumenta as chances de obter retornos mais consistentes.
+3 Carta de Janeiro: https://www.v8capital.com.br/_files/ugd/351df2_b0a2eb0f72bd4ffaae9939edfbb19d66.pdf
+4 Os fatores selecionados foram retirados da Bloomberg. O fator de Momentum considera duas métricas diferentes: retorno total de 6 meses e o retorno anual menos 2 semanas. O fator de Valor é um 
+composto de múltiplos de valuation de Receita e EBITDA. O fator de Rentabilidade é um composto entre os fatores ROE e ROIC. Por fim, o fator de Baixa Volatilidade considera métricas de volatilidade 
+de 6 meses e 1 ano.V8 Veyron Smart Beta FIC FIA
+O V8 Veyron Smart Beta FIC FIA fechou junho com 
+retorno de 9,94% (IBOV + 0,86%). No ano o fundo 
+acumula retorno de 14,92% (IBOV + 6,79%). Nossa 
+abordagem é ativa e com risco específico pulverizado. 
+Com isso, ao longo do semestre carregamos posições 
+em 91 empresas diferentes, com uma média de 43 
+ações compondo simultaneamente o portfólio do 
+fundo. Cabe salientar que conseguimos superar o 
+nosso benchmark com volatilidade mais controlada 
+que a bolsa. Até o final do semestre a volatilidade do 
+fundo foi de 16,36% contra 19,04% para o Ibovespa. 
+Do lado negativo perdemos alfa no setor de Petróleo e 
+Gás. Apesar de atribuições importantes como Ultrapar 
+e Petrobrás, o fundo manteve um underweight médio 
+no setor de 7,80%. Além disso, conforme comentamos em nossas últimas cartas, o fundo possui uma posição 
+comprada em Petrobrás via opções, entretanto, o notional dessa posição ainda representa um underweight nos 
+papéis da estatal versus o Ibovespa e não conseguimos capturar a mesma atribuição do índice no papel.
+Ainda do lado negativo, no setor de Financials, sofremos com a performance das seguradoras Porto Seguro e 
+Brasil Seguridade ao longo do semestre. Com a expectativa do fim do ciclo de aperto monetário no Brasil, 
+observamos uma reversão na performance desses papéis nos primeiros meses do ano. Além disso, também 
+podemos citar o impacto negativo dos papéis da Oncoclínicas em junho. Na semana após o anúncio do follow-
+on as ações da empresa desvalorizaram 17%, o que impactou negativamente na atribuição do setor de Saúde.
+Os setores de Materials e Industrials foram destaques positivos. Para o setor de Materials, além do underweight 
+setorial versus o Ibovespa, também tivemos impacto positivo na seleção dos ativos, com o fundo carregando um 
+underweight médio de 13% na Vale, que vem sofrendo com as perspectivas negativas para a recuperação do 
+setor imobiliário chinês. No caso do setor de Industrials, o overweight setorial de 13% explica boa parte dos 
+ganhos que obtivemos contra o índice. Pois, apesar de termos carregado alguns papéis do setor com ótima 
+performance no semestre, como a Marcopolo e a Azul, a estratégia não capturou os ganhos de alguns papéis 
+que compõem nosso benchmark, como a Localiza e a Embraer.
+Por fim, o setor de Consumo Discricionário foi onde a estratégia adicionou mais valor na seleção de ativos. Até o 
+final de junho operamos 24 papéis do setor, com notoriedade para empresas do segmento imobiliário, como 
+Tenda e Cury, e empresas de varejo como a C&A. O fechamento da curva de juros brasileira, como reflexo tanto 
+da expectativa de um novo ciclo de baixa de juros quanto da redução das incertezas políticas locais, contribuiu 
+para o forte rally dos setores mais cíclicos. Nosso modelo demonstrou uma excelente capacidade de adaptação, 
+na medida em que reajustou o posicionamento setorial do fundo ao longo do semestre e conseguiu surfar a 
+recuperação das empresas mais cíclicas.
+ -
+V8 VEYRON SMART BETA FIC FIA
+IBOVESPA
+Retorno Acumulado
+Fonte: Quantum. Elaboração própria.
+Desempenho das Estratégias – ICVM 555Rentabilidade Mensal
+Período
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+FUNDO
+ANO
+IBOV
+ANO
+FUNDO
+ACUM.
+IBOV
+ACUM.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 8.025.998,59
+Patrimônio Médio 12 Meses: R$ 19.280.576,17
+Fechamos o semestre com 42 posições no fundo e expostos a 21 subsetores diferentes, com as maiores 
+concentrações nos setores Industrial e Consumo Discricionário. Além disso, continuamos leves no setor de 
+Materiais Básicos, com alocação de 3,88% no setor. Em termos de capitalização de mercado, temos quase 40% 
+do fundo alocado em empresas com market cap superior a R$ 10 bilhões e um terço do fundo investido em 
+empresas com valor de mercado entre R$ 1-5 bilhões. O V8 Veyron Smart Beta FIC FIA é um fundo long-only e 
+está bem posicionado para um cenário de corte de juros no Brasil e de normalização do patamar de valuation da 
+bolsa local.
+Atribuição de Performance – Junho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+Desempenho das Estratégias – ICVM 555V8 Speedway Long Short FIC FIM
+O V8 Speedway Long-Short FIM fechou junho com 
+retorno de 2,34% (218,01% do CDI). No ano o fundo 
+acumula retorno de 6,73% (103,61% do CDI). Nossa 
+estratégia long-short tem o objetivo de obter retornos 
+mais consistentes com ações, de forma independente 
+do direcional da bolsa e com volatilidade mais 
+controlada. Desde o início, o fundo está com retorno 
+acumulado de 12,37% (151,03% do CDI) e volatilidade 
+de 4,45%. 
+No semestre os destaques positivos foram os setores 
+Industrial e Financeiro, atribuindo 1,78% e 1,59% ao 
+fundo, 
+respectivamente. 
+No 
+setor 
+Industrial 
+destacaram-se posições compradas nos papéis das 
+aéreas Azul e Gol e nas empresas de logística Santos 
+Brasil e Rumo. No setor Financeiro os destaques também foram posições compradas, como a Aliansce Sonae e 
+Bradesco, por exemplo.
+Do lado negativo sofremos com as posições tanto em Consumo Discricionário quanto em Consumo Não-
+Discricionário. No ano, os setores contribuíram com uma perda conjunta de 2,75%. As perdas ficaram 
+concentradas principalmente no mês de maio (nosso único mês negativo até agora). No acumulado até abril de 
+2023 a estratégia long-short estava adicionando 1,96% ao carrego do CDI, para um retorno acumulado de 6,09% 
+no ano. Porém, em maio de 2023 a estratégia sofreu com o crash dos fatores de risco, com perdas expressivas 
+nos fatores de Momentum, Qualidade e Baixa Volatilidade. Com isso, fechamos o mês de maio em queda de 
+1,69%, com os setores de consumo responsáveis por -3,55% do resultado total no mês. Perdemos dinheiro 
+principalmente nas posições vendidas nesses setores, como as empresas de educação Yduqs e Cogna e a 
+varejista Soma.
+Atingimos o pico do drawdown (-2,17%) no dia 22 de maio, com o fundo recuperando as perdas em apenas 27 
+pregões. Como utilizamos a estratégia long-short neutro, o carrego do CDI joga a nosso favor. Além disso, 
+também hedgeamos integralmente o beta direcional do book long-short. Assim, apesar do forte crash dos 
+fatores de risco em maio, tivemos o carrego de 1,37% do CDI e os ganhos de hedge de 0,38% contribuindo para 
+amortecer o impacto negativo da forte reversão dos fatores. 
+Adicionalmente, o book long-short voltou a ficar positivo já no mês de junho, apesar da sequência de perdas em 
+fatores de Momentum, Qualidade e Baixa Volatilidade. Isso mostra a vantagem da abordagem multifatores. 
+Conforme comentamos em cartas anteriores, nossa estratégia utiliza mais de 80 indicadores individuais para a 
+montagem dos nossos fatores proprietários.
+A exposição aos fatores de Valor, que vêm performando muito bem desde abril, explica parte dos ganhos em 
+junho, mas a inclusão de fatores mais rápidos, como janelas de momentum mais curtas e indicadores de 
+posicionamento, também foram importantes para uma recalibragem rápida das posições do fundo.
+ -
+V8 SPEEDWAY LONG SHORT FIC FIM
+CDI  -
+Retorno Acumulado
+Fonte: Quantum. Elaboração própria.
+Desempenho das Estratégias – ICVM 555Fechamos o semestre com 50 posições no fundo e expostos a 23 subsetores diferentes. Ficamos comprados nos 
+setores Bens Industriais e Financeiro (6,38% e 5,46%, respectivamente) e vendidos nos setores de Utilidade Pública 
+e Tecnologia da Informação (5,02% e 1,91%, respectivamente). O V8 Speedway Long-Short FIM é um fundo long-
+short neutro, sem exposição direcional na bolsa. Assim, o fundo não depende do direcional da bolsa para entregar 
+resultados consistentes.
+Atribuição de Performance – Junho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+Desempenho das Estratégias – ICVM 555
+Rentabilidade Mensal
+Período
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+ACUM.
+Fundo
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Fundo
+-
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 6.290.091,50
+Patrimônio Médio Desde o Início: R$ 3.276.680,11Endereço: Rua Castilho, 392, conjunto 51, Brooklin, São Paulo, SP
+Relações com Investidores
+Nossos Distribuidores
+Este documento tem o único propósito de divulgar informações e dar transparência à gestão executada pela V8 Capital Gestão de 
+Investimentos Ltda., não deve ser considerado como oferta de venda de cotas de fundos de investimento ou de qualquer título ou valor 
+mobiliário e não constitui o prospecto previsto na regulamentação vigente ou no Código de Auto-Regulação da ANBIMA. A V8 Capital 
+Gestão de Investimentos Ltda., não comercializa nem distribui cotas de fundos de investimento ou qualquer outro valor mobiliário. Ao 
+investidor é recomendada a leitura cuidadosa do regulamento do fundo de investimento antes de aplicar os seus recursos. Os 
+investidores não devem se basear nas informações aqui contidas sem buscar o aconselhamento de um profissional. A rentabilidade 
+obtida no passado não representa garantia de rentabilidade futura. A rentabilidade divulgada não é líquida de impostos e taxas de saída. 
+Fundos de Investimento não contam com a garantia do administrador do fundo, do gestor da carteira, de qualquer mecanismo de seguro 
+ou, ainda, do Fundo Garantidor de Créditos - FGC. Os fundos Multimercados utilizam estratégias com derivativos como parte integrante 
+de sua política de investimento. Tais estratégias, da forma como são adotadas, podem resultar em significativas perdas patrimoniais  para
+Disclaimer
+seus cotistas, podendo inclusive acarretar perdas superiores ao capital aplicado e a consequente obrigação do 
+cotista de aportar recursos adicionais para cobrir o prejuízo do fundo. Os fundos podem estar expostos a 
+significativa concentração em ativos de poucos emissores, com os riscos daí decorrentes. Os Indicadores 
+econômicos são meras referencias econômicas, e não metas ou parâmetros de performance. Para avaliação da 
+performance de um fundo de investimento, é recomendável a análise, no mínimo, de 12(doze) meses.

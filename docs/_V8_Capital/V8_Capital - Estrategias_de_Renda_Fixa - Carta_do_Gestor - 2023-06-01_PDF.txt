@@ -1,0 +1,431 @@
+Carta do Gestor
+Estratégias de Renda Fixa
+Junho de 2023Cenário Externo
+O mês de junho foi um mês menos turbulento para a economia Americana após a aprovação e concretização dos 
+ajustes do teto de dívida, assinada pelo Presidente Biden no dia 03/06. Esse movimento trouxe mais alívio para o 
+mercado, visto o cenário de aperto monetário vivido pelo País com níveis recordes de Juros, persistência 
+inflacionária e uma incerteza global frente as possibilidades de recessão da maior potência mundial.
+Tratando especificamente dos juros americanos, tivemos na reunião do FOMC, a manutenção do FED Funds Rate 
+entre 5% e 5,25% ao ano, sendo o primeiro movimento parcimonioso da taxa dentro de uma janela de dez altas 
+consecutivas, que vinham desde março de 2022. No entanto, na fala do Banco Central Americano, ainda ficou 
+persistente o discurso de que a escalada do aperto monetário pode não ter terminado, fazendo frete ao cenário 
+inflacionário persistente, em paralelo a baixa taxa de desemprego em uma janela de 12 meses. O mercado passou 
+a precificar espaço para mais dois aumentos consecutivos de 25 bps na taxa ainda em 2023.
+Já olhando para a zona do euro, notamos um tom mais hawkish do BCE (Banco Central Europeu), reafirmando a 
+tendência persistente de alta do juros, onde na última reunião de junho aumentou a taxa em 25 bps, atingindo 4% 
+ao ano, sendo sua oitava alta consecutiva. A Presidente do BCE, em sua declaração trouxe um tom mais claro 
+acerca dos juros, reafirmando que a escalada não terminou. Justificando a forte presença inflacionária de 6,1% no 
+ano, longe da meta de 2%, fatores que vêm pressionando o PIB da economia que desacelerou no mês, para 1% 
+(YoY), em relação a 1,8% reportado no mês anterior.
+Adicionalmente, dentro desse cenário de hiperinflação, vimos o Reino Unido aumentar sua taxa de juros, de 
+maneira mais contundente, em 50bps, para 4,5% ao ano, 13ª alta consecutiva, pressionado pelo core de inflação 
+arrefecido, que ainda não sinalizou desaceleração e atingiu seu patamar histórico, 7,1% no anoIPCA
+IGP-M
+O cenário doméstico apresentou um primeiro semestre em que as medidas de aperto monetário do Banco 
+Central surtiram efeitos no desenvolvimento econômico, onde os índices de preço continuam a desacelerar. Além 
+disso, tivemos, na primeira semana de junho, dados do PIB anual e trimestral que mostraram nível de crescimento 
+forte, 
+Cenário Interno
+atingindo +4,0% e +1,9% respectivamente, 
+movimento motivados por um trimestre forte no 
+Agronegócio. 
+Conforme gráfico ao lado, vimos o movimento 
+consecutivo de deflação no IGP-M, o qual retraiu 1,93% 
+em junho, para um índice acumulado de –4,46% no ano 
+e -6,86% em 12 meses, impulsionado por uma queda 
+dos preços dos combustíveis na refinaria e das 
+commodities agrícolas. Adicionalmente, tivemos o IPA 
+(Indice de Preços ao Produtor Amplo) que desacelerou -
+2,73% em junho, níveis em linha com o mês anterior, 
+sendo um sinalizador de que os níveis inflação a frente 
+permanecerão em queda.
+À ótica da inflação, notamos a eficácia do aperto 
+monetário, estimulado pelo BCB sobre a economia com
+Inflação – Acumulada em Janelas de 12 Meses (%)
+níveis elevados de juros, onde, no levantamento 
+quinzenal, tivemos na primeira quinzena de junho uma inflação anualizada de 3,4%, ante 4,07% no mês anterior. 
+Dessa forma, cenários para cortes de juros começam a ser sinalizados, com um alívio inflacionário mais presente 
+e a economia já esgotada com a longevidade dos altos juros.
+Assim, seguindo a expectativa de uma taxa mais baixa ao longo do segundo semestre, em junho tivemos uma 
+nova reunião do COPOM, o qual manteve a taxa de juros básica em 13,75% ao ano, afirmando uma preocupação 
+com os níveis de inflação, mas agora com uma visão mais longa, com enfoque em que elas voltem a se aproximar 
+da meta, sendo uma determinação de quando o Banco Central iniciará o corte de juros.
+Ainda dentro do principal assunto, inflação, no último dia 29, tivemos o encontro do Conselho Monetário Nacional 
+(CMN), evento de forte anseio do mercado, visto que sua decisão traria mais clareza para o mercado, algo que 
+ficou à deriva pós COPOM. Como esperado por maior parte do mercado, o CMN manteve a meta e bandas da 
+inflação, movimento que sinaliza uma maior resiliência do corpo técnico e comprometimento para honrar os 
+níveis estabelecidos. Esse tom de responsabilidade monetária, traz mais credibilidade para o mercado e ancora as 
+expectativas, trazendo maior estabilidade.
+Ainda sobre a Reunião do Conselho, tivemos mudanças sobre as atribuições da meta, a qual passará a ser 
+contínua, desenquadrando o ano calendário, a partir de 2026, visando os níveis de média da inflação em uma 
+janela de 18 a 24 meses.O mercado de LFT apresentou volatilidades no mês de junho, onde os títulos mais curtos ficaram estáveis, frente 
+a baixa absorção do mercado, visto a uma tendência de corte de juros ao longo do segundo semestre. O 
+movimento de fechamento de taxas nos vértices, principalmente em papéis com vencimento mais longos 
+(março/29), continuou ao longo de junho, conforme gráfico abaixo.
+Mercado de Títulos Públicos
+Retorno da 4ª semana inclui o dia 30/06.
+Fonte: Quantum | Elaboração: V8 Capital
+Um ponto interessante que vimos nas emissões de 
+títulos públicos no mês, foi a forte absorção por 
+produtos pré-fixados, como LTN e NTN-F, onde nas 
+últimas semanas, após COPOM, tiveram todas suas 
+ofertas contempladas pelo mercado, sinalizando uma 
+reafirmação do mercado em entender que níveis de 
+cortes de juros estão visíveis e são essenciais para uma 
+maior estabilidade da política monetária.
+No mês a LFT com vencimento em março/29 entregou 
+retorno de 114,20% do CDI, impactando positivamente o 
+caixa dos nossos fundos. 
+Abaixo a tabela com o retorno de todos os vértices por 
+semana.
+Fonte: Broadcast | Elaboração: V8 Capital
+Taxa das LFTs com vencimento em mar/29
+Vencimento
+Acum.
+LFT - Junho de 2023Idex-CDI Geral JGP
+IDA-DI
+CDI
+O mercado de crédito privado em junho, continuou apresentando recuperação, com uma maior retomada nos 
+níveis de emissões primárias, como também um fechamento de taxas no secundário. Tivemos um mês de 
+retornos positivos para o IDEX-CDI Geral JGP e IDA-DI (Índice ANBIMA) que apresentaram retorno no mês de 
+1,27% e 1,35%, representando 118,29% e 125,49% do CDI, respectivamente. Como vem sendo observado ao longo 
+dos últimos meses, vimos um volume de resgastes bastante expressivo em fundos de crédito, mas já 
+demostrando desaceleração, 
+Mercado de Crédito Privado
+Retorno Acumulado
+Fonte: Quantum | Elaboração: V8 Capital
+fator que vem aliviando as 
+taxas no secundário, e abrindo espaços para 
+arrefecimento do mercado primário, o qual, em junho, já 
+sinalizou alguma retomada. 
+Em junho, tivemos uma melhora de perspectiva para o 
+Rating Brasil, de estável para positivo, reafirmando o 
+Rating Soberano “BB-“, pela S&P Global Ratings. Esse 
+movimento acaba por reverberar em uma melhora de 
+cenário para alocação em crédito dentro do setor 
+bancário, onde tivemos melhora do Rating Global de 
+ativos onde possuímos exposição. 
+Nossa alocação no mês de junho não apresentou 
+mudanças estruturais. Mantemos nossa alocação em 
+LFs high grade, com exposição de 95% da carteira em 
+ativos AAA. O carrego atual da carteira está em CDI + 
+2,03% com duration de 1,97 anos. Dessa forma, dentro do cenário atual de crédito ficamos confortáveis com 
+nossas posições, e principalmente com os níveis atuais de liquidez dos grandes bancos e basileias robustos, que 
+descartam qualquer risco não sistêmico.  -
+V8 CASH FIC FI RENDA FIXA
+CDI
+IDA-DI
+IMA-S
+Desempenho das Estratégias – ICVM 555
+O fundo entregou retorno de 1,14% no mês de junho, equivalente a 106,19% do CDI. Em 12 meses e desde o seu 
+início, o fundo acumula retorno de 98,99% e 105,39% do CDI, respectivamente.
+Fonte: Quantum | Elaboração: V8 Capital
+No mês de junho, o resultado do fundo foi beneficiado 
+pelo fechamento dos spreads das LFs de bancos. Como 
+já mencionado anteriormente, o volume de resgates nos 
+fundos de crédito privado recuou, diminuindo a pressão 
+nas taxas no mercado secundário. Atualmente o 
+carrego do book de LF está em CDI + 2,03% com 
+duration de 1,97 anos.
+Ainda em junho, fechamos o fundo para captação. 
+Agora em diante, iremos abrir janelas de captação para 
+recompor o patrimônio líquido.
+V8 Cash FIC FI Renda Fixa
+Retorno Acumulado
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+ACUM.
+Fundo
+% CDI
+Fundo
+% CDI
+Fundo
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 1.838.684.941,05
+Patrimônio Médio 12 Meses: R$ 1.463.516.430,74
+Atribuição de Performance – Junho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital -
+V8 CASH PLATINUM FIC FI RENDA FIXA CP
+CDI
+IDA-DI
+O fundo entregou retorno de 1,37% no mês de junho, equivalente a 129,23% do CDI. Em 12 meses e desde o seu 
+início, o fundo acumula retorno de 110,64% e 112,82% do CDI, respectivamente.
+Fonte: Quantum | Elaboração: V8 Capital
+No mês de junho, o resultado do fundo foi beneficiado 
+pelo fechamento dos spreads das LFs de bancos. Como 
+já mencionado anteriormente, o volume de resgates nos 
+fundos de crédito privado recuou, diminuindo a pressão 
+nas taxas no mercado secundário. Atualmente o 
+carrego do book de LF está em CDI + 2,03% com 
+duration de 1,97 anos.
+O V8 Cash Platinum é o nosso fundo com maior 
+exposição em LF de bancos se beneficiará com o maior 
+carrego do book.
+V8 Cash Platinum FIC FI Renda Fixa CP
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+ACUM.
+Fundo
+-
+-
+-
+% CDI
+-
+-
+-
+Fundo
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 98.911.565,09
+Patrimônio Médio 12 Meses: R$ 63.022.901,00
+Atribuição de Performance – Junho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+Desempenho das Estratégias – ICVM 555
+Fundo Novo
+Retorno Acumulado -
+V8 VANQUISH TERMO FI RENDA FIXA
+CDI
+Fonte: Quantum | Elaboração: V8 Capital
+Não houve alterações na estratégia de alocação do 
+fundo no mês. O V8 Vanquish permanece alocando 
+somente em financiamento de termo e caixa. 
+O resultado no mês foi levemente impactado pelo baixo 
+volume de antecipações de termo.
+No dia 19/06 reabrimos o fundo para captação com o 
+objetivo de recompor o patrimônio líquido. No mesmo 
+fato relevante, anunciamos que o fundo irá fechar 
+novamente assim que atingir o patrimônio líquido de R$ 
+800 milhões. 
+V8 Vanquish Termo FI Renda Fixa
+Atribuição de Performance – Junho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+Desempenho das Estratégias – ICVM 555
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+ACUM.
+Fundo
+% CDI
+Fundo
+% CDI
+Fundo
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 679.267.023,09
+Patrimônio Médio 12 Meses: R$ 499.809.739,54
+O fundo entregou retorno de 1,06% no mês de junho, equivalente a 99,13% do CDI. Em 12 meses e desde o seu 
+início, o fundo acumula retorno de 102,10% e 111,13% do CDI, respectivamente.
+Retorno Acumulado -
+V8 VANQUISH TERMO PREVIDÊNCIA FI RENDA FIXA CP
+CDI
+Fonte: Quantum | Elaboração: V8 Capital
+Não houve alterações na estratégia de alocação do V8 
+Vanquish Previdência no mês. O fundo permanece 
+alocando em LFs de grandes bancos, financiamento de 
+termo e caixa. 
+Em junho, o resultado do fundo foi beneficiado pelo 
+fechamento 
+dos 
+spreads 
+das 
+LFs 
+de 
+bancos. 
+Atualmente, o carrego do book de bancos está em     
+CDI + 2,03% com duration de 1,97 anos.
+V8 Vanquish Termo Previdência FI Renda Fixa CP
+Atribuição de Performance – Junho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+Desempenho das Estratégias – Previdência
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+ACUM.
+Fundo
+-
+-
+-
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Fundo
+-
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 1.543.333.977,79
+Patrimônio Médio Desde o Início: R$ 382.779.444,25
+O fundo entregou retorno de 1,23% no mês de junho, equivalente a 114,77% do CDI. Desde o seu início, o fundo 
+acumula retorno de 124,98% do CDI.
+Retorno AcumuladoEndereço: Rua Castilho, 392, conjunto 51, Brooklin, São Paulo, SP
+Relações com Investidores
+Este documento tem o único propósito de divulgar informações e dar transparência à gestão executada pela V8 Capital Gestão de Investimentos Ltda., não deve ser considerado como oferta de venda de 
+cotas de fundos de investimento ou de qualquer título ou valor mobiliário e não constitui o prospecto previsto na regulamentação vigente ou no Código de Auto-Regulação da ANBIMA. A V8 Capital Gestão 
+de Investimentos Ltda., 
+Disclaimer
+não comercializa nem distribui cotas de fundos de investimento ou qualquer outro valor mobiliário. Ao investidor é recomendada a leitura 
+cuidadosa do regulamento do fundo de investimento antes de aplicar os seus recursos. Os investidores não devem se basear nas informações aqui contidas sem buscar 
+o aconselhamento de um profissional. A rentabilidade obtida no passado não representa garantia de rentabilidade futura. A rentabilidade divulgada não é líquida de 
+impostos e taxas de saída. Fundos de Investimento não contam com a garantia do administrador do fundo, do gestor da carteira, de qualquer mecanismo de seguro ou, 
+ainda, do Fundo Garantidor de Créditos - FGC. Os fundos Multimercados utilizam estratégias com derivativos como parte integrante de sua política de investimento. Tais 
+estratégias, da forma como são adotadas, podem resultar em significativas perdas patrimoniais  para seus cotistas, podendo inclusive acarretar perdas superiores ao 
+capital aplicado e a consequente obrigação do cotista de aportar recursos adicionais para cobrir o prejuízo do fundo. Os fundos podem estar expostos a significativa 
+concentração em ativos de poucos emissores, com os riscos daí decorrentes. Os Indicadores econômicos são meras referencias econômicas, e não metas ou parâmetros 
+de performance. Para avaliação da performance de um fundo de investimento, é recomendável a análise, no mínimo, de 12(doze) meses.
+Fundo
+Mês
+Ano
+Início
+PL
+Liquidez
+Data Início
+V8 Cash FIC FI Renda Fixa
+%
+R$ 1.838 bilhões
+% do CDI
+V8 Cash Platinum FIC FI Renda Fixa CP
+%
+-
+-
+-
+R$ 98 milhões
+% do CDI
+-
+-
+-
+V8 Vanquish Termo FI Renda Fixa
+%
+-
+-
+R$ 679 milhões
+% do CDI
+-
+-
+V8 Vanquish Termo Previdência
+ FI Renda Fixa CP
+%
+-
+-
+-
+-
+R$ 1.543 milhões
+(dias úteis)
+% do CDI
+-
+-
+-
+-
+Nossos Distribuidores
+Retorno Acumulado
