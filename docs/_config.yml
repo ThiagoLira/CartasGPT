@@ -102,10 +102,6 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /MAG_Investimentos/
     output: true
-  Nero_Capital:
-    permalink: /:collection/:path.html
-    index_permalink: /Nero_Capital/
-    output: true
   O3_Capital:
     permalink: /:collection/:path.html
     index_permalink: /O3_Capital/
