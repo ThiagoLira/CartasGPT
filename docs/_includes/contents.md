@@ -1,20 +1,12 @@
 
 BRASIL:
-- A vulnerabilidade fiscal do Brasil é uma preocupação, mas o indicador de vulnerabilidade fiscal está em um nível inferior ao período anterior.
-- Estratégias de crédito e renda variável tiveram bom desempenho com base na análise do IPCA e Selic Brasil.
-- A perspectiva é de um ciclo de afrouxamento monetário, com possíveis cortes na taxa Selic.
-- A bolsa brasileira teve um bom desempenho devido a aprovação do arcabouço fiscal e discussão da reforma tributária.
+As gestoras de fundos de investimento no Brasil estão otimistas com a recuperação do mercado e a perspectiva de início de um ciclo de corte de juros a partir de agosto ou setembro de 2023, devido à queda da inflação e à aprovação de um novo arcabouço fiscal. A taxa Selic pode encerrar 2023 em torno de 12,50% ao ano. A economia brasileira mostra sinais de desaceleração na demanda interna, mas a perspectiva de rating do país foi revisada para positiva pela S&P, impulsionada pela reforma tributária.
 
 EUA:
-- Continuação do ciclo de alta dos juros e bom desempenho das bolsas de valores.
-- Setor de tecnologia impulsionado pela Inteligência Artificial.
-- Expectativa de mais duas altas de juros pelo FED.
+Nos Estados Unidos, a taxa básica de juros foi mantida, porém, há indicações de futuros aumentos devido à falta de sinais de desinflação e desequilíbrios no mercado de trabalho. A economia americana tem se mantido resiliente, com um crescimento anualizado do PIB de 2,0% no primeiro trimestre de 2023.
 
 EUROPA:
-- Aumento da taxa de depósito pelo BCE e inflação resistente na região.
-- Redução no PMI composto e sequência de surpresas negativas nos indicadores econômicos.
+Na Zona do Euro, os números de inflação indicaram baixa, mas há sinais de recuperação. Os indicadores de atividade econômica sugerem fraqueza para o segundo trimestre. Em resposta à inflação, o Banco Central Europeu e o Banco Central do Reino Unido aumentaram as taxas de juros.
 
 ÁSIA:
-- Redução das taxas de juros pelo banco central da China e desaceleração da atividade econômica.
-- Expectativa de medidas de estímulo econômico pelo PBOC.
-- Dados econômicos da China têm surpreendido negativamente.
+Na China, apesar de uma recuperação robusta do consumo, há sinais de fraqueza na atividade econômica. O país experimentou o seu primeiro corte na taxa de juros desde agosto de 2022. A volatilidade do minério de ferro contribui para a incerteza sobre a economia chinesa.
