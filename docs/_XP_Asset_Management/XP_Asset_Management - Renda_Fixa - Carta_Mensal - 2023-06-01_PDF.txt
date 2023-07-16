@@ -1,0 +1,259 @@
+[ CLASSIFICAÇÃO: PÚBLICA ]
+CARTA MENSAL
+RENDA FIXA
+Junho / 2023[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Junho | 2023
+Encerramos o primeiro semestre do ano com forte mudança no fluxo de resgates da
+indústria de fundos de crédito privado, a qual chegou a perder cerca de R$80 bilhões
+neste período, contra um patrimônio líquido de R$626 bilhões da amostra em
+dezembro/2022. Em contrapartida a esse fluxo, o mês de junho apresentou saída
+liquida de cerca de R$210 milhões, movimento muito inferior aos volumes que
+giraram em torno dos R$20 bilhões no início do ano.
+Estes números já indicam mudança de humor no mercado, inclusive com a relativa
+volta de maior volume de emissões no mercado primário, com junho/23 se igualando
+a junho/22 em total de debêntures liquidadas, além de observarmos ainda leve
+fechamento nos spreads de crédito dos índices. Como exemplo, temos o IDA-DI, que
+saiu de CDI+2,44% para CDI+2,38% e o IDEX-JGP, variando de CDI+ 2,76% para 2,75%.
+Carta do Gestor
+ -
+jan fev mar abr mai jun jul ago set out nov dez jan fev mar abr mai jun jul ago set out nov dez jan fev mar abr mai jun
+Captação Líquida em R$ Bilhões - Amostra Fundos Crédito Privado
+Em conjunto com estes níveis elevados de carrego, os índices apresentaram
+performance elevada, de 125,5% e 118,3% do CDI para o IDA-DI e IDEX-JGP
+respectivamente. No entanto, apesar da recuperação nesse último período, esses
+índices ainda apresentam performance bem abaixo do CDI no semestre, decorrente
+das perdas ocasionadas especialmente por Americanas e Light, além da abertura dos
+spreads. O IDA-DI alcançou rentabilidade de 3,96% neste primeiro semestre, 61,0% do
+CDI, e o IDEX-JGP 1,48% ou 22,8% do CDI.[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Junho | 2023
+Seguimos acreditando que o momento atual apresenta excelente oportunidade de
+alocação nesta classe de ativos, com fortes indícios de mudança no sentimento de
+mercado, que esperamos se concretizar ao longo deste segundo semestre, com maior
+carrego para os fundos e possíveis ganhos de capital com a normalização dos
+patamares de spread. Destacamos abaixo os fundos da família Corporate e os
+elevados níveis atuais de carrego da carteira de crédito:
+Além dos movimentos mencionados anteriormente, destacando o universo de ativos
+com remuneração em CDI, junho foi mais um mês de excelente performance para os
+ativos indexados à inflação, beneficiados tanto pelo fechamento dos juros reais
+quanto dos spreads de crédito. O IMA-B, índice que acompanha a cesta de NTN-Bs,
+apresentou rentabilidade de 2,39% no mês, com fechamentos próximos a 30bps ao
+longo da curva, além de encerrar o semestre com performance de 11,37%, com
+destaque para a NTN-B agosto/2028, que saiu de IPCA+ 6,18% para IPCA+5,21%,
+fechamento de 97bps.
+Fundo
+Retorno Junho
+Retorno Junho em 
+%CDI
+Carrego Bruto Carteira de 
+Crédito em CDI+
+XP Corporate Light
+XP Corporate Top
+XP Corporate Plus
+Spread de carrego médio IDEX - JGP (em CDI+ Ajustado Americanas e Light) 
+vs. CDI
+Spread médio
+CDI médio[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Junho | 2023
+O XP Debêntures Incentivadas segue aproveitando este movimento e trazendo altos
+retornos aos cotistas nestes últimos meses, com performance de 2,43% em junho e
+2,75% em maio, além de ainda manter elevado patamar de spread na carteira de
+crédito, iniciando o segundo semestre do ano com prêmio de 1,93% sobre a NTN-B.
+Com a retomada do mercado primário, conseguimos realizar a compra de novas
+emissões, como as debêntures da Copel Distribuição, Cosan e Iguá Saneamento, além
+de letra financeira do Nubank. Em adição a estes ativos, ainda realizamos diversas
+adições no mercado secundário, como as debêntures da Dasa, SPE Saneamento Rio e
+Belo Monte, em conjunto com as letras financeiras do Bradesco, Safra e Daycoval,
+além do FIDC Alion II.
+Cálculo do spread para ativos IPCA+ realizado considerando a NTNB de duration equivalente na data de
+liquidação, via interpolação da curva de juros (spline)
+Emissor
+Ativo
+Index
+Isenta
+Taxa 
+Operação
+Duration
+Anhanguera-
+Bandeirantes
+CDI+
+N
+Copel Distribuição
+CDI+
+N
+Copel Distribuição
+CDI+
+N
+Copel Distribuição
+CDI+
+N
+Nubank
+CDI+
+N
+Cosan
+CDI+
+N
+Iguá Saneamento
+IPCA+
+S
+Em conjunto, o IDA-IPCA Infraestrutura, representando a cesta de debêntures isentas
+indexadas à inflação, encerrou o mês com prêmio sobre a NTN-B de 1,21%,
+fechamento de 15bps em junho, e performance de 2,89%.
+Spread Ponderado IDA-IPCA Infraestrutura[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Junho | 2023
+No mercado offshore, os ativos de risco apresentaram uma recuperação comparado
+ao mês anterior. O S&P 500 teve o seu melhor desempenho mensal em 2023, com uma
+performance de 6.47% em Junho-23 e a curva de juros americana apresentou uma
+menor volatilidade comparado aos meses anteriores, finalizando no patamar de 3.86%
+(US Treasury de 10 anos). Além disso, nesse mês tivemos a reunião do FOMC onde foi
+decidido por manter inalterada a taxa de juros, porém com uma possibilidade de dois
+aumentos ainda nesse ano.
+Diante desse cenário melhor de risco no mês, os índices de bonds de Mercados
+Emergentes e de Brasil tiveram uma performance positiva, fechando o mês com um
+retorno de 0.81% e de 1.49%, respectivamente.
+Em relação ao book offshore, seguimos com a estratégia de redução do risco dado os
+patamares de spreads pouco atrativos e cenário macro global desafiador. Encerramos
+o mês com uma exposição em 6 emissores com yield médio de 11.99% e duration de
+2.1y.
+Performance & Benchmarks
+YTW
+Duration
+Abril
+Maio
+Junho
+Since 
+Inception
+XP Vista Bonds Fund SP Class Shares
+Bloomberg Barclays EM Brazil USD (corps + sov)
+Bloomberg Barclays EM Brazil Corporate Total Return USD
+Bloomberg Barclays EM LatAm USD (corps + sov)
+Bloomberg Barclays EM USD Aggregate Total Return USD
+Bloomberg Barclays US Treasury Index
+Bloomberg Barclays US Corporate HY[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Junho | 2023
+Performance dos Fundos
+Grade de Fundos
+XP Asset
+Abril
+Maio
+Junho
+Ano
+XP REFERENCIADO 
+XP BANCOS RF CP
+XP CORPORATE LIGHT FIRF CP LP
+XP CORPORATE TOP CP FIRF LP
+XP CORPORATE PLUS FIM CP
+XP ANS FIRF CP
+XP DEB INCENT HEDGE FIM CP LP
+XP ICATU HORIZONTE PREV
+XP SEGUROS HORIZONTE FIRF PREV
+XP SEGUROS FIRF CP
+IDA - DI
+XP INFLA FIRF
+XP DEB INCENT FIM CP
+IDA - IPCA Infraestrutura
+Índice
+Abril
+Maio
+Junho
+Ano
+CDI
+Índices de Debêntures
+Abril
+Maio
+Junho
+Ano
+IDA - DI
+IDA - IPCA Infraestrutura
+IDA - IPCA ex-Infraestrutura
+IDA - IPCA
+IDA - GERAL[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Junho | 2023
+A XP Asset Management é uma marca que inclui a XP Gestão de Recursos Ltda.
+("XPG"), XP PE Gestão de Recursos Ltda. (“XPPE”), XP Allocation Asset Management
+Ltda. (“XP Allocation”) e a XP Vista Asset Management Ltda. ("XPV"). A XPG, XPPE,
+XPV e XP Allocation são gestoras de recursos de valores mobiliários autorizadas pela
+Comissão de Valores Mobiliários - CVM e constituídas na forma da Instrução CVM n°
+558/15. Todas as regras regulatórias de segregação são observadas pelas gestoras.
+Os fundos de estratégias de investimentos de Renda Variável e Multimercado são
+geridos pela XPG. Os fundos de estratégias de investimentos de Renda Fixa e
+Estruturados são geridos pela XPV. Os fundos de Previdência podem ser geridos tanto
+pela XPG quanto pela XPV, a depender da estratégia do fundo. Os fundos de private
+equity são geridos pela XPPE. A XP Allocation atua na gestão de fundos de
+investimentos e fundos de cotas de fundos de investimentos, com foco em Alocação
+(asset Allocation, fund of funds, acesso) e Indexados. A gestão dos FIIs é feita pela
+XPV. A XPPE, XPG, XP Allocation e a XPV não comercializam nem distribuem quotas
+de fundos de investimento ou qualquer outro ativo financeiro. As informações
+contidas neste informe são de caráter meramente informativo e não constituem
+qualquer tipo de aconselhamento de investimentos, não devendo ser utilizadas com
+este propósito. Nenhuma informação contida neste informe constitui uma solicitação,
+material promocional ou publicitário, oferta ou recomendação para compra ou venda
+de quotas de fundos de investimento, ou de quaisquer outros valores mobiliários. Este
+informe não é direcionado para quem se encontrar proibido por lei a acessar as
+informações nele contidas, as quais não devem ser usadas de qualquer forma
+contrária à qualquer lei de qualquer jurisdição. A XPG, XPPE, XP Allocation e a XPV,
+seus
+sócios
+e
+funcionários
+isentam-se
+de
+responsabilidade
+por
+decisões
+de
+investimentos que venham a ser tomadas com base nas informações divulgadas e
+sobre
+quaisquer danos
+resultantes direta ou indiretamente
+da
+utilização
+das
+informações contidas neste informe. PARA AVALIAÇÃO DA PERFORMANCE DE UM
+FUNDO DE INVESTIMENTO, É RECOMENDÁVEL A ANÁLISE DE, NO MÍNIMO, 12 (DOZE)
+MESES.
+FUNDOS
+DE
+INVESTIMENTO
+NÃO
+CONTAM
+COM
+GARANTIA
+DO
+ADMINISTRADOR, DO GESTOR, DE QUALQUER MECANISMO DE SEGURO OU FUNDO
+GARANTIDOR DE CRÉDITO – FGC. INVESTIMENTOS NOS MERCADOS FINANCEIROS E
+DE CAPITAIS ESTÃO SUJEITOS A RISCOS DE PERDA SUPERIOR AO VALOR TOTAL DO
+CAPITAL INVESTIDO. RENTABILIDADE PASSADA NÃO REPRESENTA GARANTIA DE
+RENTABILIDADE
+FUTURA
+A
+RENTABILIDADE
+DIVULGADA
+NÃO
+É
+LÍQUIDA
+DE
+IMPOSTOS.
+LEIA
+O
+PROSPECTO,
+O
+FORMULÁRIO
+DE
+INFORMAÇÕES
+COMPLEMENTARES, LÂMINA DE INFORMAÇÕES ESSENCIAIS E O REGULAMENTO
+ANTES DE INVESTIR. DESCRIÇÃO DO TIPO ANBIMA DISPONÍVEL NO FORMULÁRIO DE
+INFORMAÇÕES COMPLEMENTARES.
+RELAÇÃO COM INVESTIDORES: ri@xpasset.com.br.
+Disclaimer

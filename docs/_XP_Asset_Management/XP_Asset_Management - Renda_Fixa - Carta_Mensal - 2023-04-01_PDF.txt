@@ -1,0 +1,142 @@
+[ CLASSIFICAÇÃO: PÚBLICA ]
+CARTA MENSAL
+RENDA FIXA
+Abril / 2023[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Abril | 2023
+Seguimos em mais um mês com pressão vendedora nos fundos de crédito privado, 
+observando resgates no montante de R$21,4 bilhões na amostra que acompanhamos. 
+Encerramos abril com um total de R$71,6 bilhões resgatados da amostra neste ano, a qual 
+saiu de um patrimônio total de R$643 bilhões no fechamento de 2022, para R$589 bilhões, 
+uma queda de 8,4%.
+Carta do Gestor
+Neste cenário, os índices de debêntures indexadas ao CDI seguiram com abertura de 
+spreads e retornos abaixo do CDI, porém em menor magnitude em relação aos primeiros 
+meses do ano. O IDA-DI saiu de CDI+ 2,40% para CDI+ 2,53%, com retorno de 0,82% 
+(89,1% do CDI) e o IDEX-JGP saiu de CDI+ 2,87% para CDI+ 2,93%, apresentando 
+performance de 0,77% (83,9% do CDI).[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Abril | 2023
+Neste cenário de leve continuação nas aberturas dos spreads e reprecificação das 
+debêntures da Light ao longo do mês, os fundos de crédito privado acabaram sendo 
+impactados, resultando em performance levemente abaixo do CDI para a classe:
+Do lado dos ativos indexados à inflação, tivemos o IDA-IPCA Infraestrutura saindo de um 
+prêmio sobre a NTN-B de 1,60% (também ajustado para Light) e abrindo 3bps, alcançando 
+patamar de 1,63% de spread, mantendo o patamar de spread atingido durante a pandemia 
+do Covid-19.[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Abril | 2023
+Neste mês, as taxas de juros reais novamente apresentaram fechamento, contribuindo com a 
+performance desta classe de ativos, conforme observado no retorno de 2,02% do IMA-B. 
+Seguimos considerando o momento atual como atrativo para os ativos indexados ao IPCA, 
+com níveis de juros reais ainda elevados em conjunto com o patamar atual de prêmio 
+observado. Como exemplo, o XP Debêntures Incentivadas inicia maio com uma carteira de 
+crédito com prêmio de 2,32% sobre a NTN-B e carrego bruto de IPCA+ 8,07%.
+Apesar do maior fluxo de resgates, realizamos algumas compras no mercado secundário, 
+aproveitando para obter ativos com melhores níveis de spread. Entre eles: Hypera, Hapvida, 
+AES Tietê, CEEE-T, Natura, Cosan e Cachoeiria Paulista Transmissora.
+Cálculo do spread para ativos IPCA+ realizado considerando a NTNB de duration 
+equivalente na data de liquidação, via interpolação da curva de juros (spline)[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Abril | 2023
+No mercado offshore, os ativos de risco apresentaram uma melhora comparada ao mês 
+passado com uma diminuição do risco em relação a situação dos bancos regionais 
+americanos dado a resposta rápida do FED com as medidas de ampliação de liquidez no 
+sistema, levando a uma redução da aversão ao risco presenciada em Março-23. Diante disso, 
+o Move Index que engloba a volatilidade implícita da curva de juros do tesouro americano 
+voltou para um patamar mais normalizado de 122bps e o VIX atingindo o nível de 15.7% no 
+final do mês. A US Treasury de 10 anos fechou o mês em 3.42% (-5bps MoM). Os índices de 
+bonds de Mercados Emergentes e de Brasil apresentaram um desempenho modesto, 
+fechando o mês com uma performance positiva de 0.39% e de 0.46%, respectivamente.
+Em relação ao book offshore, realizamos algumas reduções pontuais de ativos dado o 
+patamar de spread e contexto específico de setores cíclicos com uma dinâmica menos 
+favorável com a redução de atividade global. Encerramos o mês com uma exposição em 9 
+emissores com yield médio de 12.20% e duration de 3.2y.[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Abril | 2023
+Performance dos Fundos
+Grade de Fundos
+XP Asset
+Fevereiro
+Março
+Abril
+Ano
+XP REFERENCIADO 
+XP BANCOS RF CP
+XP CORPORATE LIGHT FIRF CP LP
+XP CORPORATE TOP CP FIRF LP
+XP CORPORATE PLUS FIM CP
+XP ANS FIRF CP
+XP DEB INCENT HEDGE FIM CP LP
+XP ICATU HORIZONTE PREV
+XP SEGUROS HORIZONTE FIRF PREV
+XP SEGUROS FIRF CP
+IDA - DI
+XP INFLA FIRF
+XP DEB INCENT FIM CP
+IDA - IPCA Infraestrutura
+Índice
+Fevereiro
+Março
+Abril
+Ano
+CDI
+Índices de Debêntures
+Fevereiro
+Março
+Abril
+Ano
+IDA - DI
+IDA - IPCA Infraestrutura
+IDA - IPCA ex-Infraestrutura
+IDA - IPCA
+IDA - GERAL[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Renda Fixa
+Carta Abril | 2023
+A XP Asset Management é uma marca que inclui a XP Gestão de Recursos Ltda. 
+("XPG"), XP PE Gestão de Recursos Ltda. (“XPPE”), XP Allocation Asset Management 
+Ltda. (“XP Allocation”) e a XP Vista Asset Management Ltda. ("XPV"). A XPG, XPPE, 
+XPV e XP Allocation são gestoras de recursos de valores mobiliários autorizadas pela 
+Comissão de Valores Mobiliários - CVM e constituídas na forma da Instrução CVM n° 
+558/15. Todas as regras regulatórias de segregação são observadas pelas gestoras. 
+Os fundos de estratégias de investimentos de Renda Variável e Multimercado são 
+geridos pela XPG. Os fundos de estratégias de investimentos de Renda Fixa e 
+Estruturados são geridos pela XPV. Os fundos de Previdência podem ser geridos tanto 
+pela XPG quanto pela XPV, a depender da estratégia do fundo. Os fundos de private 
+equity são geridos pela XPPE. A XP Allocation atua na gestão de fundos de 
+investimentos e fundos de cotas de fundos de investimentos, com foco em Alocação 
+(asset Allocation, fund of funds, acesso) e Indexados. A gestão dos FIIs é feita pela 
+XPV. A XPPE, XPG, XP Allocation e a XPV não comercializam nem distribuem quotas 
+de fundos de investimento ou qualquer outro ativo financeiro. As informações contidas 
+neste informe são de caráter meramente informativo e não constituem qualquer tipo de 
+aconselhamento de investimentos, não devendo ser utilizadas com este propósito. 
+Nenhuma informação contida neste informe constitui uma solicitação, material 
+promocional ou publicitário, oferta ou recomendação para compra ou venda de quotas 
+de fundos de investimento, ou de quaisquer outros valores mobiliários. Este informe 
+não é direcionado para quem se encontrar proibido por lei a acessar as informações 
+nele contidas, as quais não devem ser usadas de qualquer forma contrária à qualquer 
+lei de qualquer jurisdição. A XPG, XPPE, XP Allocation e a XPV, seus sócios e 
+funcionários isentam-se de responsabilidade por decisões de investimentos que 
+venham a ser tomadas com base nas informações divulgadas e sobre quaisquer 
+danos resultantes direta ou indiretamente da utilização das informações contidas neste 
+informe. PARA AVALIAÇÃO DA PERFORMANCE DE UM FUNDO DE 
+INVESTIMENTO, É RECOMENDÁVEL A ANÁLISE DE, NO MÍNIMO, 12 (DOZE) 
+MESES.  FUNDOS DE INVESTIMENTO NÃO CONTAM COM GARANTIA DO 
+ADMINISTRADOR, DO GESTOR, DE QUALQUER MECANISMO DE SEGURO OU 
+FUNDO GARANTIDOR DE CRÉDITO – FGC. INVESTIMENTOS NOS MERCADOS 
+FINANCEIROS E DE CAPITAIS ESTÃO SUJEITOS A RISCOS DE PERDA 
+SUPERIOR AO VALOR TOTAL DO CAPITAL INVESTIDO. RENTABILIDADE 
+PASSADA NÃO REPRESENTA GARANTIA DE RENTABILIDADE FUTURA A 
+RENTABILIDADE DIVULGADA NÃO É LÍQUIDA DE IMPOSTOS. LEIA O 
+PROSPECTO, O FORMULÁRIO DE INFORMAÇÕES COMPLEMENTARES, LÂMINA 
+DE INFORMAÇÕES ESSENCIAIS E O REGULAMENTO ANTES DE INVESTIR. 
+DESCRIÇÃO DO TIPO ANBIMA DISPONÍVEL NO FORMULÁRIO DE 
+INFORMAÇÕES COMPLEMENTARES.
+RELAÇÃO COM INVESTIDORES: ri@xpasset.com.br.
+Disclaimer

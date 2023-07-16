@@ -1,0 +1,386 @@
+[ CLASSIFICAÇÃO: PÚBLICA ]
+CARTA MENSAL
+MULTIMERCADO 
+MACRO
+Maio / 2023[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Multimercado Macro
+Carta Maio | 2023
+Em maio, o XP Macro FIM teve rentabilidade de -1,79%, acumulando uma rentabilidade de 
+2,22% no ano (41% do CDI), 7,93% (59% do CDI) nos últimos doze meses, e 
+contabilizando 146% do CDI desde a criação do fundo.
+O fundo XP Macro Plus FIC FIM rendeu -4,48% no mês, acumulando uma rentabilidade de 
+-0,08% no ano, 4,28% (32% do CDI) nos últimos doze meses, e contabilizando 174% do 
+CDI desde a criação do fundo.
+Nos mercados globais, o fundo apresentou perdas na posição vendida em bolsa americana e 
+em uma posição tática em juros americanos. No Brasil, teve pequenos ganhos no mercado 
+de bolsa e perdas no mercado de juros e câmbio. Na América Latina, teve pequenas perdas 
+em posições aplicadas em juros no México e em uma posição de inclinação na curva Chilena.
+1. Cenário e Perspectivas
+Por mais uma vez, a economia doméstica surpreende os mercados, dando início a um novo 
+ciclo de revisão altista das projeções do PIB deste ano. Ainda que a resiliência da atividade 
+(e da inflação) em ambiente de juros elevados seja uma realidade em quase todo mundo, 
+acreditamos que o caso brasileiro tenha uma particularidade, além da supersafra, que tem 
+recebido menor atenção: aumento relevante e permanente da transferência às famílias, sem 
+qualquer compensação do ponto de vista de outras despesas ou aumento de impostos.
+No Brasil, cerca de 52% da renda das famílias deriva de salários e retiradas/dividendos 
+pagos pelo setor privado, ao passo que os outros 48% vêm de salário dos servidores 
+públicos e benefícios sociais, como aposentadorias e Bolsa Família¹. Trabalhamos com uma 
+proxy de massa salarial ampliada que utiliza dados do Tesouro Nacional para benefícios 
+sociais e salários de servidores federais, estaduais e municipais; dados de arrecadação de 
+impostos em folha para estimar a massa salarial formal mensal das empresas²; e dados da 
+PNAD para os trabalhadores informais e as retiradas dos empresários e profissionais 
+liberais³.
+1 Essa conta trata as estatais como setor privado e não considera as receitas de aplicação financeiras.
+2 Para os dados anuais, utilizamos a série da RAIS.
+3 Nossa métrica é muito próxima à Renda Nacional Disponível Bruta do Banco Central e à Renda divulgada nas Contas Nacionais Anuais, com defasagem de 2 anos.
+Caros Investidores[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Multimercado Macro
+Carta Maio | 2023
+1. Cenário e Perspectivas (continuação)
+Como vemos na figura 1, a renda das famílias registrou forte crescimento em 2022, mesmo 
+com o fim do auxílio emergencial e o congelamento nominal do salário dos servidores 
+federais. A alta nominal de 15,7%, o que representa ganho real de 5,9% (a inflação média do 
+ano passado foi de 9,3%). A forte variação foi impulsionada pela massa salarial privada (alta 
+real de 7,8%); pelos reajustes de servidores estaduais e municipais (7,6% acima da inflação); 
+e por benefícios de proteção social (alta real de 8,3%). Em especial, os recursos vindos do 
+governo chamaram a atenção em dois pontos específicos: governadores dando reajustes 
+nominais na casa de 20% e a expansão inicial do Bolsa Família (até então auxílio Brasil) 
+muito mais do que compensando o fim do auxílio emergencial.
+Em 2023, a expansão da renda real será muito próxima a ano passado:  Os dados de 
+arrecadação mostram que a massa salarial seguiu crescendo bem acima da inflação, em 
+linha com os dados da PNAD. A renda dos trabalhadores será beneficiada pelo segundo 
+reajuste real do salário-mínimo em maio e a nova tabela do imposto de renda. A criação de 
+empregos com carteira também segue muito forte. Segundo dados do Caged, o estoque de 
+trabalhadores com carteira cresceu a uma taxa anualizada de 4,3% nos primeiros quatro 
+meses do ano, ritmo praticamente idêntico à média dos últimos doze meses (crescimento de 
+4,4% entre abril/22 e abril/23).[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Multimercado Macro
+Carta Maio | 2023
+1. Cenário e Perspectivas (continuação)
+Os dados do setor público também seguirão fortes, impulsionados pelos já citados reajustes 
+do salário-mínimo; pelo aumento linear de 9% do salário do governo federal; pelos novos 
+reajustes de governos estaduais (São Paulo anunciou reajuste de 20% para policiais); e pela 
+nova expansão do Bolsa Família decorrente da PEC da transição. Toda essa expansão, 
+somada à forte dinâmica do setor privado, gera uma alta nominal da renda das famílias de 
+11,0% em 2023, e 5,7% real, pouco abaixo do observado em 2023 (inflação média de 2023 
+deve ficar em torno de 5%). 
+Quadro 1: Massa Salarial Ampliada (% Anual)
+Massa Ampliada
+Setor Privado
+Com Carteira Assinada
+Informais e Empresários
+Setor Público
+Salário Gov Federal
+Salário Estados e Municípios
+Previdência
+Programas Assistenciais
+Participação
+Crescimento Nominal
+Crescimento Real[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Multimercado Macro
+Carta Maio | 2023
+1. Cenário e Perspectivas (continuação)
+Excluídos os anos de 2020 e 2021, onde a poupança das famílias teve variação atípica em 
+função do fechamento de serviços, variações da nossa métrica de renda guardam forte 
+correlação com crescimento do consumo (avaliamos ambas em termos nominais para evitar 
+diferenças entre o IPCA e o deflator).  A correlação dos últimos 20 anos sugere crescimento 
+de 10% nominal do consumo das famílias neste ano. Evidentemente, outras variáveis devem 
+ser levadas em conta, tais como taxa de juro e comprometimento de renda. Ainda assim, 
+2023 muito provavelmente terá outro ano de consumo forte, na contramão das discussões 
+que todo crescimento virá da agropecuária.[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Multimercado Macro
+Carta Maio | 2023
+O mês foi bem desafiador para nossos fundos, principalmente em função do cenário 
+internacional. Após buscarmos posições que se beneficiariam de um cenário de juros mais 
+altos nos últimos 18 meses, vimos uma maior dispersão de cenários a partir da crise bancária 
+americana. De um lado, uma desaceleração do crédito poderia ajudar o trabalho do FED na 
+convergência da inflação à meta e significaria uma menor necessidade de aperto monetário. 
+Por outro lado, poderíamos ver uma nova rodada de resgates de depósitos, mais quebras em 
+bancos regionais e, como consequência, um cenário potencialmente bem recessivo.
+Dessa forma, já não tínhamos mais posições tomadas em juros, mas continuamos 
+procurando posições vendidas em bolsas americanas, por achar que havia uma assimetria 
+muito grande. Isso acabou prejudicando a performance no mês, uma vez que não somente 
+não houve piora adicional nos depósitos, como os bons resultados do setor de tecnologia e 
+inovações, especialmente relacionadas à Inteligência Artificial, levaram a uma performance 
+muito forte das bolsas. Reconhecendo que o cenário se encontra mais desafiador do que 
+pensávamos e dado que não temos mais uma grande convicção, diminuímos 
+substancialmente nossa alocação no mercado internacional, de forma que hoje praticamente 
+não temos risco neste mercado.
+No mercado local, a atividade permanece se mostrando resiliente (em especial no mercado 
+de trabalho) e a queda substancial das commodities em reais tem levado a uma forte 
+reprecificação da inflação implícita. Por um lado, a dinâmica inflacionária mais benigna levou 
+a uma pior performance do juro real em relação ao nominal (dito de outra forma, as NTN-Bs 
+que temos não acompanharam o fechamento da curva de juros nominais). Por outro lado, a 
+posição aplicada em juros reais nos parece muito mais assimétrica, dado que a inflação 
+projetada pelos mercados para os próximos 3 anos faz o trabalho do BC parecer mais fácil --- 
+além de ser um excelente seguro no caso de a futura diretoria do Banco Central ser mais 
+propensa a arriscar níveis mais baixos de juro. Vemos uma grande assimetria nessas 
+posições nos próximos meses e temos buscado aumentá-las, com parcimônia.[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Multimercado Macro
+Carta Maio | 2023
+2. Posições (continuação)
+O cenário descrito acima parece muito promissor para a bolsa, e voltamos a ter posições 
+compradas após um longo tempo alternando posições vendidas ou zerados. Por certo, as 
+empresas ainda passarão por cenário adverso, por exemplo em função da constante 
+necessidade de aumento de carga tributária no novo arcabouço. Contudo, com a redução da 
+turbulência externa, a dinâmica inflacionária de curto prazo mais favorável, a perspectiva de 
+queda iminente dos juros e o nível baixo de alocação, ainda vemos assimetria na posição 
+comprada, a despeito da alta recente.
+Na América Latina, optamos por zerar, por enquanto, a posição aplicada no juro mexicano, 
+dado o tom mais hawkish das minutas da última reunião do Banxico. No Chile, ao longo do 
+mês de maio, iniciamos uma posição tomada em inclinação na parte longa da curva de juro. 
+Acreditamos que o Banco Central iniciará seu ciclo de cortes na reunião de julho, já com 
+alguma sinalização no Relatório de Inflação, a ser divulgado esse mês. 
+Obrigado pela confiança.[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Multimercado Macro
+Carta Maio | 2023
+3. Atribuição de Performance – XP Macro FIM
+4. Performance  - XP Macro FIM[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Multimercado Macro
+Carta Maio | 2023
+5. Atribuição de Performance – XP Macro Plus FIC FIM
+6. Performance  - XP Macro Plus FIC FIM
+* De 24/03/2016 a 30/04/2018 a rentabilidade do XP Macro Plus FIC FIM é simulada através da rentabilidade histórica do XP Macro FIM[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Multimercado Macro
+Carta Maio | 2023
+Multimercado Macro
+Cota
+Mês
+Mês Anterior
+Ano
+PL (Atual)
+PL Médio (12M)
+XP Macro Institucional FIC FIM 
+% CDI
+ 
+-
+-
+XP Macro FIM 
+% CDI
+ 
+-
+-
+XP Macro Plus FIC FIM 
+% CDI
+ 
+-
+-
+XP Macro Juros Ativo FIC FIRF LP 
+% CDI
+ 
+-
+-
+Índices
+Cotação
+Mês
+Mês Anterior
+Ano
+-
+-
+CDI
+ 
+-
+-
+Renda Variável
+Cota
+Mês
+Mês Anterior
+Ano
+PL (Atual)
+PL Médio (12M)
+XP Investor Long Biased FIC FIM !
+Dif. IPCA + Yield IMAB em p.p.
+3,72 p.p.
+1,42 p.p.
+-3,06 p.p.
+-6,90 p.p.
+-34,82 p.p.
+-23,44 p.p.
+-
+-
+XP Investor Long Biased 30 FIC FIM
+Dif. IPCA + Yield IMAB em p.p.
+3,73 p.p.
+1,44 p.p.
+-3,07 p.p.
+-6,95 p.p.
+-34,64 p.p.
+-23,27 p.p.
+-
+-
+XP Investor FIA !
+Dif. Ibovespa em p.p.
+1,47 p.p.
+0,60 p.p.
+5,08 p.p.
+5,34 p.p.
+6,66 p.p.
+0,96 p.p.
+-
+-
+XP Investor 30 FIC FIA
+Dif. Ibovespa em p.p.
+1,50 p.p.
+0,56 p.p.
+5,06 p.p.
+5,46 p.p.
+6,81 p.p.
+0,17 p.p.
+-
+-
+XP Investor Dividendos FIA
+Dif. Ibovespa em p.p.
+0,28 p.p.
+0,88 p.p.
+5,57 p.p.
+8,54 p.p.
+16,39 p.p.
+-2,49 p.p.
+-
+-
+XP Investor Long Biased II FIC FIM
+Dif. IPCA + Yield IMAB em p.p.
+3,72 p.p.
+1,36 p.p.
+-3,29 p.p.
+-9,23 p.p.
+-55,82 p.p.
+-39,08 p.p.
+-
+-
+XP Investor Ibovespa Ativo FICFIA
+Dif. Ibovespa em p.p.
+-0,32 p.p.
+0,10 p.p.
+1,33 p.p.
+2,75 p.p.
+4,90 p.p.
+3,17 p.p.
+-
+-
+Índices
+Cotação
+Mês
+Mês Anterior
+Ano
+-
+-
+CDI
+-
+-
+Ibovespa
+-
+-
+IPCA + Yield IMAB
+-
+-
+Previdência
+Cota
+Mês
+Mês Anterior
+Ano
+PL (Atual)
+PL Médio (12M)
+XP Macro Juros Ativo Seguros FIE FIC FIRF 
+% CDI
+-
+-
+XP Horizonte Macro Prev FIM 
+% CDI
+-
+-
+XP Seguros FIC FIM Macro Prev 
+% CDI
+ 
+-
+-
+XP Macro Plus Prev FIC FIM
+% CDI
+-
+-
+-
+-
+-
+XP Long Term Equity Seguros FIC FIM 
+Dif. IPCA + Yield IMAB em p.p.
+3,38 p.p.
+1,43 p.p.
+-2,86 p.p.
+-7,57 p.p.
+-54,76 p.p.
+-46,25 p.p.
+-
+-
+XP Long Biased Advisory XP Seguros Prev FIC FIM IQ 
+% CDI
+ 
+-
+-
+Índices
+Cotação
+Mês
+Mês Anterior
+Ano
+-
+-
+CDI
+ 
+-
+-
+IPCA + Yield IMAB
+-
+-
+7. Tabela de Rentabilidade[ CLASSIFICAÇÃO: PÚBLICA ]
+xpasset.com.br | Canal do Investidor: ri@xpasset.com.br
+Multimercado Macro
+Carta Maio | 2023
+A XP Asset Management é uma marca que inclui a XP Gestão de Recursos Ltda. 
+("XPG"), XP PE Gestão de Recursos Ltda. (“XPPE”), XP Allocation Asset Management 
+Ltda. (“XP Allocation”) e a XP Vista Asset Management Ltda. ("XPV"). A XPG, XPPE, 
+XPV e XP Allocation são gestoras de recursos de valores mobiliários autorizadas pela 
+Comissão de Valores Mobiliários - CVM e constituídas na forma da Instrução CVM n° 
+558/15. Todas as regras regulatórias de segregação são observadas pelas gestoras. 
+Os fundos de estratégias de investimentos de Renda Variável e Multimercado são 
+geridos pela XPG. Os fundos de estratégias de investimentos de Renda Fixa e 
+Estruturados são geridos pela XPV. Os fundos de Previdência podem ser geridos tanto 
+pela XPG quanto pela XPV, a depender da estratégia do fundo. Os fundos de private 
+equity são geridos pela XPPE. A XP Allocation atua na gestão de fundos de 
+investimentos e fundos de cotas de fundos de investimentos, com foco em Alocação 
+(asset Allocation, fund of funds, acesso) e Indexados. A gestão dos FIIs é feita pela 
+XPV. A XPPE, XPG, XP Allocation e a XPV não comercializam nem distribuem quotas 
+de fundos de investimento ou qualquer outro ativo financeiro. As informações contidas 
+neste informe são de caráter meramente informativo e não constituem qualquer tipo de 
+aconselhamento de investimentos, não devendo ser utilizadas com este propósito. 
+Nenhuma informação contida neste informe constitui uma solicitação, material 
+promocional ou publicitário, oferta ou recomendação para compra ou venda de quotas 
+de fundos de investimento, ou de quaisquer outros valores mobiliários. Este informe 
+não é direcionado para quem se encontrar proibido por lei a acessar as informações 
+nele contidas, as quais não devem ser usadas de qualquer forma contrária à qualquer 
+lei de qualquer jurisdição. A XPG, XPPE, XP Allocation e a XPV, seus sócios e 
+funcionários isentam-se de responsabilidade por decisões de investimentos que 
+venham a ser tomadas com base nas informações divulgadas e sobre quaisquer 
+danos resultantes direta ou indiretamente da utilização das informações contidas neste 
+informe. PARA AVALIAÇÃO DA PERFORMANCE DE UM FUNDO DE 
+INVESTIMENTO, É RECOMENDÁVEL A ANÁLISE DE, NO MÍNIMO, 12 (DOZE) 
+MESES.  FUNDOS DE INVESTIMENTO NÃO CONTAM COM GARANTIA DO 
+ADMINISTRADOR, DO GESTOR, DE QUALQUER MECANISMO DE SEGURO OU 
+FUNDO GARANTIDOR DE CRÉDITO – FGC. INVESTIMENTOS NOS MERCADOS 
+FINANCEIROS E DE CAPITAIS ESTÃO SUJEITOS A RISCOS DE PERDA 
+SUPERIOR AO VALOR TOTAL DO CAPITAL INVESTIDO. RENTABILIDADE 
+PASSADA NÃO REPRESENTA GARANTIA DE RENTABILIDADE FUTURA A 
+RENTABILIDADE DIVULGADA NÃO É LÍQUIDA DE IMPOSTOS. LEIA O 
+PROSPECTO, O FORMULÁRIO DE INFORMAÇÕES COMPLEMENTARES, LÂMINA 
+DE INFORMAÇÕES ESSENCIAIS E O REGULAMENTO ANTES DE INVESTIR. 
+DESCRIÇÃO DO TIPO ANBIMA DISPONÍVEL NO FORMULÁRIO DE 
+INFORMAÇÕES COMPLEMENTARES.
+RELAÇÃO COM INVESTIDORES: ri@xpasset.com.br.
+Disclaimer

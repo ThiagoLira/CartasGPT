@@ -78,6 +78,10 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Dynamo/
     output: true
+  FAMA_Investimentos:
+    permalink: /:collection/:path.html
+    index_permalink: /FAMA_Investimentos/
+    output: true
   Gap Asset:
     permalink: /:collection/:path.html
     index_permalink: /Gap_Asset/
