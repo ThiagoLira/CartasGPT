@@ -6,7 +6,7 @@ tag: Relatorio_de_Gestao
 date: 2023-03-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - A FAMA Investimentos se autodenomina uma gestora de ativos ética e sustentável, comemorando 30 anos de contribuição para o setor financeiro.

@@ -6,7 +6,7 @@ tag: Multimercado_Macro
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - O XP Macro FIM apresentou rentabilidade de -0,05% em abril, acumulando 4,08% no ano, equivalente a 97% do CDI.

@@ -6,7 +6,7 @@ tag: Renda_Fixa
 date: 2023-04-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - A gestora observou um rendimento contínuo de resgates nos fundos de crédito privado, totalizando R$71,6 bilhões retirados até abril de 2023; representando uma queda de 8,4% em comparação ao fechamento de 2022.

@@ -6,7 +6,7 @@ tag: Renda_Fixa
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - A indústria de fundos de crédito privado encerrou o primeiro semestre do ano com forte fluxo de resgates, tendo perdas aproximadas de R$80 bilhões.

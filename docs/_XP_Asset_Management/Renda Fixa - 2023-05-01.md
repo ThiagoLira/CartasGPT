@@ -6,7 +6,7 @@ tag: Renda_Fixa
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Maio teve menor resgate na indústria de crédito privado, resultando em retomada da atividade no mercado primário e aumento da demanda no secundário.

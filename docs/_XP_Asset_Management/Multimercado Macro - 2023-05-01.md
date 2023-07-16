@@ -6,7 +6,7 @@ tag: Multimercado_Macro
 date: 2023-05-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - Em maio, o XP Macro FIM teve rentabilidade de -1,79% e o XP Macro Plus FIC FIM rendeu -4,48%.

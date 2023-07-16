@@ -6,7 +6,7 @@ tag: Multimercado_Macro
 date: 2023-06-01
 GPT: gpt-4
 tipo: Carta
-twitter: false
+twitter: true
 ---
 
 - O XP Macro FIM teve rentabilidade de 1,55% em junho, acumulando uma rentabilidade de 3,80% no ano (59% do CDI).
