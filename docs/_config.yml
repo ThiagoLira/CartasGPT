@@ -32,6 +32,7 @@ plugins:
   - jekyll-remote-theme
 
 navbar-links:
+  # Calendário: "/calendario"
   Gestoras: "/gestoras"
   Feed: "/feed"
   Metodologia: "/metodologia"
