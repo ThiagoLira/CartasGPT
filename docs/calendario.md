@@ -42,16 +42,64 @@ permalink: /calendario/
       },
       events: [
         {
-          title: 'Empresa XYZ',
+          title: 'AZ Quest Investimentos',
+          start: '2023-07-11'
+        },
+        {
+          title: 'Dahlia_Capital',
+          start: '2023-07-08'
+        },
+        {
+          title: 'Daycoval_Asset_Management',
+          start: '2023-07-14',
+        },
+	{
+          title: 'Genoa_Capital',
+          start: '2023-07-08'
+        },
+        {
+          title: 'JGP_Asset_Management',
           start: '2023-07-10'
         },
         {
-          title: 'Empresa ABC',
-          start: '2023-07-20'
+          title: 'MAG_Investimentos',
+          start: '2023-07-07',
+        },
+	{
+          title: 'O3_Capital',
+          start: '2023-07-08'
         },
         {
-          title: 'Empresa XPTO',
-          start: '2023-07-25',
+          title: 'Rio_Bravo',
+          start: '2023-07-07'
+        },
+        {
+          title: 'Sueste_Capital',
+          start: '2023-07-12',
+        },
+	{
+          title: 'SulAmerica_Investimentos',
+          start: '2023-07-10'
+        },
+        {
+          title: 'V8_Capital',
+          start: '2023-07-14'
+        },
+        {
+          title: 'Valora_Investimentos',
+          start: '2023-07-14',
+        },
+	{
+          title: 'Verde_Asset_Management',
+          start: '2023-07-10'
+        },
+        {
+          title: 'BV_Asset',
+          start: '2023-07-08'
+        },
+        {
+          title: 'XP_Asset_Management',
+          start: '2023-07-11',
         },
       ]
     });
