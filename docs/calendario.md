@@ -46,59 +46,59 @@ permalink: /calendario/
           start: '2023-07-11'
         },
         {
-          title: 'Dahlia_Capital',
+          title: 'Dahlia Capital',
           start: '2023-07-08'
         },
         {
-          title: 'Daycoval_Asset_Management',
+          title: 'Daycoval Asset Management',
           start: '2023-07-14',
         },
 	{
-          title: 'Genoa_Capital',
+          title: 'Genoa Capital',
           start: '2023-07-08'
         },
         {
-          title: 'JGP_Asset_Management',
+          title: 'JGP Asset Management',
           start: '2023-07-10'
         },
         {
-          title: 'MAG_Investimentos',
+          title: 'MAG Investimentos',
           start: '2023-07-07',
         },
 	{
-          title: 'O3_Capital',
+          title: 'O3 Capital',
           start: '2023-07-08'
         },
         {
-          title: 'Rio_Bravo',
+          title: 'Rio Bravo',
           start: '2023-07-07'
         },
         {
-          title: 'Sueste_Capital',
+          title: 'Sueste Capital',
           start: '2023-07-12',
         },
 	{
-          title: 'SulAmerica_Investimentos',
+          title: 'SulAmerica Investimentos',
           start: '2023-07-10'
         },
         {
-          title: 'V8_Capital',
+          title: 'V8 Capital',
           start: '2023-07-14'
         },
         {
-          title: 'Valora_Investimentos',
+          title: 'Valora Investimentos',
           start: '2023-07-14',
         },
 	{
-          title: 'Verde_Asset_Management',
+          title: 'Verde Asset Management',
           start: '2023-07-10'
         },
         {
-          title: 'BV_Asset',
+          title: 'BV Asset',
           start: '2023-07-08'
         },
         {
-          title: 'XP_Asset_Management',
+          title: 'XP Asset Management',
           start: '2023-07-11',
         },
       ]
