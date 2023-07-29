@@ -12,6 +12,7 @@ FAMA Investimentos
 Gap Asset
 Genoa Capital
 Icatu Vanguarda
+IP Capital
 JGP Asset Management
 Legacy Capital
 MAG Investimentos
@@ -30,6 +31,7 @@ Trigono Capital
 V8 Capital
 Valora Investimentos
 Verde Asset Management
+Vinci Partners
 Western Asset
 WHG
 XP Asset Management

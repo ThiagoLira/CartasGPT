@@ -95,6 +95,10 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Icatu_Vanguarda/
     output: true
+  IP_Capital:
+    permalink: /:collection/:path.html
+    index_permalink: /IP_Capital/
+    output: true
   JGP_Asset_Management:
     permalink: /:collection/:path.html
     index_permalink: /JGP_Asset_Management/
@@ -162,6 +166,10 @@ collections:
   Verde_Asset_Management:
     permalink: /:collection/:path.html
     index_permalink: /Verde_Asset_Management/
+    output: true
+  Vinci_Partners:
+    permalink: /:collection/:path.html
+    index_permalink: /Vinci_Partners/
     output: true
   Western_Asset:
     permalink: /:collection/:path.html
