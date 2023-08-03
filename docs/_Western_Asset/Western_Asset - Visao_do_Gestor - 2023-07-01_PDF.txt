@@ -1,0 +1,321 @@
+Visão do Gestor
+Newsletter Mensal
+Sumário
+ � Em um mês com baixa volatilidade, 
+as taxas de juros globais subiram 
+levemente, acompanhadas por perfor-
+mances positivas das bolsas, indicando 
+um cenário de soft landing.
+ � A curva de juros local inclinou positiva-
+mente (os juros mais longos subiram), 
+indicando uma certa perda de fôlego 
+no rally dos juros dos últimos meses.
+ � O real seguiu a tendência global de 
+valorização em relação ao dólar, mas 
+não se destacou de maneira relevante 
+como nos meses anteriores.
+ � Em mais um mês positivo para as bolsas 
+globais, a bolsa brasileira fechou nova-
+mente no campo positivo.
+Fatos Que Marcaram Os Mercados No Mês
+Renda Fixa
+    Câmbio
+ Bolsa
+O projeto de Reforma Tributária foi aprovado na Câmara e 
+encaminhada ao Senado.
+O projeto de Reforma Tributária foi aprovado na Câmara e 
+encaminhada ao Senado. A Fitch elevou a nota de risco do 
+Brasil, de BB- para BB.
+O Fed elevou mais uma vez a taxa básica de juros, conforme 
+o esperado.
+Cenário Global
+Um mês relativamente calmo no mercado global, com o cenário de soft landing ganhando força. O 
+Fed, como amplamente esperado, decidiu por mais um aumento da taxa básica de juros, elevando os 
+Fed Funds para o intervalo de 5,25%-5,50%. Ao mesmo tempo, condicionou mais uma alta (conforme 
+sinalizado no gráfico “dots” de junho) aos dados de atividade e inflação. Ou seja, é possível termos mais 
+uma alta, mas esta não é uma decisão já tomada. A curva de juros está no meio do caminho entre mais 
+uma alta de 0,25% e zero, mostrando que os traders encontram-se divididos a este respeito. De qualquer 
+forma, aparentemente estamos no campo da sintonia fina do fim do ciclo de aperto monetário, e não 
+em meio a um debate sobre a continuidade do ciclo. A taxa das treasuries de 10 anos refletiu as idas e 
+vindas nessa percepção, chegando a subir 20 pontos-base no início do mês, devolvendo toda essa alta 
+ao longo do mês e voltando a subir no final, fechando em alta de 12 pontos-base. As treasuries de 10 
+anos voltaram ao patamar de 4%, mesmo nível de março, antes da crise dos bancos regionais.
+Ainda no campo das taxas de juros globais, chamou a atenção a elevação dos juros no Japão: o título de 
+10 anos subiu de 0,39% no final de junho para 0,60% no final de julho, um aumento de 21 pontos-base. 
+Em se tratando de Japão, trata-se de um movimento muito forte, e que foi causado por uma mudança 
+de sistemática implementada pelo BoJ no seu programa de Quantitative Easing. Essa mudança veio em 
+resposta a uma inflação persistentemente alta, por volta de 3,5%.
+Na China, dados de atividade continuaram a mostrar nível de atividade abaixo do esperado. O dado 
+que mais chamou a atenção foi a variação anual do PIB, que veio em 6,3% contra expectativa de 7,3%. 
+Apesar de uma certa recuperação dos preços das commodities neste mês, a leitura é de que a atividade 
+econômica global vem se desacelerando, o que suporta o fim do ciclo de alta dos juros nas economias 
+desenvolvidas e o início do ciclo de redução dos juros nas economias emergentes.
+Renda Fixa
+Câmbio
+ Bolsa
+A Fitch elevou a nota de risco do Brasil, de BB- para BBVisão do Gestor
+ 
+A bolsa americana (S&P500) continuou em sua tendência de alta, 
+iniciada em março, tendo se valorizado 3,1% em julho. Vale dizer que 
+o índice P/L do S&P500 voltou ao nível de 20x, patamar vigente antes 
+do início da invasão da Ucrânia, mas ainda abaixo do pico de 22x que 
+prevaleceu nos meses seguintes ao início da pandemia.
+Cenário Local
+Renda Fixa
+Julho foi um mês de boas notícias para o governo. A primeira foi a 
+aprovação, pela Câmara, do projeto de Reforma Tributária, um assunto 
+politicamente complicado e que já vinha sendo discutido há anos. 
+Tratou-se de uma vitória importante, ainda que o projeto tenha sido 
+em parte descaracterizado pela introdução de uma série de exceções e 
+ainda precise ser aprovado no Senado, onde pode ser modificado ainda 
+mais. Reagindo a este avanço e também à aprovação do novo arcabouço 
+fiscal, a Fitch Ratings decidiu elevar a nota de risco soberano do Brasil 
+de BB- para BB. Agora, somente a S&P, dentre as três maiores agências, 
+ainda mantém a nota brasileira em BB-, mas mudou a perspectiva de 
+neutra para positiva no mês passado.
+O mercado brasileiro de juros, como geralmente acontece, já havia 
+precificado essa melhora da nota do Brasil, com o forte rally dos últimos 
+3 meses, ainda que este tenha sido um movimento comum a todos os 
+emergentes. No gráfico 1, podemos observar o comportamento do CDS 
+(Credit Default Swap) de 5 anos do Brasil e de uma média de países 
+latinoamericanos (México, Chile, Colômbia e Peru) nos últimos 12 meses. 
+O risco-país do Brasil recuou em linha com esse conjunto de países.
+Gráfico 1: CDS Brasil x Latinoamericanos
+Fonte: Bloomberg
+* México, Chile, Colômbia, Peru
+Em julho, o mercado de juros estabilizou-se, com a parte curta/inter-
+mediária da curva permanecendo estável, e a parte mais longa subindo. 
+O contrato futuro DI Jan26 recuou 3 pontos-base, enquanto o Jan31 
+subiu 16 pontos-base. Portanto, tivemos uma leve inclinação positiva 
+da curva de juros, talvez já começando a precificar a dificuldade que 
+o governo enfrentará para equilibrar o orçamento no ano que vem.
+Na curva de juros reais também observamos uma inclinação positiva. 
+Mas, neste caso, foi a parte curta da curva de juros que recuou, com 
+a parte mais longa permanecendo estável. O cupom da NTN-B 2026 
+recuou 19 pontos-base, ao passo que a NTN-B 2050 permaneceu 
+praticamente estável. Com isso, tivemos um ligeiro aumento da inflação 
+implícita para os próximos dois anos.
+Por fim, o crédito apresentou mais um mês de performance positiva, 
+completando três meses de recuperação após o impacto de Americanas 
+no primeiro trimestre. No gráfico 2, podemos observar os retornos 
+mensais do IDA-DI (um índice que mede a performance de títulos 
+corporativos de crédito atrelados ao CDI) em relação ao CDI.
+Gráfico 2: Retornos mensais do IDA-DI em relação ao CDI 
+Fonte: BDS
+Câmbio
+Em mais um mês de baixa volatilidade, e depois de iniciar o mês em 
+desvalorização, o real se recuperou e terminou julho com valorização 
+de 1,3% em relação ao dólar. O dólar em si apresentou desvalorização 
+(medida pelo DXY) de 1,0%, o que significa que a valorização do real 
+se deu em linha com o mercado global. O destaque positivo tem sido 
+o peso colombiano, que já se valorizou 23,5% no ano, contra 10,5% 
+do real. Ainda dentro da América Latina, o peso mexicano também se 
+valorizou mais do que o real no ano, 17,5%, enquanto o peso chileno 
+se valorizou somente 3,0%.
+Continuamos sendo da opinião de que uma valorização adicional 
+mais consistente da moeda deveria ocorrer somente com a redução 
+do risco-país, o que depende de um equacionamento mais definitivo 
+da questão fiscal.
+Bolsa
+Com a perspectiva do início do ciclo de afrouxamento monetário, a 
+bolsa brasileira novamente apresentou boa performance. O IBrX subiu 
+3,3%, acumulando alta de 10,1% no ano. No entanto, avaliamos que o 
+cenário para as empresas brasileiras continua delicado, em função da 
+necessidade de o governo aumentar a arrecadação para manter em pé 
+o novo arcabouço fiscal. Para tanto, pode ser necessária a mudança do 
+regime de tributação de alguns setores, o que deixa uma sombra de 
+incerteza sobre a projeção de lucros futuros de uma série de empresas.
+Jan
+Fev
+Mar
+Abr
+Mai
+Jun
+Jul
+Brasil
+Média*Visão do Gestor
+ 
+Para avaliar o potencial de alta da bolsa neste ponto, estimamos o 
+crescimento dos lucros nos próximos 12 meses e assumimos um P/L 
+de 9,0x ao final deste período (no final de julho, o P/L da bolsa, de 
+acordo com nossas estimativas de crescimento de lucros, fechou em 
+8,7x). Estimamos queda de lucros de 22% em 2023 e crescimento de 
+9% em 2024 e 2025. Considerando, portanto, que a bolsa esteja com 
+um P/L de 9,0x daqui a um ano (em jul/24), e assumindo o crescimento 
+projetado dos lucros para os 12 meses seguintes (até jul/25) conforme 
+descrito acima, o IBrX deveria subir cerca de 20% nos próximos 12 meses, 
+considerando o seu preço de fechamento em jul/23.
+Há que se observar que o P/L considerado para este exercício está 
+significativamente abaixo da média dos últimos 5 anos, de 10,3x. 
+Obviamente, um eventual re-rating da bolsa local para múltiplos P/L 
+mais altos é dependente de uma melhora na percepção de risco-país 
+e de uma redução do custo de oportunidade no mercado local (juros 
+reais longos mais baixos).Visão do Gestor
+ 
+Renda fixa local
+De maneira geral, o mercado de juros apresentou baixa volatilidade neste mês de julho, com destaque positivo para os vencimentos prefixados mais 
+curtos e negativo para a parte mais longa da curva, resultando em um aumento da inclinação, o que prejudicou a performance dos IMAs mais longos.
+Bolsas do mundo (em dólar)
+A bolsa brasileira beneficiou-se de mais um mês de risk on global.
+Principais destaques da bolsa                                                                                                                                            
+O setor de incorporadoras vem se destacando, com a perspectiva do 
+início do ciclo de afrouxamento monetário.
+Moedas (contra o dólar)
+Mais um mês de desvalorização do dólar, mas o real parece estar perdendo 
+o fôlego, e não se destacou no mercado global de moedas.
+Taxas básicas de juros - variação
+O Chile inaugurou o ciclo de corte de juros com uma surpreendente 
+redução de 1 ponto percentual.
+Fonte: BDS
+Valores em percentual
+Peso - México
+Real
+Franco Suíço
+Libra Esterlina
+Euro
+Dólar HK
+Won - Coréia
+Dólar Canadense
+Dólar Australiano
+Rupia Indiana
+Iene
+Iuan - China
+Rande - Áf. do Sul
+Nova Lira Turca
+Rublo - Rússia
+Real
+Rande - Áf. do Sul
+Peso - México
+Dólar Canadense
+Dólar Australiano
+Libra Esterlina
+Euro
+Franco Suíço
+Rupia Indiana
+Won - Coréia
+Dólar HK
+Iuan - China
+Iene
+Rublo - Rússia
+Nova Lira Turca
+Últimos 12 meses
+Junho
+Fonte: Bancos Centrais
+Valores em percentual
+Colombia
+Euro
+Reino Unido
+Mexico
+EUA
+África do Sul
+Australia
+Chile
+Peru
+Coreia
+India
+Tailândia
+Malasia
+Turquia
+Brasil
+China
+Indonesia
+Japao
+Russia
+Turquia
+Reino Unido
+África do Sul
+Euro
+Australia
+Colombia
+EUA
+Malasia
+Tailândia
+Brasil
+Chile
+Peru
+Russia
+Mexico
+Coreia
+India
+China
+Indonesia
+Japao
+Últimos 12 meses
+Últimos 3 meses
+Fonte: BDS
+Valores em percentual
+Fonte: Economática
+Valores em percentual
+Energia
+Incorporadoras
+Educação
+IBrX
+Saúde
+Papel e Celulose
+Mineração
+Educação
+Energia
+Químico
+IBrX
+Mineração
+Papel e Celulose
+Industrial
+Últimos 12 meses
+Junho
+Fonte: Anbima/Western Asset
+Valores em percentual
+IRF-M
+IMA-Geral
+IMA-S
+IMA-B
+IMA-B
+IRF-M
+IMA-Geral
+IMA-S
+Últimos 12 meses
+Junho
+Fonte: BM&F/Anbima
+Valores em percentual
+Prefixado
+IPCA
+Implícita
+Últimos 12 meses
+Junho
+Istambul
+México
+Frankfurt
+IBRX
+Tóquio
+Bombaim
+Londres
+Seul
+Sidnei
+Shangai
+Hong Kong
+IBRX
+Frankfurt
+México
+Bombaim
+Sidnei
+Tóquio
+Hong Kong
+Londres
+Seul
+Shangai
+Istambul
+Junho
+Últimos 12 mesesVisão do Gestor
+ 
+Este material é um breve resumo de determinados assuntos econômicos, sob a ótica dos gestores da Western Asset Management Company Distribuidora de Títulos e Valores Mobiliários Limitada 
+(“Western Asset”) e possui finalidade meramente informativa. O conteúdo deste material não tem o propósito de prestar qualquer tipo de consultoria financeira, de recomendação de investimentos, 
+nem deve ser considerado uma oferta para aquisição de produtos da Western Asset. Recomenda-se ao leitor consultar seus analistas e especialistas particulares antes de realizar qualquer investimento. 
+A Western Asset não se responsabiliza pelas decisões de investimento tomadas pelo leitor. 
+Para obter informações mais detalhadas sobre os produtos da Western Asset (estratégia de investimento, características operacionais, como investir, regulamento, formulário de informações com-
+plementares, lâmina de informações essenciais) recomendamos a consulta ao site www.westernasset.com.br
+Seguem informações para contato com o SAC – Serviço de Atendimento ao Cliente/Cotista por meio dos seguintes canais: 1) telefone (11) 3478-5200, em dias úteis, das 9h às 18h; 2) website www.
+westernasset.com.br – Seção Fale Conosco; ou 3) correspondência para Av. Presidente Juscelino Kubitschek, n.º 1.455, 15º andar, cj. 152, São Paulo-SP, CEP 04543-011. 
+Caso a solução apresentada pelo SAC não tenha sido satisfatória, acesse a Ouvidoria da Western Asset pelos seguintes canais: 1) telefone (11) 3478-5088, em dias úteis, das 9h às 12h e das 14h às 18h; 
+2) website www.westernasset.com.br; 3) e-mail ouvidoria@westernasset.com; ou 4) correspondência para Av. Presidente Juscelino Kubitschek, nº 1.455, 15º andar, cj. 152, CEP 04543-011, São Paulo – SP.
+© Western Asset Management Company Distribuidora de Títulos e Valores Mobiliários Limitada 2023. Esta publicação é de propriedade da Western Asset Management Company Distribuidora de 
+Títulos e Valores Mobiliários Limitada e é de uso exclusivo de nossos clientes, seus respectivos consultores de investimentos e terceiros interessados. Esta publicação não deve ser enviada a qualquer 
+outra pessoa. O conteúdo deste material não poderá ser reproduzido ou utilizado sob qualquer forma sem a nossa expressa autorização.
