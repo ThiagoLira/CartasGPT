@@ -1,3 +1,4 @@
+
 BRASIL:
 As gestoras de fundos de investimento apresentam um cenário otimista para o Brasil, com expectativa de redução da taxa de juros e aumento do fluxo estrangeiro. A valorização da renda variável, especialmente dos small caps, é destacada. A aprovação da Reforma Tributária e a elevação da nota de risco do Brasil pela Fitch também são vistas como positivas. No entanto, há preocupações com possíveis mudanças no regime de tributação de alguns setores e com a política de preços da Petrobrás.
 
