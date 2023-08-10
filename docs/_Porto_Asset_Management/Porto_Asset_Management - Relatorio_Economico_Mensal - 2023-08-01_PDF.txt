@@ -1,0 +1,134 @@
+Relatório Econômico
+O câmbio é a 
+variável-chave
+Porto Asset 
+Management
+Agosto - 2023Relatório Econômico Mensal
+Em nossos dois últimos relatórios, discutimos amplamente os determinantes do ciclo de
+queda da taxa Selic. O processo foi inaugurado pelo COPOM em sua reunião deste início
+de agosto com um corte de 0,50pp, que levou a taxa básica de juros para 13,25%.
+Temos destacado quatro fatores com papel preponderante no processo de decisão do
+Banco Central: (i) a postura de política monetária externa ante a resiliência da atividade e
+a persistência da inflação, notadamente nos EUA; (ii) a atividade doméstica; (iii) o
+comportamento da inflação corrente e das expectativas em relação à meta e (iv) o grau
+de incerteza sobre as contas públicas e seu impacto sobre os ativos domésticos,
+sobretudo a taxa de câmbio. Todos eles mostraram evolução positiva durante o último
+mês, culminando com um corte inicial maior que o esperado pela maioria dos agentes.
+O cenário externo evoluiu na direção do chamado ‘soft-landing’. Neste ambiente, o Fed
+seria, teoricamente, capaz de levar a inflação gradualmente em direção à sua meta de 2%
+sem provocar aumento significativo da taxa de desemprego ou das expectativas de
+inflação. Ou seja, a convergência da inflação ocorreria com um sacrifício quase
+desprezível do ponto de vista do nível do emprego e da atividade econômica.
+Alguns indicadores divulgados ao longo de julho reforçaram essa perspectiva. De um
+lado, a inflação deu sinais de uma queda mais expressiva e abrangente. Mesmo que em
+patamares ainda elevados, os dados mais recentes mostraram um movimento promissor
+em direção à meta de 2%.
+De outro lado, indicadores do mercado de trabalho também apontaram para um maior
+equilíbrio entre a oferta e a demanda de mão-de-obra, que se traduziu na desaceleração
+do ritmo de crescimento dos salários, o que por sua vez sugere menores pressões
+inflacionárias à frente.
+Desemprego
+Desemprego de equilíbrio
+Desemprego e Inflação - EUA
+Fontes: BLS, CBO, BEA, Porto Asset Management
+Inflação (PCE, var. % em 12 meses)
+Meta de inflaçãoRelatório Econômico Mensal
+Portanto, é possível afirmar que os principais determinantes das decisões do Comitê de
+Política Monetária americano, ou seja, o desequilíbrio no mercado de trabalho e a
+convergência da inflação em direção à meta caminharam na direção desejável neste
+passado recente. Não por acaso, em sua reunião mais recente, o Fed sinalizou
+claramente que o atual ciclo de aperto chegou ao seu final ou está muito perto disso.
+Em relação aos fatores domésticos que impactam a nossa perspectiva de taxa Selic, a
+primeira observação recai sobre a evidente perda de dinamismo da atividade doméstica
+ao longo dos últimos meses.
+Depois
+de
+um
+forte
+crescimento
+no
+primeiro
+trimestre
+do
+ano,
+explicado
+majoritariamente pelo desempenho do agronegócio, o PIB deve exibir um resultado
+próximo da estabilidade no segundo trimestre, feitos os devidos ajustes sazonais. E a
+perspectiva inicial para o trimestre atual não é muito diferente.
+Outro destaque do passado recente é a melhora do quadro inflacionário, seja em relação
+à inflação realizada, seja quanto às expectativas. O IPCA-15 de julho registrou deflação
+ligeiramente maior do que o esperado, sendo que seus indicadores com maior poder de
+informação sobre a persistência da inflação (por exemplo o índice de difusão, a média
+dos núcleos ou os serviços subjacentes) também apontaram na direção desejável.
+Adicionalmente, as expectativas de inflação continuaram arrefecendo e reduziram o grau
+de descolamento em relação à meta. Devemos destacar, no entanto, que persiste a
+preocupação em relação às expectativas mais longas que, apesar da melhora nos
+horizontes mais curtos, seguem acima do que seria desejável para uma condução mais
+tranquila da política monetária
+(var. % em 12 meses)
+Média móvel de 3m com
+ajuste sazonal (T+6)
+Fontes: IBGE, Porto Asset Management
+Serviços subjacentes
+(var. % em 12 meses)
+Média móvel de 3m com
+ajuste sazonal (T+6)Relatório Econômico Mensal
+Um elemento doméstico adicional a favorecer o começo do ciclo monetário é o momento
+político e sua repercussão sobre questões relevantes do quadro fiscal de curto e médio
+prazo. Apesar da grande volatilidade e incerteza observada no começo do ano, os últimos
+meses trouxeram sinais de um maior alinhamento entre a equipe econômica do governo
+e o Congresso Nacional, em particular as lideranças da Câmara dos Deputados.
+Esse quadro sugere maiores chances de aprovação de medidas de interesse do governo
+federal que produzam um aumento da arrecadação, movimento necessário para a
+consolidação do chamado novo arcabouço fiscal e o atingimento das metas de resultado
+primário para os próximos anos.
+Vale mencionar também que a apreciação do Real nos últimos meses, consequência
+tanto do enfraquecimento global do dólar norte-americano como, em grande medida, da
+redução das incertezas em relação ao ambiente fiscal doméstico, representa um
+significativo vetor de baixa da inflação e, consequentemente, da própria taxa Selic ao
+longo dos próximos meses.
+Para melhor discutir este ponto, destaca-se que o câmbio impacta a inflação através dos
+componentes comercializáveis do IPCA, que são cerca de 32% dos subitens da cesta de
+consumo. Na medida em que os riscos associados à política fiscal sigam em queda como
+consequência, por exemplo, do melhor relacionamento entre a equipe econômica do
+governo e a liderança do legislativo mencionado acima, deveria se esperar uma menor
+pressão sobre o câmbio. Ou seja, um vetor baixista para parcela relevante do IPCA e,
+portanto, maior alívio para a política monetária.
+IPCA Comercializáveis
+BRL (média móvel 3m, T+12)
+IPCA - Bens Comercializáveis
+Variação % em 12 meses. Fontes: IBGE, BCB, Porto Asset ManagementRelatório Econômico Mensal
+Com a materialização do início do ciclo de cortes da taxa básica de juros pelo Copom,
+emergem então questões sobre a velocidade desse processo e sua magnitude total.
+Quanto à primeira, destaca-se que o ciclo deverá ser gradual, com cortes da ordem de
+50 pontos base se estendendo por todo o final deste ano e o primeiro semestre do ano
+que vem. Com este ritmo, o Banco Central conseguirá monitorar de forma mais
+tempestiva o impacto de suas ações sobre as expectativas de inflação de longo prazo,
+que como já mencionado anteriormente, ainda ensejam certa preocupação.
+Quanto à magnitude do ciclo, acreditamos que a partir do corte inicial de 0,50pp e da
+possibilidade de alguma aceleração no ritmo de cortes nas próximas reuniões (como
+cenário alternativo), à medida em que o movimento recente de desinflação dos núcleos
+em geral e do setor de serviços em particular, a Selic poderá alcançar o patamar de
+9,25% em meados de 2024.
+A ressalva que fazemos neste momento é que tanto os desenvolvimentos da economia
+internacional, principalmente em relação ao nível de juros nos EUA, como os fatores
+relativos à economia doméstica, principalmente em relação à credibilidade da situação
+fiscal, serão pontos fundamentais para mapear o patamar de juro neutro e o prêmio em
+torno da meta de inflação que guiarão o nível terminal dos juros.
+A Porto Asset Management é responsável pela elaboração desse material, mas não se responsabiliza por quaisquer atos e/ou
+decisões tomadas com base nas informações disponibilizadas por meio de suas publicações e projeções. Todos os dados e/ou
+opiniões aqui presentes não devem ser tomados, em nenhuma hipótese, como base, balizamento, guia ou norma para qualquer
+documento, avaliações, julgamentos ou tomadas de decisões, sejam de natureza formal ou informal. Desse modo, todas as
+consequências ou responsabilidades pelo uso de quaisquer dados e/ou análises desta publicação deverão ser assumidas
+exclusivamente pelo usuário, eximindo a Porto Seguro Investimentos de todas e quaisquer responsabilidades decorrentes do
+uso deste material. Site: https://www.portoseguro.com.br/fundos-de-investimento
+PIB
+var. acum. %
+IPCA
+var. acum. %
+BRL
+R$/US$, dez
+Selic
+%, dez
+                                                                                        
+(p): atual (anterior)

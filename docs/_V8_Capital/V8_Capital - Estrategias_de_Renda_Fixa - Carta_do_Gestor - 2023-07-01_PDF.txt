@@ -1,0 +1,408 @@
+Carta do Gestor
+Estratégias de Renda Fixa
+Julho de 2023Cenário Externo
+Em julho tivemos um mês volátil para o mercado de capitais com dados que sinalizaram tendência de um maior 
+aperto monetário por parte dos Bancos Centrais ao redor do Globo.
+Nos EUA, foram divulgados os dados semestrais dos PMI Industrial e de Serviços. O PMI Industrial apresentou 
+números abaixo do esperado (46,0 vs 47,2 do esperado pelo mercado) e o PMI de Serviços sinalizou uma 
+retomada acima da expectativa do mercado (53,9 vs 51,0 do esperado pelo mercado) , sendo esse, um dos setores 
+que mantém o nível de desemprego estabilizado nos últimos 12 meses. 
+Ainda nos EUA, no início de julho foram divulgados o índices de inflação Americana (CPI e Core) referente a junho. 
+Na janela de 12 meses, o CPI apresentou um redução relevante, passando de 4,05% para 2,97%, enquanto o Core 
+teve uma queda de 4,58% para 4,10%. Esse é o segundo mês que o Core apresenta queda, após um período de 6 
+meses andando de lado.
+Na última semana do mês, aconteceu a reunião do FOMC, a qual foi decidido uma nova alta de juros de 25 bps, 
+elevando para o intervalo de 5,25%-5,50%. Após a reunião, o comunicado deixou em aberto novas altas para as 
+próximas reuniões.
+Na zona do euro, ainda notamos um tom hawkish do BCE (Banco Central Europeu), o qual elevou a taxa de juros 
+em 25 bps, levando-a de 3,50% para 3,75%, conforme esperado pelo mercado. Dentro desse cenário, foi abordado 
+pela Christine Lagarde (Presidente do BCE) uma perspectiva para economia da zona do euro pior frente ao último 
+encontro, onde tivemos dado da inflação que desacelerou para 5,5% em 12 meses, mas com atenção para o 
+núcleo que apresentou um crescimento frente aos dois meses anteriores mais retraído. 
+CPI YOY Index
+PCE CYOY Index
+Histórico dos Índices de Inflação - EUA
+Fonte: Bloomberg | Elaboração: V8 CapitalO PIB Brasileiro no primeiro trimestre apresentou um crescimento de 1,9% puxado principalmente pelo 
+Agronegócio com alta de 21,6% no período. Após esse movimento a atividade econômica vem se mostrando mais 
+acomodada, com a economia sentindo o efeito do aperto monetário realizado pelo Banco Central do Brasil. Em 
+julho foi divulgado o IBC-Br referente a maio/23, indicador de atividade econômica que antecede o PIB divulgado 
+pelo Banco Central, o qual apresentou uma retração de 2% no mês, após um mês de abril em desaceleração, 
+assim, se mostra consenso no mercado um PIB do 2Tri de 2023 mais fraco.
+Cenário Interno
+Após a S&P Global Ratings melhorar a perspectiva do 
+Brasil de estável para positiva, no mês de julho foi a vez 
+da Fitch Ratings subir o rating do Brasil de BB- para BB, 
+com perspectiva estável. Em meio ao cenário externo 
+ainda em pressionado com altos níveis de inflação e 
+consequentemente um aperto monetário, os ativos 
+brasileiros, seguiram em trajetória positiva, com 
+fechamento das curvas de juros (conforme gráfico ao 
+lado), mercado de capitais retomando e o Ibovespa 
+entregando um retorno no mês superior a 3%.
+Os vértices mais curtos da curva de juros foram os que 
+mais retraíram ao longo do mês (entre 35bps e 40bps) 
+com a expectativa de uma queda mais acentuada da 
+Taxa Selic, o que veio a se confirmar com queda de 
+0,50 pontos na reunião do COPOM no início de agosto. 
+Esse movimento reflete o processo de desinflação 
+doméstica mais consistente. O IGP-M apresentou 
+retração 0,72% no mês de julho, acumulando queda de 
+5,15% no ano e 7,72% em 12 meses. Nesse mesmo sentido, o IPCA-15 apresentou retração de 0,07% no mês. No 
+ano e em 12 meses o índice acumula alta de 3,09% e 3,19%, respetivamente. Esses indicadores favorecem o início 
+do ciclo de redução no juros, com mais cortes nas próximas reuniões.
+Fonte: Bloomberg | Elaboração: V8 CapitalVencimento
+Acum.
+LFT - Julho de 2023
+Na primeira semana de julho, tivemos o vencimento de um estoque de aproximadamente 197 bilhões de LTN. No 
+mesmo mês, houve a emissão de um novo vértice de LFT com vencimento em setembro/29, o qual apresentou 
+bastante demanda pelo mercado.
+Mercado de Títulos Públicos
+Retorno da 4ª semana inclui o dia 31/07.
+Fonte: Quantum | Elaboração: V8 Capital
+Um ponto interessante, que vimos nas emissões de 
+títulos públicos no mês, foi a forte absorção por 
+instrumentos pré-fixados e inflação, como LTN/NTN-F 
+e 
+NTN-B, 
+onde 
+tiveram 
+todas 
+suas 
+ofertas 
+contempladas pelo mercado.
+Ao longo do mês, migramos a nossa parcela de caixa 
+para o vértice mais longo com vencimento em 
+setembro/29. No mês de julho, esse vértice entregou 
+retorno de 103,17% do CDI, beneficiando positivamente 
+o resultado dos fundos. 
+Abaixo a tabela com o retorno de todos os vértices por 
+semana.
+Fonte: Broadcast | Elaboração: V8 Capital
+Taxa das LFTs com vencimento em mar/29 -
+Idex-CDI Geral JGP
+IDA-DI
+CDI
+Pelo terceiro mês consecutivo, o mercado de crédito privado apresentou recuperação, com a continuidade de 
+emissões primárias, como também um fechamento de taxas no secundário. Tivemos um mês de retornos 
+positivos para o IDEX-CDI Geral JGP e IDA-DI que apresentaram retorno no mês de 1,64% e 1,44%, representando 
+153,2% e 134,5% do CDI, respectivamente.
+Mercado de Crédito Privado
+Retorno Acumulado
+Fonte: Quantum | Elaboração: V8 Capital
+O mercado vem criando um sentimento mais 
+comprador e maior apetite a risco. Em termos de taxas, 
+verificamos que os ativos AAA já se encontram em 
+patamares próximos aos observados no início do ano, 
+influenciado principalmente pela virada positiva do fluxo 
+de captação líquida dos fundos de crédito.
+Após 8 meses consecutivos de resgates (somando 
+aprox. R$ 160 bilhões) na classe de crédito privado, 
+conforme gráfico abaixo, no mês de julho/23 vimos 
+uma reversão nessa tendência com captação líquida de 
+mais de R$ 1 bilhão. Esse movimento faz com que os 
+gestores de fundos vão para o mercado secundário 
+comprar ativos e, consequentemente, as taxas são 
+reprecificadas, beneficiando positivamente o mercado. 
+Captação Líquida dos Fundos de Crédito Privado – Mês a Mês (R$ Bilhões) *
+Fonte: ANBIMA | Elaboração: V8 Capital
+* Tipos ANBIMA: Renda Fixa Duração Baixa, Média, Alta e Livre com classificação Grau de Investimento e Crédito Livre.
+No mês de julho, alongamos a duration da nossa carteira de bancos para 2,4 anos e fechamos o mês com 
+carrego de CDI + 2,53%. Mantemos nossa alocação em LFs high grade, com exposição de 95% da carteira em 
+ativos AAA. -
+V8 CASH FIC FI RENDA FIXA
+CDI
+IDA-DI
+IMA-S
+Desempenho das Estratégias – ICVM 555
+O fundo entregou retorno de 1,12% no mês de julho, equivalente a 104,28% do CDI. Em 12 meses e desde o seu 
+início, o fundo acumula retorno de 99,46% e 105,40% do CDI, respectivamente.
+Fonte: Quantum | Elaboração: V8 Capital
+Pelo terceiro mês consecutivo, o resultado do fundo no 
+mês foi beneficiado pelo fechamento dos spreads das 
+LFs de bancos. Adicionalmente, como mencionado 
+anteriormente, alongamos a duration do book de 
+bancos para 2,4 anos com carrego de CDI + 2,53%.
+O fundo irá reabrir para captação no dia 09/08/2023 
+com o objetivo de recompor o patrimônio líquido.
+V8 Cash FIC FI Renda Fixa
+Retorno Acumulado
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+ACUM.
+Fundo
+% CDI
+Fundo
+% CDI
+Fundo
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 1.625.056.316,49
+Patrimônio Médio 12 Meses: R$ 1.519.979.779,92
+Atribuição de Performance – Julho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital -
+V8 CASH PLATINUM FIC FI RENDA FIXA CP
+CDI
+IDA-DI
+O fundo entregou retorno de 1,27% no mês de julho, equivalente a 118,48% do CDI. Em 12 meses e desde o seu 
+início, o fundo acumula retorno de 111,93% e 113,36% do CDI, respectivamente.
+Fonte: Quantum | Elaboração: V8 Capital
+Pelo terceiro mês consecutivo, o resultado do fundo no 
+mês foi beneficiado pelo fechamento dos spreads das 
+LFs de bancos. Adicionalmente, como mencionado 
+anteriormente, alongamos a duration do book de 
+bancos para 2,4 anos com carrego de CDI + 2,53%.
+O V8 Cash Platinum é o nosso fundo com maior 
+exposição em LF de bancos e se beneficiará com o 
+maior carrego do book.
+V8 Cash Platinum FIC FI Renda Fixa CP
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+ACUM.
+Fundo
+-
+-
+-
+% CDI
+-
+-
+-
+Fundo
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 258.110.494,69
+Patrimônio Médio 12 Meses: R$ 73.164.268,32
+Atribuição de Performance – Julho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+Desempenho das Estratégias – ICVM 555
+Retorno Acumulado -
+V8 VANQUISH TERMO FI RENDA FIXA
+CDI
+Fonte: Quantum | Elaboração: V8 Capital
+No mês de julho o fundo completou 3 anos de histórico 
+acumulando retorno de CDI + 2,30% no mesmo 
+período. O fruto de um trabalho sério e muita diligência 
+é a premiação de 5 estrelas que o fundo recebeu da 
+Morningstar para o período de 3 anos. 
+Ao longo do mês de julho, retiramos o hedge da carteira 
+de termo para aproveitar o fechamento da curva de 
+juros curta. Atualmente, o book de termo está com 
+prazo médio de aprox. 50 dias corridos.
+V8 Vanquish Termo FI Renda Fixa
+Atribuição de Performance – Julho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+Desempenho das Estratégias – ICVM 555
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+ACUM.
+Fundo
+% CDI
+Fundo
+% CDI
+Fundo
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 634.517.822,87
+Patrimônio Médio 12 Meses: R$ 524.321.162,23
+O fundo entregou retorno de 1,08% no mês de julho, equivalente a 100,76% do CDI. Em 12 meses e desde o seu 
+início, o fundo acumula retorno de 101,83% e 110,73% do CDI, respectivamente.
+Retorno Acumulado -
+V8 VANQUISH TERMO PREVIDÊNCIA FI RENDA FIXA CP
+CDI
+Fonte: Quantum | Elaboração: V8 Capital
+Nesse mês o fundo completou seus primeiros 12 meses 
+de 
+histórico, 
+entregando 
+segurança 
+para 
+seus 
+investidores em um momento tão desafiador para o 
+mercado. 
+Não houve alterações na estratégia de alocação do V8 
+Vanquish Previdência no mês. O fundo permanece 
+alocando em LFs de grandes bancos, financiamento de 
+termo e caixa. Ao longo do mês, alongamos a duration 
+do book de bancos para 2,4 anos com carrego de CDI + 
+2,53%.
+V8 Vanquish Termo Previdência FI Renda Fixa CP
+Atribuição de Performance – Julho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+Desempenho das Estratégias – Previdência
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+ACUM.
+Fundo
+-
+-
+-
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Fundo
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 1.544.171.426,63
+Patrimônio Médio 12 Meses: R$ 479.977.165,06
+O fundo entregou retorno de 1,20% no mês de julho, equivalente a 111,87% do CDI. Desde o seu início, o fundo 
+acumula retorno de 124,09% do CDI.
+Retorno AcumuladoEndereço: Rua Castilho, 392, conjunto 51, Brooklin, São Paulo, SP
+Relações com Investidores
+Este documento tem o único propósito de divulgar informações e dar transparência à gestão executada pela V8 Capital Gestão de Investimentos Ltda., não deve ser considerado como oferta de venda de 
+cotas de fundos de investimento ou de qualquer título ou valor mobiliário e não constitui o prospecto previsto na regulamentação vigente ou no Código de Auto-Regulação da ANBIMA. A V8 Capital Gestão 
+de Investimentos Ltda., 
+Disclaimer
+não comercializa nem distribui cotas de fundos de investimento ou qualquer outro valor mobiliário. Ao investidor é recomendada a leitura 
+cuidadosa do regulamento do fundo de investimento antes de aplicar os seus recursos. Os investidores não devem se basear nas informações aqui contidas sem buscar 
+o aconselhamento de um profissional. A rentabilidade obtida no passado não representa garantia de rentabilidade futura. A rentabilidade divulgada não é líquida de 
+impostos e taxas de saída. Fundos de Investimento não contam com a garantia do administrador do fundo, do gestor da carteira, de qualquer mecanismo de seguro ou, 
+ainda, do Fundo Garantidor de Créditos - FGC. Os fundos Multimercados utilizam estratégias com derivativos como parte integrante de sua política de investimento. Tais 
+estratégias, da forma como são adotadas, podem resultar em significativas perdas patrimoniais  para seus cotistas, podendo inclusive acarretar perdas superiores ao 
+capital aplicado e a consequente obrigação do cotista de aportar recursos adicionais para cobrir o prejuízo do fundo. Os fundos podem estar expostos a significativa 
+concentração em ativos de poucos emissores, com os riscos daí decorrentes. Os Indicadores econômicos são meras referencias econômicas, e não metas ou parâmetros 
+de performance. Para avaliação da performance de um fundo de investimento, é recomendável a análise, no mínimo, de 12(doze) meses.
+Fundo
+Mês
+Ano
+Início
+PL
+Liquidez
+Data Início
+V8 Cash FIC FI Renda Fixa
+%
+R$ 1.625 bilhões
+% do CDI
+V8 Cash Platinum FIC FI Renda Fixa CP
+%
+-
+-
+-
+R$ 258 milhões
+% do CDI
+-
+-
+-
+V8 Vanquish Termo FI Renda Fixa
+%
+-
+R$ 634 milhões
+% do CDI
+-
+V8 Vanquish Termo Previdência
+ FI Renda Fixa CP
+%
+-
+-
+-
+R$ 1.544 milhões
+(dias úteis)
+% do CDI
+-
+-
+-
+Nossos Distribuidores
+Retorno Acumulado

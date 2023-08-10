@@ -119,6 +119,10 @@ collections:
     permalink: /:collection/:path.html
     index_permalink: /Occam_Brasil/
     output: true
+  Oceana_Investimentos:
+    permalink: /:collection/:path.html
+    index_permalink: /Oceana_Investimentos/
+    output: true
   Opportunity:
     permalink: /:collection/:path.html
     index_permalink: /Opportunity/
