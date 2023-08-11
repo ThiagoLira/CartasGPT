@@ -1,0 +1,745 @@
+Agosto
+Resenha Mensal
+RESENHA MENSAL
+Saco vazio
+não para
+em péAgosto
+Resenha Mensal
+Saco vazio não para em pé
+(Um brevíssimo aviso: a primeira parte do texto que se segue foi escrita 10 dias antes da
+decisão do Copom de cortar a Selic em 0,5 ponto percentual para 13,25% no dia 2 de agosto.
+Nas demais partes, este contexto já foi considerado).
+Prezados leitores e investidores,
+O título da resenha deste mês é uma expressão popular que talvez seja familiar apenas àqueles
+com mais de 50 anos. Era muito comum entre muitas avós. A minha, por exemplo, querida
+vovó Carminha (Maria do Carmo), portuguesa da pequena Moura (no Baixo Alentejo),
+costumava usá-la quando chamava o bando de netos e netas para comer. Não era um convite –
+era meio que uma ordem; e tinha que ser, porque, na hora do almoço, a molecada, engajada
+na brincadeira, não queria parar para ir se alimentar. E quem poderia resistir às iguarias
+portuguesas, como a galinha ao molho pardo? E, à tarde, aos deliciosos bolinhos de chuva?
+Mas, claro, essa experiência da infância não é pré-requisito para entender a expressão: ela
+pode ser confirmada empiricamente. Com as sacolinhas plásticas, pode até ser que fiquem
+mais ou menos em pé, mas desconjuntadas e cedendo à menor movimentação de ar. Os de
+papel, a mesma coisa. Sacos de aniagem (algodão, linho ou outras fibras naturais), então, nem
+de pé ficam: em geral são usados para transportar grãos – café, milho, soja etc. – e são estes
+que lhe dão estrutura.
+Pois bem, deixemos essa breve digressão em banho-maria por enquanto.
+*
+O leitor que veio à nossa Resenha deste mês certamente está interessado no tema do
+momento (no “talk of the town”, como diz a revista “The New Yorker”): juros.
+Tenho recebido um número inaudito de pedidos de entrevistas, coisa de celebridade mesmo
+(“Ok, Werner, menos, menos”), para falar de small caps – desde avaliar por que estão
+desempenhando tão bem neste ano, até estimar o que se pode esperar do mercado a partir da
+queda da Selic, que acaba apenas de começar. Nós na Trígono nos antecipamos um pouco a
+esse interesse nas small caps e fizemos uma live no dia 19 de julho
+(https://www.youtube.com/watch?v=AZ-mOYyKbj4) sobre o tema – uma espécie de master
+class explicando o que elas são e como se comportam – e por que investir nesta classe de
+ativos, que é o diferencial da Trígono no mercado de gestores de recursos, ou asset
+management, como conhecidas.
+Nesse contexto de expectativa de queda de juros, o mercado – notadamente investidores
+top-down – considera o comportamento das taxas de juros um fenômeno da maior
+importância. Vamos, então, relembrar quais fatores são levados em consideração na
+perspectiva top-down, baseados no comportamento macroeconômico:
+- Inflação e tendência;
+- Taxa de juros determinada pelos bancos centrais e praticada pelo mercado;
+- Taxa de risco do país e ratings;Agosto
+Resenha Mensal
+- Crescimento do PIB;
+- Taxa de desemprego;
+- Crescimento industrial e índices de consumo;
+- Contas públicas;
+- Ciclos econômicos (local e global).
+A combinação destes fatores será determinante para a alocação setorial por gestores e
+investidores que buscam empresas mais atraentes dentro dos setores determinados e mais
+favorecidos pelas perspectivas da dinâmica econômica, local e global.
+O top-down é portanto uma dinâmica comportamental em que os agentes econômicos reagem
+da mesma forma a cada novo indicador e, a partir deles, tentam se antecipar ao mercado –
+como se isso fosse possível. Não só a renda variável – também os juros no mercado futuro, as
+taxas de câmbio e até os preços das commodities reagem a tais informações. Esses investidores
+tendem a girar suas carteiras mais intensamente, incorrendo em maiores custos de transação
+(corretagem, impostos, no caso de indivíduos, ou resgates de fundos) e nas ineficiências das
+negociações quando o mercado transaciona nas mesmas direções. Isso leva às quedas e às
+altas acentuadas dos ativos, a temida volatilidade que, para alguns, é sinônimo de risco.
+Já os investidores que aplicam o conceito bottom-up (e aqui se encaixa a Trígono) colocam
+fatores macroeconômicos no banco de trás: estes são amplamente conhecidos, e acaba que
+não sobra espaço para muita diferenciação na interpretação ou na antecipação deles. No
+bottom-up, analistas e investidores se dedicam a uma profunda avaliação das empresas - os
+diferenciais, a gestão, o valor, os dividendos, a geração de valor ao acionista, tudo na
+perspectiva buy-and-hold (“comprar e manter”, em tradução livre) – ou seja: na perspectiva de
+horizonte de longo prazo. Eles se mantêm alheios àqueles movimentos caóticos e ao
+nervosismo (o popular “barata voa”) do mercado a cada novo indicador econômico. Para isso, é
+preciso contar com uma equipe de investimentos (analistas e gestores) de alta (altíssima)
+qualidade.
+Se no top-down, os comitês de investimentos seguem a visão dos economistas em relação à
+macroeconomia, no bottom-up, os fatores microeconômicos e fundamentos das empresas
+ganham o centro do palco. Por exemplo, citamos o setor siderúrgico: neste, os preços do
+minério de ferro no dia anterior terão grande importância na negociação da Vale no dia
+seguinte (principal empresa do setor no Brasil e uma das principais da B3). A ação da Vale
+norteará preços de ações de siderúrgicas como CSN, Usiminas e Gerdau, e vai influenciar
+também as de produtoras de ferroligas (Ferbasa) e alumínio (CBA), cujos fundamentos não
+necessariamente são os mesmos.
+O bottom-up não ignora os fatores macro, mas entende que há um peso muito maior na
+análise e na avaliação das empresas – e muitas vezes acaba se beneficiando do movimento de
+venda setorial. Como muitas vezes as empresas atuam em nichos ou mercados específicos, elas
+acabam sendo pouco afetadas pelos setores macro, e podem até se beneficiar, ainda que
+grande parte do mercado não perceba. Tupy e Metal Leve são exemplos clássicos (ambas
+investidas pela Trígono). Considerando que seus negócios estão em cheque pelo processo de
+eletrificação de veículos, a realidade brasileira é muito diferente e tanto Tupy como Metal Leve
+se beneficiam do processo de descarbonização na busca de motores mais eficientes tanto
+energeticamente como ambientalmente, além do Brasil possuir uma matriz energética distinta,
+em que etanol, biometano e hidrogênio terão uma vida longa, além dos híbridos, conjugando
+motores a combustão com elétricos e do envelhecimento da frota, que requer reposição eAgosto
+Resenha Mensal
+manutenção no Brasil e em todo lugar. Na América Latina e na África, e mesmo na Índia, a
+dinâmica será parecida. Vida longa aos motores a combustão nas suas mais variadas formas. O
+Brasil poderá se transformar num grande centro de produção e exportação de motores a
+combustão, pois europeus e, em menor escala, EUA, deverão gastar zilhões de dólares em
+eletrificação, restando parcos recursos para os motores a combustão, ainda que estes terão
+uma longa vida, especialmente na linha de comerciais e pesados, como caminhões de longa
+distância, tratores e máquinas offroad, como aquelas fabricadas pela Caterpillar (vide
+comentários mais à frente).
+Percebemos que na perspectiva top-down, e diante da forma simplista de avaliação de
+empresas, corretoras e gestores, que estabelecem múltiplos, como EV/EBITDA ou P/L médios
+como justos, e simplesmente recomendam ou fazem seus investimentos com base em
+desconto ou prêmios sobre tais múltiplos – sem considerar a taxa de juros ou mesmo a taxa de
+crescimento do PIB dos países em diferentes momentos e magnitudes e outros fatores. Ou
+seja: um múltiplo de EV/EBITDA de 6x e P/L de 12x dentro do combo “inflação de 3% - juros de
+7% - crescimento de PIB de 3%” pode ser o mesmo se o combo for “inflação de 4% - juros de
+12% - PIB de 0,5%” em um período diferente.
+Pode ser que aconteça de, em ciclos positivos ou negativos da economia, os analistas fazerem
+uma expansão ou uma contração de múltiplos, correndo atrás do mercado – ou seja: reduzem
+os múltiplos com a bolsa em queda ou vice-versa; assim, seus preços-alvo não ficam tão
+distantes daqueles no mercado. No caso de recomendação de compra, veremos com
+frequência um potencial de valorização num intervalo entre 20% e 40%, sejam quais forem os
+resultados ou a dinâmica da economia.
+No bottom-up, e ainda mais quando se emprega o método de fluxo de caixa descontado ou
+EVA (caso da Trígono), juros e taxa de desconto a valor presente também são levados em conta.
+Ou seja: o macro não é totalmente ignorado, mas o peso de fato está na geração de valor das
+empresas individualmente. Pouco importam os múltiplos “justos” ou históricos das empresas
+ou dos setores, especialmente porque olhamos adiante e não no retrovisor. Neste sentido, a
+Trígono busca explorar e capturar as ineficiências de mercado, arbitrando os diferenciais entre
+preços que o mercado determina e o valor justo que calculamos. Maior é a diferença em
+direção ao valor, mais atraente é determinado ativo.
+*
+Bem, vamos agora tirar do banho-maria a digressão com que começou nossa conversa.
+O que as vovós do passado queriam dizer aos netinhos com o “saco vazio não para em pé” é
+que, para manter a energia para continuar as brincadeiras, era preciso comer, se alimentar,
+“recarregar as baterias” (no caso das mais moderninhas). Saco só fica de pé quando cheio.
+A nosso ver, o mercado vem se antecipando à dinâmica da possibilidade de cortes na Selic, com
+a queda nas taxas de juros a termo (futuras) e nos prêmios sobre títulos indexados à inflação.
+Esse é um dos principais fatores a explicar a valorização do índice SMLL de 16,8% no ano – ou
+26,7% nos últimos 3 meses –, ante 11,1% e 16,8% do IBOV nos mesmos períodos. Mas isso
+talvez não baste para manter o saco em pé – leia-se: sustentar a alta de certos setores e
+empresas.
+Destacamos os seguintes índices de segmentos e setoriais da B3 no acumulado do ano e nos
+últimos 3 meses:Agosto
+Resenha Mensal
+Como dito logo acima, um saco em que se acondicionam coisas ou produtos fica em pé se
+estiver cheio (ou quase); sem a sustentação do próprio conteúdo, ele cai.
+Julgamos que apenas as taxas de juros não bastam para sustentar uma alta generalizada do
+mercado e em setores mais sensíveis. Como destacado antes, outros elementos são
+necessários – entre eles fatores macroeconômicos e de mercado global, como o
+comportamento das economias de EUA (juros do Fed incluídos) e da China e o apetite por risco
+para mercados emergentes entre investidores e alocadores de mercados desenvolvidos – e
+estes são só alguns dos mais importantes. Cabe destacar que as contas públicas no Brasil
+apresentam evidências de deterioração, mas ficando em segundo plano – reforma tributária e
+futuro da Selic vão dominar manchetes e noticiários econômicos ainda por algum tempo.
+Quando esta resenha chegar às suas mãos, caro leitor, o mercado já terá digerido a decisão do
+Copom e a ata da reunião (mais importante que a simples alteração na taxa), e os resultados
+do segundo trimestre já serão conhecidos. Usualmente o mercado reage de forma exagerada,
+tanto quando os resultados decepcionam como quando agradam. Variações de preços de
+ativos baseadas em apenas um trimestre mostram o quanto o mercado funciona de olho só no
+trimestre recém-encerrado (retrovisor de pouco alcance) – ainda mais num momento de
+possível mudança do ciclo da economia, em que ainda pairam muitas incertezas além do
+própria linha magnética e o limbo giratório (escala) da bússola do mercado. Setores e empresas
+que se valorizaram demais com base apenas nas expectativas de queda na Selic/juros podem
+acabar sendo o saco que, sem mais nada a sustentá-lo, vai ao chão.Agosto
+Resenha Mensal
+Na Trígono, seguimos pragmáticos quanto à forma de selecionar ativos e compor carteiras,
+ponderando principalmente fundamentos, solidez financeira e geração e criação de valor das
+investidas (usando o EVA). O mercado, este que siga seus humores típicos, euforia ou
+depressão, diante de indicadores econômicos ou expectativas. Não ignoramos mudanças
+estruturais da economia e seus efeitos nas empresas – é exatamente para entendê-los que
+fazemos análises e ajustamos modelagens –, mas ajustamos posições de acordo com o valor
+dos ativos, e não com as expectativas do mercado.
+Destacando setorialmente nossas principais posições, estamos felizes com o comportamento
+da indústria (o primeiro a sentir o efeito do desaquecimento e retomada da economia), do
+agronegócio (sustentando o PIB) e de setores relacionados, além do Plano Safra 23/24, que
+irrigará as necessidades de financiamento (custeio e investimentos). Também existe a
+possibilidade de recuperação dos preços das commodities agrícolas (El Niño, Ucrânia, fatores
+climáticos localizados, demanda da China e tensões geopolíticas deverão movimentá-los).
+Nossos investimentos em commodities são relacionados à descarbonização e à energia
+renovável, limpa e de baixo custo no Brasil – e ao açúcar, que se encontra num ciclo de preços
+positivo, com problemas de oferta e na relação estoques/consumo favorecendo a alta (ou pelo
+menos sua manutenção em níveis elevados, como o atual).
+Nos preocupa o artificialismo dos preços da Petrobras: embora vise ajudar no controle da
+inflação e na redução dos juros, os efeitos subjacentes causados são bastante negativos, como
+a limitação na alta do preço do etanol, fazendo com que algumas empresas prefiram exportar
+ou mesmo estocar quando possuem capacidade financeira e tancagem para armazenagem.
+Existe ainda a possibilidade de aumentar-se a mistura do etanol na gasolina de 27% para 30%,
+criando demanda adicional.
+As declarações de representantes do governo (ministros e BNDES) de atuar na
+reindustrialização do país corrobora as nossas críticas de que o país abdicou da indústria,
+geradora de empregos e elemento dinamizador da economia, voltando à condição de mero
+exportador de produtos básicos (notadamente para a China) de baixo valor agregado. Vemos o
+relógio ser acertado para trás no tempo, rumo à condição de colônia em que o Brasil vivia entre
+os séculos 17 e 19, mudando só a região, da Europa para a Ásia. Mesmo com um agronegócio
+vigoroso, a sustentar crescimento em regiões menos desenvolvidas e nas fronteiras agrícolas
+(além do impulso que dá ao setor logístico, com os armazéns e bens de capital empregados naAgosto
+Resenha Mensal
+produção), o que vemos, sem indústria consolidada e forte, é uma baixa geração de empregos
+(não raro, de baixa qualificação) e um crescimento econômico anêmico, além de uma
+baixíssima produtividade industrial por falta de investimentos em modernização. O governo
+também tem acenado para incentivos em investimentos industriais em mecanismos
+tributários, como depreciação acelerada, medida que julgamos adequada, além da reforma
+tributária favorecendo o setor industrial.
+Também priorizamos empresas de baixo endividamento e forte posição de caixa, blindadas ao
+atual ciclo monetário e com capacidade de investir e crescer, com pouca dependência de
+alavancagem financeira. Ainda que o mercado possa se “engraçar” por empresas mais
+alavancadas, de olho na queda nas taxas de juros, acreditamos que isso vai demorar a aparecer
+nos balanços. Via de regra, empresas muito endividadas e dependentes de crescimento sofrem
+ainda um bom tanto antes de começarem a melhorar.
+Para o saco parar em pé, é preciso sustentação – e esta virá com balanços fortes e economia
+equilibrada (contas públicas, crescimento e inflação controlada).
+Conjuntura internacional
+Abrimos esta seção falando da China, que vive uma conjuntura atual inédita. Economistas
+recorrem sempre a referências históricas para explicar crises – que, em maior ou menor grau,
+têm similaridades entre si. Neste ano, o PIB chinês deve crescer perto de 5% e, mesmo assim, a
+situação do país não é animadora. Quem dera o problema no Brasil fosse um crescimento de
+“só” 5%... mas na China, que se notabilizou por uma longa série de crescimentos anuais de
+10%, não é necessariamente suficiente (pelo contrário).
+A economia chinesa hoje sofre com uma séria falta de demanda, seja no consumo da
+população, seja em investimentos corporativos. Uma série de fatores levou a isso.
+Na parte do consumo da população, o principal foi o impacto psicológico que a COVID-19 teve.
+Ao contrário de boa parte dos governos globais, a China, via de regra, forneceu apenas
+alimentos para a população em situação de lockdown. A falta de seguridade social
+(aposentadoria pública) em uma população que estava acostumada à constante melhora
+cobrou um preço alto da confiança do consumidor.
+Na raia ao lado vem a crise imobiliária: o consumidor chinês não via preços de imóveis caírem
+há décadas.
+Na parte corporativa, regulações mais duras partiram do setor imobiliário e se espraiaram para
+os setores de tecnologia, industrial, educacional e financeiro. Investir não está mais no Top 5 de
+prioridades dos empresários – e talvez não esteja mais nem no Top 10 (e seria bom checar se
+está no Top 50).
+O governo não tem encontrado ânimo para um estímulo fiscal forte, que ponha em movimento
+às conhecidas obras colossais de infraestrutura. Espaço para isso até há; afinal, o governo
+chinês foi um dos que menos gastou na pandemia. Mas os burocratas parecem concordar que
+os investimentos feitos recentemente nesse sentido não têm apresentado o retorno esperado.
+Veja-se a decepcionante nova rota da seda.Agosto
+Resenha Mensal
+Nesse cenário, projeções extremamente pessimistas têm marcado a precificação de
+commodities mais correlacionadas à economia chinesa atualmente. Quem olha para, por
+exemplo, papel e celulose, minério de ferro, aço e alumínio vê custos de produção maiores do
+que o preço de venda – e isso vem causando stress financeiro e fechamento de plantas menos
+eficientes. Esse, no entanto, é um ciclo natural em qualquer commodity. Aí, os investimentos
+desaceleram/param; o produto começa a rarear; e o ciclo se reverte.
+A China, notoriamente suscetível a tensões sociais, tem sido mantida em relativo controle pelo
+regime comunista porque tem proporcionado prosperidade econômica à população. Por isso,
+apesar da atual fase fraca da economia chinesa ter um certo ar de naturalidade, o governo
+precisa manter no país uma dinâmica de crescimento positiva; daí, espera-se que os estímulos
+aumentem, revertendo a atual zica (com a licença para a gíria). Seguindo novidades sobre
+estímulos fiscais e alívios regulatórios no setor imobiliário em julho, o índice Hang Seng (Hong
+Kong) subiu 6% no mês, e o NASDAQ Golden Dragon (da China continental) subiu 20%.
+Empresas de commodities que já negociam a múltiplos baixos, gerando caixa, estão em posição
+boa para aproveitar o ciclo de alta, que virá quando o parafuso completar a atual volta. A ver. E
+boas oportunidades para aquisições daquelas mais debilitadas financeiramente.
+Os EUA, de seu lado, impressionam com o ritmo de geração de emprego ainda a superar as
+estimativas dos economistas. Mesmo com a alta de juro recente pelo Fed, a bolsa americana
+segue subindo e a ala otimista cresce na medida em que as previsões de recessão vão se
+provando erradas. O cenário de desaceleração inflacionária, em paralelo com crescimento
+econômico, parece agora ser o mais provável. O ciclo de investimentos do reshoring (trazer a
+produção para dentro do país) industrial é animador e deve prosseguir nos próximos anos,
+incentivando também a renovação da infraestrutura. A venda de veículos (leves e pesados)
+também segue com forte crescimento anual, assim como o Dodge Index (bom termômetro
+para o setor de construção pesada no país).Agosto
+Resenha Mensal
+Continuando a discussão sobre inflação de serviços da resenha anterior: a manutenção desta
+em patamares altos tem raízes na geração de empregos. Um novo aumento na taxa de juro
+americana só deverá vir se a economia de fato estiver forte e sem sinais de arrefecimento.
+Nesse caso, a alta do juro daria certa confiança para a postura mais otimista – já que seriaAgosto
+Resenha Mensal
+compensada pelo crescimento econômico. O fortalecimento do dólar americano combinado ao
+aumento de demanda seria positivo para as investidas industriais (da Trígono).
+Destacamos os resultados da Caterpillar – muito acima do esperado pelo mercado, causando
+forte alta das ações (sendo boa referência para a força do setor, que atua em vários segmentos
+da economia). O gráfico abaixo ilustra o comportamento da ação da Caterpillar nos últimos 5
+anos, atingindo a máxima histórica e praticamente dobrando de valor. A empresa é uma das
+principais clientes da Tupy. Será tal comportamento algum sinal de recessão ou arrefecimento
+da economia?
+Fonte: Yahoo Finance
+O índice Dow Jones atingiu patamar recorde em julho, subindo 3%, e parece ser questão de
+tempo até que atinja o all time high, com ótimos resultados da Caterpillar e outras empresas
+industriais. O índice S&P 500 também subiu 3%, e a Nasdaq 4%. Já na Europa, a narrativa de
+soft landing ainda é bastante divergente: a inflação cede rapidamente com as sucessivas altas
+de juro do BC Europeu, mas há dúvidas se a economia seguirá crescendo (os sinais mais
+recentes são de fraqueza). A situação pode ficar mais difícil para a Europa se o Fed continuar
+subindo seu juro. O índice da bolsa europeia Euro Stoxx 50 subiu 1,6% no mês passado,
+seguindo o otimismo das bolsas globais, mas num tom mais moderado.
+Sobre o corte do rating americano pela Fitch, comentamos sobre o cenário fiscal duvidoso dos
+EUA, mas a discussão de calote americano ainda beira o delírio. A preocupação real é com a
+dinâmica econômica que se desenvolverá quando o governo americano passar por um arrocho
+fiscal – o que deve acontecer, cedo ou tarde.
+Conjuntura nacional
+A economia nacional segue em ritmo razoável, com recuperação gradual da massa salarial real
+da população – em junho, houve crescimento de 0,5% em relação ao mês anterior, e de 6,9%
+sobre um ano antes (boa parte disso sendo explicado pelo reajuste salarial acima da inflação).
+O desemprego segue caindo – no mês passado ficou em 7,9%. Com a recuperação
+pós-pandemia, o emprego (formal e informal) cresceu rapidamente; a fase atual é de
+formalização (menos pela criação de vagas e mais pela conversão da informalidade em
+formalidade), o que é saudável para a economia). Os serviços cresceram 0,9% em maio sobre
+abril e 4,7% sobre um ano antes.Agosto
+Resenha Mensal
+A indústria apresentou leve crescimento em junho – de 0,1% sobre o mês anterior, explicado
+principalmente pela alta nos setores extrativo e de vestuários e calçados. Os destaques para a
+indústria automobilística no ano são ônibus e implementos rodoviários: de janeiro a julho, as
+vendas de ônibus cresceram mais de 40% e as de implementos rodoviários subiram 4%.
+Caminhões estão na trajetória de recuperação pós-troca do Euro 5 para Euro 6 (já discutida em
+resenhas anteriores relacionadas a novos limites de emissões veiculares para o diesel). Em
+julho, as vendas cresceram 5% sobre junho (mas, no acumulado do ano, ainda há queda de
+14%). Estímulos governamentais como incentivos e subsídios para renovação da frota de
+caminhões pesados (mais de 900 mil veículos, verdadeiras sucatas ambulantes perambulam
+por nossas estradas e cidades), com grandes benefícios ambientais, de segurança, econômico,
+no consumo de combustíveis e para os próprios condutores proprietários.
+No mercado de veículos leves, julho teve o benefício do plano de descontos para carros
+populares: as vendas subiram 19% sobre junho, e há uma alta de 11% no acumulado do ano
+quando comparado ao mesmo período de 2022. Com o fim do programa, as vendas podem
+decrescer nos próximos meses – mas, no geral, as vendas foram acima do esperado. Diversas
+montadoras que haviam concedido férias coletivas ou tinham programas de demissão
+voluntária abertos refizeram seus planejamentos e estão diminuindo o número de dispensas
+(lembrando que esse planejamento já levava em conta o programa governamental).
+O IGP-M segue em queda: em julho, caiu 0,72%, e 7,72% em 12 meses. O IPCA caiu 0,1% em
+junho e a inflação acumulada de 12 meses atingiu 3,1% (abaixo dos 3,25% da meta para 2023,
+e está só ligeiramente acima dos 3% para 2024). Para o ano, boa parte das instituições
+financeiras projeta taxas inferiores a 4% - muito abaixo, portanto, dos 4,75% do teto da meta.
+A alta recente do petróleo pode atrapalhar essa previsão, mas, com a nova gestão da
+Petrobras, o impacto deverá ser amenizado. Resta ver como a estatal administrará as
+defasagens de 24% na gasolina e de 27% no diesel em relação à paridade internacional
+(respeitada na gestão anterior). Com o aumento do petróleo e uma alta no dólar, tal defasagem
+será ainda maior, prejudicando resultados e inviabilizando a refinaria Acelen – ex-Mataripe
+(Refinaria Landulpho Alves), a primeira do Brasil, criada em 1950 (antes mesmo da Petrobras) e
+privatizada em novembro de 2021 para o fundo Mubadala Capital, de Abu Dhabi. As relações
+comerciais do Brasil com os Emirados Árabes Unidos (dos quais Abu Dhabi faz parte) podem
+sair prejudicadas, inibindo novos investimentos no país. A conferir.Agosto
+Resenha Mensal
+Com a queda da Selic (corte de 0,5 ponto percentual) dia 2 de agosto, há alguns fatores a se
+levar em consideração na curva de juros, como: expectativa dos agentes econômicos, câmbio,
+defasagem do preço dos combustíveis e até o clima local e global, podendo afetar os preços
+dos alimentos.
+Como comentamos antes, há certo otimismo do ponto de vista do PIB, que segue reagindo
+relativamente bem, com crescimento sustentado principalmente pelo agronegócio e pela
+supersafra 22/23 (fruto do aumento de produtividade e de mais tecnologia no campo). Há
+também modestas contribuições da indústria e do setor de serviços – este último puxado pela
+demanda maior, originada do crescimento da massa salarial e de programas sociais. Além
+disso, o novo ciclo de queda de juros deve, no médio prazo, revigorar os setores imobiliário e
+de varejo (que vem penando nos últimos semestres).
+O preço dos imóveis, que foram bem além do IPCA em 2022 e mesmo neste ano (de acordo
+com o índice FipeZap), é bom indicativo de que ainda há demanda por consumo na população
+e de que a economia segue em boa trajetória, mesmo com a alta de juros. O outro lado da
+moeda (e a moeda sempre tem pelo menos um outro lado) é o forte aumento de custos e
+preços; estes funcionam pressionando para baixo a capacidade de compra e aumentam as
+dificuldades para se obter financiamentos (as prestações deixam de caber no orçamento dos
+mutuários). Eis aí outra equação em busca de uma solução. Aqui a fome não combina com a
+vontade de comer, e o saco parece não ter sustentação.
+O cenário fiscal à frente carrega grandes dúvidas. O equilíbrio fiscal, que deve vir por meio da
+receita, não parece claro. A cada semana novos impostos são ventilados e abandonados, e o
+empresário fica sem saber como seu negócio será tributado. Tributação do patrimônio, herança
+e dividendos são figurinhas fáceis de aparecer quando se fala em fontes adicionais de receitas.
+Sobre cortar despesas ou melhorar a eficiência administrativa, nada se ouve.
+Da mesma forma, o mercado financeiro não tem visibilidade sobre o nível dos déficits futuros.
+Só neste ano, a meta de déficit já foi elevada uma vez, e nada indica que vai parar por aí. O
+rombo esperado subiu de 0,5% para 1% do PIB, mas, na prática, deve ser superior a isso. Essa
+falta de visibilidade é muito grave – impacta a confiança do consumidor e do empresário, abala
+a curva de juro e pode bater na bolsa. Também resta ver como o Banco Central reagirá a tais
+déficits – que são criadores de pressões inflacionárias por natureza e têm de ser financiados
+com dívida do Tesouro ou aumento de impostos – e o bolso do brasileiro, consumidor ou
+empresário, acaba sendo de novo onerado.
+Apesar de tudo, a bolsa sobe com o preço das ações – que andavam bastante depreciadas –
+puxando a composição. Mas mesmo com a alta recente a bolsa ficou praticamente parada em
+dois anos. O Ibovespa teve valorização de meros 0,12% em 24 meses (base: 31 de julho), ante
+24,29% do CDI no mesmo período. Os múltiplos seguem muito abaixo da média histórica, em
+sentido inverso ao juro real, com prêmio acima de dez pontos percentuais sobre o IPCA de 12
+meses. Mas, se olhados não os últimos 24 meses, e sim os últimos 12, vemos um IBOV subindo
+18,2%, deixando lá atrás o CDI, com seus 13,59%. Fica aí mais uma evidência de que market
+timing é a homeopatia do universo financeiro: não funciona. E nos últimos três meses o ganho
+foi de nada menos de 16,8%, equivalente a 15 meses de CDI ao nível atual.
+Poucos investidores devem ter capturado tal alta, aumentando sua alocação em renda variável.
+Na verdade, houve o contrário: investidores institucionais e individuais reduziram alocação em
+renda variável para se amontoar na renda fixa, justamente num momento de inflexão a favor
+daquela. Desse ganho de 18,2% em 12 meses, 92,3% foram gerados nos últimos três – entreAgosto
+Resenha Mensal
+maio e julho, e muitos investidores abandonaram a renda variável bem nesse momento de
+inflexão, como demonstra o fluxo financeiro de locais e estrangeiros.
+Nas small caps, o que aconteceu deixa ainda mais claro o que é o market timing: o índice SMLL
+subiu 17,47% nos 12 meses encerrados em julho – mas nos três meses finais a valorização foi
+de 26,7%, recuperando a perda de 9,2% dos nove meses anteriores. Quantos alocadores ou
+estrategistas (ou market timers) pensaram em se posicionar em small caps – ou na renda
+variável de modo mais geral – antes deste rally? E olhem que as evidências de queda nas taxas
+de juros eram cada vez mais fortes.
+Se a política der, efetivamente, suporte e clareza razoáveis, os fatores estarão alinhados (queda
+forte do juro real e bolsa descontada e atraente) para um rally sustentável. Talvez os últimos
+três meses, que concentraram o ganho, tenham sido apenas um início, quem sabe? Market
+timers, e aí? Should I Stay or Should I Go (deve ficar ou ir), título de uma resenha a respeito de
+IPOs e título de hit da banda inglesa The Clash, formada em 1976 e extinta dez anos após.
+Além disso, a reforma tributária pode ter outros benefícios além do equilíbrio fiscal – a
+simplificação de impostos, por exemplo, seria um imenso e bem-vindo ganho. A resolução de
+conflitos jurídicos tributários seria outro. E a indústria – pobre indústria, tão maltratada e
+esquecida nas últimas décadas – também colheria benefícios. Tudo isso aumenta a confiança
+do empresário. Mas ficam dúvidas, como o tratamento aos créditos tributários existentes, os
+incentivos fiscais vigentes e os vários pontos ainda obscuros.
+Temos ainda um cenário incerto na China – embora o governo de lá venha tentando dinamizar
+sua economia. Se houver uma reversão da tendência negativa no país, será mais um catalisador
+de alta para a bolsa brasileira.
+Em julho, o dólar caiu 1,32%, o Ibovespa subiu 3% e o índice SMLL, 3,1%. Esta alta foi
+sustentada pelo fluxo estrangeiro e por seu saldo positivo de R$ 8,9 bilhões, após os R$ 13,5
+bilhões de junho. No ano, já são R$ 32 bilhões.
+Desempenho dos Fundos – Julho 2023
+Em julho, vimos um mercado em compasso de espera: a tão aguardada decisão do Copom, que
+daria o “kickstart” (ou o bom e velho “pontapé inicial”) em um ciclo de cortes na taxa Selic (e o
+corte inicial, de 0,5 ponto percentual, afinal veio, em 2 de agosto). Também se está à espera da
+safra de balanços do 2T23, que vai ocorrer ao longo deste mês – muito aguardados são osAgosto
+Resenha Mensal
+resultados, principalmente de companhias altamente alavancadas, para as quais a redução da
+Selic ainda vai demorar para ser sentida.
+Um alerta aos aventureiros: cuidado com empresas que são vendidas como a “bola da vez” no
+cenário de juros mais baixos. Muitas delas já subiram 50% ou até 100% nos últimos meses, com
+o mercado antecipando esses alívios – e elas podem estar já plenamente – senão
+excessivamente – precificadas. Típico comportamento “maníaco-depressivo” do mercado, que
+não consegue ser moderado em nenhuma direção.
+Apesar do nosso otimismo cauteloso, seguimos confiantes com nossas investidas – feitas que
+são para todos os climas. Mas, adiantando um pouco da história para aqueles que não
+acompanham de perto nossas teses: algumas delas terão resultados mais baixos que os vistos
+em 2022, que foi excepcional para algumas delas – Ferbasa e Kepler Weber, por exemplo. Na
+Trígono não olhamos apenas a foto trimestral nem assistimos apenas ao trailer de 2 minutos:
+aqui, olhamos o álbum completo, assistimos ao filme inteiro, e só então avaliamos as
+companhias. E por aqui gostamos mesmo é daqueles filmes bem clichê, com final feliz –
+leia-se: empresas com pilares bem fundamentados, em nichos bem definidos, subavaliadas
+(segundo a metodologia EVA), com boa capacidade de pagar dividendos, forte estrutura de
+capital e boas práticas de sustentabilidade. Uma empresa que combine todos esses fatores
+dificilmente frustrará os acionistas ao longo dos anos.
+Mesmo com o mercado em “stand-by”, ficamos felizes em ter chegado ao fim de julho com
+todos os fundos no campo positivo. Os ganhos foram, na maioria, modestos (ali nas casas de
+1% a 2%), mas não ficaram muito longe dos benchmarks – IBOV (3,3%), IDIV (2,8%) e SMLL
+(3,1%). Isso é consistência.
+Mas o Horizon Microcap (empresas com até R$ 3 bilhões de valor de mercado ou capitalização)
+merece a estrelinha dourada no caderno: entregou 4,2% de valorização (com 17,6% de alta
+acumulada em 2023), mostrando o potencial das empresas investidas no cenário que se
+desenha. O Power & Yield, o nosso “patinho feio” do ano até aqui, acreditamos, tem muito
+valor a entregar – e já vem ensaiando uma recuperação: foram nada menos que 8,3% de alta
+no mês (e o referencial, IEE, em queda de 0,9%).
+Nesta seção vamos aproveitar para antecipar e comentar brevemente os resultados de duas
+importantes investidas: Kepler Weber e Irani (esta última comentada na parte do Delphos).
+Outras companhias importantes, como Ferbasa, Tupy, Metal Leve e Schulz, serão assunto para
+a Resenha de setembro (mas, para aqueles mais curiosos, é só acompanhar nossas lives
+semanais de agosto).
+*
+Da Kepler, já esperávamos um trimestre mais fraco. O segundo trimestre costuma mesmo ser o
+mais fraco do ano: produtores estão bem “ocupados”, saindo da safra de soja e indo para a
+safrinha de milho. Além disso, há a espera dos produtores pelo PCA (R$ 6,6 bilhões, um
+aumento de 29% sobre 22/23) e pelas recentes quedas dos preços dos grãos (em parte
+justificada pela própria falta de armazenagem), que levaram à postergação de alguns pedidos e
+a uma aceleração das vendas de grãos por falta de espaço para armazenamento, criando a
+quase inusitada situação de preços no Brasil abaixo da paridade de Chicago, quando o normal
+seria um prêmio.Agosto
+Resenha Mensal
+O primeiro semestre terminou com um volume praticamente recorde de procura por novos
+projetos, ainda que não concretizados; os produtores não se sentiram seguros o bastante.
+Mesmo assim, a companhia divulgou a conclusão de 17 obras estratégicas pelo valor total de
+R$ 201 milhões. Isso estará computado nas receitas computadas ao longo dos próximos dois
+trimestres.
+Nos chama a atenção a demanda represada por estruturas de armazenagem que vem se
+formando nos últimos meses. Reflexo do altíssimo déficit de armazenagem – nada menos que
+126 milhões de toneladas na safra 2022/23 (somente no Centro-Oeste chegou a 83,3 milhões
+de toneladas). A Kepler inclusive anunciou recentemente a construção de seu oitavo centro de
+distribuição, em Sorriso (MT), o que ajudará a fidelizar clientes frequentemente preocupados
+com a garantia de que conseguirão encontrar, em tempo hábil, peças e serviços de reposição
+para seus silos. Ponto para a KW, a única com presença nacional e atendimento 24/7.
+Analisando os relatórios públicos das principais cooperativas brasileiras (Coamo, C. Vale, Frísia,
+Capal Cooperativa, Copasul, Coasul e outras), fica evidente o interesse e a necessidade em
+investir em armazenagem – o que já vinha em ritmo acelerado em 2022. A Frísia (cooperativa
+mais antiga do Paraná, com presença em grãos, carnes e lácteos), por exemplo, recebe em
+Tocantins um volume de grãos 2,3 vezes superior à sua capacidade estática, de 63 mil
+toneladas (mesmo com o recente aumento da capacidade em 2022). Já está em estudo a
+ampliação em mais 42 mil toneladas (não sabemos se será com a KW, a ideia é apenas mostrar
+que demanda existe). Outro exemplo é a Copasul (de MS), que recebeu grãos em volume 3,0
+vezes maior que a capacidade estática de armazenagem – e precisa guardar mais de 6,3
+milhões de sacas em armazém de terceiros. Visitamos a unidade da COAMO em Rio
+Brilhante-MS, com capacidade estática de 60 mil toneladas, inaugurada este ano e já
+necessitando triplicar, numa região que até então nada existia, mas que atraiu grande
+produção de grãos (soja e milho safrinha) em seu entorno.
+Com o novo PCA, novas linhas de crédito e expectativa de redução dos juros, acreditamos que
+vários projetos sairão do papel e muitos serão entregues em 2024, que promete ser mais um
+excelente ano para a KW.
+Ainda sobre o PCA: o programa foi duramente criticado na última safra por não conseguir
+repassar recursos com agilidade para a ponta final (dos R$ 5 bilhões aprovados, estimam que
+apenas R$ 2 bilhões foram disponibilizados). Nesta temporada, os recursos estão concentradosAgosto
+Resenha Mensal
+nas mãos dos bancos estatais (BB, BNDES e Caixa), que vão, juntos, disponibilizar 77% dos
+recursos. O BNDES, por exemplo, vai liberar R$ 1,8 bi – contra R$ 390 milhões no PCA de 22/23.
+Com esses R$ 6,6 bi liberados, ou mais que o triplo do PCA 22/23, seria possível ampliar a
+capacidade instalada em 7 milhões de toneladas (o que, mesmo assim, é muito menos do que
+o crescimento da produção de grãos brasileira), cerca de 40 milhões de toneladas na safra
+22/23.
+Quanto aos números, a KW teve receita de R$ 281 milhões (-22% a/a), impactada que foi pela
+divisão de fazendas e agroindústria, que entregaram grandes projetos no mesmo período do
+ano passado. O lado positivo ficou por conta de portos e terminais, com a receita saltando de
+R$ 5 milhões para R$ 28 milhões, e de reposição e serviços (R&S), com receita de R$ 60
+milhões (R$ 240 milhões, se anualizado), já integrando a Procer (recém-adquirida) pela
+primeira vez por completo.
+Nossa expectativa é de que, a cada ano, essa divisão ganhe representatividade no faturamento
+consolidado, trazendo maiores previsibilidade e rentabilidade. Nos chamou a atenção que,
+mesmo com a queda relevante da receita, as margens continuaram em patamares muito
+saudáveis – o EBITDA ficou com margem de 19%, ajudado por preços do aço que seguiram em
+patamares bem favoráveis.
+Na última linha, o lucro líquido foi 44% menor em relação ao 2T22, totalizando R$ 33,4
+milhões, justamente em razão de menos entregas. Historicamente o primeiro semestre
+concentra 40% do faturamento, e o segundo os demais 60%, e deveremos ver essa dinâmica
+neste ano – e com a volta dos pedidos, a tendência é a companhia se beneficiar da
+alavancagem operacional, melhorando resultados, margens e ROIC (este último em 66%
+mesmo num trimestre mais fraco). Seguimos confiantes com a tese e, quem sabe, o segundo
+semestre poderá surpreender com receitas além dos tradicionais 60% do ano. Que o 4T23 será
+especialmente positivo, não temos dúvida. Resta apenas ver quanto e já prometendo um
+interessante 1T24, abrindo o ano de forma positiva.
+Abaixo comentamos o desempenho dos fundos e fazemos um resumo sobre os resultados da
+Irani (incluído com o Delphos). Esperamos que o bom humor do mercado recaia sobre nossas
+companhias e passe a valorizar de forma adequada essas investidas (se nos perguntarem,
+diremos que estão muito descontadas dos valores justos).
+Trígono Delphos Income FIC FIA (CNPJ: 29.177.024/0001-00)
+Nos seis primeiros meses do ano, a cada quinzena o mercado de capitais levava um torpedo:
+não se passava de uma à outra sem que uma notícia negativa (na resenha anterior listamos
+nove delas) aterrorizasse investidores de coração fraco (ou menos convictos em suas teses).
+Julho, com as férias escolares e o inverno por aqui (verão no hemisfério norte, com seus
+recordes consecutivos de calor), trouxe também uma certa calmaria.
+O noticiário macroeconômico também aproveitou para tomar um fôlego, em compasso de
+espera pelo mais do que esperado início do ciclo do corte de juros – que veio, enfim, neste dia
+2 de agosto, do tamanho de 0,5 ponto percentual (a questão agora será o ritmo. A ver).
+Outros temas também entraram no modo stand by em julho – por exemplo, a expectativa
+quanto ao fim do ciclo de aperto monetário nos EUA. Este não se confirmou: com o mês
+seguindo em relativa calma para o fim, o Fed elevou seu juro referencial, a Fed Fund Rate, em
+0,25 ponto percentual. Espera-se que seja a última do atual ciclo de aperto. Outro exemplo: oAgosto
+Resenha Mensal
+anúncio de pacote com novos estímulos para retomada da economia chinesa. Por aqui, temos
+a nossa reforma tributária – que ainda precisa ficar um pouco mais clara, mas, no que já se
+pode ver, o setor industrial (muito bem representado aqui no nosso portfólio) será beneficiado.
+O agronegócio (que também está aqui em peso) vai ter algum alívio também.
+Com a retomada do corte de juros tendo começado, o que muda na estratégia da Trígono?
+A princípio, nada.
+Somos movidos pela análise bottom-up: o que nos leva a alterar posições são nossas empresas
+e seus sólidos fundamentos, e não os humores do mercado. Nosso processo de investimento é
+rigoroso – e, porque somos adeptos do buy-and-hold (lembremos Andrew Carnegie e Mark
+Twain, que diziam para vigiar a cesta dos ovos), vamos buscar companhias que resistam às
+variações climáticas – faça chuva ou faça sol.
+Alguns setores, é verdade (varejo e construção, por exemplo), tendem a se beneficiar com
+taxas de juros mais baixas. Mas há muito chão até que os cortes atinjam massa crítica para
+fazer diferença. Um corte de 0,5% alivia pouco, quase nada, no balanço de empresas altamente
+alavancadas e que assim permanecerão. A nosso ver, as safras de resultados do segundo e do
+terceiro trimestres serão muito desafiadoras para o mercado como um todo. Os reflexos dos
+cortes deverão aparecer apenas no quarto trimestre – e, a depender do ritmo, talvez só a partir
+de 2024.
+Isso quer dizer que estamos pessimistas com a performance das ações? Nem um pouco.
+Sabemos que o mercado se movimenta pelo top-down e já está olhando lá na frente. Não custa
+lembrar que em 2022, quando muitas de nossas empresas apresentaram resultados recordes,
+as ações mal se mexeram e os múltiplos ficaram significativamente amassados. Estamos
+apenas adotando um tom mais cauteloso quanto a determinadas empresas, que se encontram
+em situações desafiadoras, e setores que dependem muito de consumo e crédito. O humor do
+mercado pode mudar – mas isso não significa que os fundamentos das empresas mudem em
+sincronia (aliás, como já dissemos em outras ocasiões, é muito frequente que essas mudanças
+de humor não tenham qualquer ligação com os fundamentos).
+Na Trígono, o que nos guia são fundamentos e resultados. Mais que isso, aliás: compramos,
+com a gestão das investidas, o projeto e a estratégia qualitativa que sustentam esses negócios,
+que em nossa visão farão com que essas empresas estejam muito melhores (e maiores) em
+dois ou três anos – em até cinco anos em determinados casos, como a Tupy (que trabalha com
+ciclos mais longos seguindo os projetos das montadoras e a transição energética).
+Quanto ao desempenho do mês, o Delphos entregou 1,1% de valorização, contra 2,8% do
+referencial IDIV. Na comparação anual, nosso fundo teve 12% de ganho contra 12,4% do
+benchmark (diferença mínima de 0,4 ponto percentual). Mas, visto de janelas mais longas, a
+paisagem é muito mais encantadora: em 36 meses nosso fundo apresenta alta de 151,4%;
+desde seu início (abril de 2018) a valorização é de 221,7%. O IDIV, nessas mesmas janelas,
+entregou 34,9% e 81,3%, respectivamente. Nada de muito admirável. O alfa do Delphos
+(excedente em relação ao benchmark) foi de 116,5% e 140,4% nos períodos considerados.
+Nos últimos meses, o setor industrial vinha impulsionando o fundo. Em julho, não houve
+grandes surpresas, positivas ou negativas. Mas houve ganhos, ainda que modestos, com
+mineração e metalurgia (0,8%) e consumo (0,5%) – neste último caso, liderado por Irani, que
+inclusive foi a primeira empresa de nosso portfólio a divulgar resultados do 2T23; seu lucroAgosto
+Resenha Mensal
+líquido foi recorde no período, R$ 229 milhões (ainda que devido ao impacto positivo de R$
+161 milhões líquidos de crédito tributários de PIS/Cofins sobre a compra das aparas). Os
+acionistas vão receber 50% desse montante via dividendos. Mas Irani é consumo? Não é papel
+e celulose como as corretoras a classificam. Absolutamente não é commodities. Não vende
+papel e celulose, apenas produz. Seu negócio é embalagens e estas estão intimamente ligadas
+ao consumo.
+Apesar de ligeira queda nas receitas (8% em relação ao 2T22), decorrente de reduções de
+preços e volumes menores (percebemos um cenário competitivo mais acirrado), ficamos
+satisfeitos com os resultados recorrentes e reconhecemos o esforço da atual gestão em manter
+a rentabilidade, mesmo renunciando a um pouco de market share no curto prazo. A
+customização de embalagens de acordo com a necessidade dos clientes, além de agregar valor,
+fideliza os clientes. A Klabin, por exemplo, produz volumes maiores, mas comoditizados. A Irani
+oferece um produto diferenciado – e os clientes gostam e necessitam.
+E não esqueçamos do início da produção da nova caldeira de recuperação, que visa utilizar o
+licor negro – subproduto do processo produtivo da celulose, de alto poder calorífico – para
+gerar energia. Este é o grande marco do Projeto Gaia, que vai aumentar em quase 56% a
+geração própria de energia da Irani, levando-a às portas da autossuficiência. Um processo de
+redução gradual de custos ao longo dos próximos trimestres está a caminho (com expectativa
+de atingir operação plena em 2024). De tabela, a capacidade produtiva de celulose kraft
+marrom aumentará 29% – e isso é importante em um momento de preços mais baixos do
+papel ondulado.
+Há um ano e meio em nossa carteira, a Irani tem mostrado qualidade e capacidade de entrega,
+e tem se comportado como excelente pagadora de dividendos – com um dividend yield de 11%
+nos últimos 12 meses e um programa de recompra em aberto. Atende plenamente os objetivos
+do Delphos, excelente pagadora de dividendos, e com crescimento, além de small caps, tudo
+“dentro da mesma embalagem”’.
+Fundo
+INÍCIO
+DELPHOS
+IDIV
+Trígono Flagship Small Caps FIC FIA 60 (CNPJ: 29.177.013/0001-12)
+O Flagship 60 teve um bom desempenho em julho: valorização de 2,5% (pouco menos que os
+3,1% do SMLL no período). Como nos meses anteriores, o destaque positivo veio da indústria
+(1,2%), seguido por mineração e metalurgia (0,8%). Só o agronegócio apontou para baixo (e
+ainda assim, por bem pouco: meros -0,2%). Mesmo com as seis principais posições
+representando 85% do portfólio, a volatilidade do Flagship 60 nos últimos 12 meses (20,2%)
+está bem abaixo da vista no SMLL (26,5%). Concentração não é sinônimo de maior risco – e aí
+está mais uma prova.
+Apesar de estar quase 10% atrás do SMLL no ano (vide tabela abaixo), o Flagship segue muito
+bem. Parte desse descolamento no curto prazo se deu por conta da performance acumulada
+nos últimos meses, provisionada e paga – o SMLL foi o referencial que mais sofreu na bolsa nos
+últimos 2 anos, chegando a cair 40% em relação ao seu topo, em junho de 2021). Em 12 meses
+estamos empatados com o benchmark e, se analisarmos a janela de 24 meses, o Flagship 60
+entregou alfa de 23,5% – alta de 2,7% –, contra expressiva queda de 20,8% do referencial.Agosto
+Resenha Mensal
+Com a safra de resultados se iniciando, estamos curiosos para ver como se comportará o SMLL,
+concentrado como é em construção (14%), varejo, consumo e comércio (12%), setores que,
+como dissemos mais acima, ainda terão um caminho acidentado pela frente, até que a Selic
+menor comece a se refletir nos resultados. Por outro lado, seguimos concentrados na indústria,
+no agronegócio e na mineração e metalurgia, setores que, juntos, somam “apenas” 20% do
+SMLL, mas com nomes que se diferem das escolhidas da Trígono.
+Na tabela abaixo, vê-se nosso longo histórico de entrega de resultados e alfa nesses mais de 5
+anos de Flagship:
+Fundo
+INÍCIO
+SMLL
+Fundo
+INÍCIO
+SMLL
+Trígono Verbier FIC FIA (CNPJ: 08.968.733/0001-26)
+Julho representou o quarto mês consecutivo em alta do Verbier. A valorização foi modesta:
+1,4% (ante 3,3% do Ibovespa), mas o fundo continua bem na foto – no acumulado do ano, são
+9,8% de alta. Apesar de estar ligeiramente atrás do IBOV até o momento, desde que passou de
+clube para fundo, o Verbier venceu o referencial em todos os anos – o alfa desde que virou
+fundo (em julho de 2018) é de 163%. Esperamos manter essa marca no fim do ano.
+A indústria (na qual o Verbier é mais focado, com Schulz, Tupy e Metal Leve) foi o setor que
+mais contribuiu para o resultado (1,1%), seguido de mineração e metalurgia (0,7%). Na
+contramão vai o setor químico (-0,3%). A volatilidade anual está em 19,5% (contra 21,1% do
+IBOV).
+Fundo
+INÍCIO
+VERBIER
+IBOVESPA
+Trígono 70 Previdência FIC FIM (CNPJ: 33.146.130/0001-96)
+Para o 70 Prev, o ano vem sendo excelente até aqui, com alta de 14% vs. 7,6% do CDI
+(equivalente a 184% do CDI no período). Comparado ao IBOV (que acumula 11,1% no ano), o
+desempenho é bem favorável, uma vez que 70% do fundo está alocado em renda variável e
+30%, em renda fixa. Essa alocação (70/30) nos permite fazer ajustes constantes na carteira,
+realizando lucro nas ações com maior alta e comprando as que caem – e sem praticar o market
+timing. Para quem gosta de um joguinho de azar, é um prato cheio.
+Importante mencionar que os 70% alocados em renda variável estão em oito empresas. A
+composição do portfólio do 70 Prev reafirma o nosso logo – “Além do óbvio” – porque são
+small caps de altíssima qualidade e, como sabemos, essa classe de ativos não é bem exploradaAgosto
+Resenha Mensal
+pela indústria de fundos previdenciários. São, assim, uma diversificação de grande vantagem
+em relação ao IBOV, concentrados que são em Vale, Petrobras e setor financeiro.
+Nos últimos 12 meses o 70 Prev entregou nada menos que 21,9% de retorno (ou 161% do CDI
+do período). Desde seu início (set/2019), o retorno absoluto foi de 96,2% – ou 300% do CDI (o
+triplo, mesmo em ambiente desafiador e remando contra as ondas dos juros altos). Na tabela
+abaixo podemos ver que nosso fundo supera seu benchmark em praticamente todas as janelas
+(perdendo por pouco apenas na de 24 meses – o que logo será revertido).
+Fundo
+INÍCIO
+CDI
+Trígono Icatu 100 FIA PREV (CNPJ: 35.610.342/0001-08)
+Aniversariante do mês (três anos completados em julho), o Icatu 100 tem sido um dos grandes
+destaques do ano até aqui: alta de 17,2% – com alfa de 6,1% no ano. Nada mal. O fundo difere
+do 70 Prev por estar 100% alocado em renda variável (ações) e ter limites regulatórios
+diferentes, além de prazo de resgate bem mais longo.
+As oito principais posições representam 90% do portfólio, sendo que a volatilidade anual
+(22,4%) é muito próxima à do IBOV (21,1%). Hoje, 35% do Icatu 100 estão em micro caps, 53%
+em small caps e 12% em mid caps. Essa composição o deixa com baixíssima sobreposição com
+o Ibovespa e mesmo com o SMLL – ou seja, é uma excelente alternativa para diversificação,
+especialmente no longo prazo, contando com os atributos das small caps, ainda mais
+importantes no longo prazo. Crescimento é o principal e, para fundos de previdência, é a fome
+unida à vontade de comer.
+No mês, a valorização foi de 2,8%, contra 3,3% do IBOV. As contribuições positivas vieram de
+consumo (1,1%), seguido de mineração e metalurgia (1%). Pelo lado negativo, veio apenas o
+agronegócio (-0,1%). No terceiro aniversário do Icatu 100, ficamos satisfeitos em mostrar uma
+valorização de 104,9% desde sua criação, o que significa 83,5% de alfa em um período
+relativamente curto, principalmente por ser um fundo previdenciário). No triênio, então, nada
+menos que dobramos o capital de nossos investidores (25,7% ao ano, ou 98,6% na data
+cravada de 3 anos). Algum fundo de previdência exibe algo parecido? Fica aí o desafio.Agosto
+Resenha Mensal
+Fundo
+INÍCIO
+ICATU 100 PREV
+IBOVESPA
+Trígono Power & Yield 100 FIC FIA (CNPJ: 40.265.153/0001-85)
+Seguindo em sua recuperação, o Trígono Power Yield foi o campeão de julho: ganho de 8,3%,
+contra queda de 0,3% do IEE. Recuperou um alfa de 9,2% em um único mês. Ainda que bem
+atrás na comparação anual (-8,1% contra 14,7% do referencial), o fundo voltou a gerar alfa, se
+o considerarmos desde seu início (fev/2021), com um retorno acumulado de 14,8%, contra os
+9,6% do IEE no mesmo período. Acreditamos que esse retorno está aquém do que podemos
+entregar – e mais ainda, se considerarmos o valor por trás das empresas investidas. Tempo e
+paciência são os melhores remédios para as distorções do mercado.
+O bom desempenho mensal foi puxado basicamente por óleo e gás (3,4%) e agronegócio
+(3,0%), justo os setores que comprometeram a rentabilidade ao longo do primeiro semestre.
+Para dar nome aos bois, citamos PetroRecôncavo e Jalles, empresas apenas figurantes em seus
+segmentos (o mercado gosta é de Petrobras, Petrorio e Raízen), mas que têm desempenhos
+operacionais melhores que as “gigantes”, tocadas por times de gestão de altíssimo nível, best in
+class.
+Fundo
+INÍCIO
+POWER
+IEE
+Trígono Horizon Microcap FIC FIA (CNPJ: 43.104.134/0001-65)
+Focado 100% em Micro Caps (empresas com valor de mercado inferior a R$ 3 bilhões), nosso
+“pequeno notável” (lançado em setembro de 2021) segue se destacando e está muito próximo
+de passar para o terreno positivo desde seu início. Não custa lembrar, o Horizon foi lançado em
+uma janela muito desafiadora para empresas de menor capitalização e liquidez, em que a visão
+top-down imperava, levando o mercado a migrar para empresas mais líquidas e para a segura
+renda fixa. Com apetite para maior risco (risco, leia-se aqui como renda variável, apenas: em
+termos de fundamentos, as empresas que compõem nosso fundo são tão sólidas ou até mais
+que as mais célebres), o mercado voltou a olhar para o real valor dessas companhias.
+Com retorno de 4,2% em julho (alfa de 1,1% em relação ao SMLL), o Horizon passou a
+acumular 27,1% de retorno nos últimos 12 meses (quase 10% de alfa sobre o SMLL e 9% sobre
+o IBOV). Vê-se agora o tamanho da oportunidade que se tinha no mercado até poucos meses
+atrás! Nunca é demais reforçar: os melhores retornos vêm nos momentos de maiores
+incertezas e nas companhias mais ignoradas pelos investidores institucionais. Com menos de
+dois anos de lançamento, o Horizon já acumula 17% de alfa.Agosto
+Resenha Mensal
+Impulsionado por agronegócio (2,1%) e consumo (1,2%), o Horizon está a 0,5 ponto percentual
+de voltar a romper a cota 1 novamente. Sem perder a característica da Trígono de se
+concentrar nas principais teses, hoje o fundo está totalmente alocado em oito excelentes micro
+caps – e alerta de spoiler: uma nova investida vem aí (o nome, claro, está guardado a sete
+chaves por ora).
+Engana-se quem acha o Horizon volátil. Pelo contrário: trata-se do fundo de menor volatilidade
+dentre os nossos de 100% em renda variável, com 18% – ante 26,5% do SMLL. Mais uma
+evidência de que a “máxima” de que empresas menores necessariamente são mais arriscadas
+e mais voláteis é apenas mito (ou mostra que quem a defende não sabe muito bem do que
+está falando). A questão não é tamanho, é qualidade.
+Fundo
+INÍCIO
+HORIZON
+SMLL
+Encerrado o mês que abre o segundo semestre, vamos fazendo nosso dever de casa e
+esperamos chegar ao final do ano com bons motivos para celebrar novamente. Mas nada disso
+seria possível sem vocês, nossos fiéis investidores, que confiaram a nós vossos suados recursos.
+Sabemos como é difícil poupar neste país, especialmente para famílias com filhos em escolas
+ou universidades privadas – o que, na verdade, não deixa de ser um excelente investimento.
+Esperamos ajudá-los não só a continuar a investir em seus filhos como a complementar
+aposentadorias e a realizar muitos outros sonhos ainda.
+Sem vocês, caros, caríssimos investidores, não haveria Trígono, nossos fundos, equipe e 24
+profissionais apaixonados pelo que fazem. Ir (muito) além do óbvio por vocês é o que motiva
+nosso maravilhoso time.
+Muito obrigado,
+Werner Roger – gestor, e equipe de analistas Pedro Carvalho, Shin Lai e Yuhzô BreyerAgosto
+Resenha Mensal
+www.trigonocapital.com
+AV. DR. CHUCRI ZAIDAN, 1550 - 22º ANDAR - CONJ. 2206/2207
+CHÁCARA SANTO ANTÔNIO - SÃO PAULO - SP CEP 04583-110
