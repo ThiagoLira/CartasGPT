@@ -1,0 +1,434 @@
+Carta do Gestor
+Estratégias Sistemáticas
+Julho de 2023Prezados investidores, 
+“Half my life is an act of revision ” 1 
+ John Irving
+Na bolsa americana a corretagem era fixa até o dia 1 de maio de 1975. Por quase dois séculos as corretoras e 
+bancos de investimentos foram obrigados a cobrar o mesmo valor dos seus clientes. Consequentemente, a 
+oferta de outros serviços e regalias era uma forma natural de buscar diferenciação e atrair clientes institucionais. 
+Nesse contexto, o equity research2 ganhou bastante notoriedade ao longo dos anos como um diferencial 
+relevante entre as empresas do sell-side.3 Ao investir em times de analistas para produzir research de qualidade, 
+com projeções de resultados, relatórios setoriais e boas recomendações de investimentos, os brokers4 
+buscavam trazer clientes para execução de ordens, apesar do preço tabelado da corretagem. 
+Um dos primeiros investidores profissionais a identificar o valor nas sugestões dos analistas de equities foi 
+Alfred Winslow Jones, que também é creditado como o criador da estrutura original dos hedge-funds. Jones 
+sabia que ele próprio não era um bom stock-picker, mas desde o início dos anos 1950 ele passou a convidar 
+seus brokers a montar portfólios hipotéticos com suas melhores ideias de longs e shorts, além de encorajá-los a 
+telefonar toda vez que queriam trocar os ativos das carteiras – exatamente como fariam se estivessem gerindo 
+dinheiro real. As melhores sugestões eram compensadas de acordo e, conforme seus ativos sob gestão 
+cresceram, Jones internalizou muitos analistas como gestores do seu hedge-fund. Na Wall Street dos anos 1950, 
+que era muito menos sofisticada do que hoje, esse sistema foi suficiente para dar uma vantagem relevante a 
+Jones5. 
+Entretanto, com o fim da corretagem fixa e aumento da competição, observamos uma queda expressiva nos 
+custos de transação, que foi compensada por um aumento no volume, porém gerou um ambiente de busca por 
+diversificação de receitas no sell-side e criou uma série de incentivos e conflitos de interesses com potencial 
+perverso. No final dos anos 1990, por exemplo, com o boom de IPOs os analistas dedicavam muito tempo a 
+confeccionar relatórios para justificar a colocação das ofertas primárias e não apenas cobrindo os papéis de 
+companhias já listadas. 
+Como os fees coletados pelos bancos de investimentos nas colocações dos IPOs gera uma receita relevante, 
+essa dinâmica cria conflitos de interesses perigosos. Uma das histórias mais proeminentes dessa época é a do 
+analista de empresas de telecomunicações Jack Grubman, que trabalhava para a Salomon Smith Barney 
+(subsidiária do Citigroup). Em novembro de 1999, Grubman mudou sua recomendação neutra e sugeriu comprar 
+ações da AT&T, após forte insistência de seu chefe. Em seguida, a Salomon Smith Barney faturou 63 milhões de 
+dólares no IPO da unidade de wireless da AT&T e Grubman, em troca, conseguiu colocar seus filhos em uma 
+das pré-escolas mais exclusivas de Nova Iorque6. Durante 1999 e agosto de 2002 Grubman foi um dos analistas 
+mais bem compensados de Wall Street, com ganhos pessoais em excesso de 60 milhões de dólares7.
+Assim, a dúvida que fica é se ainda existe valor nas estimativas feitas pelos analistas do sell-side. Afinal, hoje a 
+difusão de informações é muito mais ampla do que na época de Jones e a existência de conflitos, que é muito 
+forte em momentos como o boom de IPOs de 1999, ainda persiste atualmente. Não há dúvidas que existem 
+excelentes analistas, que fazem um trabalho minuciosa e assertivo das companhias que cobrem, porém, nós 
+como investidores profissionais precisamos de sinais que de fato nos ajudem a prever a performance futura dos 
+ativos.
+Nessa carta vamos explorar os fatores associados às estimativas dos analistas e avaliamos como esses fatores 
+se comportam no mercado local. Adiantamos que sim, há valor nas estimativas dos analistas, porém não da 
+forma como muitas pessoas tendem a utilizá-las. 
+Boa Leitura!Evidência Internacional 
+Jegadeesh, Kim, Krische e Lee (2004)8 avaliaram as recomendações dos analistas à luz de 12 fatores individuais 
+que abarcam a maior parte das variáveis reconhecidamente capazes de prever retornos futuros. Com isso, os 
+autores construíram um perfil descritivo das empresas que receberam recomendações mais positivas no 
+mercado americano durante os anos entre 1985 e 1998. O objetivo dessa análise era avaliar se os analistas 
+consideraram, implícita ou explicitamente, os fatores com prêmio de risco em suas recomendações. Caso essa 
+hipótese fosse verdadeira, os papéis mais bem recomendados deveriam ser papéis com boas características, 
+como momentum, valor e qualidade, por exemplo.
+Apesar dos papéis mais recomendados estarem associadas a ações com momentum, que têm retorno esperado 
+positivo, a visão dos analistas foi na direção contrária à evidência empírica nas características de crescimento, 
+alto nível de accruals9 e alta liquidez. Em geral, os dados mostraram que os analistas preferem ações com uma 
+boa performance operacional no passado recente. Essa preferência, assim como pelos papéis que vêm passando 
+por revisões para cima nas expectativas de lucros e por papéis com momentum de preço indicam que os 
+analistas gostam de empresas que devem continuar entregando números acima do esperado no curto e médio 
+prazo. 
+Adicionalmente, a preferência na direção contrária para os fatores de crescimento, alto nível de accruals e alta 
+liquidez, corrobora com a visão de que os analistas preferem empresas com uma performance operacional mais 
+forte. Por exemplo, empresas com valor de mercado muito superior ao valor patrimonial tendem a ser empresas 
+com ROE mais alto e empresas com accruals mais agressivos tendem a ser empresas com crescimento da 
+receita mais robusto. Assim, por mais que haja um viés na direção de ações com bom momentum de lucros e 
+preços, a tendência de escolher ações mais caras, com mais accruals e mais liquidez acaba prejudicando a 
+performance das recomendações dos analistas.
+Ao analisar a relação do nível das recomendações10 com o retorno futuro dos papéis, o estudo mostra que as 
+previsões dos analistas só têm poder preditivo quando analisadas isoladamente. Quando os autores controlam 
+o modelo para os demais fatores, o nível das expectativas perde sua significância. Entretanto, quando a variação 
+no nível de recomendação11 é analisada os resultados são mais interessantes. Isto é, papéis que estão passando 
+por revisões de expectativas para cima, tendem a ter retornos mais fortes no futuro e esse fenômeno é robusto 
+mesmo quando controlamos os modelos para os demais fatores.
+Conforme os autores, quando analisada individualmente, uma estratégia long-short que tivesse comprado os 
+papéis com maior nível de recomendação e vendido os papéis com pior recomendação teria entregado um 
+retorno de 2,26% nos 6 meses seguintes. Porém, quando controlamos o modelo para as outras 12 variáveis, o 
+retorno cairia para 0,76%, mas sem significância estatística.  Já no caso da variação no nível de recomendação, 
+quando analisada individualmente observaríamos um retorno de 2,25% e quando controlamos para as demais 
+variáveis continuamos com um retorno significante estatisticamente de 1,59% para os próximos 6 meses.
+Com isso, o artigo sugere que a variação no nível de recomendações é um fator mais robusto que o nível em si 
+para prever os retornos futuros. Por mais que o artigo também mostre que as ações mais bem recomendadas 
+superam as ações menos recomendadas principalmente quando nos atemos a um subgrupo de ações que tem 
+boa exposição a fatores ganhadores, quando analisamos os papéis com os piores fatores os ativos mais bem 
+recomendados performam muito mal. Assim, o paper sugere que as revisões de recomendações são mais úteis 
+do que o patamar das recomendações para antecipar os retornos dos ativos.Seguindo a abordagem das nossas últimas cartas, 
+continuamos utilizando o IBrX-100 como o universo de 
+análise para o mercado local e permanecemos 
+limitando o horizonte de tempo analisado ao período 
+de 186 meses entre maio de 2007 e dezembro de 
+2022. 
+Fonte: Bloomberg. Elaboração própria.
+Gráfico 1 - Retorno acumulado hipotético (05/2007 = 100)
+Fatores
+Universo
+Cash Neutral
+Beta Hedged
+Target Price
+ Retorno anualizado
+  Volatilidade a.a.
+  Beta
+  Sharpe
+ Retorno anualizado
+  Volatilidade a.a.
+  Beta 
+  Sharpe 
+Com base na evidência de Jegadeesh, Kim, Krische e 
+Lee (2004), para avaliar o desempenho das 
+expectativas 
+dos 
+analistas 
+no 
+mercado 
+local, 
+escolhemos dois fatores. Para mensurar o nível de 
+recomendação dos analistas utilizamos o retorno 
+potencial estimado com base no consenso de target 
+price12 para os próximos doze meses. E para a 
+variação no nível de recomendação dos analistas 
+consideramos a variação no consenso para o target 
+price nos últimos 6 meses13.
+Em seguida montamos estratégias long-short com os 
+papéis do IBrX-100 e rebalanceamentos mensais para 
+avaliar o potencial de retorno dos indicadores.
+Surpreendentemente, a estratégia que compra as 
+ações com maior potencial de retorno, de acordo com 
+as estimativas do mercado, e vende os papéis com o 
+pior potencial de retorno resulta em um resultado 
+negativo de -7,7% a.a. no período analisado. Além 
+disso, o beta positivo da estratégia cash-neutral 
+acabou ajudando a estratégia durante o período 
+analisado. Ao neutralizar o beta14 da estratégia o 
+resultado fica ainda pior, com retorno de -12% a.a.! 
+Além disso, os papéis com pior potencial de retorno superam o universo tanto pelo ponto de vista do retorno 
+quanto pela volatilidade.  Uma estratégia long-only que constantemente tivesse ficado comprada nos ativos com 
+menos potencial de retorno na opinião dos analistas teria obtido um retorno de 11,8% a.a. e sharpe15 de 0,57, 
+contra 8,9% e 0,37 para o universo total, respectivamente. 
+Por outro lado, em linha com a sugestão do paper discutido na seção anterior, a estratégia montada com base 
+nas revisões dos analistas teria um retorno consideravelmente superior. A estratégia cash-neutral teria obtido um 
+retorno de 16,6% a.a., e diferentemente da estratégia baseada no target price, o beta da estratégia é negativo. 
+Assim, se neutralizarmos o direcional da estratégia o resultado subiria para 20,2% a.a. no período, com sharpe de 
+1,03.
+Focando apenas no Q1, a estratégia de revisões também supera com folga o universo. Durante o período 
+analisado, uma estratégia que tivesse ficado comprada nos ativos com mais revisões para cima no target price no 
+intervalo de 6 meses anteriores teria obtido um retorno de 16,8% a.a. e sharpe de 0,76, contra os 8,9% e 0,37 do 
+universo, respectivamente.
+Desempenho no Mercado LocalFonte: Bloomberg. Elaboração própria.
+Um dos possíveis argumentos que justificaria a existência de um prêmio na revisão dos analistas é o viés de 
+conservadorismo. Nas finanças comportamentais, o viés de conservadorismo é um erro cognitivo na qual os 
+investidores relutam em atualizar suas crenças ou opiniões com base em novas informações e evidências, dando 
+mais peso a informações antigas para justificar uma posição. Com isso, os investidores não atualizariam sua visão 
+corretamente e reagiriam de maneira inadequada e atrasada às revisões dos analistas. Devido ao reajuste 
+gradual de crenças e opiniões existiria então a oportunidade de capturar um prêmio ao comprar ações com 
+revisões positivas e vender ações com revisões negativas, pois o viés de conservadorismo dos investidores 
+formaria tendências nos preços dos ativos.
+Além disso os próprios analistas também podem sofrer do viés de conservadorismo. Na medida em que revisões 
+mais fortes só vêm após provas praticamente irrefutáveis de mudanças dos fundamentos, os analistas tenderiam 
+a mudar suas crenças de maneira mais lenta e gradual. Outra possibilidade é de que as expectativas dos 
+analistas formariam as tendências de preços através da publicidade e difusão da informação pelas redes de 
+relacionamentos das corretoras e bancos de investimento. Porém, esse último argumento perde força quando 
+consideramos que atualmente a difusão de informação no mercado é muito rápida e quase instantânea.
+Gráfico 2 – Preço vs Target Price 
+Adicionalmente, existem os vieses e incentivos da 
+própria indústria de investimentos, que estimulam 
+os analistas a realizar mudanças incrementais em 
+suas expectativas, além de evitar desvios muito 
+distantes do consenso. Womack (1996)16 mostrou 
+que a razão entre as recomendações de compra e 
+venda foi de 7 recomendações de compra para 
+cada recomendação de venda nos EUA para o 
+período entre 1989 e 1991. Recomendações de 
+venda ou estimativas muito distantes do guidance 
+das 
+empresas 
+cobertas 
+podem 
+afetar 
+negativamente outras linhas de negócios das 
+corretoras e bancos de investimento, como os 
+serviços de investment banking. Ademais, o acesso 
+à administração e o fluxo de informações entre as 
+empresas e os analistas pode ser limitado ou 
+cortado caso os analistas adotem uma visão muito 
+negativa ou discordem de forma significante dos 
+guidances fornecidos.
+Fonte: Bloomberg. Elaboração própria.
+Por último, como os analistas tendem a utilizar 
+conjuntos de informação e modelos muito parecidos, 
+existe um risco reputacional de fugir demais do 
+consenso. Supostamente, isso pode criar uma 
+dinâmica onde os analistas preferem fazer mudanças 
+paulatinas em suas expectativas. Isso justificaria 
+porque 
+observamos 
+autocorrelação 
+serial 
+no 
+consenso de mercado para o target price e 
+fundamentos esperados dos ativos. Assim, revisões 
+para cima ou para baixo teriam uma probabilidade 
+maior de serem seguidas por novas revisões na 
+mesma direção. 
+Por que o fator de revisões dos analistas funciona ?
+Gráfico 3 – Preço vs Target Price Conclusão 
+Em suma, os pontos abordados nessa carta mostram que as recomendações dos analistas têm sim um espaço 
+na formatação de uma estratégia de investimentos. Todavia, o valor das estimativas dos analistas está na 
+“derivada”, ou na variação de suas estimativas.
+Mostramos que a simples consideração do potencial de investimentos, ou nível das recomendações (medido 
+pela distância do target price do consenso do preço atual dos papéis), não têm se mostrado uma boa métrica 
+para selecionar ações no mercado local. Essa evidência é importante, pois frequentemente observamos 
+participantes do mercado dando muito peso e atenção a preços alvo muito elevados.
+Mais importante que o nível das estimativas é a direção das revisões. Papéis que estão passando por revisões, 
+seja para cima ou para baixo, indicam uma mudança de percepção do mercado que tende a se perdurar no 
+curto e médio prazo e que pode ser aproveitada pelo investidor, pois tipicamente os analistas ajustam suas 
+visões de forma gradativa e o mercado tende a reagir de forma atrasada à essas revisões.
+Finalmente, é importante reforçar que utilizar um sinal único na montagem de uma estratégia não é 
+aconselhável. Em nossos fundos, na prática, utilizamos diversos fatores de revisão, para diversas janelas 
+diferentes, com o intuito de construir um sinal mais robusto da direção das revisões de analistas para cada um 
+dos papéis do nosso universo de investimentos.
+Obrigado pela confiança!
+1 Metade da minha vida é um ato de revisão”
+ 2 Análise de ações. É um serviço prestado por corretoras e bancos de investimentos, onde os analistas contratados analisam as empresas e os ativos e formatam 
+oportunidades de investimentos, que são em seguida repassadas para os clientes.
+3 Sell-side é o grupo de empresas que presta serviços para os investidores. Em linhas gerais, são as corretoras e os bancos de investimento.
+ 4 Brokers são os agentes responsáveis por intermediar as operações de compra e venda de ativos.
+  5 Mallaby, S. (2010). More Money Than God: Hedge Funds and the Making of a New Elite.
+  8 Jegadeesh, Narasimhan, Joonghyuk Kim, Suan D. Krische and Charles Lee, 2004, "Analyzing the analysts: When do recommendations add value?" Journal of Finance 59, 
+1083-1124.
+  9 Accruals são as Receitas e/ou Despesas provisionados no resultado de uma empresa, mesmo que os fluxos de caixa dessas Receitas e/ou Despesas ainda não tenham 
+ocorrido de fato.
+  10 Média das recomendações dos analistas. Range de 1 a 5, onde 1 representa venda forte, 3 neutro e 5 compra forte. 
+  11 Variação no nível durante o último trimestre, e.g. uma empresa que saiu de 1 para 5, foi uma empresa que teve uma variação positiva de 4 pontos, representando uma 
+mudança de perspectiva dos analistas de venda forte para compra forte.
+ 12 O consenso para o target price é a média simples dos target prices de 12 meses de todos os analistas que cobrem uma ação específica.
+ 13 Normalizamos a variação no target price pela volatilidade do papel.
+  14 De forma parecida com Frazzini e Pedersen (2014), para ajustar os retornos das estratégias long-short fazemos r=  1/β_(q_1 )  r_(Q_1 )-1/β_(q_4 )  r_(Q_4 ). Por simplicidade                                  
+assumimos betas estáticos iguais aos betas dos Q’s para todo o intervalo analisado. Na execução de uma estratégia beta-neutral na prática os betas utilizados são dinâmicos 
+e mudam conforme as carteiras e as condições de mercado mudam.
+  15 Em linha com a cartas anteriores, por simplicidade, estamos assumindo taxa livre de risco igual a zero. A ordenação dos sharpes não seria diferente caso assumíssemos 
+taxa livre de risco diferente de zero.
+ 16 Womack, Kent L., 1996, "Do brokerage analysts' recommendations have investment value?" Journal of Finance 51, 137-167.Desempenho das Estratégias – ICVM 555
+Comentário Macro
+Os repetidos sinais de que a economia americana ainda permanece resiliente, com dados fortes de emprego 
+reforçou a narrativa de soft landing ao longo do mês de julho. Os resultados trimestrais das empresas 
+americanas também corroboraram com esse cenário. Após 455 das 498 empresas do S&P500 já terem 
+reportado, quase 80% superaram as expectativas de lucro do consenso, com destaque para o setor de Consumo 
+Discricionário. Com isso, observamos uma performance positiva da bolsa americana, com o S&P500 valorizando 
+3,11% e o Nasdaq 4,05% no mês. 
+Em julho o FOMC elevou os juros americanos e indicou que continua a observar a evolução dos indicadores de 
+inflação antes de decidir se subirão os juros na próxima reunião em setembro. Apesar da queda no CPI e CPI-
+Core os indicadores ainda permanecem distantes do alvo do FED de 2% e a robustez da economia americana 
+sugere que mesmo que já estejamos próximos ao fim do ciclo de aperto nos EUA, devemos ver os juros 
+mantidos em um patamar mais elevado por algum tempo.
+Já no início de agosto, a Fitch surpreendeu o mercado ao rebaixar a dívida americana de AAA para AA+, devido a 
+preocupações quanto à trajetória e governança da dívida americana. Apesar da força dos ativos de risco no 
+mercado americano, com o S&P500 subindo mais de 15% YTD, é importante reforçar que há sinais de 
+desaceleração no setor industrial para os próximos trimestres e que a bolsa americana continua negociando a 
+um patamar de valuation alto, com CAPE Ratio de 30,8x contra uma média histórica de 17x. Com isso, caso os 
+dados não confirmem a narrativa de soft-landing há espaço para uma correção dos ativos americanos com 
+potencial negativo para os ativos de risco globais.
+No mercado de commodities o petróleo se destacou, com alta de mais de 14% nos contratos futuros do Brent e 
+de 15,80% para o WTI.  Em julho a Arábia Saudita e a Rússia iniciaram cortes unilaterais na produção e com isso 
+a o mercado passou a esperar que o mercado de petróleo ficará apertado daqui para frente. 
+Com relação à China, o governo continua demonstrando a intenção de estimular a economia. Porém, a fraqueza 
+estrutural do mercado imobiliário daqui para a frente põe em sérias dúvidas a capacidade dos estímulos de 
+reviverem a economia chinesa. Com isso, observamos uma continuidade na fraqueza dos preços das 
+commodities metálicas, com destaque para o Minério de Ferro, que ainda está negativo em mais de 6% no ano.
+No mercado local, o destaque ficou para a decisão de política monetária do Copom no início de agosto, que 
+reduziu a Selic após 1 ano de manutenção da taxa em 13,75%. Os membros do Copom decidiram reduzir a taxa 
+básica em 50bps, em uma decisão apertada, com o presidente RCN sendo o voto de minerva a favor do corte 
+mais agressivo. Adicionalmente, no comunicado pós decisão, o Copom indicou que vê o pace de 50bps como 
+adequado para as próximas reuniões. Entretanto, cresceram as apostas no mercado por um ritmo mais 
+acelerado nas próximas reuniões. Atualmente a curva de DI vs Pré precifica um corte de quase 60bps para a 
+reunião de setembro.
+Na bolsa observamos uma performance positiva em julho, com o Ibovespa subindo 3,27% e o SMLL 3,12%. 
+Recentemente a Petrobrás divulgou sua nova política de dividendos, indicando que irá pagar um mínimo de 45% 
+do fluxo de caixa livre trimestralmente, o que foi melhor que o esperado e retira mais incertezas em torno da 
+companhia. Porém, a defasagem dos preços da gasolina com o preço de petróleo continua sendo um fator que 
+vêm preocupando o mercado. Por fim, apesar da evolução em torno do arcabouço fiscal, um potencial aumento 
+de carga tributária sobre os lucros das empresas continua um risco importante a ser monitorado. Atribuição de Performance – Julho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+Desempenho das Estratégias – ICVM 555
+O V8 Veyron Smart Beta FIC FIA fechou julho com 
+retorno de 1,95% (IBOV – 1,31%) e acumula um 
+resultado positivo de 17,15% no ano (IBOV + 5,45%). Os 
+principais destaques positivos foram os setores de 
+Materiais Básicos e Consumo Discricionário e os 
+destaques negativos foram os setores Industrial e de 
+Utilidades. Atualmente o fundo mantém posições em 
+42 empresas e 21 segmentos diferentes. Setorialmente 
+estamos 
+overweight 
+nos 
+setores 
+de 
+Consumo 
+Discricionário e Financeiro. O maior underweight 
+setorial do fundo é no setor de Materiais Básicos. 
+ 
+ -
+Rentabilidade Mensal
+Período
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+FUNDO
+ANO
+IBOV
+ANO
+FUNDO
+ACUM.
+IBOV
+ACUM.
+-
+-
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 8.262.832,23
+Patrimônio Médio 12 Meses: R$ 18.079.595,53
+Retorno Acumulado
+Fonte e Elaboração: V8 Capital
+V8 Veyron Smart Beta FIC FI AçõesDesempenho das Estratégias – ICVM 555
+ -
+Rentabilidade Mensal
+Período
+ANO
+JAN
+FEV
+MAR
+ABR
+MAI
+JUN
+JUL
+AGO
+SET 
+OUT
+NOV
+DEZ
+ANO
+ACUM.
+Fundo
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Fundo
+-
+-
+-
+-
+-
+-
+% CDI
+-
+-
+-
+-
+-
+-
+-
+Patrimônio Atual: R$ 7.412.661,49
+Patrimônio Médio Desde o Início: R$ 4.162.239,38
+O V8 Speedway Long Short FIC FIM fechou julho 
+com retorno positivo de 1,09% e acumula um 
+resultado positivo de 7,90% no ano (103,37% do CDI). 
+Desde o início o fundo acumula um retorno de 
+13,59%, equivalentes a 145,41% do CDI. O principal 
+destaque positivo foi o setor de Consumo Cíclico e do 
+lado negativo o setor de Consumo Não Cíclico. 
+Atualmente o fundo mantém posições em 50 
+empresas e 39 segmentos diferentes. Setorialmente 
+destacam-se os setores Financeiro e Petróleo e Gás 
+com posição net-long e os setores de Utilidade 
+Pública e Saúde com posição net-short.
+Atribuição de Performance – Julho de 2023
+Atribuição de Performance – Em 2023
+Fonte e Elaboração: V8 Capital
+Fonte e Elaboração: V8 Capital
+V8 Speedway Long Short FIC FIM
+Retorno Acumulado
+Fonte e Elaboração: V8 CapitalEndereço: Rua Castilho, 392, conjunto 51, Brooklin, São Paulo, SP
+Relações com Investidores
+Nossos Distribuidores
+Este documento tem o único propósito de divulgar informações e dar transparência à gestão executada pela V8 Capital Gestão de 
+Investimentos Ltda., não deve ser considerado como oferta de venda de cotas de fundos de investimento ou de qualquer título ou valor 
+mobiliário e não constitui o prospecto previsto na regulamentação vigente ou no Código de Auto-Regulação da ANBIMA. A V8 Capital 
+Gestão de Investimentos Ltda., não comercializa nem distribui cotas de fundos de investimento ou qualquer outro valor mobiliário. Ao 
+investidor é recomendada a leitura cuidadosa do regulamento do fundo de investimento antes de aplicar os seus recursos. Os 
+investidores não devem se basear nas informações aqui contidas sem buscar o aconselhamento de um profissional. A rentabilidade 
+obtida no passado não representa garantia de rentabilidade futura. A rentabilidade divulgada não é líquida de impostos e taxas de saída. 
+Fundos de Investimento não contam com a garantia do administrador do fundo, do gestor da carteira, de qualquer mecanismo de seguro 
+ou, ainda, do Fundo Garantidor de Créditos - FGC. Os fundos Multimercados utilizam estratégias com derivativos como parte integrante 
+de sua política de investimento. Tais estratégias, da forma como são adotadas, podem resultar em significativas perdas patrimoniais  para
+Disclaimer
+seus cotistas, podendo inclusive acarretar perdas superiores ao capital aplicado e a consequente obrigação do 
+cotista de aportar recursos adicionais para cobrir o prejuízo do fundo. Os fundos podem estar expostos a 
+significativa concentração em ativos de poucos emissores, com os riscos daí decorrentes. Os Indicadores 
+econômicos são meras referencias econômicas, e não metas ou parâmetros de performance. Para avaliação da 
+performance de um fundo de investimento, é recomendável a análise, no mínimo, de 12(doze) meses.
