@@ -9,25 +9,27 @@ tipo: Carta
 twitter: true
 ---
 
-- O Copom manteve a taxa Selic em 13,75%, mas sinalizou o início dos cortes de juros a partir de agosto.
-<a href="#" onclick="search_on_pdf('uma maior confiança no processo de desinflação, sinalizou o começo dos cortes dataxa básica de juro')">Ref</a>
-- As projeções foram revisadas à luz dos novos dados e intenção do Copom.
-<a href="#" onclick="search_on_pdf('uma maior confiança no processo de desinflação, sinalizou o começo dos cortes dataxa básica de juro')">Ref</a>
-- As dificuldades continuam no contexto internacional, principalmente com a inflação nas economias avançadas.
-<a href="#" onclick="search_on_pdf('para trás em muitos desses países, de outro, os núcleos da inflação persistem empatamares elevados,')">Ref</a>
-- Os bancos centrais do Reino Unido, Canadá e Austrália retomaram o aumento dos juros, e é esperado que o Fed e o BCE também precisem fazer um aperto adicional nos próximos meses.
-<a href="#" onclick="search_on_pdf('Não por acaso, os bancos centrais do Reino Unido, Canadá e Austrália, que até hápouco davam por con')">Ref</a>
-- A economia doméstica mostrou surpresa positiva, com notas particularmente fortes em exportações líquidas e o mercado de trabalho demonstrou força, refletido por uma taxa de desemprego historicamente baixa.
-<a href="#" onclick="search_on_pdf('para trás em muitos desses países, de outro, os núcleos da inflação persistem empatamares elevados,')">Ref</a>
-- As expectativas de inflação recuaram consideravelmente, principalmente devido a melhorias na inflação de alimentos e bens industriais, impulsionadas por uma recuperação da oferta e demanda internacional desses bens, bem como uma apreciação significativa do Real.
-<a href="#" onclick="search_on_pdf('restauração gradual de um equilíbrio entre oferta e demanda desses bens nomercado internacional e (')">Ref</a>
-- A valorização cambial e a melhora em médio prazo das contas públicas são fatores que influenciam na decisão de cortar juros, contribuindo para a valorização do Real e o avanço no processo de desinflação.
-<a href="#" onclick="search_on_pdf('qualquer maneira, no curto prazo, essa descompressão do risco contribui paravalorizar o BRL e, cons')">Ref</a>
-- Apesar da melhora recente do quadro inflacionário, é necessário manter a cautela e o ritmo moderado de cortes da Selic é esperado.
-<a href="#" onclick="search_on_pdf('tocante às expectativas da inflação para o médio prazo (nesse sentido, a decisão doConselho Monetár')">Ref</a>
-- É previsto um corte inicial de 0,25 ponto percentual em agosto, seguido por cortes de 0,50 pontos, finalizando 2023 com a Selic em 12%. 
-<a href="#" onclick="search_on_pdf('sequência de uma redução inicial de 0,25 ponto percentual (pp) em agosto, o passodas quedas seguint')">Ref</a>
-- A expectativa é que o ciclo de cortes se prolongue até meados de 2024, com a Selic alcançando 9,75%.
-<a href="#" onclick="search_on_pdf('tocante às expectativas da inflação para o médio prazo (nesse sentido, a decisão doConselho Monetár')">Ref</a>
-- Taxas inferiores a esse patamar de 9,75% não garantiriam a convergência do IPCA para o centro da meta (3%).
-<a href="#" onclick="search_on_pdf('deverão limitar o espaço de queda adicional da taxa básica de juros na busca daconvergência do IPCA')">Ref</a>
+- O ciclo de queda da taxa Selic foi iniciado com um corte de 0,50pp, levando a taxa básica de juros para 13,25%.
+<a href="#" onclick="search_on_pdf('queda da taxa Selic. O processo foi inaugurado pelo COPOM em sua reunião deste iníciode agosto com ')">Ref</a>
+- Quatro fatores influenciam a decisão do Banco Central: política monetária externa; atividade doméstica; comportamento da inflação e expectativas; e incerteza sobre as contas públicas, especialmente a taxa de câmbio.
+<a href="#" onclick="search_on_pdf('Banco Central: (i) a postura de política monetária externa ante a resiliência da atividade ea persi')">Ref</a>
+- O cenário externo signala direção do 'soft-landing', potencialmente permitindo o Fed a levar a inflação de volta à meta de 2% sem aumentar significativamente o desemprego ou as expectativas de inflação.
+<a href="#" onclick="search_on_pdf('cenário alternativo), à medida em que o movimento recente de desinflação dos núcleosem geral e do s')">Ref</a>
+- Indicadores econômicos de julho reforçam essa perspectiva, com inflação caindo e maior equilíbrio no mercado de trabalho, sugerindo menos pressões inflacionárias à frente.
+<a href="#" onclick="search_on_pdf('desprezível do ponto de vista do nível do emprego e da atividade econômica.Alguns indicadores divul')">Ref</a>
+- A atividade doméstica desacelerou nos últimos meses, com alta no primeiro trimestre do ano, principalmente por conta do agronegócio, seguido de estabilidade no segundo trimestre.
+<a href="#" onclick="search_on_pdf('primeira observação recai sobre a evidente perda de dinamismo da atividade domésticaao longo dos úl')">Ref</a>
+- O quadro inflacionário mostrou melhora, tanto em relação à inflação realizada quanto às expectativas.
+<a href="#" onclick="search_on_pdf('Outro destaque do passado recente é a melhora do quadro inflacionário, seja em relaçãoà inflação re')">Ref</a>
+- Há mais alinhamento entre o governo e o Congresso, sugerindo melhores chances de aprovação de medidas que aumentem a arrecadação e atinjam as metas do resultado primário.
+<a href="#" onclick="search_on_pdf('meses trouxeram sinais de um maior alinhamento entre a equipe econômica do governoe o Congresso Nac')">Ref</a>
+- A apreciação do Real nos últimos meses, devido ao enfraquecimento global do dólar e à redução das incertezas fiscais domésticas, representa um vetor significativo de baixa para inflação e taxa Selic.
+<a href="#" onclick="search_on_pdf('Vale mencionar também que a apreciação do Real nos últimos meses, consequênciatanto do enfraquecime')">Ref</a>
+- O câmbio afeta inflação através dos componentes comercializáveis do IPCA.
+<a href="#" onclick="search_on_pdf('componentes comercializáveis do IPCA, que são cerca de 32% dos subitens da cesta deconsumo. Na medi')">Ref</a>
+- Começou o ciclo de cortes de taxa Selic, questionando-se a velocidade e magnitude do processo. Este ciclo será gradual, estendendo-se até o início do próximo ano.
+<a href="#" onclick="search_on_pdf('cenário alternativo), à medida em que o movimento recente de desinflação dos núcleosem geral e do s')">Ref</a>
+- A magnitude do ciclo pode levar a Selic a 9,25% em meados de 2024.
+<a href="#" onclick="search_on_pdf('cenário alternativo), à medida em que o movimento recente de desinflação dos núcleosem geral e do s')">Ref</a>
+- O nível de juros nos EUA e a credibilidade da situação fiscal doméstica impactarão o nível terminal dos juros.
+<a href="#" onclick="search_on_pdf('relativos à economia doméstica, principalmente em relação à credibilidade da situaçãofiscal, serão ')">Ref</a>

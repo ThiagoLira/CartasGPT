@@ -9,23 +9,19 @@ tipo: Carta
 twitter: true
 ---
 
-- Quebra de dois bancos regionais em março nos EUA aumenta expectativa de recessão global
-<a href="#" onclick="search_on_pdf('Relatório Econômico MensalO foco (excessivo) nas receitasPorto Asset ManagementMaio - 2023Relató')">Ref</a>
-- Inclinação da curva de juros americana indica possibilidade de recessão
-<a href="#" onclick="search_on_pdf('Dito de outro modo, esse é um quadro que no mínimo retarda o processo de desinflação e,consequentem')">Ref</a>
-- PIB americano mostra vigor, desemprego em baixa e salários em crescimento sustentado
-<a href="#" onclick="search_on_pdf('taxa de juros de 10 anos normalmente se situa acima do juro de 2 anos. Quando essa relaçãose invert')">Ref</a>
-- Probabilidade de recessão iminente nos EUA reduzida conforme problemas bancários ficam para trás
-<a href="#" onclick="search_on_pdf('Relatório Econômico MensalO foco (excessivo) nas receitasPorto Asset ManagementMaio - 2023Relató')">Ref</a>
-- Persistência da inflação elevada requer atuação do Fed e processo de retorno à meta será longo
-<a href="#" onclick="search_on_pdf('expansionista que vai na direção oposta da ação da política monetária. A resultante dessesfatores é')">Ref</a>
-- Economia brasileira mostra sinais de resiliência
-<a href="#" onclick="search_on_pdf('Aqui no Brasil também observamos sinais de resiliência da economia. O desempenho do setorde serviço')">Ref</a>
-- Política fiscal deveria contribuir para trazer inflação brasileira de volta à meta de forma mais rápida
-<a href="#" onclick="search_on_pdf('Fontes: Federal Reserve, Porto Asset ManagementRelatório Econômico MensalNesse sentido, a política')">Ref</a>
-- Fragilidade do novo arcabouço fiscal é depender do crescimento das receitas públicas
-<a href="#" onclick="search_on_pdf('a dívida, ou ao menos a estabilizem. A grande fragilidade do novo arcabouço é justamentedepender ta')">Ref</a>
-- Inflação ao consumidor brasileira segue em patamar alto, longe do centro da meta
-<a href="#" onclick="search_on_pdf('Com a demanda ainda aquecida e sem a ajuda do lado fiscal, a inflação ao consumidor segueem patamar')">Ref</a>
-- Inflação persistentemente elevada no Brasil requer juros altos por mais tempo.
-<a href="#" onclick="search_on_pdf('expansionista que vai na direção oposta da ação da política monetária. A resultante dessesfatores é')">Ref</a>
+- A Porto Asset Management mantém a taxa Selic em 13,75% mas sinaliza cortes futuros devido a confiança no processo de desinflação.
+<a href="#" onclick="search_on_pdf('Relatório Econômico MensalQuando, quanto e como?Porto Asset ManagementJulho - 2023Relatório Econ')">Ref</a>
+- Nas economias internacionais, a inflação ainda não foi vencida, logo os bancos centrais de países como Reino Unido, Canadá e Austrália continuam a aumentar as taxas de juros. 
+<a href="#" onclick="search_on_pdf('para trás em muitos desses países, de outro, os núcleos da inflação persistem empatamares elevados,')">Ref</a>
+- A atividade doméstica está forte e oferece pressão inflacionária; o produto interno bruto (PIB) surpreendeu positivamente e o mercado de trabalho demonstra resiliência.
+<a href="#" onclick="search_on_pdf('para trás em muitos desses países, de outro, os núcleos da inflação persistem empatamares elevados,')">Ref</a>
+- As expectativas de inflação têm recuado, associadas à melhora do quadro de alimentos e bens industriais e à valorização cambial do Real.
+<a href="#" onclick="search_on_pdf('restauração gradual de um equilíbrio entre oferta e demanda desses bens nomercado internacional e (')">Ref</a>
+- A gestora indica cautela quanto ao estado das contas públicas, embora o novo arcabouço fiscal prometa melhorar os resultados primários a partir de 2024.
+<a href="#" onclick="search_on_pdf('evolução das contas públicas no médio prazo. O chamado novo arcabouço fiscal, emfase final de trami')">Ref</a>
+- A redução inicial da Selic será de 0,25 pontos percentuais em agosto, com progressivas quedas de 0,50pp, prevendo-se encerrar 2023 com a Selic em 12% e estender o ciclo de cortes até meados de 2024, atingindo 9,75%.
+<a href="#" onclick="search_on_pdf('sequência de uma redução inicial de 0,25 ponto percentual (pp) em agosto, o passodas quedas seguint')">Ref</a>
+- Mesmo com a melhora recente no quadro inflacionário, a gestora acredita que o processo de desinflação ainda exige cautela. 
+<a href="#" onclick="search_on_pdf('Na fase atual do ciclo, ainda enfrentamos pressões inflacionárias no setor deserviços, mas a desinf')">Ref</a>
+- De acordo com as estimativas da Porto Asset Management, as taxas inferiores a 9,75% não garantiriam a convergência do IPCA para o centro da meta (3%).
+<a href="#" onclick="search_on_pdf('deverão limitar o espaço de queda adicional da taxa básica de juros na busca daconvergência do IPCA')">Ref</a>

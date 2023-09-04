@@ -1,167 +1,143 @@
-CARTA DO GESTOR | ABRIL 2023
+CARTA DO GESTOR | MAIO 2023
 Ouvidoria Opportunity DTVM  
 ouvidoria@opportunity.com.br
 WWW.OPPORTUNITY.COM.BR 
 OPPORTUNITY@OPPORTUNITY.COM.BR
 EVOLUÇÃO DO CENÁRIO ECONÔMICO
-O mês de março foi marcado pelas crises no sistema 
-financeiro norte-americano e europeu, decorrentes da 
-liquidação do Silicon Valley Bank (SVB) e da incorporação 
-emergencial do Credit Suisse pelo rival UBS. Embora a 
-rápida intervenção das autoridades tenha obtido êxito em 
-conter o contágio sobre o restante do sistema financeiro, 
-é inegável que ambos choques terão consequências 
-duradouras sobre o cenário econômico global.
-Em ambos os casos, tanto o Federal Reserve (Fed) quanto o 
-Banco Central Europeu (ECB) procuraram seguir a cartilha 
-do “princípio da separação dos instrumentos”, destinando 
-o combate das pressões inflacionárias à política monetária 
-convencional, enquanto a manutenção da estabilidade 
-financeira recai sobre os mecanismos de provisão de liquidez.
-Seguindo essa receita, o Fed não hesitou em colocar em 
-ação seu arsenal de instrumentos emergenciais. Além 
-de promover a garantia da totalidade dos depósitos das 
-instituições liquidadas, introduziu nova linha de liquidez 
-que possibilita aos bancos descontarem suas carteiras de 
-títulos públicos a valor de face, evitando assim o registro 
-dos prejuízos decorrentes da marcação a mercado daqueles 
-papéis. Em contrapartida, a autoridade monetária promoveu 
-nova elevação da taxa de juros em 25 bp na reunião do 
-comitê de política monetária (FOMC) de março e indicou a 
-possibilidade de ajuste adicional em maio.
-Essa ação decisiva como emprestador de última instância 
-do sistema financeiro permitiu estancar a corrida aos 
-depósitos de algumas instituições regionais que se 
-formava a partir da crise do SVB. Dados recentes indicam 
-desaceleração substancial do ritmo de perda de depósitos 
-do sistema bancário, além da redução no uso das linhas 
-emergenciais do Fed.
-Nosso diagnóstico a respeito desses acontecimentos está 
-centrado na ideia de que os problemas envolvendo o 
-SVB tinham em sua essência um caráter idiossincrático, 
-decorrentes de um volume substancial de perdas com a 
-carteira de títulos públicos não registrada nos livros e uma 
-base de depósitos altamente concentrada – combinação 
-perversa que tornava a instituição altamente vulnerável 
-a corridas como a que se verificou após a instituição ser 
-forçada a reconhecer esses prejuízos. Não há que se falar, 
-portanto, de um problema sistêmico no setor bancário.
-Por outro lado, não é possível negar que o pano de 
-fundo desse choque é o aperto monetário em vigor, 
-cuja intensidade e velocidade certamente produzem 
-efeitos colaterais indesejados. Entre eles, o baixo nível da 
-remuneração dos depósitos bancários em comparação às 
-fed funds, que estimula a migração de recursos para os 
-fundos de money market, cujo rendimento é diretamente 
-vinculado àquela taxa. É razoável imaginar que o evento 
-do SVB deverá promover uma intensificação dessa 
-competição de recursos, com efeitos negativos sobre a 
-liquidez e rentabilidade do setor bancário.
-E como deve agir o Fed diante desse quadro? Nosso 
-entendimento é que temos aqui um caso concreto no qual, a 
-despeito do “princípio da separação”, os desenvolvimentos 
-financeiros acabam por impactar o domínio da política 
-monetária. Com o crédito possivelmente se tornando mais 
-caro e escasso em função da redução de liquidez disponível 
-ao sistema bancário, este canal se torna substituto, ainda 
-que imperfeito, do instrumento da taxa de juros, colocando 
-um limite para atuação da política monetária convencional.
-Dessa forma, os eventos no sistema financeiro desde o 
-início de março deixam o Fed mais próximo do fim do 
-ciclo de aperto de juros – antecipamos uma alta adicional 
+Os sinais de aperto nas condições de crédito e suas 
+consequências sobre as estratégias de política monetária 
+dos principais bancos centrais foram o grande foco do      
+mercado durante o mês de abril, na esteira das medidas 
+de liquidez adotadas pelas instituições reguladoras nos 
+EUA e na Europa para a manutenção da estabilidade 
+financeira. Estas medidas, construídas em resposta 
+aos eventos bancários ocorridos no mês anterior, têm 
+mostrado êxito em conter uma crise financeira sistêmica, 
+mas não isolam o sistema do problema original: um aperto 
+monetário intenso e rápido que afetou a rentabilidade do 
+setor bancário e, em casos como o dos EUA, gerou uma 
+competição na captação de recursos com fundos que, pela 
+sua natureza, conseguem oferecer uma remuneração de 
+depósitos mais atraente (money market funds).   
+A principal consequência deste “problema original” é um 
+aperto nas condições de crédito, que em alguma medida 
+reforça o aperto monetário que já está sendo conduzido 
+pela elevação das taxas de juros. Nos EUA, este contexto 
+certamente teve peso nas últimas comunicações e decisões 
+do Federal Reserve (Fed), que sinalizaram de forma mais 
+clara que há grandes chances de que a taxa de juros não 
+seja mais aumentada de seu nível atual, de 5.25%. A 
+cautela do Fed se justifica pelo aumento da incerteza com 
+relação ao surgimento de novos focos de instabilidade no 
+sistema bancário, que teriam impactos sobre o crédito. 
+Tiveram também papel importante os últimos dados 
+mostrando que a dinâmica inflacionária está indo na 
+direção desejada. Dito isso, reforçamos o fato de que a 
+atividade econômica e o mercado de trabalho americanos 
+têm se desaquecido de forma bastante gradual, sugerindo 
+que a queda da inflação para níveis confortáveis também 
+será lenta, o que torna bastante improvável uma discussão 
+próxima a respeito de relaxamento monetário. 
+Na Zona do Euro, mesmo com o banco central europeu 
+(ECB) estando ainda numa fase menos avançada no 
+processo de aperto monetário em comparação ao Fed, está 
+ocorrendo aparentemente uma restrição mais acentuada 
+nas condições de crédito. De forma análoga aos EUA, isso 
+foi determinante não somente para a diminuição do ritmo 
+de altas de juros de 50bps para 25bps, mas também para 
+um discurso mais moderado e que já coloca elementos 
+para uma discussão de final de elevações nos juros. No 
+caso do ECB, entretanto, o nível ainda bastante alto da 
+inflação e, prospectivamente, a dinâmica de salários ainda 
+tornam pouco provável uma parada imediata. Antevemos 
+que ainda há um caminho a percorrer, com uma ou duas 
+altas adicionais de 25bps nas próximas reuniões. 
+Neste ambiente global de “final de ciclo”, a economia 
+chinesa tem mostrado uma recuperação impulsionada 
+pela reabertura da economia pós-Covid, que se caracteriza 
+sobretudo pelo reaquecimento do consumo mais ligado a 
+serviços. Por outro lado, a crise ocorrida no setor imobiliário 
+da China ainda restringe a demanda por investimentos. 
+Dessa forma, não se tem observado o canal tradicional 
+através do qual o crescimento da economia chinesa coloca 
+uma pressão significativa sobre o mercado de commodities.  
+O ponto crucial que tiramos desses últimos desenvolvimentos 
+é que, mesmo que tenha crescido consideravelmente a 
+probabilidade de que os principais bancos centrais estejam 
+próximos de encerrar o ciclo de alta de juros, a manutenção 
+de condições financeiras apertadas parece necessária, dado 
+o desafio de convergência da inflação em um contexto de 
 PARA MAIORES INFORMAÇÕES SOBRE AS CARACTERÍSTICAS DO FUNDO OPP. TOTAL FIC FIM VISITE NOSSO SITE WWW.OPPORTUNITY.COM.BR
 Opportunity Total FIC FIM
-Carta do GestorCARTA DO GESTOR | ABRIL 2023
+Carta do GestorCARTA DO GESTOR | MAIO 2023
 Ouvidoria Opportunity DTVM  
 ouvidoria@opportunity.com.br
 WWW.OPPORTUNITY.COM.BR 
 OPPORTUNITY@OPPORTUNITY.COM.BR
-de 25bp na reunião de maio. Entretanto, afora impactos 
-mais severos do que o vislumbrado atualmente sobre a 
-dinâmica do mercado de crédito, o quadro de mercado de 
-trabalho ainda muito aquecido e inflação alta e persistente 
-desautorizam cortes dos juros no horizonte próximo.
-A situação é análoga na Zona do Euro. Com núcleo de 
-inflação em patamares muito altos e ainda em ascensão na 
-região, o ECB viu-se forçado a seguir com o ritmo de ajuste 
-de 50bp em março. Entretanto, assim como no caso do 
-Fed, os acontecimentos recentes inevitavelmente trazem 
-impactos materiais sobre a condução futura da política 
-monetária. Assim, antevemos uma desaceleração do ritmo 
-de altas para 25bp na reunião de maio, com um último 
-aperto em junho.
-No Brasil, o destaque no mês passado ficou por conta do 
-anúncio do novo arcabouço fiscal. Entendemos que o novo 
-desenho tem o benefício de conter os receios com um 
-quadro de expansão desordenada dos gastos, limitando 
-substancialmente os riscos de cenários extremos. Todavia, 
-os parâmetros para o crescimento das despesas (limitadas 
-entre 0,6% e 2,5% ao ano) irão requerer uma expansão 
-substancial da carga tributária, da ordem de 1,5% do PIB, 
-a fim de garantir a estabilização da trajetória da dívida 
-pública no médio prazo. Permanecem, assim, as incertezas 
-quanto à viabilidade política de aprovação legislativa de 
-uma agenda tributária tão ambiciosa.
-No âmbito da política monetária, o Banco Central voltou a 
-dar ênfase ao trabalho de convergência da inflação. Como 
-destaque, o BC refutou temores de um aperto de crédito 
-demasiado, reconhecendo que os desenvolvimentos no 
-mercado brasileiro seguem compatíveis com os efeitos 
-esperados pelo ciclo de alta da Selic. Por fim, enfatizou que 
-não há uma “relação mecânica” entre a política monetária e 
-o novo arcabouço fiscal, esclarecendo que os efeitos deste 
-sobre as decisões de política monetária deverão ser avaliados 
-pelos seus impactos sobre as expectativas de inflação e 
-a taxa de câmbio. Traduzindo para a linguagem comum, 
-não há motivos para BC alterar sua postura de “paciência 
-e perseverança”. De fato, nosso entendimento é de que os 
-núcleos de inflação em níveis muito superiores à meta e a 
-desancoragem das expectativas de inflação inviabilizam um 
-cenário de corte de juros antes de meados do ano.
- 
+mercado de trabalho ainda aquecido. Por este motivo, 
+acreditamos que, após o encerramento do ciclo, o cenário 
+mais provável é de manutenção dos juros ao longo deste 
+ano pelos principais bancos centrais. O maior risco em 
+torno deste cenário, em nossa avaliação, é o surgimento de 
+novos focos de stress no sistema financeiro, o que poderia 
+antecipar o início do ciclo de relaxamento monetário.
+No Brasil, mantemos a visão de que o desenho do novo 
+arcabouço fiscal, embora altamente dependente de 
+receitas, afasta o risco de cenários extremos. Enxergamos, 
+também, alguns desenvolvimentos positivos no front de 
+inflação, relacionados a uma dinâmica global de queda 
+em preços de alimentos e combustíveis. No entanto, com 
+a inflação de serviços em patamar desconfortável e um 
+mercado de trabalho ainda aquecido, o banco central 
+deve seguir cauteloso, à espera de sinais convincentes de 
+convergência da inflação no horizonte relevante. Neste 
+contexto, a discussão sobre a revisão da meta de inflação 
+tem papel central, à medida que afeta diretamente a 
+formação de expectativas de inflação. Em nossa avaliação, 
+um resultado favorável dessas discussões é condição muito 
+importante para a possibilidade de início do ciclo de cortes 
+na Selic a partir do terceiro ou quarto trimestre deste ano.  
 ESTRATÉGIA DO FUNDO
-No mercado brasileiro, mantemos posições aplicadas na 
-parte curta da curva DI. Embora não seja nosso cenário 
-central, entendemos que os riscos baixistas para atividade 
-econômica e a pressão sobre o banco central favorecem 
-a possibilidade de antecipação do ciclo de corte de juros. 
-Iniciamos também posição comprada na bolsa brasileira 
-em papéis de qualidade, resilientes a um cenário de 
-crescimento estrutural mais baixo, e que podem se 
+No mercado brasileiro, mantemos posições aplicadas 
+na parte curta da curva DI. Na nossa visão, a atividade 
+econômica deve desacelerar sensivelmente nos próximos 
+meses e, do lado da inflação, a queda das commodities 
+deve ter um impacto significativo na inflação deste ano. 
+Neste contexto, a confirmação da manutenção da meta de 
+inflação poderia abrir espaço para o COPOM iniciar um ciclo 
+de afrouxamento monetário. Iniciamos também posição 
+comprada na bolsa brasileira em papéis de qualidade, 
+resilientes a um cenário de crescimento estrutural mais 
+baixo, com endividamento controlado e que podem se 
 beneficiar de um eventual afrouxamento monetário.
 No mercado internacional, procuramos posições aplicadas 
-na curva de juros de algumas economias avançadas. 
-Acreditamos que os choques no sistema financeiro 
-observados em março são limitadores para a extensão do 
-ciclo de altas dos juros. Esses eventos têm ainda o potencial 
-de acelerar a transmissão da contração monetária em 
-curso sobre a atividade econômica nos países diretamente 
-afetados. Mantemos também posições vendidas em bolsas 
-internacionais pelo aumento do risco de recessão.
-No mercado de câmbio, adicionamos posição tática 
-comprados no dólar contra moedas do G10, em função 
-da expectativa de que o Fed irá perseverar na estratégia 
-de combate à inflação e, portanto, não deverá reverter o 
-aperto monetário no horizonte próximo.CARTA DO GESTOR | ABRIL 2023
+na curva de juros de algumas economias avançadas. Nos 
+EUA em particular, os choques no sistema financeiro 
+advindos da quebra de alguns bancos regionais têm o 
+potencial de acelerar a transmissão da contração monetária 
+em curso sobre a atividade econômica. Mantemos também 
+posições vendidas em bolsas internacionais pelo aumento 
+do risco de recessão. No mercado de câmbio, encerramos 
+posição tática comprados no dólar contra moedas do G10.CARTA DO GESTOR | MAIO 2023
 Ouvidoria Opportunity DTVM  
 ouvidoria@opportunity.com.br
 WWW.OPPORTUNITY.COM.BR 
 OPPORTUNITY@OPPORTUNITY.COM.BR
 OPPORTUNITY TOTAL EVOLUTION FIC FIM
-OPPORTUNITY TOTAL EVOLUTION FIC FIM - Data de início do Fundo: 16/09/2019; Data da cota base: 31/03/2023; Rentabilidade do mês: 0.28% | 24.74% Cdi; Rentabilidade acumulada do ano: 0.28% | 8.73% 
-Cdi; Rentabilidade dos últimos 12 meses: 9.86% | 74.27% Cdi; PL médio 12 meses FIC: R$102159906.28; Taxa de Administração: 2% a.a; Taxa Performance: 20% do que exceder 100% do CDI; Taxa de Saída: 5% 
+OPPORTUNITY TOTAL EVOLUTION FIC FIM - Data de início do Fundo: 16/09/2019; Data da cota base: 28/04/2023; Rentabilidade do mês: 0.01% | 0.95% CDI; Rentabilidade acumulada do ano: 0.29% | 6.96% 
+Cdi; Rentabilidade dos últimos 12 meses: 7.02% | 52.48% CDI; PL médio 12 meses FIC: R$111716460.16; Taxa de Administração: 2% a.a; Taxa Performance: 20% do que exceder 100% do CDI; Taxa de Saída: 5% 
 sobre o valor resgatado, em casos de resgate antecipado apenas; Público alvo: Investidor Qualificado; Classificação ANBIMA: Estratégia - Macro; Aberto para Captação: Sim.
 OPPORTUNITY TOTAL FIC FIM -
-OPPORTUNITY TOTAL FIC FIM - Data de início do Fundo: 08/05/2003; Data da cota base: 31/03/2023; Rentabilidade do mês: 0.65% | 54.70% Cdi; Rentabilidade acumulada do ano: 1.50% | 46.27% Cdi; 
-Rentabilidade dos últimos 12 meses: 10.52% | 79.22% Cdi; PL médio 12 meses FIC: R$1194015954.39; Taxa de Administração: 2% a.a; Taxa Performance: 20% do que exceder 100% do CDI; Taxa Saída: Não há; 
+OPPORTUNITY TOTAL FIC FIM - Data de início do Fundo: 08/05/2003; Data da cota base: 28/04/2023; Rentabilidade do mês: 0.37% | 39.86% CDI; Rentabilidade acumulada do ano: 1.88% | 44.67% CDI; 
+Rentabilidade dos últimos 12 meses: 9.13% | 68.29% CDI; PL médio 12 meses FIC: R$1189943444.49; Taxa de Administração: 2% a.a; Taxa Performance: 20% do que exceder 100% do CDI; Taxa Saída: Não há; 
 Público alvo: Investidores em Geral; Classificação ANBIMA: Estratégia - Macro; Aberto para Captação: Sim.
 OPPORTUNITY MARKET FIC FIM -
-OPPORTUNITY MARKET FIC FIM -  Data de início do Fundo: 18/01/1999; Data da cota base: 31/03/2023; Rentabilidade do mês: 0.89% | 75.58% Cdi; Rentabilidade acumulada do ano: 2.34% | 71.92% Cdi; 
-Rentabilidade dos últimos 12 meses: 11.29% | 85.02% Cdi; PL médio 12 meses FIC: R$92337689.46; Taxa de Administração: 1.5% a.a; Taxa Performance: 20% do que exceder 100% do CDI; Taxa Saída: Não há; 
+OPPORTUNITY MARKET FIC FIM -  Data de início do Fundo: 18/01/1999; Data da cota base: 28/04/2023; Rentabilidade do mês: 0.61% | 66.28% CDI; Rentabilidade acumulada do ano: 2.96% | 70.51% CDI; 
+Rentabilidade dos últimos 12 meses: 10.78% | 80.59% CDI; PL médio 12 meses FIC: R$89227724.17; Taxa de Administração: 1.5% a.a; Taxa Performance: 20% do que exceder 100% do CDI; Taxa Saída: Não há; 
 Público alvo: Investidores em Geral; Classificação ANBIMA: Estratégia - Macro; Aberto para Captação: Sim.
 OPPORTUNITY ICATU PREVIDÊNCIA FIC FIM -
-OPPORTUNITY ICATU PREVIDÊNCIA FIC FIM - Data de início do Fundo: 26/09/2018; Data da cota base: 31/03/2023; Rentabilidade do mês: 0.62% | 53.97% Cdi; Rentabilidade acumulada do ano: 1.72% | 52.90% Cdi; 
-Rentabilidade dos últimos 12 meses: 10.85% | 81.69% Cdi; PL médio 12 meses FIC: R$232073776.74; Taxa de Administração: 1.5% a.a; Taxa de Performance: 20% do que exceder 100% do CDI; Taxa Saída: Não há; 
+OPPORTUNITY ICATU PREVIDÊNCIA FIC FIM - Data de início do Fundo: 26/09/2018; Data da cota base: 28/04/2023; Rentabilidade do mês: 0.47% | 51.31% CDI; Rentabilidade acumulada do ano: 2.20% | 52.37% CDI; 
+Rentabilidade dos últimos 12 meses: 9.39% | 70.25% CDI; PL médio 12 meses FIC: R$244110893.30; Taxa de Administração: 1.5% a.a; Taxa de Performance: 20% do que exceder 100% do CDI; Taxa Saída: Não há; 
 Público alvo: Investidor Profissional; Classificação ANBIMA: Previdência Multimercado - Livre; PGBL e VGBL instituídos pela Icatu Seguros S.A. O proponente desses planos podem ser investidores não qualificados; 
 Aberto para Captação: Sim.
 Rentabilidade passada não representa garantia de rentabilidade futura. Fundos de investimento não contam como garantia do administrador, do gestor, de qualquer mecanismo de seguro, ou ainda do Fundo Garantidor de 

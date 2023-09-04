@@ -9,49 +9,35 @@ tipo: Carta
 twitter: true
 ---
 
-- Banco Central Brasileiro mantém taxa básica em 13,75%, reconhecendo impacto limitado da economia externa e redução gradual do crescimento doméstico.
-<a href="#" onclick="search_on_pdf('CENÁRIO ECONÔMICOBRASIL: O Banco Central manteve a taxa básica em 13,75%, em linha com asexpectati')">Ref</a>
-- Federal Reserve dos EUA aumenta taxa básica de juros em 25 pontos base, ficando entre 5,00% e 5,25%.
-<a href="#" onclick="search_on_pdf('SUMÁRIOEUAO Banco Central americano (Fed) elevou a taxa básica de juros em 25 pb, levando a taxap')">Ref</a>
-- Banco Central Europeu retarda ritmo de atividade e aumenta taxa de juros em 25 pontos-base.
-<a href="#" onclick="search_on_pdf('EUROPA: O Banco Central Europeu desacelerou o ritmo e elevou a taxa de jurosem 25 bp.CHINA: Perda ')">Ref</a>
-- Economia chinesa apresenta crescimento moderado após reabertura.
-<a href="#" onclick="search_on_pdf('mais moderado do que o esperado inicialmente. Os resultados dos indicadores deatividade de abril, s')">Ref</a>
-- O processo de desinflação e desaceleração do PIB brasileiro influenciam as estratégias de investimento.
-<a href="#" onclick="search_on_pdf('O processo de desinflação e desaceleração do PIB ainda está em curso, o que influencia as expectati')">Ref</a>
-- Alívio no cenário global e local observado em maio, impulsionado pela estabilização da crise bancária nos EUA e por indicadores inflacionários positivos.
-<a href="#" onclick="search_on_pdf('RENDA VARIÁVELNeste mês de maio, vimos um alívio tanto no cenário global quanto local, impulsionado')">Ref</a>
-- Permanecem incertezas como a crise bancária nos EUA e Europa, alta inflação e risco de recessão.
-<a href="#" onclick="search_on_pdf('bancário. Com os dados de atividade corrente americana mais resilientes, alguns membrosdo FED volta')">Ref</a>
-- Ainda assim, a precificação de empresas reflete os riscos, especialmente em ativos brasileiros, havendo menos necessidade de cautela nas carteiras.
-<a href="#" onclick="search_on_pdf('empresas reflete parte significativa desses riscos, especialmente nos ativos brasileiros.Diante des')">Ref</a>
-- Projeção de cortes de juros no Brasil a partir de setembro de 2023, com taxa final de 12,50%.
-<a href="#" onclick="search_on_pdf('de convergência da inflação para o redor da meta ao longo do horizonte relevante.Mantivemos nosso c')">Ref</a>
-- Há apreciação contínua do Real, porém impactado negativamente por expectativa de aumento da taxa de juros nos EUA.
-<a href="#" onclick="search_on_pdf('destaca em valorização frente ao dólar no ano, o mês corrente teve impacto negativa dadaexpectativa')">Ref</a>
-- Renda fixa apresentou desempenho positivo, principalmente ativos atrelados à inflação.
-<a href="#" onclick="search_on_pdf('Em maio, os fundos atrelados à inflação de médio prazo apresentaram um desempenhonominal positivo e')">Ref</a>
-- Fundamental para destacar a performance positiva dos setores de Serviços Financeiros, Papel, Celulose & Madeira e Saúde, mesmo com redução em Utilidades Públicas, Energia e Varejo.
-<a href="#" onclick="search_on_pdf('Consumo e Energia, além da exposição direcional comprada no Ibovespa. Do lado negativo,prejudicaram')">Ref</a>
-- As maiores alocações estão em Utilidades Públicas, Imobiliário e Consumo.
-<a href="#" onclick="search_on_pdf('reduzindo em Utilidades Públicas, Energia e Varejo. As maiores alocações em termosabsolutos estão e')">Ref</a>
-- Estratégias "Crescimento", "Long Biased", "Long and Short/Equity Hedge", "Global" e "Multigestor Ações" tiveram desempenho positivo e acima dos respectivos benchmarks. 
-<a href="#" onclick="search_on_pdf('Estratégia Long and Short (CNPJ: 09.241.809/0001-80)A estratégia Long and Short/Equity Hedge teve d')">Ref</a>
-- A monitorização da inflação ao consumidor e dos ajustes salariais é essencial.
-<a href="#" onclick="search_on_pdf('reajustes salariais seguem como importantes variáveis a serem monitoradas. Seguimos composições apl')">Ref</a>
-- Estratégias quantitativas Família Alocação e fundos Carteira Bradesco obtiveram resultados positivos em maio.
-<a href="#" onclick="search_on_pdf('O resultado da estratégia no mês foi positivo e acima do CDI. A maior contribuição para oportfólio ')">Ref</a>
-- Fundos Cambial Dólar, Apex Infinity, Canvas Vector, Equitas Selection, GAP Absoluto Fic Multimercado, Kapitalo Zeta e Kappa Multimercado e Vinland Macro Multimercado tiveram desempenho positivo.
-<a href="#" onclick="search_on_pdf('No mês de maio de 2023, o fundo Apex Infinity apresentou retorno positivo e acima doIbovespa. Os de')">Ref</a>
-- Incertezas fiscais no Brasil amenizaram após adoção de políticas fiscais mais rigorosas.
-<a href="#" onclick="search_on_pdf('"No Brasil, a maioria das mudanças que tivemos referentes ao arcabouço fiscal foram na direçãocorre')">Ref</a>
-- Taxas do IPCA-15 e IGPM caíram, elevando as expectativas de corte de juros pelo Banco Central.
-<a href="#" onclick="search_on_pdf('Prévia da inflação mensal desacelerou na passagem de abril para maio, exibindo alta de0,51% no mês.')">Ref</a>
-- Moat Capital Ações destacou-se em setores financeiros, de petróleo e utilidade pública.
-<a href="#" onclick="search_on_pdf('Moat Capital AçõesFechamos o mês com maior alocação nos setores financeiro, petróleo e utilidade pú')">Ref</a>
-- Verde AM 60 Multimercado e Multiestratégia Multimercado otimistas com a economia brasileira devido às mudanças no arcabouço fiscal.
-<a href="#" onclick="search_on_pdf('mantivemos as alocações de ouro e petróleo. As posições de crédito brasileiros e a parcela decrédit')">Ref</a>
-- Kapitalo K10 Multimercado teve desempenho positivo por causa de estabilização de bancos e acordo para aumento do teto da dívida nos EUA, mas sofreu com a performance negativa do setor de juros, câmbio e commodities.
-<a href="#" onclick="search_on_pdf('prazo.Kapitalo K10 MultimercadoO acordo para o aumento do teto de dívida e a estabilização do seto')">Ref</a>
-- Kadima Multimercado teve desempenho positivo, apesar de resultados negativos no modelo de eventos internacionais.
-<a href="#" onclick="search_on_pdf('performance, contribuíram positivamente as posições de moedas, e negativamente juros ecommodities.')">Ref</a>
+- O Banco Central do Brasil manteve a taxa Selic em 13.75%, com sinais de possíveis cortes futuros.
+<a href="#" onclick="search_on_pdf('CENÁRIO ECONÔMICO:BRASIL: Na ata da última reunião do Comitê de Política Monetária (Copom), queman')">Ref</a>
+- Bancos centrais dos EUA e Europa mantiveram e aumentaram suas taxas de juros, respectivamente.
+<a href="#" onclick="search_on_pdf('EUA: No cenário internacional, o Banco Central americano (Fed) interrompeu asequência de alta da ta')">Ref</a>
+- Inflação global em decreção, ainda que com volatilidade em taxas de juros.
+<a href="#" onclick="search_on_pdf('um avanço no processo de desinflação global, o que aumentou as expectativas domercado em relação a ')">Ref</a>
+- Indicadores sugerem desaceleração gradual da economia no Brasil.
+<a href="#" onclick="search_on_pdf('cenário doméstico, o Copom considerou que, apesar da surpresa positiva do PIB noprimeiro trimestre,')">Ref</a>
+- Ativos de risco e crédito privado apresentaram bom desempenho em 2023, beneficiando de queda de juros prevista.
+<a href="#" onclick="search_on_pdf('apresentaram resultados desfavoráveis. O mercado de crédito privado segueapresentando um desempenho')">Ref</a>
+- A Bradesco Asset forneceu projeções macroeconômicas e gestores estão incorporando mais risco com base nessa perspectiva.
+<a href="#" onclick="search_on_pdf('A resiliência do mercado de trabalho e dos núcleos de inflação levaram os BancosCentrais a reforçar')">Ref</a>
+- O mercado financeiro apresentou resultados mistos, com alguns fundos e estratégias registando retornos negativos.
+<a href="#" onclick="search_on_pdf('Os fundos investidos apresentaram retornos mistos neste mês. O maior destaquedentre os investidos f')">Ref</a>
+- A indústria de finanças e governo experimentaram crescimento enquanto a construção civil teve queda.
+<a href="#" onclick="search_on_pdf('mais claro. Durante o mês de junho as principais contribuições positivas vieram dossetores de incor')">Ref</a>
+- Apesar da cautela em relação a um cenário de recessão global, os ajustes de estratégia de mercado e expectativas de corte de juros são vistos como positivos.
+<a href="#" onclick="search_on_pdf('permite uma redução da cautela adotada nos portfolios nos últimos meses, porémcom alta seletividade')">Ref</a>
+- Renda fixa e variável tiveram desempenho positivo, assim como ativos de crédito.
+<a href="#" onclick="search_on_pdf('conseguiram obter bons resultados com o fechamento ao longo da curva. Já aparcela de renda variável')">Ref</a>
+- Gestores têm empregado várias estratégias para gerar retornos positivos, em apesar de incertezas globais.
+<a href="#" onclick="search_on_pdf('ter sido dominada globalmente mantém o clima de cautela. No Brasil, as ações sebeneficiaram não só ')">Ref</a>
+- Os portfólios continuam diversificados, com uma mistura de ativos domésticos descontados e resilientes.
+<a href="#" onclick="search_on_pdf('Assim sendo, nosso portfólio continua diversificado buscando equilíbrio entre ativosdomésticos aind')">Ref</a>
+- Diversos setores, como Consumo Discricionário, Shoppings e Bancos forneceram contribuições positivas.
+<a href="#" onclick="search_on_pdf('mais claro. Durante o mês de junho as principais contribuições positivas vieram dossetores de incor')">Ref</a>
+- A influência macroeconômica afeta estratégias de investimento e desempenho do fundo.
+<a href="#" onclick="search_on_pdf('de Mineração & Siderurgia, Imobiliário e Consumo. Do lado negativo, prejudicaram odesempenho da est')">Ref</a>
+- Possíveis mudanças no regime de tributação de alguns setores no Brasil levantam incertezas.
+<a href="#" onclick="search_on_pdf('para manter em pé o novo arcabouço fiscal. Para tanto, pode ser necessária amudança do regime de tr')">Ref</a>
+- As curvas de juros no Brasil recuaram, influenciadas pela melhora das expectativas inflacionárias locais e uma política monetária mais dura em bancos centrais globais.
+<a href="#" onclick="search_on_pdf('relativamente mistos, indicando que já á algum efeito da política monetária maisdura dos bancos cen')">Ref</a>

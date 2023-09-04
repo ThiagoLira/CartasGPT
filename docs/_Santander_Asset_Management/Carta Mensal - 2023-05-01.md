@@ -9,19 +9,21 @@ tipo: Carta
 twitter: true
 ---
 
-- Cenário externo desafiador e incerteza elevada nos países desenvolvidos, foco no setor bancário e inflação
-<a href="#" onclick="search_on_pdf('desafiador para as Bolsas, dada a pressão da inflação e o impacto dos eventos no setor bancário. L')">Ref</a>
-- Manutenção das principais projeções no cenário doméstico
-<a href="#" onclick="search_on_pdf('atuação do Banco Central.Projeções mantidas no cenário local, com atenção sobre a política fiscal ')">Ref</a>
-- Atenção sobre política fiscal e comportamento do mercado de crédito
-<a href="#" onclick="search_on_pdf('Atenção sobre a política fiscal e o comportamento do mercado de crédito.Para mais detalhes, con')">Ref</a>
-- Em abril, ganhos em índices de ações internacionais e dólar depreciado
-<a href="#" onclick="search_on_pdf('ganhos nos índices de ações internacionais. As curvas de juros dos EUA apresentaram oscilações mod')">Ref</a>
-- No Brasil, queda nos juros futuros, Ibovespa com resultados positivos e Real ganhando espaço frente ao dólar
-<a href="#" onclick="search_on_pdf('globais.No Brasil, os juros futuros tiveram queda, enquanto o Ibovespa acompanhou o movimento do e')">Ref</a>
-- Renda fixa local com visão neutra, descompressão nos juros futuros e expectativas de inflação exigindo cautela - saldo positivo na renda fixa em abril
-<a href="#" onclick="search_on_pdf('Positivo. Ao longo do mês as curvas de juros domésticas apresentaram queda, beneficiando as nossa')">Ref</a>
-- Renda variável local e global com visão neutra e incerteza sobre política fiscal - saldo negativo para renda variável
-<a href="#" onclick="search_on_pdf('desafiador para as Bolsas, dada a pressão da inflação e o impacto dos eventos no setor bancário. L')">Ref</a>
-- Câmbio com visão neutra, diferencial de juros favorecendo apreciação do Real contra dólar - saldo positivo no câmbio
-<a href="#" onclick="search_on_pdf('CâmbioPara o câmbio, mantínhamos visão neutra. Por um lado, o diferencial de juros entre a econom')">Ref</a>
+- Ciclo de alta dos juros nos EUA possivelmente encerrado em maio, colaborando para a desaceleração da atividade e inflação;
+<a href="#" onclick="search_on_pdf('CartaMensalGlobal e LocalCiclo de alta dos juros nos EUA provavelmente encerrado em maio.Nível')">Ref</a>
+- No Brasil, ajustes foram feitos nas projeções de crescimento e inflação, com cenário para a Selic mantido, mas com possibilidade de cortes a partir de novembro;
+<a href="#" onclick="search_on_pdf('ajustes nas nossas projeções de crescimento e inflação.Cenário para a Selic mantido, com cortes')">Ref</a>
+- Mercados globais e brasileiro monitorados para dados de atividade e inflação, perspectivas para o setor bancário, passos dos principais bancos centrais, inflação, comunicação do Copom, expectativas de inflação e evolução da política fiscal;
+<a href="#" onclick="search_on_pdf('Cenário MacroEstamos monitorandoNo exterior: dados de atividade e inflação nos países desenvolvid')">Ref</a>
+- Mercados em maio mostraram ganhos modestos nos índices acionários internacionais e alta nas curvas de juros dos EUA, contribuindo para o fortalecimento do dólar;
+<a href="#" onclick="search_on_pdf('de crédito, comunicação do Copom, expectativas de inflação e evolução da política fiscal.Em maio o')">Ref</a>
+- Queda nos juros no Brasil, principalmente nos vencimentos mais longos e alta do Ibovespa, refletindo dinâmica positiva internacional;
+<a href="#" onclick="search_on_pdf('dos índices atrelados ao setor de tecnologia, que apresentaram ganhos mais expressivos.No Brasil, ')">Ref</a>
+- Na renda fixa, visão de cautela devido ao ciclo de aperto de juros nas economias desenvolvidas e as expectativas de inflação ainda distantes da meta;
+<a href="#" onclick="search_on_pdf('inflação e mercado de trabalho ainda resilientes justificam a manutenção dos juros em patamar cont')">Ref</a>
+- Para a renda variável, visão neutra devido ao cenário internacional desafiador e incerteza sobre as discussões fiscais que poderiam impactar o lucro das empresas;
+<a href="#" onclick="search_on_pdf('discussões sobre aumento de carga tributária poderiam impactar o lucro das empresas.Ligeiramente N')">Ref</a>
+- No câmbio, visão neutra considerando o diferencial de juros entre o Brasil e os EUA, que poderiam fortalecer o real, mas também as incertezas fiscais que poderiam limitar esse movimento;
+<a href="#" onclick="search_on_pdf('discussões fiscais e tributárias podem adicionar ruído e pesar na renda variável doméstica.No câmb')">Ref</a>
+- Projeções ajustadas de PIB e inflação para o Brasil, com expectativa de início de cortes da taxa Selic possivelmente antes do quarto trimestre de 2023, observando a evolução da política fiscal.
+<a href="#" onclick="search_on_pdf('ajustes nas nossas projeções de crescimento e inflação.Cenário para a Selic mantido, com cortes')">Ref</a>

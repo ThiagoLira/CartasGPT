@@ -9,17 +9,17 @@ tipo: Carta
 twitter: true
 ---
 
-- Mercado de crédito se recupera após rombo contábil de R$ 20 bilhões das Lojas Americanas em janeiro de 2023
-<a href="#" onclick="search_on_pdf('R$ 20 bilhões de rombo contábil jogada pela quase centenária Lojas Americanas no mercadode crédito ')">Ref</a>
-- Petrobras anuncia relevante mudança na política comercial, modificando a Política de Paridade de Importação (PPI)
-<a href="#" onclick="search_on_pdf('respectivamente.RESENHA MENSAL DE CRÉDITO PRIVADOA deterioração de indicadores financeiros em 2015')">Ref</a>
-- Ajuste na política de preços visa melhorar competitividade e saúde financeira da Petrobras, impactando positivamente a inflação
-<a href="#" onclick="search_on_pdf('competitivos ao mercado, ao mesmo tempo que evita estagnação e reajustes excessivos. Umdos principa')">Ref</a>
-- Rating de crédito da Petrobras influenciado pelo rating soberano do Brasil, afetado pela perda de grau de investimento em 2015
-<a href="#" onclick="search_on_pdf('respectivamente.RESENHA MENSAL DE CRÉDITO PRIVADOA deterioração de indicadores financeiros em 2015')">Ref</a>
-- Mercado de crédito privado apresenta possível inflexão nos resgates no final de maio de 2023
-<a href="#" onclick="search_on_pdf('transportar seus produtos. Vamos acompanhar com lupa essas mudanças e seus efeitos.Em relação ao me')">Ref</a>
-- Fundo Trígono Pulsar Blend com 16% de posição em caixa, permitindo investimento em emissões primárias e oportunidades no mercado secundário
-<a href="#" onclick="search_on_pdf('do pipeline de emissões primárias que já se apresenta e de aproveitar oportunidades de bonscréditos')">Ref</a>
-- Diversificação setorial do fundo, com foco em bancos (16%), energia elétrica (10%), metalurgia e siderurgia (7%) e transporte e logística (7%).
-<a href="#" onclick="search_on_pdf('fundo —, seguidos por energia elétrica (10%), metalurgia e siderurgia (7%) e transporte elogística ')">Ref</a>
+- A perspectiva do mercado é descrita através de uma analogia com o filme "Três Homens em Conflito", destacando a incerteza econômica atual.
+<a href="#" onclick="search_on_pdf('“Três Homens em Conflito” (1966),                                                                  ')">Ref</a>
+- O papel de Angel Eyes é atribuído ao próprio mercado, enquanto Fernando Haddad e Roberto Campos Neto são identificados como os personagens "bom" e "feio", respectivamente.
+<a href="#" onclick="search_on_pdf('                                                             Na analogia com o filme, o mercado (in')">Ref</a>
+- Há cautela com relação aos movimentos do mercado, com o gestor acreditando que as ações "heróicas" muitas vezes podem ser prejudiciais.
+<a href="#" onclick="search_on_pdf('                                                                                                   ')">Ref</a>
+- Críticas são feitas à prática de "vender em maio e ir embora" e à rápida valorização de setores populares.
+<a href="#" onclick="search_on_pdf('“                       ” (“Venda em maio e vá embora”, em traduç                                 ')">Ref</a>
+- O gestor expressa ceticismo em relação às flutuações dramáticas de mercado, vendo-as talvez como uma tendência temporária em vez de uma oportunidade de investimento sólida.
+<a href="#" onclick="search_on_pdf('                                                         —                                metas por')">Ref</a>
+- No entanto, a execução específica da estratégia do fundo não é abordada.
+<a href="#" onclick="search_on_pdf('                                                                                                   ')">Ref</a>
+- São feitas menções a diversos filmes e recursos de streaming de áudio, mas sua relevância exata para a estratégia de investimento não fica clara devido à falta de contexto.
+<a href="#" onclick="search_on_pdf('                                                             Na analogia com o filme, o mercado (in')">Ref</a>

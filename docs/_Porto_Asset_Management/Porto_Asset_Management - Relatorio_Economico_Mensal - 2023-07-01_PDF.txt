@@ -1,118 +1,132 @@
-Relatório Econômico Mensal
-Quando, quanto e como?
-Porto Asset Management
-Julho - 2023Relatório Econômico Mensal
-Em sua última reunião, o Copom manteve a taxa Selic em 13,75%. Contudo, diante de
-uma maior confiança no processo de desinflação, sinalizou o começo dos cortes da
-taxa básica de juros a partir da reunião do início agosto. À luz dos novos dados e da
-intenção manifestada pelo Copom, revisamos nossas projeções sobre esse novo
-ciclo. No relatório anterior apontamos os quatro pilares que sustentavam nossa
-avaliação de que o afrouxamento monetário se daria apenas no início de 2024. E
-embora alguns deles sigam presentes, é forçoso reconhecer que outros de fato
-perderam força. Porém, acreditamos que a antecipação do movimento não garante
-uma redução da Selic maior e/ou mais rápida.
-O primeiro dos quatro pilares trata da economia internacional. Tanto como no mês
-passado, avaliamos que as economias avançadas ainda não venceram suas batalhas
-contra a inflação. Se de um lado é possível enxergar alguns efeitos da alta dos juros
-realizada nos últimos vários meses, uma vez que o pico da inflação parece ter ficado
-para trás em muitos desses países, de outro, os núcleos da inflação persistem em
-patamares elevados, o mercado de trabalho segue resiliente e a atividade econômica
-como um todo dá seguidos sinais de força.
-Não por acaso, os bancos centrais do Reino Unido, Canadá e Austrália, que até há
-pouco davam por concluído seu trabalho, se viram obrigados a retomar (ou
-intensificar) o movimento de alta dos juros. Acreditamos que será necessário um
-aperto adicional por parte do Fed e do BCE nos próximos meses, mantendo os juros
-em patamares elevados por um período prolongado. Sendo assim, os mercados serão
-forçados a refazer novamente suas projeções para as curvas de juros naqueles
-países, algo recorrente no atual ciclo, conforme ilustra o gráfico acima para o caso
-dos EUA e que também se observou em vários outros países desenvolvidos.
-FFR efetiva
-FFR precificada pelo mercado
-Taxa de juros nos EUA e trajetórias esperadas em diferentes momentos
-Fed Funds Rate (FFR) em % a.a. Fontes: Bloomberg, Porto Asset Management
-Precificação em jun-23Relatório Econômico Mensal
-O segundo pilar dizia respeito à atividade doméstica. Tudo o mais constante, se
-espera que uma atividade econômica forte produza pressão inflacionária. O PIB do
-1T23 surpreendeu positivamente, o que deveria sustentar esse pilar. Mas as primeiras
-rachaduras podem ser observadas quando avaliamos que muito desse crescimento
-veio de exportações líquidas, apoiadas particularmente no setor agropecuário. O
-cenário ainda está muito longe de uma recessão, afinal o consumo é um componente
-grande do PIB, e no curto prazo ele é fortalecido pela forte expansão das políticas de
-transferência de renda empenhada desde fins de 2022. Além disso, o mercado de
-trabalho segue demonstrando força, evidenciada por exemplo pela taxa de
-desemprego em patamar historicamente baixo.
-O terceiro pilar era referente às expectativas de inflação. No período decorrido entre
-as duas últimas reuniões do Copom, registrou-se um recuo considerável nas
-projeções para o IPCA dos próximos vários anos. Parte do movimento esteve
-associado à melhora do quadro inflacionário de alimentos e dos bens industriais. Esta
-melhora, por sua vez, esteve amparada um dois fatores fundamentais: (i) a
-restauração gradual de um equilíbrio entre oferta e demanda desses bens no
-mercado internacional e (ii) uma importante valorização cambial. Em outras palavras,
-a queda de alguns desses preços em USD foi acentuada pela apreciação do Real.
-Na fase atual do ciclo, ainda enfrentamos pressões inflacionárias no setor de
-serviços, mas a desinflação/deflação de bens é tão intensa que acaba predominando
-na
-determinação
-das
-expectativas
+Relatório Econômico
+O câmbio é a 
+variável-chave
+Porto Asset 
+Management
+Agosto - 2023Relatório Econômico Mensal
+Em nossos dois últimos relatórios, discutimos amplamente os determinantes do ciclo de
+queda da taxa Selic. O processo foi inaugurado pelo COPOM em sua reunião deste início
+de agosto com um corte de 0,50pp, que levou a taxa básica de juros para 13,25%.
+Temos destacado quatro fatores com papel preponderante no processo de decisão do
+Banco Central: (i) a postura de política monetária externa ante a resiliência da atividade e
+a persistência da inflação, notadamente nos EUA; (ii) a atividade doméstica; (iii) o
+comportamento da inflação corrente e das expectativas em relação à meta e (iv) o grau
+de incerteza sobre as contas públicas e seu impacto sobre os ativos domésticos,
+sobretudo a taxa de câmbio. Todos eles mostraram evolução positiva durante o último
+mês, culminando com um corte inicial maior que o esperado pela maioria dos agentes.
+O cenário externo evoluiu na direção do chamado ‘soft-landing’. Neste ambiente, o Fed
+seria, teoricamente, capaz de levar a inflação gradualmente em direção à sua meta de 2%
+sem provocar aumento significativo da taxa de desemprego ou das expectativas de
+inflação. Ou seja, a convergência da inflação ocorreria com um sacrifício quase
+desprezível do ponto de vista do nível do emprego e da atividade econômica.
+Alguns indicadores divulgados ao longo de julho reforçaram essa perspectiva. De um
+lado, a inflação deu sinais de uma queda mais expressiva e abrangente. Mesmo que em
+patamares ainda elevados, os dados mais recentes mostraram um movimento promissor
+em direção à meta de 2%.
+De outro lado, indicadores do mercado de trabalho também apontaram para um maior
+equilíbrio entre a oferta e a demanda de mão-de-obra, que se traduziu na desaceleração
+do ritmo de crescimento dos salários, o que por sua vez sugere menores pressões
+inflacionárias à frente.
+Desemprego
+Desemprego de equilíbrio
+Desemprego e Inflação - EUA
+Fontes: BLS, CBO, BEA, Porto Asset Management
+Inflação (PCE, var. % em 12 meses)
+Meta de inflaçãoRelatório Econômico Mensal
+Portanto, é possível afirmar que os principais determinantes das decisões do Comitê de
+Política Monetária americano, ou seja, o desequilíbrio no mercado de trabalho e a
+convergência da inflação em direção à meta caminharam na direção desejável neste
+passado recente. Não por acaso, em sua reunião mais recente, o Fed sinalizou
+claramente que o atual ciclo de aperto chegou ao seu final ou está muito perto disso.
+Em relação aos fatores domésticos que impactam a nossa perspectiva de taxa Selic, a
+primeira observação recai sobre a evidente perda de dinamismo da atividade doméstica
+ao longo dos últimos meses.
+Depois
 de
-inflação.
-Mesmo
-enxergando
-riscos
-inflacionários relevantes no segmento de serviços, acabamos por revisar para baixo
-nossas projeções de IPCA em razão dos desdobramentos benignos nos alimentos e
-de outros bens de consumo.
-Taxa de desemprego
-% da força de trabalho, com ajuste sazonal. Fontes: IBGE, Porto Asset ManagementRelatório Econômico Mensal
-Essa valorização cambial está também ligada ao nosso quarto pilar: o temor quanto à
-evolução das contas públicas no médio prazo. O chamado novo arcabouço fiscal, em
-fase final de tramitação no Congresso Nacional, promete a geração de resultados
-primários sucessivamente melhores a partir de 2024, culminando com um superávit
-equivalente a 1% do PIB em 2026. Por mais modesta que seja, tanto porque depende
-crucialmente da geração de receitas, como porque na própria projeção do governo
-só estabiliza a relação dívida pública/PIB depois de 2030, tal trajetória ajuda a reduzir,
-inegavelmente, a incerteza percebida pelos participantes de mercado em relação à
-sustentabilidade das contas públicas.
-Seguimos céticos de que o novo arcabouço garanta de maneira duradoura um regime
-fiscal mais saudável, o que significa a persistência de um certo prêmio de risco, ainda
-que em patamar menor do que vigorava antes de sua apresentação e aprovação. De
-qualquer maneira, no curto prazo, essa descompressão do risco contribui para
-valorizar o BRL e, consequentemente, avançar no processo de desinflação.
-BRL
-Taxa de juros real (10 anos)
-Preços de ativos brasileiros
-Fontes: BCB, Anbima, Porto Asset Management
-Expectativas de inflação (IPCA)
-Fontes: Banco Central do Brasil, Porto Asset ManagementA Porto Asset Management é responsável pela elaboração desse material, mas não se responsabiliza por quaisquer atos e/ou decisões tomadas
-com base nas informações disponibilizadas por meio de suas publicações e projeções. Todos os dados e/ou opiniões aqui presentes não devem
-ser tomados, em nenhuma hipótese, como base, balizamento, guia ou norma para qualquer documento, avaliações, julgamentos ou tomadas de
-decisões, sejam de natureza formal ou informal. Desse modo, todas as consequências ou responsabilidades pelo uso de quaisquer dados e/ou
-análises desta publicação deverão ser assumidas exclusivamente pelo usuário, eximindo a Porto Seguro Investimentos de todas e quaisquer
-responsabilidades decorrentes do uso deste material.
-Relatório Econômico Mensal
-Apesar da inegável melhora recente do quadro inflacionário, seja no que diz respeito
-à redução da inflação corrente, inclusive dos chamados núcleos da inflação, seja no
-tocante às expectativas da inflação para o médio prazo (nesse sentido, a decisão do
-Conselho Monetário Nacional de manter a meta em 3% para os próximos anos deve
-promover uma nova rodada, ainda que limitada, de convergência dessas projeções
-para o centro da meta), enxergamos que processo de desinflação ainda exige uma
-dose de cautela por parte do Copom.
-Essa cautela, por sua vez, deve se traduzir num ritmo moderado de cortes da Selic. Na
-sequência de uma redução inicial de 0,25 ponto percentual (pp) em agosto, o passo
-das quedas seguintes deverá ser acelerado para 0,50pp, encerrando 2023 no
-patamar de 12%. O ciclo de cortes deverá se estender até meados de 2024, com a
-Selic alcançando 9,75%.
-Juros elevados nas principais economias do mundo (notadamente nos EUA) e um risco
-fiscal doméstico ainda elevado (mesmo que inferior ao percebido até recentemente)
-deverão limitar o espaço de queda adicional da taxa básica de juros na busca da
-convergência do IPCA para o centro da meta (3%). De acordo com nossas estimativas,
-taxas inferiores àquele patamar de 9,75% não garantiriam tal convergência.
+um
+forte
+crescimento
+no
+primeiro
+trimestre
+do
+ano,
+explicado
+majoritariamente pelo desempenho do agronegócio, o PIB deve exibir um resultado
+próximo da estabilidade no segundo trimestre, feitos os devidos ajustes sazonais. E a
+perspectiva inicial para o trimestre atual não é muito diferente.
+Outro destaque do passado recente é a melhora do quadro inflacionário, seja em relação
+à inflação realizada, seja quanto às expectativas. O IPCA-15 de julho registrou deflação
+ligeiramente maior do que o esperado, sendo que seus indicadores com maior poder de
+informação sobre a persistência da inflação (por exemplo o índice de difusão, a média
+dos núcleos ou os serviços subjacentes) também apontaram na direção desejável.
+Adicionalmente, as expectativas de inflação continuaram arrefecendo e reduziram o grau
+de descolamento em relação à meta. Devemos destacar, no entanto, que persiste a
+preocupação em relação às expectativas mais longas que, apesar da melhora nos
+horizontes mais curtos, seguem acima do que seria desejável para uma condução mais
+tranquila da política monetária
+(var. % em 12 meses)
+Média móvel de 3m com
+ajuste sazonal (T+6)
+Fontes: IBGE, Porto Asset Management
+Serviços subjacentes
+(var. % em 12 meses)
+Média móvel de 3m com
+ajuste sazonal (T+6)Relatório Econômico Mensal
+Um elemento doméstico adicional a favorecer o começo do ciclo monetário é o momento
+político e sua repercussão sobre questões relevantes do quadro fiscal de curto e médio
+prazo. Apesar da grande volatilidade e incerteza observada no começo do ano, os últimos
+meses trouxeram sinais de um maior alinhamento entre a equipe econômica do governo
+e o Congresso Nacional, em particular as lideranças da Câmara dos Deputados.
+Esse quadro sugere maiores chances de aprovação de medidas de interesse do governo
+federal que produzam um aumento da arrecadação, movimento necessário para a
+consolidação do chamado novo arcabouço fiscal e o atingimento das metas de resultado
+primário para os próximos anos.
+Vale mencionar também que a apreciação do Real nos últimos meses, consequência
+tanto do enfraquecimento global do dólar norte-americano como, em grande medida, da
+redução das incertezas em relação ao ambiente fiscal doméstico, representa um
+significativo vetor de baixa da inflação e, consequentemente, da própria taxa Selic ao
+longo dos próximos meses.
+Para melhor discutir este ponto, destaca-se que o câmbio impacta a inflação através dos
+componentes comercializáveis do IPCA, que são cerca de 32% dos subitens da cesta de
+consumo. Na medida em que os riscos associados à política fiscal sigam em queda como
+consequência, por exemplo, do melhor relacionamento entre a equipe econômica do
+governo e a liderança do legislativo mencionado acima, deveria se esperar uma menor
+pressão sobre o câmbio. Ou seja, um vetor baixista para parcela relevante do IPCA e,
+portanto, maior alívio para a política monetária.
+IPCA Comercializáveis
+BRL (média móvel 3m, T+12)
+IPCA - Bens Comercializáveis
+Variação % em 12 meses. Fontes: IBGE, BCB, Porto Asset ManagementRelatório Econômico Mensal
+Com a materialização do início do ciclo de cortes da taxa básica de juros pelo Copom,
+emergem então questões sobre a velocidade desse processo e sua magnitude total.
+Quanto à primeira, destaca-se que o ciclo deverá ser gradual, com cortes da ordem de
+50 pontos base se estendendo por todo o final deste ano e o primeiro semestre do ano
+que vem. Com este ritmo, o Banco Central conseguirá monitorar de forma mais
+tempestiva o impacto de suas ações sobre as expectativas de inflação de longo prazo,
+que como já mencionado anteriormente, ainda ensejam certa preocupação.
+Quanto à magnitude do ciclo, acreditamos que a partir do corte inicial de 0,50pp e da
+possibilidade de alguma aceleração no ritmo de cortes nas próximas reuniões (como
+cenário alternativo), à medida em que o movimento recente de desinflação dos núcleos
+em geral e do setor de serviços em particular, a Selic poderá alcançar o patamar de
+9,25% em meados de 2024.
+A ressalva que fazemos neste momento é que tanto os desenvolvimentos da economia
+internacional, principalmente em relação ao nível de juros nos EUA, como os fatores
+relativos à economia doméstica, principalmente em relação à credibilidade da situação
+fiscal, serão pontos fundamentais para mapear o patamar de juro neutro e o prêmio em
+torno da meta de inflação que guiarão o nível terminal dos juros.
+A Porto Asset Management é responsável pela elaboração desse material, mas não se responsabiliza por quaisquer atos e/ou
+decisões tomadas com base nas informações disponibilizadas por meio de suas publicações e projeções. Todos os dados e/ou
+opiniões aqui presentes não devem ser tomados, em nenhuma hipótese, como base, balizamento, guia ou norma para qualquer
+documento, avaliações, julgamentos ou tomadas de decisões, sejam de natureza formal ou informal. Desse modo, todas as
+consequências ou responsabilidades pelo uso de quaisquer dados e/ou análises desta publicação deverão ser assumidas
+exclusivamente pelo usuário, eximindo a Porto Seguro Investimentos de todas e quaisquer responsabilidades decorrentes do
+uso deste material. Site: https://www.portoseguro.com.br/fundos-de-investimento
 PIB
 var. acum. %
 IPCA
 var. acum. %
-Câmbio
+BRL
 R$/US$, dez
 Selic
 %, dez

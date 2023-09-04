@@ -1,83 +1,63 @@
 Classificação da informação: Uso Interno
 Cenário
 EconômicoClassificação da informação: Uso Interno
-Ativo
-Mês
-Ano
-Ibov
-Câmbio
-Renda Fixa, 6M
-Renda Fixa, 1A
-Renda Fixa, 2A
-Renda Fixa, 5A
-Renda Fixa, 10A
 Sicredi Asset Management
-Cenário Econômico | Julho/23
-Contribuíram para esse movimento as decisões de política
-monetária no Brasil e nos Estados Unidos, cujos Bancos
-Centrais optaram por não alterar suas taxas básicas de juros,
-mantidas em 13,75% a.a. e 5,25% a.a., respectivamente.
-Diferentemente do último, que provavelmente elevará os juros
-na sua próxima reunião, a contraparte brasileira sugeriu ser
-verossímil o início de cortes dos juros em agosto.
-Segundo a ata publicado após a última decisão, a queda dos
-juros, quando iniciada, deverá ocorrer de forma parcimoniosa, e
-está condicionada à reancoragem das expectativas de inflação.
-Fonte: Bloomberg
-Os ativos brasileiros tiveram valorização relevante em junhoClassificação da informação: Uso Interno
+Cenário Econômico | Agosto/23
+Contribuíram esse movimento o aumento do rating soberano
+pela Fitch e as surpresas benignas nos índices de preços. O
+IPCA de junho e o IPCA-15 de julho registraram deflações de
+e
+respectivamente,
+com
+importantes
+contribuições: (i) do desconto aplicado na conta de energia dos
+consumidores no mês de julho (“Bônus Itaipu”); (ii) do desconto
+da medida provisória de veículos novos; e, (iii) da redução na
+alimentação no domicílio devido a sazonalidade positiva para os
+preços de alimentos. Projetamos que o IPCA encerrará o ano em
+4,8% e atingirá 3,9% em 2024.
+Os ativos brasileiros seguiram valorizando em julho
+Fonte: IBGE, Sicredi Asset ManagementClassificação da informação: Uso Interno
+O texto da reforma tributária, aprovado com 375 votos a favor e 113 contra, traz uma proposta para a tributação sobre bens e serviços
+no Brasil, com destaque para:
+(i)
+IVA dual (CBS-federal e IBS-estados/municípios) + Imposto seletivo (bens prejudiciais à saúde e ao meio-ambiente), substituindo
+PIS, Cofins, IPI, ICMS e ISS;
+(ii)
+Impostos do tipo IVA atendem ao critério de não-cumulatividade, isto é, com a reforma deixarão de ser cobrados impostos sobre
+impostos;
+(iii) Mesma alíquota em todo o país incidindo sobre o consumo, independentemente de ser mercadoria ou serviço;
+(iv) A cobrança ocorrerá no local onde o produto é consumido e não onde é produzido.
+A fim de ter uma aprovação célere algumas exceções foram permitidas:
+(i)
+Alíquotas reduzidas (40% da alíquota padrão): medicamentos, educação, saúde, transporte público coletivo e produção rural;
+(ii)
+Alíquotas nulas (itens que não serão tributados): itens da cesta básica e serviços relacionados a Perse (eventos).
+Destaque para a aprovação da reforma tributária na Câmara
 Sicredi Asset Management
-Cenário Econômico | Julho/23
-A recente decisão do Conselho Monetário Nacional (CMN) foi
-fundamental
-para
-esse
-processo,
-já
-que
-alguns
-agentes
-consideravam mais provável uma elevação da meta de inflação,
-como assumíamos até poucos dias antes da decisão. Caso isso
-ocorresse, existiria espaço para deterioração das expectativas de
-inflação e postergação do início do ciclo de cortes dos juros.
-Essa, entretanto, não foi a decisão do Conselho, que manteve a
-meta para a inflação de 2024 em 3% com intervalo de
-tolerância de 1,5 p.p. para mais e para menos. Além disso, o
-CMN definiu que, a partir de 2025, o regime de metas passará a
-ser contínuo, e não mais restrito ao ano-calendário.
+Cenário Econômico | Agosto/23Classificação da informação: Uso Interno
+(i)
+Criação de um Fundo de Desenvolvimento Regional (FDR), para acomodar a mudança da cobrança da origem para o destino
+(combater as desigualdades regionais) e as perdas de arrecadação até 2032;
+(ii)
+Criação de um Conselho Federativo, para harmonizar os IBS subnacionais;
+(iii) Cesta básica: discute-se sistema de cashback, semelhante ao Devolve ICMS, do governo do RS de parte do IBS.
+Cabe ressaltar que os detalhamentos da reforma devem ser regulamentados por leis complementares e que o texto passará ainda pelo
+Senado.
+Sicredi Asset Management
+Cenário Econômico | Agosto/23
+Outros pontos importantes do textoClassificação da informação: Uso Interno
+Sicredi Asset Management
+Cenário Econômico | Agosto/23
+Nesse cenário, o Banco Central iniciou o ciclo de flexibilização
+monetária na reunião de agosto, com um corte de 50 pontos-
+base, surpreendendo o mercado e nossa projeção central, ambas
+de 25 pontos-base.
+Com base no comunicado emitido pela autoridade monetária
+logo após a reunião, passamos a projetar que a Selic encerrará
+2023 em 11,50% ao ano e 2024 em 8,50% ao ano.
 Fonte: Banco Central, Sicredi Asset Management
-As expectativas de inflação estão em processo de reancoragemClassificação da informação: Uso Interno
-Sicredi Asset Management
-Cenário Econômico | Julho/23
-Tendo em vista essa série de eventos, alteramos o cenário
-básico com que trabalhamos. Antecipamos melhora adicional
-das expectativas de inflação, mais pronunciada nos dados de
-médio/longo prazo, mas que também deverá ser verificada para
-o horizonte de 12 meses (suavizada).
-Esse movimento, em particular, deverá ser suficiente para que o
-Copom passe a projetar inflação para o horizonte relevante ao
-redor do centro da meta na sua próxima reunião. Reunirá,
-portanto, as condições para reduzir a taxa Selic em 25 pontos-
-base em agosto e 50 pontos-base nas reuniões subsequentes,
-encerrando o ano em 12,00% a.a. e 8,00% a.a. no final de 2024.
-Fonte: Banco Central, Sicredi Asset Management
-O ciclo de corte dos juros deve ter início em agostoClassificação da informação: Uso Interno
-Sicredi Asset Management
-Cenário Econômico | Julho/23
-O IPCA-15 do mês de junho desacelerou frente a leitura do
-IPCA de maio (de 0,23% para 0,04%), fundamentalmente,
-devido à deflação nos preços de alimentação no domicílio,
-veículos e monitorados, e.g., gasolina, diesel e botijão de gás.
-Além dessa surpresa baixista, passamos a considerar no nosso
-cenário o corte nos combustíveis recentemente anunciado pela
-Petrobrás.
-Projetamos variação de 4,9% para o IPCA do fim desse ano e
-convergência gradual em direção à meta ao longo de 2024.
-Fonte: IBGE, Sicredi Asset Management
-A inflação ao consumidor (por ora) seguirá em quedaClassificação da informação: Uso Interno
-Sicredi Asset Management
-Cenário Econômico | Julho/23
-Cenário Prospectivo
+O ciclo de corte dos juros teve início nessa reuniãoClassificação da informação: Uso Interno
 Atividade Econômica
 Crescimento Real do PIB
 Taxa de Câmbio
@@ -85,8 +65,11 @@ USDBRL
 Inflação
 IPCA
 Taxa de Juros
-SelicClassificação da informação: Uso Interno
-Cenário Econômico | Julho/23
+Selic
+Sicredi Asset Management
+Cenário Econômico | Agosto/23
+Cenário ProspectivoClassificação da informação: Uso Interno
+Cenário Econômico | Agosto/23
 Sicredi Asset Management
 DISCLAIMER
 Esse documento foi produzido pela Sicredi Asset Management, que é o segmento da Confederação Sicredi especializado em gestão de

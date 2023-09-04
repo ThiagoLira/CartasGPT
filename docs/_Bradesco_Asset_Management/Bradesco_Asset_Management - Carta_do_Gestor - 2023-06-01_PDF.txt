@@ -1,512 +1,2158 @@
-CENÁRIO ECONÔMICO
-BRASIL: O Banco Central manteve a taxa básica em 13,75%, em linha com as
-expectativas do mercado.
-EUA: O Banco Central americano (Fed) elevou a taxa básica de juros em 25 pb,
-levando a taxa para o intervalo entre 5,00% e 5,25%.
-EUROPA: O Banco Central Europeu desacelerou o ritmo e elevou a taxa de juros
-em 25 bp.
-CHINA: Perda de ritmo da economia chinesa, após reabertura, sugere crescimento
-deste ano mais moderado do que o esperado inicialmente.
-PROJEÇÕESRENDA FIXA
-O processo de desinflação e desaceleração do PIB ainda está em curso, o que influencia as 
-expectativas e estratégias dos investidores no Brasil. 
-RENDA VARIÁVEL
-Neste mês de maio, vimos um alívio tanto no cenário global quanto local, impulsionado pela 
-estabilização da crise bancária nos EUA, notícias positivas sobre inflação e queda nas 
-expectativas de juros. 
-MULTIMERCADO
-Retorno dos principais índices e desempenho dos fundos multimercado
-FUNDOS ESPELHOS
-Desempenho dos fundos espelhosBRASIL
-O Banco Central manteve a taxa básica em 13,75%, em linha com as expectativas do
-mercado. Na ata da reunião, o Comitê citou as incertezas quanto às condições financeiras
-no ambiente externo, mas reconheceu o impacto limitado, até o momento, sobre a
-economia doméstica. No ambiente interno, a ata enfatizou que o conjunto de indicadores
-recentes segue apontando para uma redução gradual do crescimento, com moderação nos
-indicadores coincidentes de atividade e desaceleração na margem das concessões de
-crédito, apesar de resiliência maior do que a esperada para o mercado de trabalho. Na
-discussão sobre o cenário, o Comitê considerou elevar sua estimativa de taxa neutra de
-juros, mas optou por mantê-la em 4%. Para alguns membros, o processo de desinflação
-mais lento, junto com uma atividade econômica mais resiliente, poderiam indicar uma taxa
-neutra mais elevada do que a medida utilizada pelo Copom, o que implicaria um impacto
-menos contracionista da taxa Selic atual. No entanto, a maioria dos membros julgou que tal
-intepretação ainda é prematura. Quanto ao balanço de riscos, o Copom destacou que há
-fatores de risco em ambas as direções para a inflação e as expectativas de inflação, o que
-exige atenção na condução da política monetária. Com relação ao arcabouço fiscal, o
-Comitê reforçou que, embora a apresentação da nova regra tenha reduzido a incerteza
-associada a cenários extremos de crescimento da dívida pública, não há relação mecânica
-entre a convergência de inflação e a aprovação do arcabouço fiscal. Dessa forma, o Copom
-avaliou que a manutenção da taxa de juros no patamar atual é compatível com a estratégia
-de convergência da inflação para o redor da meta ao longo do horizonte relevante.
-Mantivemos nosso cenário de cortes na taxa de juros a partir da reunião de setembro,
-encerrando o ano de 2023 em 12,50%.
-Mesmo com as altas observadas da produção industrial, do comércio varejista e de
-serviços em março, o índice de atividade do Banco Central registrou queda de 0,2% em
-SUMÁRIOmarço. A divergência em relação aos principais indicadores mensais provavelmente se
-deveu ao desempenho do setor agropecuário, cujo maior impacto deve ter se concentrado
-em fevereiro. Dessa forma, após um primeiro trimestre forte, mantivemos nossa
-expectativa de moderação do crescimento no restante deste ano, reconhecendo, contudo,
-que a resiliência do mercado de trabalho pode contribuir para um processo de
-desaceleração mais lento. Assim, apesar dessas surpresas positivas com o desempenho da
-atividade econômica no início deste ano, entendemos que os efeitos do aperto da política
-monetária ficarão mais evidentes a partir do 2º trimestre.
-Prévia da inflação mensal desacelerou na passagem de abril para maio, exibindo alta de
-0,51% no mês. O IPCA-15 ficou abaixo das expectativas, desacelerando em 12 meses
-(4,07% ante 4,20% no mês anterior). A maior variação positiva derivou de saúde e cuidados
-pessoais (1,49%), refletindo o aumento de 2,68% nos preços dos produtos farmacêuticos.
-Apesar do impacto positivo, essa elevação ficou abaixo das expectativas, com um repasse
-menor do reajuste de 5,6% em medicamentos aprovado para abril. O destaque positivo
-mais relevante ficou por conta do grupo alimentação e bebidas, variando 0,9% na margem,
-puxado pela alta do subgrupo alimentação no domicílio (1,02%), que reverteu a queda de
-0,15% registrada no mês anterior. Na variação acumulada em 12 meses, o subgrupo seguiu
-desacelerando (5,1%, ante 5,8%), refletindo tendência de inflação de alimentos mais baixa
-em 2023. A maior variação negativa, por sua vez, veio de artigos de residência (-0,28%),
-com queda de 1,44% nos itens TV, som e informática (0,92%) em eletrodomésticos e
-equipamentos. Com relação ao grupo de bens industriais, na variação acumulada em 12
-meses houve recuo de 6,5% para 5,2%, com arrefecimento tanto em bens duráveis (1,7%)
-como em semiduráveis (10,0%). Os preços administrados apresentaram recuo de 1,1% na
-SUMÁRIOmargem, com manutenção do processo de queda na variação acumulada em 12 meses (-
-0,61%). Por fim, vale ressaltar a desaceleração mais intensa do grupo de serviços, variando
-de 0,53% para -0,06% na margem e de 7,6% para 6,5% no acumulado de 12 meses, devido
-ao recuo de cerca de 17% em passagens aéreas.
+CENÁRIO ECONÔMICO:
+BRASIL: Na ata da última reunião do Comitê de Política Monetária (Copom), que
+manteve a taxa Selic em 13,75%, o Banco Central sinalizou a possibilidade de início de
+cortes na próxima reunião.
+EUA: No cenário internacional, o Banco Central americano (Fed) interrompeu a
+sequência de alta da taxa de juros e a manteve no intervalo entre 5,00% e 5,25%,
+conforme a expectativa do mercado.
+EUROPA:
+Na Europa, por sua vez, o Banco Central Europeu (BCE) desacelerou o
+ritmo e elevou a taxa de juros em 25 pontos-base.
+CHINA: Por fim, após forte crescimento da economia chinesa, observado no
+primeiro trimestre do ano, os sinais de moderação da atividade têm se consolidado.
+PROJEÇÕES:
+Projeções da Bradesco Asset para os principais indicadores
+macroeconômicos.
+RENDA FIXA: No cenário global, observa-se uma queda na inflação, porém com
+sinais contraditórios em relação à atividade econômica, com núcleos de inflação
+ainda elevados, o que tem levado a uma volatilidade adicional a variação das taxas de
+juros.
+RENDA VARIÁVEL: No mundo, o 1º semestre de 2023 se encerrou melhor do
+que o previsto para os ativos de risco, ou seja, com retornos positivos no geral.
+MULTIMERCADO: Retorno dos principais índices e desempenho dos fundos
+multimercado.
+CAMBIAL: Retorno fundos cambiais.
+FUNDOS ESPELHOS: Desempenho dos fundos espelhos.BRASIL
+Na ata da última reunião do Comitê de Política Monetária (Copom), que manteve
+a taxa Selic em 13,75%, o Banco Central sinalizou a possibilidade de início de
+cortes na próxima reunião. Sobre o cenário externo, o Comitê destacou que os
+principais bancos centrais continuam determinados em conter a inflação, inclusive
+com a retomada de ciclos de elevação de juros em alguns casos. Em relação ao
+cenário doméstico, o Copom considerou que, apesar da surpresa positiva do PIB no
+primeiro trimestre, os indicadores recentes sugerem uma desaceleração gradual da
+atividade econômica, além de ressaltar que, não obstante o arrefecimento
+apontando pelos índices cheios de inflação, diversas medidas de inflação estão
+acima da meta. Na avaliação do cenário, o Comitê optou por elevar a estimativa da
+taxa de juros real neutra de 4,0% para 4,5%, influenciado pela possível elevação na
+taxa neutra dos principais países e pela persistência da atividade no Brasil,
+acompanhada de uma desinflação lenta, com componentes mais sensíveis à
+política monetária permanecendo acima do compatível com o cumprimento da
+meta. Por fim, na discussão sobre a condução da política monetária, a avaliação
+predominante foi de que o atual processo de desinflação poderia possibilitar um
+começo de ciclo de corte de juros na próxima reunião, enquanto o grupo
+minoritário apresentou uma postura mais cautelosa.
+A respeito dos dados econômicos, a prévia da inflação mensal continuou a
+desacelerar em maio, com alta de 0,04% no mês. O IPCA-15 ficou levemente
+acima da expectativa do mercado e da nossa projeção (ambas de 0,02%),
+chegando a uma variação acumulada em 12 meses de 3,4%, ante 4,1% abril.
+SUMÁRIOCom relação aos núcleos da inflação, a média anualizada de três meses com ajuste
+sazonal registrou recuo de 5,4% em abril para 4,9% em maio. Em linha com esse
+resultado, a variação acumulada em doze meses seguiu desacelerando em
+comparação com o mês anterior (6,2% ante 6,8%). Dessa forma, mantemos nossa
+projeção de 2023 em 5,0% e revisamos nossa projeção de 2024 de 3,6% para 3,5%,
+diante do recuo relevante das projeções de 2023 e da definição quanto a
+manutenção da meta oficializada pelo Conselho Monetário Nacional.
+O PIB do 1º trimestre registou avanço de 1,9% na margem, superando a nossa
+projeção mediana das expectativas do mercado (1,2%). Pela ótica da oferta, a
+agropecuária teve o melhor desempenho e foi responsável por 1,7 p.p. do
+crescimento total no trimestre, com alta de 21,6% na margem derivada da safra
+recorde de soja e milho no período. Em serviços, houve avanço de 0,6%, com as
+contribuições mais relevantes derivadas de intermediação financeira (1,2%) e
+administração pública (0,5%). Por sua vez, os destaques negativos vieram de
+outros serviços (-0,5%) e serviços de informação (-1,4%). Pela ótica da demanda, o
+maior destaque foi o desempenho líquido do setor externo, com queda de 0,4% na
+margem das exportações inferior à de 7,1% das importações na comparação com o
+trimestre anterior. Tanto o consumo das famílias como o do governo tiveram alta,
+avançando respectivamente 0,2% e 0,3% na margem. O destaque negativo foi a
+queda de 3,4% da formação bruta de capital fixo, decorrente do menor consumo
+aparente de bens de capital e da construção civil. Com isso, realizamos uma revisão
+altista da projeção do PIB para este ano, esperando crescimento de 1,9%, porém
+ainda considerando um cenário de desaceleração mais intensa da atividade para as
+próximas leituras.
 SUMÁRIOEUA
-O Banco Central americano (Fed) elevou a taxa básica de juros em 25 pb, levando a taxa
-para o intervalo entre 5,00% e 5,25%. No que tange ao cenário atual, o comitê de política
-monetária
-(FOMC)
-reconheceu
-a
-expansão
-modesta
-da
-atividade
-econômica,
-a
-continuidade da força no mercado de trabalho e a persistência da inflação em níveis
-elevados. Como na última reunião, apesar da afirmação de resiliência do sistema bancário,
-reconheceu que os episódios recentes envolvendo bancos americanos devem implicar
-condições de crédito mais apertadas. Ao contrário do que foi dito na decisão de março, o
-Fed não antecipou novos aumentos, ressaltando que novos ajustes ocorrerão mediante a
-observação dos indicadores econômicos, e levando em conta o efeito defasagem das
-recentes elevações de juros na economia. Com isso, o Fed abriu a possibilidade de
-interromper o ciclo de aperto monetário.
+No cenário internacional, o Banco Central americano (Fed) interrompeu a
+sequência de alta da taxa de juros e a manteve no intervalo entre 5,00% e
+5,25%, conforme a expectativa do mercado. Em relação ao cenário, o comitê de
+política monetária (FOMC) reafirmou a continuidade da expansão moderada da
+atividade, a condição apertada do mercado de trabalho e o nível elevado da
+inflação. Novamente, apesar de ressaltar a solidez do sistema bancário, o comitê
+chamou atenção para a possibilidade de condições de crédito mais apertadas e a
+incerteza dos efeitos desse panorama. Com viés de alta para a reunião de julho, o
+Fed justificou a opção por pausar a alta de juros como uma estratégia que
+possibilitará uma avaliação do efeito defasado do aperto monetário. Em relação às
+projeções, houve alta para crescimento do PIB e inflação, e redução para a projeção
+da taxa de desemprego. Como implicação desse cenário, o comitê ainda projeta
+duas altas de juros de 25 pb nesse ano.
 SUMÁRIOEUROPA
-O Banco Central Europeu desacelerou o ritmo e elevou a taxa de juros em 25 bp. A
-inflação ainda pressionada, combinada com o aperto em curso do mercado de crédito, foi
-determinante para a decisão do Banco Central Europeu, dentro do esperado pelo mercado
-e desacelerando em relação à alta de 50 bp das reuniões anteriores. Com isso, a taxa de
-juros aplicável às operações de refinanciamento e as taxas de juros aplicáveis às linhas
-permanentes
-de
-liquidez
-e
-de
-depósito
-subiram
-para
-e
-respectivamente. Além de reforçar que a inflação está e seguirá elevada por algum tempo,
-a presidente da instituição Christine Lagarde destacou, na coletiva de imprensa após a
-decisão, que os juros continuarão subindo nas próximas reuniões, dado que a política
-monetária não está em nível suficientemente restritivo para trazer o índice de preço de
-volta para a meta de 2%. Ainda assim, chamou atenção que a transmissão da alta de juros
-adotada até aqui – de 375 bps – já é percebida nas condições de crédito, com queda da
-demanda e aperto das condições por parte dos bancos. A respeito dos dados econômicos,
-o resultado prévio do índice de preços ao consumidor de abril teve alta interanual de 7,0%
-no índice cheio e 5,6% do núcleo. Mesmo que a inflação já tenha feito pico e os preços de
-energia e de bens sigam sua tendência de alívio, o nível elevado e o comportamento de
-serviços demandam atenção e devem manter o BCE com tom duro nos meses à frente.
-Dessa forma, mantemos nossa expectativa de mais 2 altas dos juros, de 25 bps, em junho e
-julho, levando a taxa básica para 3,75%.
+Na Europa, por sua vez, o Banco Central Europeu (BCE) desacelerou o ritmo e
+elevou a taxa de juros em 25 pontos-base. A inflação ainda pressionada,
+combinada com o aperto em curso do mercado de crédito, foi determinante para a
+decisão do BCE, dentro do esperado pelo mercado e desacelerando em relação à
+alta de 50 pb das reuniões anteriores. Com isso, a taxa de juros aplicável às
+operações de refinanciamento e as taxas de juros aplicáveis às linhas permanentes
+de liquidez e de depósito subiram para 3,75%, 4,00% e 3,25%, respectivamente.
+Além de reforçar que a inflação está e seguirá elevada por algum tempo, a
+presidente da instituição Christine Lagarde destacou, na coletiva de imprensa após
+a decisão, que os juros continuarão subindo nas próximas reuniões, dado que a
+política monetária não está em nível suficientemente restritivo para trazer o índice
+de preço de volta para a meta de 2%. Dessa forma, mantemos nossa expectativa
+de mais 2 altas dos juros, de 25 pb, em junho e julho, levando a taxa básica para
+3,75%.
 SUMÁRIOCHINA
-Perda de ritmo da economia chinesa, após reabertura, sugere crescimento deste ano
-mais moderado do que o esperado inicialmente. Os resultados dos indicadores de
-atividade de abril, somados aos de comércio exterior e crédito, frustraram as expectativas
-e sugerem que a retomada da economia chinesa ainda depende de uma melhora mais
-espraiada da confiança e não deve contar com o reaquecimento do setor imobiliário. A
-produção industrial – que reflete tanto a demanda externa como interna – avançou 5,6%
-em abril em relação ao mesmo mês de 2022, abaixo do esperado (10,9%), mas acima do
-verificado em março (3,9%). As vendas do comércio registraram expansão interanual de
-18,4%, ante projeção do mercado de alta de 21,9%, após crescimento de 10,6% no mês
-anterior. Refletindo principalmente a retração do setor imobiliário, os investimentos em
-ativos fixos mostraram alta de 4,7% no acumulado do ano, frustrando o consenso das
-expectativas (5,7%) e desacelerando em relação a março (5,1%). Para os próximos meses,
-acreditamos que o crescimento do consumo é sustentável e as exportações devem ceder.
-As incertezas, por sua vez, seguem concentradas no setor imobiliário residencial, cujas
-vendas recuaram nos últimos meses e os lançamentos ainda não exibiram recuperação
-neste ano. Nesse cenário, entendemos que o governo deve lançar mão de alguns estímulos
-– monetários, mas também voltados ao setor imobiliário – como forma de estancar a
-desaceleração em curso. Com isso, o PIB deve crescer 5,3% neste ano.
+Por fim, após forte crescimento da economia chinesa, observado no primeiro
+trimestre do ano, os sinais de moderação da atividade têm se consolidado.
+Dentro do esperado, o índice PMI do setor de manufatura mostrou leve alta de 48,8
+para 49,0 pontos e o indicador dos setores não industriais (que consideram
+serviços e construção) recuou de 54,5 para 53,2 pontos, entre maio e junho.
+Somado a isso, dados de alta frequência apontam que o arrefecimento das vendas
+de
+imóveis
+não
+foi
+interrompido,
+aumentando
+as
+incertezas
+sobre
+a
+sustentabilidade do crescimento. A moderação da indústria e a piora do setor
+imobiliário
+residencial
+justificam
+nossa
+expectativa
+mais
+cautelosa
+para
+o
+crescimento deste ano. Mesmo esperando medidas de estímulos, essas devem ser
+contidas e serão capazes apenas de estancar a desaceleração em curso.
 SUMÁRIOAs projeções expressas neste relatório são apenas indicativas e não são garantidas de forma alguma. 
 PIB
 SELIC
 IPCA
 DÓLAR
-SUMÁRIOO processo de desinflação e desaceleração do PIB ainda está em curso, o que influencia as
-expectativas e estratégias dos investidores no Brasil. Além disso, houve uma nova
-estabilização da crise bancária nos EUA, com um aperto de crédito moderado, e não há
-sinais de recessão nesse país.
-No exterior, os dados correntes de emprego e inflação trazem de volta ao cenário base a
-continuidade do aperto de juros por parte do Fed e a expectativa de um dólar forte no
-curto prazo. Na Europa, os núcleos de inflação continuam apontando para uma postura
-ativa do Banco Central Europeu, que busca acompanhar a evolução da inflação.
-No mercado doméstico, observamos que as condições para a redução de juros ainda não
-estão presentes, mas há progresso nesse sentido. O início da inflexão dos núcleos de
-inflação, quebrando o platô de 6%, é um sinal positivo nesse processo. Além disso, o
-desempenho da atividade corrente tem se mostrado acima do esperado. Nesse sentido, a
-Bradesco Asset revisou suas expectativas de inflação para o final de 2023: IPCA de 5,4% e
-manutenção de Selic de 12,50%, com um ajuste para baixo para o final de 2024 para 9%.
-Outro fator relevante a ser considerado é o arcabouço fiscal, que tem levado a uma
-remoção do cenário de desequilíbrio macroeconômico. Nesse sentido, a aprovação de uma
-versão reduzida da Reforma Tributária contribuiria para melhorar as perspectivas
-econômicas. Por fim, destacamos a mudança de visão sobre a meta de inflação, com a
-provável manutenção do centro e a alteração da banda e do horizonte. Essa mudança
-representa um ajuste importante no cenário macroeconômico, influenciando as estratégias
-de investimento.
-No mês de maio, o mercado de renda fixa apresentou um desempenho surpreendente,
-destacando-se como o melhor mês dos últimos anos, o que contrastou com o
-comportamento dos mercados de juros globais. Enquanto o mercado americano registrou
-um aumento de quase 40 pontos, o mercado local apresentou uma queda de 70 pontos. O
-IMA-B, índice da Anbima de ativos atrelados à inflação, foi o destaque com alta de 2,53%,
-seguido pelo IRF-M, índice de ativos prefixados, com 2,2% no mês.
-O real, apesar de manter desempenho positivo no ano, foi negativamente impactado em
-1,9% devido a possível continuidade do aumento dos juros nos EUA.
+SUMÁRIONo
+cenário
+global, observa-se
+uma
+queda
+na
+inflação,
+porém
+com sinais
+contraditórios em relação à atividade econômica, com núcleos de inflação ainda
+elevados, o que tem levado a uma volatilidade adicional a variação das taxas de
+juros. As expectativas de juros para 2 anos subiram aproximadamente 30 bps em
+países desenvolvidos. Nos EUA, o Fed parou de elevar a taxa de juros básica, porém
+manteve a indicação de continuidade do ciclo, podendo elevá-la até 5,5% ao ano
+ainda em 2023 de acordo com a expectativa da gestão. Embora o processo de
+desinflação seja considerado errático e desconfortável, o Fed tem mostrado
+progresso no ajuste dos juros. No entanto, há um crescimento abaixo do esperado
+no Índice de Gerentes de Compras (ISM) de serviços, bem como uma desaceleração
+no crédito ao consumidor e um aumento no auxílio-desemprego. Há uma
+percepção de que não é o momento adequado para interromper o aumento dos
+juros definitivamente. O Reino Unido enfrenta pressões consideráveis e a Zona do
+Euro,
+embora
+em menor medida,
+também
+está
+atrasada
+no processo de
+normalização, o que se reflete em uma curva de precificação indicando contração
+na atividade para ambos. Em relação à China, as revisões do PIB têm sido voláteis e,
+embora
+o mercado
+esteja mais otimista
+desde
+a reabertura, os
+gestores
+permanecem cautelosos devido à fragilidade contínua do mercado imobiliário, que
+representa uma parcela significativa da economia chinesa.
+No contexto dos países emergentes, espera-se uma redução nas taxas de juros
+nesse ano em sua maioria, uma vez que as expectativas de inflação estão próximas
+das metas estabelecidas. A taxa para o prazo de 2 anos indica um ciclo de cortes
+acentuados, com queda nesse mês de aproximadamente 50 bps. No caso da
+Colômbia, embora não tenha atingido o pico da inflação, a desaceleração do
+mercado de trabalho deve levar a uma redução de juros por lá. Já para o México, a
+SUMÁRIOprevisão é de cortes apenas no início de 2024, devido a uma atividade ainda
+robusta. Se confirmada essa política de flexibilização, é possível que ocorra uma
+desvalorização das moedas dos países emergentes.
+No Brasil, a gestão espera uma redução da taxa de juros a partir de agosto, dado o
+teor da ata do COPOM divulgada na última semana do mês. A expectativa é de que
+a Selic termine o ano em 12,00%. A fase final do arcabouço fiscal que volta para a
+Câmara traz expectativas otimistas, que são reforçadas por uma manutenção por
+parte do Conselho Monetário Nacional (CMN) do alvo de inflação em 3% para 2026.
+Quanto à inflação, os preços das commodities impactam os núcleos inflacionários,
+direcionando-os para uma trajetória de queda. O setor agrícola tem contribuído
+com maior crescimento e com impactos positivos na inflação.
+No mês de junho, o mercado de renda fixa apresentou um desempenho
+surpreendente, em linha com o desempenho dos outros meses. Destaque para o
+resultado dos subíndices de renda fixa da Anbima de longo prazo, como o IMA-B
+5+, de ativos atrelados à inflação com vencimentos superiores a 5 anos, com 3,37%
+no mês e 14,91% no ano, seguido pelo IRF-M 1+, de ativos prefixados com
+vencimentos superiores a 1 ano, com 2,65% no mês e 11,41% no ano.
 SUMÁRIOMÊS
 ANO
 SUMÁRIO
+Crédito Corporativo IE (CNPJ: 28.515.917/0001-48)
+O fundo com exposição a ativos corporativos brasileiros emitidos no exterior
+obteve desempenho positivo, porém abaixo do CDI. Os ativos corporativos no
+exterior e o CDS tiveram performance positiva, porém a abertura das taxas de
+juros americanas impactou negativamente a estratégia. No mercado offshore,
+nota-se um maior temor em relação ao teto da dívida americana, porém a
+situação caminha para uma solução. Os prêmios corporativos parecem estar
+comprimidos, exigindo maior seletividade. A volatilidade dos títulos do tesouro
+americano permanece alta, o que requer cautela nos momentos de entrada e
+saída. Como os spreads corporativos estão menores e menos atrativos, a gestão
+está alocando um pouco mais ativos soberanos brasileiros, e permanece sem
+hedge para variação das treasuries.
 IMA-B
-IDKA PRE 2A
+IDKA PRE
 IRF-M
 IMA
 IMA-S
 CDI
 IMA-B
-IDKA PRE 2A
+IDKA PRE
 IRF-M
 IMA
 IMA-S
-CDI
-Crédito Privado Plus (CNPJ: 32.387.924/0001-89)
-O resultado da estratégia no mês foi positivo e acima do CDI. A maior contribuição para o
-portfólio vem do lado corporativo com Hapvida, Rede D'or e Intermédica. Do lado
-bancário, as letras financeiras de Bradesco, Santander e Banco do Brasil também
-contribuíram positivamente. Por outro lado, as Letras financeiras de Itaú, Renault e
-Portoseguro, além dos papéis corporativos de Assai, Viveo e Equatorial apresentaram
-resultados menos favoráveis. O ritmo de resgastes nessa classe reduziu, e se observa um
-mercado secundário corporativo com maior demanda, gerando um fechamento de
-spreads. Esse movimento tem proporcionado uma oportunidade de renovação da
-carteira, a gestão está vendendo papéis com grande fechamento de spread, que tem
-gerado ganho de capital, e trocando por ativos de alta qualidade mantendo a seletividade
-na alocação. Do lado bancário, há uma abertura em papéis de bancos médios, devido a
-necessidade de emissão. A gestão adquiriu aproximadamente 3,67% do PL em papéis de
-crédito, com destaque para Hypera, Bradesco e NTS. O total de crédito privado está em
-77% do patrimônio do fundo. Os papéis que compõem esta carteira são de alta qualidade
-e de boa liquidez. O carrego está mais elevado.Crédito Privado Ultra (CNPJ: 37.532.786/0001-06)
-O fundo crédito privado Ultra, que tem como diferencial uma estratégia mais concentrada
-em crédito privado com maior liberdade na alocação, obteve um resultado positivo, porém
-abaixo do CDI. A maior contribuição para o portfólio vem do lado corporativo com Rede
-D'or, Intermédica e Braskem. Do lado bancário, as letras financeiras de Bradesco, Santander
-e Banco do Brasil também contribuíram positivamente. Por outro lado, as Letras financeiras
-de Itaú, Sicred e Daycoval, além dos papéis corporativos de Assai, Eneva e Viveo
-apresentaram resultados menos favoráveis. O ritmo de resgastes nessa classe reduziu, e
-se observa um mercado secundário corporativo com maior demanda, gerando um
-fechamento de spreads. Esse movimento tem proporcionado uma oportunidade de
-renovação da carteira, a gestão está vendendo papéis com grande fechamento de spread,
-que tem gerado ganho de capital, e trocando por ativos de alta qualidade mantendo a
-seletividade na alocação. Do lado bancário, há uma abertura em papéis de bancos médios,
-devido a necessidade de emissão. Os detaques das compras foram Celg, Tecnologia
-Bancária e Rio Paraná. Alinhado com a expectativa de risco e retorno da estratégia, o fundo
-está mais alocado em papéis corporativos, que têm apresentado maior fechamento de
-spreads. O fundo está aberto para captação e a gestão segue comprando para melhor
-alocá-lo. O fundo está com aproximadamente 92% em crédito privado.
-Debêntures Incentivadas CDI (CNPJ: 32.388.012/0001-21)
-O fundo de debêntures incentivadas, que detém uma estratégia específica em crédito
-privado, para fomento da infraestrutura no Brasil e com incentivo fiscal para o investidor
-pessoa física, obteve desempenho positivo e expressivo acima do CDI. A maior contribuição
-vem de CCRO, Energisa e Holding do Araguaia. Os detratores foram Rota das Bandeiras,
-Copasa e Ferreira Gomes. O mercado de papéis atrelados à inflação, após a deterioração
-dos spreads para máximas históricas, tem apresentado uma mudança no comportamento
-dos investidores e, com isso, nota-se uma maior procura por esses ativos. O nível de
-spreads recuou em torno de 80bps da máxima e se estabilizou. A expectativa é de que as
-taxas permaneçam nesses níveis por algum tempo. A gestão aproveitou para trocar os
-papéis e adicionar carregos maiores, em um momento em que se observa um fechamento
-expressivo dos spreads indexados ao IPCA. As maiores compras foram Tim, Juturnaiba e
-CEEE. O mercado secundário está mais comprador. O nível de crédito está em 89%.
-SUMÁRIOCrédito Corporativo IE (CNPJ: 28.515.917/0001-48)
-O fundo com exposição a ativos corporativos brasileiros emitidos no exterior obteve
-desempenho positivo porém abaixo do CDI. Os ativos corporativos no exterior e o CDS
-tiveram performance positiva, porém a abertura das taxas de juros americanas impactou
-negativamente a estratégia. No mercado offshore, nota-se um maior temor em relação ao
-teto da dívida americana, porém a situação caminha para uma solução. Os prêmios
-corporativos parecem estar comprimidos, exigindo maior seletividade. A volatilidade dos
-títulos do tesouro americano permanece alta, o que requer cautela nos momentos de
-entrada e saída. Como os spreads corporativos estão menores e menos atrativos, a
-gestão está alocando um pouco mais ativos soberanos brasileiros. O portfolio permanece
-sem hedge para variação das treasuries.
+CDISUMÁRIO
+Crédito Privado Inflação (CNPJ: 44.315.854/0001-32)
+O Fundo de Crédito Privado Inflação, que tem como objetivo superar o índice da
+Anbima de papéis atrelados à inflação de curto prazo, o IMA-B 5, obteve
+desempenho superior ao indicador e segue com performance nominal no ano
+bastante atrativa. A maior contribuição para o portfólio vem do lado corporativo,
+com papéis incentivados da Concessionária Raposo Tavares, Cemig e UTE GNA e
+debênture normal de Copel. Do lado bancário, as letras financeiras de Bradesco,
+Santander e BB também contribuíram positivamente. Por outro lado, as Letras
+financeiras de Renault, Itaú, CNH, além dos papéis corporativos de Aliansce
+Sonae, Assai e Taesa. O mercado de crédito privado segue apresentando um
+desempenho positivo, em linha com a maior demanda pela classe em um
+momento ainda de emissões primárias fracas. O destaque principal vai para uma
+queda expressiva do fluxo de resgates. A gestão segue aproveitando as
+oportunidades para trocar papéis que sofreram grandes quedas de spreads, por
+papéis de igual qualidade com spreads maiores. É importante ressaltar que a
+qualidade de uma carteira de crédito não está isenta de desafios, por isso
+reforçamos a importância de uma seleção criteriosa. A estratégia para esse
+período está pautada em comprar papéis de alta qualidade, sendo assim, a
+gestão comprou aproximadamente 4,6% do patrimônio, com destaque para
+Copel, Cemig e Anhanguera. O nível atual de alocação em crédito está em 77% do
+patrimônio do fundo.
 Crédito Privado Performance 22 (CNPJ: 20.216.336/0001-01)
-O fundo perfomance 22, que aloca nas estratégias mais concentradas em crédito privado
-da Bradesco Asset, obteve um resultado positivo, porém abaixo do CDI. A maior
-contribuição para o portfólio vem do lado corporativo com Rede D'or, Intermédica e
-Sulamerica. Do lado bancário, as letras financeiras de Bradesco, Santander e Banco do
-Brasil também contribuíram positivamente. Por outro lado, as Letras financeiras de Itaú,
-GM e Renault, além dos papéis corporativos de Assai, Viveo e Equatorial apresentaram
-resultados menos favoráveis. O ritmo de resgastes nessa classe reduziu, e se observa um
-mercado secundário corporativo com maior demanda, gerando um fechamento de
-spreads. Esse movimento tem proporcionado uma oportunidade de renovação da
-carteira, a gestão está vendendo papéis com grande fechamento de spread, que tem
-gerado ganho de capital, e trocando por ativos de alta qualidade mantendo a seletividade
-na alocação. Do lado bancário, há uma abertura em papéis de bancos médios, devido a
-necessidade de emissão. Os destaques das compras do mês foram NTS, Rede D'or e RCI.
-O total de crédito privado está em 77% do patrimônio do fundo. Os papéis que compõem
-esta carteira são de alta qualidade e de boa liquidez. O fundo segue com um carrego
-interessante.
-SUMÁRIOPrefixado Curto (CNPJ: 07.364.099/0001-50) e Prefixado Longo (CNPJ: 32.388.052/0001-73)
-No mês de maio, os fundos compostos por ativos prefixados apresentaram desempenho
-nominal positivo. O desempenho no mês é resultado do fechamento das taxas de juros
-nominais de curto prazo.
-Juro Real - Inflação Curta (CNPJ: 32.742.742/0001-89)
-No mês de maio, os fundos atrelados à inflação de curto prazo apresentaram desempenho
-nominal positivo e em linha com o benchmark. A expectativa de inflação mais baixa para o
-ano corrente continua beneficiando os resultados desta classe de ativos.
-Juro Real - Inflação longa (CNPJ: 13.400.050/0001-08)
-Em maio, os fundos atrelados à inflação de médio prazo apresentaram um desempenho
-nominal positivo e em linha com o benchmark. O desempenho no mês
-é resultado do
-movimento de fechamento nas taxas de juros reais.
-SUMÁRIOSUMÁRIO
-DI Premium (CNPJ: 03.399.411/0001-90)
+O fundo perfomance 22, que aloca nas estratégias mais concentradas em crédito
+privado, obteve um resultado positivo, porém abaixo do CDI. A maior contribuição
+para o portfólio vem do lado corporativo com Copel, Algar e Equatorial. Do lado
+bancário, as letras financeiras de Santander, Itaú BBA e BB também contribuíram
+positivamente. Por outro lado, as Letras financeiras subordinadas de Bradesco,
+além dos papéis corporativos de Assai, Cosan e IRB apresentaram resultados
+desfavoráveis.SUMÁRIO
+O mercado de crédito privado segue apresentando um desempenho positivo, em
+linha com a maior demanda pela classe em um momento ainda de emissões
+primárias fracas. O destaque principal vai para uma queda expressiva do fluxo de
+resgates. A gestão segue aproveitando as oportunidades para trocar papéis que
+sofreram grandes quedas de spreads, por papéis de igual qualidade com spreads
+maiores. É importante ressaltar que a qualidade de uma carteira de crédito não
+está isenta de desafios, por isso reforçamos a importância de uma seleção
+criteriosa. A estratégia para esse período está pautada em comprar papéis de alta
+qualidade, sendo assim, a gestão comprou aproximadamente 3,5% do patrimônio,
+com destaque para Enerpeixe, Anhanguera e Cemig. O total de crédito privado
+está em 77% do patrimônio do fundo. Os papéis que compõem esta carteira são
+de alta qualidade e de boa liquidez. O fundo segue com um carrego interessante.
+Crédito Privado Plus (CNPJ: 32.387.924/0001-89)
+O resultado da estratégia no mês foi positivo e acima do CDI. A maior contribuição
+para o portfólio vem do lado corporativo com Copel, Anhanguera-Bandeirantes e
+VTRM. Do lado bancário, as letras financeiras de Santander, Itaú BBA e BB também
+contribuíram positivamente. Por outro lado, as Letras financeiras subordinadas de
+Bradesco, além dos papéis corporativos de Aliansce Sonae, Assai e ova
+Transportadora apresentaram resultados desfavoráveis. O mercado de crédito
+privado segue apresentando um desempenho positivo, em linha com a maior
+demanda pela classe em um momento ainda de emissões primárias fracas. O
+destaque principal vai para uma queda expressiva do fluxo de resgates. A gestão
+segue aproveitando as oportunidades para trocar papéis que sofreram grandes
+quedas de spreads, por papéis de igual qualidade com spreads maiores. É
+importante ressaltar que a qualidade de uma carteira de crédito não está isenta
+de desafios, por isso reforçamos a importância de uma seleção criteriosa. A
+estratégia para esse período está pautada em comprar papéis de alta qualidade,
+sendo assim, a gestão comprou aproximadamente 6,5% do patrimônio, com
+destaque para Santander, Anhanguera e Cemig.SUMÁRIO
+O total de crédito privado está em 77% do patrimônio do fundo. Os papéis que
+compõem esta carteira são de alta qualidade e de boa liquidez. O carrego está
+mais elevado.
+Crédito Privado Ultra (CNPJ: 37.532.786/0001-06)
+O fundo crédito privado Ultra, que tem como diferencial uma estratégia mais
+concentrada em crédito privado com maior liberdade na alocação, obteve um
+resultado positivo, porém abaixo do CDI. A maior contribuição para o portfólio
+vem do lado corporativo com Copel, Braskem e VTRM. Do lado bancário, as letras
+financeiras de BB, Itaú BBA e Santander subordinada também contribuíram
+positivamente. Por outro lado, as Letras financeiras subordinadas de Bradesco,
+além dos papéis corporativos de Transportadora Sudeste, Energisa e Assai
+apresentaram resultados desfavoráveis. O mercado de crédito privado segue
+apresentando um desempenho positivo, em linha com a maior demanda pela
+classe em um momento ainda de emissões primárias fracas. O destaque principal
+vai
+para
+uma
+queda
+expressiva
+do
+fluxo
+de
+resgates.
+A
+gestão
+segue
+aproveitando as oportunidades para trocar papéis que sofreram grandes quedas
+de spreads, por papéis de igual qualidade com spreads maiores. É importante
+ressaltar que a qualidade de uma carteira de crédito não está isenta de desafios,
+por isso reforçamos a importância de uma seleção criteriosa. O Fundo está aberto
+para novas captações, e a gestão tem reforçado as compras aproveitando os
+níveis mais altos dos spreads. A estratégia para esse período está pautada em
+comprar papéis de alta qualidade, sendo assim, foi comprado aproximadamente
+9% do patrimônio, com destaque para Copel, jaguar (Incentivado) e Braskem.
+Alinhado com a expectativa de risco e retorno da estratégia, o fundo está mais
+alocado em papéis corporativos que têm apresentado maior fechamento de
+spreads. O fundo está com aproximadamente 88% em crédito privado.Debêntures Incentivadas CDI (CNPJ: 32.388.012/0001-21)
+O fundo de Debêntures incentivadas, que detém uma estratégia específica em
+crédito privado para fomento da infraestrutura no Brasil e com incentivo fiscal para
+o investidor pessoa física, obteve desempenho positivo e expressivo acima do CDI.
+A maior contribuição vem de Holding do Araguaia, RDVE e CCRO e Paraná Energia.
+Os detratores foram, América Net, Cemig e Cesp com contribuições desfavoráveis.
+Do lado de papéis em IPCA, após a deterioração dos spreads para máximas
+históricas, observa-se um aumento de demanda no mercado, o nível recuou em
+torno de 80 bps da máxima e segue melhorando em ritmo gradual. Espera-se que
+esse movimento perdure por algum tempo devido à ausência de mercado primário
+ao longo desse ano. Esse mês, a gestão aproveitou para trocar um pouco os papéis
+e adicionar carregos maiores, em um momento em que há um fechamento
+expressivo dos spreads indexados ao IPCA. Destaques das comprar de Cagece, CCR
+e Equatorial. O nível de crédito está em 91%.
+Debêntures Incentivadas Inflação (CNPJ: 44.315.861/0001-34)
+O fundo de Debêntures incentivadas, que detém uma estratégia específica em
+crédito privado para fomento da infraestrutura no Brasil e com incentivo fiscal para
+o investidor pessoa física, e que busca superar as NTN-Bs de curto prazo, alcançou
+um desempenho positivo, expressivo acima do IMA-B 5. A maior contribuição vem
+de Paraná Energia, UTE GNA e Equatorial. Os detratores foram América Net, Sabesp
+e Energisa Do lado de papéis em IPCA, após a deterioração dos spreads para
+máximas históricas, observa-se um aumento de demanda no mercado, o nível
+recuou em torno de 80 bps da máxima e segue melhorando em ritmo gradual.
+Espera-se que esse movimento perdure por algum tempo devido à ausência de
+mercado primário ao longo desse ano. Esse mês, a gestão aproveitou para trocar
+um pouco papéis e adicionar carregos maiores, em um momento em que há um
+fechamento expressivo dos spreads indexados ao IPCA. Destaques das compras de
+Sabesp, Jaguar e Cesp. O nível de crédito está em 79%.
+SUMÁRIODI Premium (CNPJ: 03.399.411/0001-90)
+O fundo DI Premium alcançou um resultado positivo. A maior contribuição para o
+portfólio vem do lado corporativo com Eletropaulo, Equatorial e Anhanguera-
+Bandeirantes. Do lado bancário, as letras financeiras de Santander, Itaú BBA e BB
+também
+contribuíram
+positivamente.
+Por
+outro
+lado,
+as
+Letras
+financeiras
+subordinadas de Bradesco, além dos papéis corporativos de Aliansce Sonae, Nova
+Transportadora e RGE Sul apresentaram resultados desfavoráveis. O mercado de
+crédito privado segue apresentando um desempenho positivo, em linha com a
+maior demanda pela classe em um momento ainda de emissões primárias fracas. O
+destaque principal vai para uma queda expressiva do fluxo de resgates. A gestão
+segue aproveitando as oportunidades para trocar papéis que sofreram grandes
+quedas de spreads, por papéis de igual qualidade com spreads maiores. É
+importante ressaltar que a qualidade de uma carteira de crédito não está isenta de
+desafios, por isso reforçamos a importância de uma seleção criteriosa. A estratégia
+para esse período está pautada em comprar papéis de alta qualidade, sendo assim,
+a gestão comprou aproximadamente 2,78% do patrimônio, com destaque para
+Bradesco, Anhanguera-Bandeirantes e Santander. Esta estratégia detém uma
+alocação superior em ativos bancários do que corporativos, equilibrando ótimas
+taxas, qualidade e liquidez, mantendo a característica conservadora do fundo. A
+gestão está trabalhando para elevar a alocação em crédito que está por volta de
+40%.
+Dívida Externa Crédito Soberano (CNPJ: 74.326.471/0001-20)
+O fundo dívida externa, que compra emissões soberanas brasileiras no exterior,
+obteve desempenho desfavorável, principalmente, devido à variação cambial, em
+que o dólar se desvalorizou frente ao real. Além disso, a variação dos títulos da
+dívida
+americana
+segue
+promovendo
+impactos
+negativos
+e
+aumentando
+a
+volatilidade da estratégia. Por outro lado, a taxa de juros brasileira tem se
+beneficiado do momento mais favorável da política monetária, em que se espera
+um corte de juros nos próximos movimentos do Banco Central, além disso, houve
+um movimento favorável no risco Brasil, representado pelo CDS.
+SUMÁRIOInflação Curta (CNPJ: 32.742.742/0001-89)
+No mês de junho, os fundos atrelados à inflação de curto prazo apresentaram
+desempenho nominal positivo, em linha com o benchmark. O desempenho no mês é
+resultado do movimento de fechamento das taxa de juros reais, decorrente do
+otimismo na expectativa do início do ciclo de afrouxamento monetário.
+Inflação Longa (CNPJ: 13.400.050/0001-08)
+Em junho, os fundos atrelados à inflação de médio prazo apresentaram um
+desempenho nominal positivo, em linha com o benchmark. O desempenho no mês é
+resultado do movimento de fechamento das taxa de juros reais de médio e longo
+prazo, decorrente do otimismo na expectativa do início do ciclo de afrouxamento
+monetário.
+Max DI (CNPJ: 32.312.124/0001-07)
 O fundo referenciado DI alcançou um resultado positivo. A maior contribuição para o
-portfólio vem do lado corporativo com Rede D'or, Eletropaulo e Companhia Paulista. Do
-lado bancário, as letras financeiras de Bradesco e Santander e um CDB do Banco Pan
-também contribuíram positivamente. Por outro lado, as Letras financeiras de Itaú, Toyota e
-Renault, além dos papéis corporativos de Anhanguera-Bandeirante, Assai e Equatorial
-apresentaram resultados menos favoráveis. O ritmo de resgastes nessa classe reduziu, e se
-observa um mercado secundário corporativo com maior demanda, gerando um fechamento
-de spreads. Esse movimento tem proporcionado uma oportunidade de renovação da
-carteira, a gestão está vendendo papéis com grande fechamento de spread, que tem
-gerado ganho de capital, e trocando por ativos de alta qualidade mantendo a seletividade
-na alocação. Do lado bancário, há uma abertura em papéis de bancos médios, devido a
-necessidade de emissão. As compras, apesar de menores, estão pautadas em compras de
-papéis de alta qualidade, com destaque para Pan, Sicredi e NTS. Esta estratégia detém uma
-alocação superior em ativos bancários do que corporativos, equilibrando ótimas taxas,
-qualidade e liquidez, mantendo a característica conservadora do fundo. A gestão está
-trabalhando para elevar a alocação em crédito, que está por volta de 38%.
-Multi-Indíces Max (CNPJ: 32.743.313/0001-26)
-O fundo de renda fixa ativa obteve um desempenho positivo e expressivo acima do CDI.
-Além de contar com uma gestão profisisonal, o fundo também está se beneficiando com o
-mercado de renda fixa performando expressivamente acima do CDI. A expectativa de queda
-de juros tem aumentado e, consequentemente, elevou a convicção dos gestores para
-aumentar as alocações dos portfólios. Além disso, a redução da incerteza, devido à
-tramitação da nova regra fiscal, segue contribuindo com o cenário. Durante o mês, o gestor
-intensificou as alocações em ativos com vencimentos mais distantes, prefixados e atrelados
-à inflação. Durante esse mês, percebendo uma estabilização dos spreads de crédito
-privado, a gestão aumentou as alocações na classe também. A ideia daqui para frente é
-manter o portfólio alocado estrategicamente nos vencimentos mais longos e ajustar
-quando necessário.Neste mês de maio, vimos um alívio tanto no cenário global quanto local, impulsionado
-pela estabilização da crise bancária nos EUA, notícias positivas sobre inflação e queda nas
-expectativas de juros. Isso contribuiu para a valorização das bolsas, embora essa tendência
-não tenha sido uniforme nos EUA, com a recuperação concentrada em empresas de
-tecnologia e comunicações. No Brasil, muitas empresas reportaram resultados abaixo do
-esperado devido à inadimplência e ao menor crescimento global.
-Apesar da lista de incertezas ser extensa, como o risco de novos capítulos da crise bancária
-nos EUA e Europa, a resiliência da inflação global e o risco de recessão em algumas regiões,
-é importante destacar que o posicionamento técnico dos investidores e a precificação das
-empresas reflete parte significativa desses riscos, especialmente nos ativos brasileiros.
-Diante desse cenário, a gestão acredita que o momento permite uma redução da cautela
-adotada nos portfolios nos últimos meses. Os gestores continua ajustando as estratégias
-ao novo ciclo de mercado que prevê corte de juros não apenas no Brasil, mas também
-globalmente, dentro de um horizonte de 6 a 12 meses. É importante ressaltar que a
-evolução dos mercados é monitorada de perto pelos analistas e gestores.
-Em relação aos retornos, o S&P 500 teve alta de 0,25% e o Ibovespa, alta de 3,74% em
-abril. Estes índices acumulam retorno no ano de 8,86% e -1,28%, respectivamente e em
-moeda original. O índice small caps foi o destaque de alta.
-Os gestores seguem acrescentando posições sensíveis a juros nos portfólios e reduzindo a
-exposição em caixa, o que contribuiu para o bom desempenho no mês. Para eles, o fim do
-ciclo de aperto monetário deve trazer um re-rating dos múltiplos das companhias, sendo o
-principal driver para a bolsa até o final do ano.
-No que diz respeito à performance setorial, observa-se uma tendência de valorização dos
-setores mais sensíveis a queda da taxa de juros ou com descontos atrativos. O risco de
-desaquecimento global e seus impactos locais, bem como a decepção com os resultados
-do 1º trimestre influenciaram a performance negativa dos piores setores no mês.
-SUMÁRIOMAIO
+portfólio vem do lado corporativo com Anhanguera-Bandeirantes, Equatorial e
+Energisa. Do lado bancário, as letras financeiras de Santander, Itaú BBA e BB
+também
+contribuíram
+positivamente.
+Por
+outro
+lado,
+as
+Letras
+financeiras
+subordinadas de Bradesco, além dos papéis corporativos de Aliansce Sonae, Nova
+Transportadora e RGE Sul apresentaram resultados desfavoráveis. O mercado de
+crédito privado segue apresentando um desempenho positivo, em linha com a maior
+demanda pela classe em um momento ainda de emissões primárias fracas. O
+destaque principal vai para uma queda expressiva do fluxo de resgates. A gestão
+segue aproveitando as oportunidades para trocar papéis que sofreram grandes
+quedas de spreads, por papéis de igual qualidade com spreads maiores. É
+importante ressaltar que a qualidade de uma carteira de crédito não está isenta de
+desafios, por isso reforçamos a importância de uma seleção criteriosa.
+SUMÁRIOSUMÁRIO
+A estratégia para esse período está pautada em comprar papéis de alta qualidade,
+sendo assim, a gestão comprou aproximadamente 1,7% do patrimônio, com
+destaque para Anhanguera-Bandeirantes, Banco Santander e Cemig. Esta estratégia
+detém
+uma
+alocação
+superior
+em
+ativos
+bancários
+do
+que
+corporativos,
+equilibrando
+ótimas
+taxas,
+qualidade
+e
+liquidez,
+mantendo
+a
+característica
+conservadora do fundo. O total de crédito privado está em aprox. de 44%.
+Multi-índices Max (CNPJ: 32.743.313/0001-26)
+O fundo de renda fixa ativa obteve um desempenho positivo e nominalmente
+expressivo, acima do CDI. Além de contar com uma gestão profissional, o mercado
+de renda fixa vem proporcionando um ambiente interessante para a estratégia
+devido à expectativa de queda de juros. Os gestores têm aproveitado esse
+momento com um consumo de risco maior do que o nível dos últimos anos. Durante
+o mês, houve um aumento da duração total da carteira, através de papéis
+prefixados de vencimento jan/2026 e jan/2027, reduzindo parcialmente o risco em
+jan/2031, mantendo a porção atrelada à inflação. Do lado do crédito privado, o
+aumento da alocação no mês de maio se beneficiou do movimento positivo da
+classe em junho. Há maior demanda pela estratégia, com uma queda dos resgates
+nos fundos dessa classe. A ideia daqui para frente é manter o portfólio alocado
+estrategicamente nos vencimentos mais longos e ajustar quando necessário.
+Performance SRI (CNPJ: 12.088.861/0001-52)
+O fundo crédito privado Performance SRI (Socially Responsible Investing), dedicado
+a investir em empresas socialmente responsáveis, obteve um resultado positivo,
+porém abaixo do CDI. A maior contribuição para o portfólio vem do lado corporativo
+com Hypera, Rede D'or e Copel. Do lado bancário, as letras financeiras de Santander
+Subordinada, Itaú BBA e BB também contribuíram positivamente. Por outro lado, as
+Letras financeiras subordinadas de Bradesco, além dos papéis corporativos de
+Assai, Cosan e RGE Sul apresentaram resultados desfavoráveis.O mercado de crédito privado segue apresentando um desempenho positivo, em
+linha com a maior demanda pela classe em um momento ainda de emissões
+primárias fracas. O destaque principal vai para uma queda expressiva do fluxo de
+resgates. A gestão segue aproveitando as oportunidades para trocar papéis que
+sofreram grandes quedas de spreads, por papéis de igual qualidade com spreads
+maiores. É importante ressaltar que a qualidade de uma carteira de crédito não está
+isenta de desafios, por isso reforçamos a importância de uma seleção criteriosa. A
+estratégia para esse período está pautada em comprar papéis de alta qualidade,
+sendo assim, a gestão comprou aproximadamente 11,7% do patrimônio, com
+destaque para Copel, Enerpeixe e Banco Industrial. Os papéis que compõem esta
+carteira são de alta qualidade e de boa liquidez. O total de crédito privado foi
+elevado para 69%.
+Prefixado Curto (CNPJ: 07.364.099/0001-50)
+No mês de junho, os fundos compostos por ativos prefixados apresentaram
+desempenho nominal positivo. O desempenho no mês é resultado do fechamento
+das taxas de juros nominais, influenciado pelo otimismo na expectativa do início do
+ciclo de afrouxamento monetário.
+Prefixado Longo (CNPJ: 32.388.052/0001-73)
+No mês de junho, o fundo apresentou desempenho nominal positivo. O resultado
+observado foi impactado pelo fechamento das taxas de juros nominais, que foi
+influenciado pela definição do arcabouço fiscal, bem como pelos dados de inflação
+mais brandos e a redução na percepção de risco global, os quais beneficiaram
+praticamente todos os ativos de risco no mês.
+SUMÁRIONo mundo, o 1º semestre de 2023 se encerrou melhor do que o previsto para os
+ativos de risco, ou seja, com retornos positivos no geral. Apesar desse fato, fica o
+sentimento de que poderia ter sido um semestre muito ruim caso a crise bancária
+americana não tivesse sido controlada, além disso, a alta foi bastante concentrada
+em empresas dos setores de tecnologia e telecomunicações. O fato da inflação
+não ter sido dominada globalmente mantém o clima de cautela.
+No Brasil, as ações se beneficiaram não só por esse ambiente global convidativo ao
+risco, mas também por uma série de revisões positivas e significativas em variáveis
+macroeconômicas como a inflação, taxas de juros futuras e atividade econômica.
+Este processo de reavaliação macroeconômica não veio acompanhado de revisão
+das expectativas de lucro das empresas por enquanto. A rentabilidade das ações
+brasileiras também foi bastante
+influenciada
+por
+grandes
+empresas,
+como
+Petrobras (+44,23%), Banco do Brasil (50,05%) e Vale (-26,16%).
+Diante da evolução recente, a gestão continua acreditando que o momento
+permite uma redução da cautela adotada nos portfolios nos últimos meses, porém
+com alta seletividade. Continuam os ajustes das estratégias ao novo ciclo de
+mercado que prevê corte de juros no Brasil nos próximos meses.
+Em relação aos retornos, o S&P 500 teve alta de 6,47% e o Ibovespa, alta de 9,00%
+em
+junho.
+Estes
+índices
+acumulam
+retorno
+no
+ano
+de
+e
+respectivamente e em moeda original.
+SUMÁRIOA gestão segue acrescentando posições sensíveis a juros nos portfólios e
+reduzindo a exposição em caixa. A expectativa é que o fim do ciclo de aperto
+monetário deve continuar trazer um re-rating dos múltiplos das companhias, sendo
+o principal driver para a bolsa até o final do ano.
+No que diz respeito à performance setorial, nota-se uma continuação da tendência
+observada em maio, de valorização dos setores mais sensíveis queda da taxa de
+juros ou com descontos atrativos.
+O risco de desaquecimento global e seus impactos locais, bem como a decepção
+com os resultados recentes influenciaram a performance negativa dos piores
+setores no mês.
+SUMÁRIOSUMÁRIO
+Bolsa Americana/ S&P 500 (CNPJ: 18.959.094/0001-96) - sem risco cambial
+O fundo e o índice S&P 500 apresentaram retornos positivos em junho. Continua
+controlado o clima de aversão a risco proporcionado pela crise bancária nos EUA,
+por outro lado, poucos setores têm apresentado retornos positivos. O risco de um
+potencial cenário de recessão ainda está presente, por isso a gestão está cautelosa
+com as ações americanas.
+China (CNPJ: 39.151.551/0001-91)
+O Bradesco China apresentou um retorno nominal negativo e um pouco abaixo de
+seu benchmark durante o mês.
+Junho foi positivo nos mercados financeiros globais, pois tanto as ações quanto a
+renda fixa continuaram com uma boa performance. A primeira metade do ano se
+encerrou com uma forte recuperação, após o ano passado ter sido historicamente
+fraco nos mercados globais. O crescimento econômico continua surpreendendo
+para cima com o desemprego baixo e as pressões inflacionárias elevadas.
+JUNHO
 S&P 500 USD
 MSCI WORLD USD
 IDIV
 IBOVESPA
-SMALL CAPS
-SUMÁRIO
-Estratégia Ibovespa Ativo (CNPJ: 26.315.539/0001-23)
-O alívio no ambiente global e, principalmente, local, relacionado às notícias positivas para
-inflação e queda nas expectativas de juros à frente explicam em boa parte a valorização das
-bolsas. Os preços de commodities seguem contribuindo positivamente para a redução das
-expectativas de inflação, seguindo dados piores de China. No Brasil, a queda do juros
-futuros, com números positivos de inflação e arcabouço fiscal, teve um reflexo importante
-na valorização da bolsa brasileira. A valorização foi ainda maior nos setores expostos à
-economia doméstica e sensíveis a juros. Os setores relacionados a commodities seguiram
-pesando negativamente para o desempenho da bolsa (setor de Mineração & Siderurgia
-apresentou queda de 9,6% no mês). O índice small caps foi o destaque de alta.Estratégia Small Caps (CNPJ: 32.387.983/0001-57)
-A estratégia Small Caps teve desempenho positivo, porém abaixo do SMLL em maio. Em
-termos relativos, contribuiu positivamente a seletividade da gestão nos setores de Varejo,
-Utilidades Públicas e Serviços Financeiros. Do lado negativo, prejudicaram o desempenho da
-estratégia as alocações em Logística, Transportes & Infraestrutura, Educação e Tecnologia,
-Mídia & Telecom. A gestão aumentou a exposição em Utilidades Públicas, Varejo e
-Consumo, reduzindo em Logística, Transportes & Infraestrutura, Mineração & Siderurgia e
-Papel, Celulose & Madeira. As maiores exposições relativas estão em Varejo, Mineração &
-Siderurgia e Consumo.
+SMALL CAPSSUMÁRIO
+Além disso, os rendimentos da bolsa nos EUA foram concentrados em algumas
+grandes empresas de tecnologia que são vistas como beneficiárias da inteligência
+artificial.
+Os fundos investidos apresentaram retornos mistos neste mês. O maior destaque
+dentre os investidos foi o UBS China A Opps, enquanto o destaque negativo ficou
+para o fundo Aberdeen China.
+Equity
+Hedge
+(CNPJ:
+e
+Long
+and
+Short
+(CNPJ:
+A estratégia Equity Hedge e Long and Short tiveram desempenho positivo e acima
+do CDI em junho. Os destaques positivos vieram da seletividade nos setores de
+Varejo, Consumo e Energia, além da exposição direcional comprada no Ibovespa.
+Do
+lado
+negativo,
+prejudicaram
+as
+alocações
+em
+Logística,
+Transportes
+&
+Infraestrutura, Bens de Capital & Serviços e Bancos, além da exposição vendida em
+bolsa americana. A gestão aumentou a exposição em Logística, Transportes &
+Infraestrutura, Educação e Imobiliário. As maiores exposições relativas estão em
+Consumo, Logística, Transportes & Infraestrutura e Bens de Capital & Serviços. A
+gestão segue com visão cautelosa para o Ibovespa, mas os preços atrativos
+justificam exposição direcional comprada em menor tamanho em relação a abril.
+Pelo mesmo motivo, o portfolio está com exposição vendida em bolsa americana.
+Estratégia Crescimento (CNPJ: 34.123.529/0001-14)
+A estratégia Crescimento teve desempenho positivo, mas abaixo do Ibovespa em
+junho. Em termos relativos, contribuiu positivamente a alocação e seletividade nos
+setores de Varejo, Mineração & Siderurgia e Bens de Capital & Serviços. Do lado
+negativo, prejudicaram o desempenho da estratégia as alocações em Energia,
+Logística, Transportes & Infraestrutura e Utilidades Públicas.A gestão aumentou a exposição em Consumo, Mineração & Siderurgia e Imobiliário,
+reduzindo em Serviços Financeiros, Educação e Utilidades Públicas. As maiores
+alocações em termos absolutos estão em Varejo, Consumo e Mineração &
+Siderurgia.
 Estratégia Dividendos (CNPJ: 32.312.071/0001-16)
-A estratégia Dividendos teve desempenho positivo e acima do Ibovespa em maio. Em
-termos relativos, contribuiu positivamente a seletividade nos setores de Bancos, Energia e
-Imobiliário. Do lado negativo, prejudicaram o desempenho da estratégia as alocações em
-Mineração & Siderurgia, Bens de Capital & Serviços e Tecnologia, Mídia & Telecom. A gestão
-aumentou a exposição em Serviços Financeiros, Papel, Celulose & Madeira e Saúde,
-reduzindo em Utilidades Públicas, Energia e Varejo. As maiores alocações em termos
-absolutos estão em Utilidades Públicas, Imobiliário e Consumo.
-SUMÁRIO
-Sustentabilidade Empresarial (CNPJ: 07.187.751/0001-08)
-A estratégia Sustentabilidade teve desempenho positivo e acima do Ibovespa em maio. Em
-termos relativos, contribuiu positivamente a seletividade nos setores de Mineração &
-Siderurgia, Varejo e Saúde. Do lado negativo, prejudicaram o desempenho da estratégia as
-alocações em Educação, Serviços Financeiros e Bens de Capital & Serviços. A gestão
-aumentou a exposição em Mineração & Siderurgia, Varejo e Imobiliário, reduzindo em
-Energia, Serviços Financeiros e Bens de Capital & Serviços. As maiores exposições relativas
-estão em Varejo, Imobiliário e Logística, Transportes & Infraestrutura.Estratégia Crescimento (CNPJ: 34.123.529/0001-14)
-A estratégia Crescimento teve desempenho positivo e acima do Ibovespa em maio. Em
-termos relativos, contribuiu positivamente a alocação e seletividade nos setores de Varejo,
-Consumo e Imobiliário. Do lado negativo, prejudicaram o desempenho da estratégia as
-alocações em Serviços Financeiros e Mineração & Siderurgia. A gestão aumentou a
-exposição em Varejo, Utilidades Públicas e Mineração & Siderurgia, reduzindo em Serviços
-Financeiros, Consumo e Energia. As maiores alocações em termos absolutos estão em
-Varejo, Consumo e Mineração & Siderurgia.
-Estratégia Long Biased (CNPJ: 36.521.777/0001-49)
-A estratégia Long Biased teve desempenho positivo e acima do Ibovespa em maio. Em
-termos relativos, contribuiu positivamente a seletividade da gestão nos setores de
-Mineração & Siderurgia, Varejo e Bens de Capital & Serviços. Do lado negativo, prejudicaram
-o desempenho da estratégia as alocações em Energia, Serviços Financeiros e Saúde. A
-gestão aumentou a exposição em Varejo, Imobiliário e Bens de Capital e Serviços, reduzindo
-em Utilidades Públicas, Energia e Tecnologia, Mídia & Telecom. As maiores exposições
-relativas estão em Imobiliário, Varejo e Saúde. A visão da gestão está construtiva para o
-Ibovespa, por isso, o portfolio está com exposição direcional acima da média histórica, além
-de uma pequena exposição no exterior via Mercado Livre e LVMH.
-Estratégia Long and Short (CNPJ: 09.241.809/0001-80)
-A estratégia Long and Short/Equity Hedge teve desempenho positivo e acima do CDI em
-maio. Os destaques positivos vieram da seletividade da gestão nos setores de Varejo,
-Consumo e Energia, além da exposição direcional comprada no Ibovespa. Do lado negativo,
-prejudicaram as alocações em Utilidades Públicas, Mineração & Siderurgia e Papel, Celulose
-& Madeira. A gestão aumentou a exposição em Logística, Transportes & Infraestrutura, Bens
-de Capital & Serviços e Varejo. As maiores exposições relativas estão em Consumo, Varejo e
-Logística, Transportes & Infraestrutura. A visão da gestão está construtiva para o Ibovespa
-e, por isso, o portfolio está com exposição direcional comprada, porém em menor tamanho
-em relação a abril em função da valorização recente. Pelo mesmo motivo, a estratégia tem
-exposição vendida em bolsa americana.
-SUMÁRIOGlobal Ações IE (CNPJ: 18.085.924/0001-01)
-A estratégia Global teve retorno positivo e acima do benchmark em maio. Os destaque
-positivos, em termos relativos, foram a seletividade da estratégia nos EUA, além da
-seletividade e exposição abaixo do índice em Europa. Pelo lado negativo, a alocação acima
-do índice na Ásia. Quanto ao contexto, continua controlado o clima de aversão a risco
-proporcionado pela crise bancária nos EUA, levando o S&P 500 a ter mais uma alta. Por
-outro lado, poucos setores têm apresentado retornos positivos. Em geral, as moedas
-globais se valorizaram frente ao dólar americano. O risco de um potencial cenário de
-recessão global ainda está presente, por isso, a gestão está cautelosa com as ações
-americanas.
-S&P 500/Bolsa Americana - sem risco cambial (CNPJ: 18.959.094/0001-96)
-O fundo e o índice S&P 500 apresentaram retornos positivos em maio. Continua controlado
-o clima de aversão a risco proporcionado pela crise bancária nos EUA. Por outro lado,
-poucos setores têm apresentado retornos positivos. O risco de um potencial cenário de
-recessão global, ainda está presente, por isso, a gestão está cautelosa com as ações
-americanas.
-.
-SUMÁRIOJapão (CNPJ: 21.347.655/0001-00)
-O Bradesco Japão teve retorno negativo e abaixo do índice de referência de retorno do
-fundo em maio. Os destaques negativos foram a desvalorização do Iene e a seletividade da
-estratégia. Quanto
-ao contexto, continua controlado
-o clima
-de
-aversão
-a risco
-proporcionado pela crise bancária nos EUA, levando o S&P 500 a ter mais uma alta. Por
-outro lado, poucos setores têm apresentado retornos positivos. Em geral, as moedas
-globais se valorizaram frente ao dólar americano. O risco de um potencial cenário de
-recessão global ainda está presente.
-Europa (CNPJ: 18.079.081/0001-22)
-O Bradesco Europa teve retorno negativo, porém, acima do índice de referência de retorno
-do fundo. O destaque positivo foi, em termos relativos, a seletividade da estratégia.
-Os
-destaques negativos, em termos absolutos, foram a desvalorização das ações europeias e
-do Euro. Quanto ao contexto, continua controlado o clima de aversão a risco proporcionado
-pela crise bancária nos EUA, levando o S&P 500 a ter mais uma alta. Por outro lado, poucos
-setores têm apresentado retornos positivos. Em geral, as moedas globais se valorizaram
-frente ao dólar americano. O risco de um potencial cenário de recessão global ainda está
-presente.
-SUMÁRIOMultigestores Ações (CNPJ: 32.743.483/0001-00)
-O mês de maio foi muito positivo para os ativos de maior risco, fazendo com que os fundos
-tivessem um desempenho superior aos seus índices de referência. O destaque positivo de
-performance ficou com a classe de renda variável local, que foi beneficiada tanto pelo
-fechamento da curva de juros nominal, quanto pela melhor perspectiva de crescimento do
-PIB para o ano.
-Dessa forma, as alocações em ações long only e long biased contribuíram positivamente no
-mês. Outro destaque ao longo de maio foi a alocação em títulos públicos atrelados à
-inflação, que também foram beneficiados pelo fechamento da curva de juros. As decisões
-de aumento de risco de boa parte dos gestores, e aumento de alocação em juros real no
-início de maio, amplificaram esse resultado positivo dentro dos fundos tanto de renda
-variável quanto multimercado.
-No cenário internacional, tivemos um mês mais estável, com a expectativa de juros mais
-altos pelo mundo prejudicando as alocações em renda fixa global, mas compensado pela
-renda variável, que teve pouca influência da alta de juros e teve um mês positivo com a
-empolgação referente as empresas ligadas a Inteligência Artificial, que tiveram forte alta no
-mês.Diante disso, os fundos de renda variável com característica long only apresentaram
-um resultado positivo ao longo do mês. O fundo Bradesco Multigestores Ações apresentou
-um resultado positivo com destaque para Moat Capital. O Ibovespa apresentou uma alta de
-2,50% no mês, muito dessa valorização foi puxada pelo setor bancário que melhorou seu
-humor com os dados melhores apresentados pelos grandes bancos internacionais.
-Diante disso, os fundos de renda variável com característica long only apresentaram um
-resultado positivo ao longo do mês, porém um pouco abaixo do Ibovespa. O fundo
-Bradesco Multigestores Ações apresentou um resultado positivo no mês de abril, com
-destaque para o fundo da Brasil Capital e Moat Capital.
+A estratégia Dividendos teve desempenho positivo e em linha do Ibovespa em
+junho. Em termos relativos, contribuiu positivamente a seletividade nos setores de
+Energia,
+Bancos
+e
+Utilidades
+Públicas.
+Do
+lado
+negativo,
+prejudicaram
+o
+desempenho da estratégia as alocações em Papel, Celulose & Madeira, Bens de
+Capital & Serviços e Saúde. A gestão aumentou a exposição em Educação, Saúde e
+Serviços Financeiros, reduzindo em Bancos, Mineração & Siderurgia e Energia. As
+maiores alocações em termos absolutos estão em Utilidades Públicas, Imobiliário e
+Consumo.
+Estratégia Ibovespa Ativo (CNPJ: 26.315.539/0001-23)
+A estratégia Ibovespa Ativo teve desempenho positivo, mas abaixo do Ibovespa em
+junho. Em termos relativos, contribuiu positivamente a seletividade nos setores de
+Mineração & Siderurgia, Papel, Celulose & Madeira e Bens de Capital & Serviços. Do
+lado negativo, prejudicaram o desempenho da estratégia as alocações em
+Consumo, Energia e Utilidades Públicas. A gestão aumentou a exposição em
+Logística, Transportes & Infraestrutura, Mineração & Siderurgia e Tecnologia, Mídia &
+Telecom, reduzindo em Consumo, Utilidades Públicas e Serviços Financeiros. As
+maiores
+exposições
+relativas
+estão
+em
+Mineração
+&
+Siderurgia,
+Logística,
+Transportes & Infraestrutura e Imobiliário.
 SUMÁRIOSUMÁRIO
+Estratégia Small Caps (CNPJ: 32.387.983/0001-57)
+A estratégia Small Caps teve desempenho positivo, e abaixo do SMLL em junho. Em
+termos relativos, contribuiu positivamente a seletividade nos setores de Varejo,
+Saúde e Utilidades Públicas. Os papéis que se destacaram positivamente foram
+Grupo SBF, Lojas Quero, Quero, Track & Field. Do lado negativo, prejudicaram o
+desempenho da estratégia as alocações em Logística, Transportes & Infraestrutura,
+Consumo e Tecnologia, Mídia & Telecom. Aumentamos a exposição em Varejo,
+Mineração e Siderurgia, e Consumo, reduzindo em Utilidades Públicas, Serviços
+Financeiros, e Logística, Transportes e Infraestrutura. Nossas maiores exposições
+relativas estão em Varejo, Mineração e Siderurgia, e Consumo.
+Europa (CNPJ: 18.079.081/0001-22)
+O Bradesco Europa teve retorno negativo e abaixo do índice de referência de
+retorno do fundo. O destaque positivo foi, em termos absolutos, a valorização das
+ações
+europeias.
+Os
+destaques
+negativos
+foram,
+em
+termos
+absolutos,
+a
+desvalorização do Euro e, em termos relativos, a seletividade da estratégia. Quanto
+ao contexto, após a quebra dos bancos médios nos EUA em março, mantêm-se as
+discussões de pausa no aumento da taxa de juros e menor taxa terminal do Fed. Na
+China, os dados de abertura não surpreendem positivamente. Em geral, as moedas
+globais se valorizaram frente ao dólar americano. O risco de um potencial cenário de
+recessão global, ainda está presente. A gestão favorece a China na carteira global,
+porém de forma mais cautelosa se comparado com os meses anteriores (a fim de
+capturar uma retomada do país), e ainda está cautelosa em relação aos EUA (foco
+no Fed e em um potencial cenário de recessão).
+Global Ações IE (CNPJ: 18.085.924/0001-01)
+A estratégia Global teve retorno negativo e abaixo do benchmark em junho. O
+destaque positivo foi a valorização das ações em geral. Pelo lado negativo, o
+destaque foi a valorização do Real. Quanto ao contexto, após a quebra dos bancos
+médios nos EUA em março, mantêm-se as discussões de pausa no aumento da taxa
+de juros e menor taxa terminal do Fed.SUMÁRIO
+Na China, os dados de abertura não surpreendem positivamente. Em geral, as
+moedas globais se valorizaram frente ao dólar americano. O risco de um potencial
+cenário de recessão global ainda está presente. A gestão favorece a China na
+carteira global, porém de forma mais cautelosa se comparado com os meses
+anteriores (a fim de capturar uma retomada do país), e ainda está cautelosa em
+relação aos EUA (foco no Fed e em um potencial cenário de recessão).
+Ibovespa
+Ações
+(CNPJ:
+e
+Ibovespa
+Indexado
+(CNPJ:
+No mundo, o 1º semestre de 2023 se encerrou melhor do que o previsto para os
+ativos de risco, ou seja, com retornos positivos no geral. Apesar desse fato, fica o
+sentimento de que poderia ter sido um semestre muito ruim caso a crise bancária
+americana não tivesse sido controlada, além disso, a alta foi bastante concentrada
+em empresas dos setores de tecnologia e telecomunicações. O fato da inflação não
+ter sido dominada globalmente mantém o clima de cautela. No Brasil, as ações se
+beneficiaram não só por esse ambiente global convidativo ao risco, mas também
+por uma série de revisões positivas e significativas em variáveis macroeconômicas
+como a inflação, taxas de juros futuras e atividade econômica. Este processo de
+reavaliação macroeconômica não veio acompanhado de revisão das expectativas de
+lucro das empresas por enquanto. A rentabilidade das ações brasileiras também foi
+bastante influenciada por grandes empresas, como Petrobras (+44,23%), Banco do
+Brasil (50,05%) e Vale (-26,16%).
+Japão (CNPJ: 21.347.655/0001-00)
+O Bradesco Japão teve retorno negativo e abaixo do índice de referência em junho.
+Os destaques negativos, em termos absolutos, foram a desvalorização do Iene e,
+em termos relativos, a seletividade da estratégia. Quanto ao contexto, após a
+quebra dos bancos médios nos EUA em março, mantêm-se as discussões de pausa
+no aumento da taxa de juros e menor taxa terminal do Fed.SUMÁRIO
+Na China, os dados de abertura não surpreendem positivamente. Em geral, as
+moedas globais se valorizaram frente ao dólar americano. O risco de um potencial
+cenário de recessão global ainda está presente. A gestão favorece a China na
+carteira global, porém de forma mais cautelosa se comparado com os meses
+anteriores (a fim de capturar uma retomada do país), e ainda está cautelosa em
+relação aos EUA (foco no Fed e em um potencial cenário de recessão).
+Long Biased IQ - antigo Estratégia Long Biased (CNPJ: 36.521.777/0001-49)
+A estratégia Long Biased teve desempenho positivo, mas abaixo do Ibovespa em
+junho. Em termos relativos, contribuiu positivamente a seletividade nos setores de
+Mineração & Siderurgia, Varejo e Imobiliário. Do lado negativo, prejudicaram o
+desempenho da estratégia as alocações em Energia, Logística, Transportes &
+Infraestrutura e Utilidades Públicas. A gestão aumentou a exposição em Mineração
+& Siderurgia, Imobiliário e Papel, Celulose & Madeira, reduzindo em Energia,
+Utilidades Públicas e Saúde. As maiores exposições relativas estão em Imobiliário,
+Varejo e Logística, Transportes & Infraestrutura. Os gestores estão menos
+cautelosos com a bolsa, por isso o portfolio está com exposição direcional acima da
+média histórica, além de uma pequena exposição vendida em ações nos EUA via
+índice S&P.
+Multigestores Ações (CNPJ: 32.743.483/0001-00)
+O Bradesco FIC FIA Multigestores apresentou um retorno nominal positivo e acima
+de seu benchmark durante o mês.
+Ao longo de junho, o cenário apresentou resultados bastante positivos para grande
+parte das classes. Tanto a parcela de renda variável, quanto os investimentos em
+renda fixa local, com destaque para os juros nominais e reais, tiveram um
+desempenho bastante positivo. Os gestores que estavam focados na curva de juros
+conseguiram obter bons resultados com o fechamento ao longo da curva.SUMÁRIO
+Já a parcela de renda variável, que vem sendo o destaque nos últimos 3 meses,
+também apresentou uma alta expressiva. Os ativos de crédito também foram
+destaque pelo alto carrego que os ativos possuem e, ao longo do mês, não houve
+fechamento dos spreads, mas sim um cenário mais estável, o que contribuiu para o
+desempenho acima do CDI por boa parte dos fundos.
+Os fundos investidos apresentaram retornos positivos neste mês. O maior destaque
+dentre os investidos foi o Brasil Capital.
 Multigestores Balanceado (CNPJ: 28.428.137/0001-60)
-O mês de maio foi muito positivo para os ativos de maior risco, fazendo com que os fundos
-tivessem um desempenho superior aos seus índices de referência. O destaque positivo de
-performance ficou com a classe de renda variável local, que foi beneficiada tanto pelo
-fechamento da curva de juros nominal, quanto pela melhor perspectiva de crescimento do
-PIB para o ano.
-Dessa forma, as alocações em ações long only e long biased contribuíram positivamente no
-mês. Outro destaque ao longo de maio foi a alocação em títulos públicos atrelados à
-inflação, que também foram beneficiados pelo fechamento da curva de juros. As decisões
-de aumento de risco de boa parte dos gestores, e aumento de alocação em juros real no
-início de maio, amplificaram esse resultado positivo dentro dos fundos tanto de renda
-variável quanto multimercado.
-No cenário internacional, tivemos um mês mais estável, com a expectativa de juros mais
-altos pelo mundo prejudicando as alocações em renda fixa global, mas compensado pela
-renda variável, que teve pouca influência da alta de juros e teve um mês positivo com a
-empolgação referente as empresas ligadas a Inteligência Artificial, que tiveram forte alta no
+O Bradesco FIC FIA Multigestores Balanceado apresentou um retorno nominal
+positivo, mas abaixo do benchmark durante o mês.
+Ao longo de junho, o cenário apresentou resultados bastante positivos para grande
+parte das classes. Tanto a parcela de renda variável, quanto os investimentos em
+renda fixa local, com destaque para os juros nominais e reais, tiveram um
+desempenho bastante positivo. Os gestores que estavam focados na curva de juros
+conseguiram obter bons resultados com o fechamento ao longo da curva. Já a
+parcela de renda variável, que vem sendo o destaque nos últimos 3 meses, também
+apresentou uma alta expressiva. Os ativos de crédito também foram destaque pelo
+alto carrego que os ativos possuem e, ao longo do mês, não houve fechamento dos
+spreads, mas sim um cenário mais estável, o que contribuiu para o desempenho
+acima do CDI por boa parte dos fundos. Os fundos investidos apresentaram
+retornos mistos neste mês. O maior destaque dentre os investidos foi o AZ Quest
+Top Long Biased FIC Ações.
+Multigestores Ações ESG (CNPJ: 41.219.215/0001-85)
+O Bradesco FIC FIA Multigestores ESG apresentou um retorno nominal positivo, mas
+abaixo do benchmark durante o mês.SUMÁRIO
+Ao longo de junho, o cenário apresentou resultados bastante positivos para grande
+parte das classes. Tanto a parcela de renda variável, quanto os investimentos em
+renda fixa local, com destaque para os juros nominais e reais, tiveram um
+desempenho bastante positivo.
+Os gestores que estavam focados na curva de juros conseguiram obter bons
+resultados com o fechamento ao longo da curva. Já a parcela de renda variável, que
+vem sendo o destaque nos últimos 3 meses, também apresentou uma alta
+expressiva. Os ativos de crédito também foram destaque pelo alto carrego que os
+ativos possuem e, ao longo do mês, não houve fechamento dos spreads, mas sim
+um cenário mais estável, o que contribuiu para o desempenho acima do CDI por boa
+parte dos fundos.
+Os fundos investidos apresentaram retornos positivos neste mês. O maior destaque
+dentre os investidos foi o fundo Bradesco Sustentabilidade Empresarial.
+Multigestores Polaris (CNPJ: 35.845.029/0001-59)
+O Bradesco Multigestores Polaris apresentou um retorno nominal positivo, mas
+abaixo de seu benchmark durante o mês.
+Ao longo de junho, o cenário apresentou resultados bastante positivos para grande
+parte das classes. Tanto a parcela de renda variável, quanto os investimentos em
+renda fixa local, com destaque para os juros nominais e reais, tiveram um
+desempenho bastante positivo. Os gestores que estavam focados na curva de juros
+conseguiram obter bons resultados com o fechamento ao longo da curva. Já a
+parcela de renda variável, que vem sendo o destaque nos últimos 3 meses, também
+apresentou uma alta expressiva. Os ativos de crédito também foram destaque pelo
+alto carrego que os ativos possuem e, ao longo do mês, não houve fechamento dos
+spreads, mas sim um cenário mais estável, o que contribuiu para o desempenho
+acima do CDI por boa parte dos fundos.SUMÁRIO
+Os fundos investidos apresentaram retornos positivos neste mês. O maior destaque
+dentre os investidos foi o Aster FIC FIA, enquanto o destaque negativo ficou para o
+fundo Ace Capital Absoluto Institucional FIC FIA.
+Sustentabilidade Empresarial (CNPJ: 07.187.751/0001-08)
+A estratégia Sustentabilidade teve desempenho positivo, mas abaixo do Ibovespa
+em junho. Em termos relativos, contribuiu positivamente a seletividade nos setores
+de Mineração & Siderurgia, Imobiliário e Consumo. Do lado negativo, prejudicaram o
+desempenho da estratégia as alocações em Energia, Varejo e Utilidades Públicas. A
+gestão aumentou a exposição em Mineração & Siderurgia, Saúde e Imobiliário,
+reduzindo em Consumo, Papel, Celulose & Madeira e Serviços Financeiros. As
+maiores exposições relativas estão em Varejo, Imobiliário e Saúde.Carteira
+Bradesco
+(Moderada
+CNPJ:
+Dinâmica
+CPNJ:
+Os fundos Carteira Bradesco são fundos multimercados que permitem, por meio de
+um único click, acesso ao que há de mais avançado na análise quantitativa para
+definição da alocação nas classes de ativos com o que há de mais robusto no
+processo de construção da carteira, sendo esta última definida pela área de Solução
+de Investimentos (FOF). Os fundos Carteira Bradesco contam ainda com a alocação
+em ativos diretos, índices e fundos de investimento. No mês de junho, os resultados
+refletem o perfil de risco individualizado, todos eles apresentando retornos
+nominais positivos. Em um mês em que se observou alívio nos mercados globais,
+com dados de inflação mais brandos que sinalizam uma redução no passo da
+condução da política monetária das economias desenvolvidas, as atenções seguem
+voltadas ao mercado doméstico, onde os dados de inflação estão convergindo à
+meta do banco central. Adicionalmente, as definições do arcabouço fiscal refletiram
+no otimismo dos ativos locais, e praticamente todos os ativos de risco se
+beneficiaram deste movimento.
+ESG Global (CNPJ: 38.860.877/0001-25)
+O fundo, que tem como objetivo alocar em empresas voltadas para o tema ESG, em
+que equilibra uma alocação em ativos locais, obteve desempenho inexpressivo
+devido ao impacto negativo da variação cambial. Além disso, os ativos corporativos
+no exterior e o CDS tiveram performance positiva, porém a abertura das taxas de
+juros americanas impactou negativamente a estratégia. No mercado offshore, a
+atenção se volta novamente ao risco bancário, após a compra do First Republic
+Bank por parte do JP Morgan. Os prêmios corporativos parecem um pouco
+comprimidos exigindo maior seletividade. Volatilidade de Treasury segue alta e
+requer cautela nos momentos de entrada e saída. O mercado de crédito privado
+segue apresentando um desempenho positivo, em linha com a maior demanda pela
+classe em um momento ainda de emissões primárias fracas.
+SUMÁRIOO destaque principal vai para uma queda expressiva do fluxo de resgates. A gestão
+segue aproveitando as oportunidades para trocar papéis que sofreram grandes
+quedas de spreads por papéis de igual qualidade com spreads maiores. É
+importante ressaltar que a qualidade de uma carteira de crédito não está isenta de
+desafios, por isso, é importante ter uma seleção criteriosa. Dessa
+forma,
+as
+alocações em ações long only e long biased contribuíram positivamente no mês.
+Outro destaque ao longo de maio foi a alocação em títulos públicos atrelados à
+inflação, que também foram beneficiados pelo fechamento da curva de juros. As
+decisões de aumento de risco de boa parte dos gestores, e aumento de alocação
+em juros real no início de maio, amplificaram esse resultado positivo dentro dos
+fundos tanto de renda variável quanto multimercado.
+No cenário internacional, tivemos um mês mais estável, com a expectativa de juros
+mais altos pelo mundo prejudicando as alocações em renda fixa global, mas
+compensado pela renda variável, que teve pouca influência da alta de juros e teve
+um mês positivo com a empolgação referente as empresas ligadas a Inteligência
+Artificial, que tiveram forte alta no mês.
+Portanto, o fundo Bradesco Multigestor Multimercado apresentou um retorno
+positivo e acima do CDI, com destaque para o fundo da Az Quest.
+Família
+Alocação
+(Moderada
+CNPJ:
+Dinâmica
+CNPJ:
+A estratégia quantitativa Família Alocação apresentou resultados positivos e
+superiores ao CDI no mês de junho. Em um mês em que se observou alívio nos
+mercados globais, com dados de inflação mais brandos que sinalizam uma redução
+no passo da condução da política monetária das economias desenvolvidas, as
+atenções seguem voltadas ao mercado doméstico, onde os dados de inflação estão
+convergindo à meta do banco central. Adicionalmente, as definições do arcabouço
+fiscal refletiram no otimismo dos ativos locais, e praticamente todos os ativos de
+risco se beneficiaram deste movimento.
+SUMÁRIOSUMÁRIO
+Com a percepção de melhora no ambiente de risco, os fundos conseguiram
+capturar bons resultados, as alocações nas estratégias em RF / RV Local, Macro,
+Sistemática, Volatilidade, RV e RF Global
+apresentaram resultados positivos. Já o
+principal detrator da carteira foram as posições em Tail Hedge + Dólar (proteção).
+Os portfólios seguem diversificados de acordo com a modelagem quantitativa.
+Multigestores Max (CNPJ: 32.743.384/0001-29)
+O Bradesco FIC FIM Multigestores Max apresentou um retorno nominal positivo, mas
+abaixo de seu benchmark durante o mês.
+Ao longo de junho, o cenário apresentou resultados bastante positivos para grande
+parte das classes. Tanto a parcela de renda variável, quanto os investimentos em
+renda fixa local, com destaque para os juros nominais e reais, tiveram um
+desempenho bastante positivo. Os gestores que estavam focados na curva de juros
+conseguiram obter bons resultados com o fechamento ao longo da curva. Já a
+parcela de renda variável, que vem sendo o destaque nos últimos 3 meses, também
+apresentou uma alta expressiva. Os ativos de crédito também foram destaque pelo
+alto carrego que os ativos possuem e, ao longo do mês, não houve fechamento dos
+spreads, mas sim um cenário mais estável, o que contribuiu para o desempenho
+acima do CDI por boa parte dos fundos.
+Os fundos investidos apresentaram retornos mistos neste mês. O maior destaque
+dentre os investidos foi o Oceana Long Biased, enquanto o destaque negativo ficou
+para o fundo Gávea Estratégia Macro Plus FIC FIM.
+Multigestores Multimercado (CNPJ: 07.667.620/0001-28)
+O Bradesco FIC FIM Multigestores apresentou um retorno nominal positivo e acima
+de seu benchmark durante o mês.
+Ao longo de junho, o cenário apresentou resultados bastante positivos para grande
+parte das classes. Tanto a parcela de renda variável, quanto os investimentos em
+renda fixa local, com destaque para os juros nominais e reais, tiveram um
+desempenho bastante positivo.Os gestores que estavam focados na curva de juros conseguiram obter bons
+resultados com o fechamento ao longo da curva. Já a parcela de renda variável, que
+vem sendo o destaque nos últimos 3 meses, também apresentou uma alta
+expressiva. Os ativos de crédito também foram destaque pelo alto carrego que os
+ativos possuem e, ao longo do mês, não houve fechamento dos spreads, mas sim
+um cenário mais estável, o que contribuiu para o desempenho acima do CDI por boa
+parte dos fundos.
+Os fundos investidos apresentaram retornos positivos neste mês. O maior destaque
+dentre os investidos foi o AZ Quest Multimanager BBDC FI MM, enquanto o
+destaque negativo ficou para o fundo Neo Multimanager BBDC FI MM.
+Multigestores Plus (CNPJ: 28.428.129/0001-14)
+O Bradesco FIC MM Multigestores Plus apresentou um retorno nominal positivo e
+acima de seu benchmark durante o mês.
+Ao longo de junho, o cenário apresentou resultados bastante positivos para grande
+parte das classes. Tanto a parcela de renda variável, quanto os investimentos em
+renda fixa local, com destaque para os juros nominais e reais, tiveram um
+desempenho bastante positivo. Os gestores que estavam focados na curva de juros
+conseguiram obter bons resultados com o fechamento ao longo da curva. Já a
+parcela de renda variável, que vem sendo o destaque nos últimos 3 meses, também
+apresentou uma alta expressiva. Os ativos de crédito também foram destaque pelo
+alto carrego que os ativos possuem e, ao longo do mês, não houve fechamento dos
+spreads, mas sim um cenário mais estável, o que contribuiu para o desempenho
+acima do CDI por boa parte dos fundos.
+Os fundos investidos apresentaram retornos mistos neste mês. O maior destaque
+dentre os investidos foi o Oceana Long Biased FIC Ações, enquanto o destaque
+negativo ficou para o fundo SPX Estratégia Nimitz.
+SUMÁRIOMultigestores Sirius (CNPJ: 35.845.002/0001-66)
+O Bradesco Multigestores Sirius apresentou um retorno nominal positivo e acima de
+seu benchmark durante o mês.
+Ao longo de junho, o cenário apresentou resultados bastante positivos para grande
+parte das classes. Tanto a parcela de renda variável, quanto os investimentos em
+renda fixa local, com destaque para os juros nominais e reais, tiveram um
+desempenho bastante positivo. Os gestores que estavam focados na curva de juros
+conseguiram obter bons resultados com o fechamento ao longo da curva. Já a
+parcela de renda variável, que vem sendo o destaque nos últimos 3 meses, também
+apresentou uma alta expressiva. Os ativos de crédito também foram destaque pelo
+alto carrego que os ativos possuem e, ao longo do mês, não houve fechamento dos
+spreads, mas sim um cenário mais estável, o que contribuiu para o desempenho
+acima do CDI por boa parte dos fundos.
+Os fundos investidos apresentaram retornos positivos neste mês. O maior destaque
+dentre os investidos foi o Helius Lux Long Biased, enquanto o destaque negativo
+ficou para o fundo Mar Absoluto.
+Ouro (CNPJ: 37.235.748/0001-83) e Ouro USD (CNPJ:37.235.773/0001-67)
+O desempenho do ouro no mês continua refletindo o momento de alívio de risco
+global. Neste processo observa-se também a apreciação do real frente ao dólar.
+Com isso, no mês de junho, o fundo não hedgeado apresentou um resultado mais
+negativo do que o fundo hedgeado. Importante destacar que investimento em ouro
+é uma excelente opção para quem busca diversificação, liquidez e proteção em
+momentos de crise.
+SUMÁRIOCambial Dólar (CNPJ: 02.294.024/0001-26)
+O fundo segue as variações do dólar versus o real e apresentou um resultado
+negativo em junho, em linha com a valorização do real no mês. O real é uma das
+moedas que mais se destaca em valorização frente ao dólar no ano, o mês corrente
+continua refletindo o momento de alívio de risco global.
+SUMÁRIOA1 Hedge Multimercado Ágora (CNPJ: 37.570.154/0001-29)
+Na Renda Fixa tivemos um resultado positivo com posições aplicadas em juros
+nominal e vendidas em inflação. O possível corte já na reunião de agosto do COPOM
+pode abrir espaço para um eventual ritmo de cortes mais forte que o precificado no
+mercado. Em moedas tivemos rentabilidade positiva com ganhos nas posições
+vendidas em Dólar contra o Real e perdas na posição comprada em Real frente ao
+Peso
+Chileno.
+A
+abertura
+forte
+da
+curva
+de
+juros
+americana
+favoreceu
+a
+desvalorização do câmbio estadunidense. Na bolsa, tivemos rentabilidade positiva
+devido a posições vendidas em companhias de commodities exportadoras e
+compradas em ações domésticas. A definição de manutenção da meta de inflação e
+sinalização de corte de juros já em agosto favoreceram a bolsa. No internacional, o
+fundo teve rentabilidade negativa em decorrência de posições vendidas na bolsa
+americana e aplicada em juros do México. A subida da bolsa americana foi justificada
+pela desinflação observada no país e a recuperação de setores de metais. No caso
+da taxa de juros mexicana, o mercado não aguentou a violenta abertura de taxas
+nos EUA e acabou andando contra o nosso posicionamento. Em junho, as taxas de
+juros futuras americanas seguiram em alta no mês passado, revertendo quase toda
+queda observada na eclosão das turbulências bancárias ocorrida em março. Apesar
+da reprecificação do mercado de renda fixa, o dólar desvalorizou-se e as bolsas
+americanas tiveram mais um mês de performance positiva, com o S&P 500 atingindo
+o seu maior patamar desde abril de 2022. No Brasil, o IBOVESPA fechou em alta pelo
+terceiro mês consecutivo; as taxas de juros continuaram em queda no mercado
+futuro; e o Real registrou valorização relevante, fechando o mês passado abaixo de
+4.80. Entendemos que a boa performance dos ativos brasileiros refletiu um
+ambiente internacional mais favorável para economias emergentes e a melhoria nas
+perspectivas de crescimento do PIB.
+SUMÁRIOAbsolute Alpha Global Multimercado Ágora (CNPJ: 37.554.220/0001-77)
+O
+livro
+de
+eventos
+corporativos
+apurou
+resultado
+positivo,
+explicado
+majoritariamente pela parcela offshore. As operações de Activision e Horizon
+performaram positivamente, em meio a melhor expectativa acerca de seus
+respectivos litígios, enquanto a posição de Tower apurou resultado negativo em
+meio à piora de expectativa sobre a aprovação do regulador Chinês. Os destaques
+positivos da parcela local foram as posições de Aliar e Boa Vista. No primeiro caso,
+houve indicativo de aprovação da OPA pela CVM e no segundo, a aprovação da
+operação em assembleia. O livro Direcional com Assimetria performou através de
+posições compradas em GPS e BTG. Houve contribuição positiva também no livro
+L&S, distribuída entre os 3 pares: Sanepar, Copel e Petrobrás. O fundo aumentou
+modicamente a exposição no livro de eventos corporativos para 25%, sendo 22% no
+mercado externo. Houve aumento marginal nas principais posições, como Horizon e
+Activision, ainda que o principal movimento seja explicado por posições menores -
+sustentado também pela redução de seus respectivos downsides. Não houve
+movimentação relevante nos demais books do portfólio.
+Absolute Alpha Marb Multimercado Ágora (CNPJ: 37.539.670/0001-90)
+O
+livro
+de
+eventos
+corporativos
+apurou
+resultado
+positivo,
+explicado
+majoritariamente pela parcela offshore. As operações de Activision e Horizon
+performaram positivamente, em meio a melhor expectativa acerca de seus
+respectivos litígios, enquanto a posição de Tower apurou resultado negativo em
+meio à piora de expectativa sobre a aprovação do regulador Chinês. Os destaques
+positivos da parcela local foram as posições de Aliar e Boa Vista. No primeiro caso,
+houve indicativo de aprovação da OPA pela CVM e no segundo, a aprovação da
+operação em assembleia. O fundo aumentou modicamente a exposição no livro de
+eventos corporativos para 25%, sendo 22% no mercado externo. Houve aumento
+marginal nas principais posições, como Horizon e Activision, ainda que o principal
+movimento seja explicado por posições menores - sustentado também pela
+redução de seus respectivos downsides.
+SUMÁRIOAbsolute Pace Long Biased Ações Ágora (CNPJ: 35.848.011/0001-00)
+No mês de Junho, o fundo Absolute Pace Long Biased teve retorno de 9,7%.
+Destacaram-se positivamente posições compradas nos setores de Óleo e gás,
+bancos e utilidades públicas. Já os destaques negativos foram posições vendidas no
+setor de aviação e construção civil. O fundo está com posição líquida comprada de
+97% e posição bruta de 166%, com elevada diversificação entre empresas e setores.
+Adicionalmente, há exposição em outros riscos: 12% comprado em crédito privado,
+5% comprado em eventos corporativos locai e 1% comprado em FIIs. No livro Long,
+destacam-se posições nos setores de utilidades públicas, óleo & gás e índices
+internacionais por meio de derivativos. No livro Short, destacam-se posições em
+varejo básico, bancos e papel e celulose. No livro Long & Short, destaques para a
+estratégia de arbitragem entre classes.
+Absolute Vertex Multimercado Ágora (CNPJ: 32.291.936/0001-05)
+Em termos de resultado, o fundo apropriou ganhos expressivos em posições
+compradas em bolsa americana, parcialmente hedgeadas com posições aplicadas
+no juro nominal longo do país. O aumento de risco no mercado de bolsa local
+também proporcionou ganhos ao fundo, ainda que em menor magnitude. O livro de
+moedas também contribuiu positivamente, em posições vendidas no dólar –
+especialmente contra o real e o peso mexicano – e também comprada contra o
+renmimbi. O livro de juros detraiu performance, fruto de perdas em posições
+aplicadas em juros americano e ganhos em menor magnitude em posição aplicada
+em juros chilenos. O fundo aumentou de forma significativa as posições em bolsa
+americana, com redução tática ao final do mês, já elevadas em julho. Na bolsa local,
+a magnitude da posição é menos relevante, mas houve incremento marginal. Em
+juros não vemos grandes assimetrias, seja no mercado local, seja no externo. Já em
+moedas, seguimos com cases específicos, principalmente a venda de CNH.
+SUMÁRIOAce Capital Multimercado Ágora (CNPJ: 36.619.752/0001-82)
+O Ace Capital FIC FIM registrou ganho em junho. Os quatro livros principais geraram
+contribuições positivas para o fundo em junho. O principal destaque foi Renda Fixa,
+que se beneficiou das posições aplicadas em juros locais. O livro de Renda Variável
+ganhou com pequenas posições direcionais compradas em bolsa local. Já o livro de
+Moedas teve resultado positivo com a posição comprada em coroa norueguesa e
+vendida em coroa sueca. Por fim, o livro de Valor Relativo contribuiu de forma
+positiva, mas em menor proporção. Visão internacional: Somos cautelosos em
+relação à desaceleração da inflação subjacente e não acreditamos que os bancos
+centrais do mundo desenvolvido atingirão suas metas de inflação. Existe a
+possibilidade de que os bancos centrais optem por acomodar a inflação em um nível
+acima do alvo de 2%, o que teria implicações significativas para o cenário
+econômico e os ativos em geral. Situação brasileira: O cenário no Brasil é mais
+favorável, com atividade resiliente, melhora na inflação e início do ciclo de corte. O
+ministro Fernando Haddad fortaleceu a moderação política. A manutenção do
+centro da meta de inflação em 3% é importante, e agora a atenção se volta para a
+recomposição de receita, a discussão do orçamento de 2024 em agosto e o
+progresso da reforma tributária relacionada ao consumo.
+Adam Macro II Multimercado Ágora (CNPJ: 37.577.173/0001-87)
+O mês de junho foi marcado pelo movimento dos bancos centrais. Com exceção do
+Japão, todos os principais bancos centrais do mundo desenvolvido surpreenderam
+com um tom mais duro. Na ponta contrária, os bancos centrais emergentes,
+liderados por Chile e Brasil, começam a sinalizar que o ciclo de corte é iminente,
+enquanto a China segue ditando uma história própria. Nos Estados Unidos, apesar
+de manter a taxa inalterada e reforçar o guidance data-dependent, o Banco Central
+Americano (FED) sinalizou em suas projeções que mais duas altas de juros eram
+esperadas por quase todos os membros. Além disso, os dados observados no mês
+que antecedeu essa decisão deram todos os argumentos para isso, e Powell deixou
+claro que estes também serviriam de input para a decisão de julho.
+SUMÁRIODesde então, a leitura final do PIB praticamente dobrou em relação à sua primeira
+estimativa. De forma surpreendente, o setor imobiliário voltou a acelerar e a inflação
+do PCE seguiu muito acima da meta. Por outro lado, durante duas semanas, surgiu a
+esperança de um arrefecimento do mercado de trabalho, o qual foi normalizado na
+última divulgação dos pedidos de auxílio desemprego. Desse modo, mantemos a
+visão de que a resiliência da economia americana demandará maior aperto
+monetário, sob o risco de não convergência da inflação para a meta. Na Zona do
+Euro, os dados de atividade caminham em outra direção, vindo numa sequência de
+surpresas baixistas. O maior destaque do mês foi o PMI de Serviços, que apontou
+para a primeira desaceleração notável para o setor que apresentava maior
+resiliência. Há, contudo, um denominador comum com os Estados Unidos, o aperto
+do mercado de trabalho. Essa variável se torna cada vez mais determinante, uma
+vez que a inflação de bens perde espaço para a de serviços, e essa última não
+mostra ainda nenhum sinal de recuo na região. Nesse contexto, Lagarde disse que
+fará o que for preciso para convergir a inflação de volta para a meta, e demonstrou
+preocupação com os efeitos inflacionários da baixa produtividade observada na
+economia. Acreditamos que o Banco Central Europeu elevará sua taxa básica em 25
+bps na reunião de julho, e depois disso ficará mais dependente de dados, em linha
+com o FED. No mês, a China continuou exibindo perda de momentum. Nem mesmo
+o setor externo, que vinha exercendo um forte apoio à economia chinesa desde a
+pandemia, colaborou. Nesse cenário, o Banco Central Chinês (PBOC) surpreendeu o
+mercado com reduções nas taxas de juros, e o Conselho de Estado disse que está
+discutindo novas medidas de apoio. Contudo, toda indicação que se teve até o
+momento é de que qualquer medida seria moderada. Assim, com o ano chegando
+na metade sem a economia ganhar tração, acreditamos que o país flerta cada vez
+mais com o risco de não entregar o crescimento prometido para o ano – outrora
+visto como conservador – caso o governo não tome providências mais enérgicas. No
+Brasil, se desenha um ambiente de menos incertezas.
+SUMÁRIONo Copom, o Banco Central decidiu por manter a taxa de juros inalterada, mas,
+afrouxando o tom da comunicação na ata, corroborou com as expectativas de início
+de um ciclo de corte de juros em breve. A decisão ocorreu em meio às surpresas
+baixistas no IPCA de maio e revisões baixistas das projeções de inflação para 2023 e
+2024. Na mesma semana, a reunião do Conselho Monetário Nacional (CMN) também
+contribuiu para a ancoragem das expectativas de médio e longo prazo, ao definirem
+a meta de inflação de 2026 em 3%, com mudanças apenas no ano calendário. No
+cenário fiscal, tudo se encaminha para a rejeição na Câmara das alterações
+expansionistas feitas pelo Senado ao novo arcabouço fiscal. Diante disso, fica como
+um dos pontos de atenção a pressão política realizada pelo governo em
+determinadas empresas da bolsa, com destaque para a Petrobras. Entendemos que
+a diminuição das incertezas no mercado local pode abrir oportunidades para
+aumento de risco do portfólio. No mês de junho, os fundos da Adam Capital
+apresentaram boa performance e geração de alfa nos livros de Ações, Juros e
+Moedas.
+Alpha Key Long Biased II Multimercado Ágora (CNPJ: 36.620.450/0001-24)
+Tivemos em junho mais um mês de forte alta dos preços dos ativos de risco no
+Brasil. Os índices divulgados continuam mostrando crescimento do PIB acima do
+esperado e arrefecimento da inflação, aumentando as expectativas dos mercados
+que o corte de juros está próximo. O próprio Copom indicou que em agosto poderá
+efetuar a primeira redução da Selic, a depender da inflação a ser divulgada até a
+data da próxima reunião. O Ibovespa subiu 9% no mês, tirando o acumulado do ano
+do território negativo e chegando em 7,61% no primeiro semestre de 2023. Nesse
+mesmo período o Alpha Key Ações teve retorno positivo e acima do Ibovespa,
+mostrando nosso diferencial em gerar alpha quando o cenário fica minimamente
+mais claro. Durante o mês de junho as principais contribuições positivas vieram dos
+setores de incorporação, vestuário, elétricas e varejo de alimentação.
+SUMÁRIOOs setores detratores foram posições no setor financeiro ex-bancos e industrias.
+Em junho capturamos oportunidades com operações táticas via derivativos, em
+nomes que são os prováveis receptores de parte do fluxo de alocação em renda
+variável seja do investidor estrangeiro ou do institucional local.
+Apex Infinity Long Biased Ações (CNPJ: 32.273.523/0001-06) e Apex Infinity Long
+Biased Ações Ágora (CNPJ: 31.030.997/0001-56)
+No mês de junho de 2023, o fundo Apex Infinity apresentou retorno positivo, mas
+abaixo do Ibovespa. Os destaques positivos em termos absolutos foram em Bancos,
+Utilidade Pública, Transporte e Educação.
+O destaque negativo em termos
+absolutos foi em Investimento no exterior.
+O fundo terminou o mês com uma
+exposição líquida de 60,61% e bruta de 151,27%. A exposição bruta setorial do fundo
+está conforme a seguir: Financeiro e Outros 41,1%; Consumo Cíclico 27,9%; Materiais
+Básicos 25,9%; Utilidade Pública 15,7%; Bens Industriais 14,6%; Consumo não Cíclico
+9,9%; Saúde 7,8%; ETF 7,1% e Petróleo, Gás e Biocombustíveis 0,9%.
+Az Quest Altro Multimercado (CNPJ:
+34.109.756/0001-95) e Az Quest Altro
+Multimercado Ágora (CNPJ: 34.109.752/0001-07)
+O AZ Quest Altro teve um rendimento positivo no mês de junho, resultado acima da
+rentabilidade-alvo de longo prazo pensada para o fundo, recuperando parte do
+resultado dos primeiros meses do ano. No mercado local, tivemos fechamento dos
+spreads de crédito e os destaques foram as carteiras de debentures em CDI e
+bancários (LF e LFSN). Na parcela offshore o resultado foi abaixo do CDI, ganhamos
+com a posição de bonds e perdemos na parcela de derivativos. O fundo está 91%
+alocado, distribuído em 31 setores, com destaque para os setores de Elétricas,
+Bancos e Rodovias.
+SUMÁRIOAz Quest Ações Ágora (CNPJ: 37.280.235/0001-94)
+Em junho, as principais bolsas americanas registraram alta. O S&P-500 subiu 6,47%.
+A decisão do FED em manter os juros estáveis por hora indicam que o processo de
+alta de juros pode estar perto do fim. O índice de ações de tecnologia Nasdaq
+avançou 6,49%, impulsionado por fortes resultados das companhias de tecnologia,
+enquanto o Dow Jones registrou alta de 4,56%. A bolsa chinesa operou estável (-
+0.08%) em junho. Dados relacionados a atividade chinesa continuam a indicar que a
+economia está sofrendo um processo de desaquecimento. A bolsa brasileira
+registrou forte alta em junho com o Ibovespa avançando 9,00%. A aprovação do
+texto do arcabouço fiscal juntamente com os dados mais positivos de inflação
+contribuiu para reforçar o bom momento do mercado de ações. Adicionalmente, a
+ata da reunião de junho do COPOM trouxe uma mensagem que abre portas para o
+início de um ciclo de queda de juros já na próxima reunião em agosto. O AZ Quest
+Ações fechou o mês com alta e acima do índice Ibovespa, que rendeu 9,00% no
+período. Quanto à atribuição de resultados dos nossos portfólios, os setores de
+Serviços Financeiros, Petróleo e Petroquímica e Utilidade Pública foram os que mais
+contribuíram positivamente e nenhum setor da carteira teve resultado negativo no
 mês.
-Diante disso, os fundos de renda variável com característica long biased apresentaram um
-resultado positivo ao longo do mês. O fundo Bradesco Multigestores Balanceado
-apresentou um resultado positivo, com destaque para o fundo da Squadra LB e Vinci Total
-Return.Multigestores Polaris (CNPJ: 35.845.029/0001-59)
-O mês de maio foi muito positivo para os ativos de maior risco, fazendo com que os fundos
-tivessem um desempenho superior aos seus índices de referência. O destaque positivo de
-performance ficou com a classe de renda variável local, que foi beneficiada tanto pelo
-fechamento da curva de juros nominal, quanto pela melhor perspectiva de crescimento do
-PIB para o ano.
-Dessa forma, as alocações em ações long only e long biased contribuíram positivamente no
-mês. Outro destaque ao longo de maio foi a alocação em títulos públicos atrelados à
-inflação, também beneficiados pelo fechamento da curva de juros. As decisões de aumento
-de risco de boa parte dos gestores, e aumento de alocação em juros real no início de maio,
-amplificaram esse resultado positivo dentro dos fundos tanto de renda variável quanto
-multimercado.
-No cenário internacional, tivemos um mês mais estável, com a expectativa de juros mais
-altos pelo mundo prejudicando as alocações em renda fixa global, mas compensado pela
-renda variável, que teve pouca influência da alta de juros e teve um mês positivo com a
-empolgação referente as empresas ligadas a Inteligência Artificial, que tiveram forte alta no
-mês.
-Portanto, o fundo Bradesco Multigestores Polaris apresentou um resultado positivo, com
-destaque para o fundo da Vista.
-.
-SUMÁRIOFonte: Economática, abril de 2023
+Az Quest Multi Max Multimercado Ágora (CNPJ: 32.291.944/0001-51)
+A economia global foi marcada pelas reuniões dos principais Bancos Centrais. Eles
+continuaram seu processo de ajuste monetário, elevando as taxas de juros (ECB e
+BoE) ou sugerindo altas nos períodos subsequentes (FED). A desaceleração
+observada na atividade e o ajuste ainda incipiente no mercado de trabalho foram
+vistos como sinais alvissareiros no combate à inflação. Ocorreu um movimento de
+correção de expectativas, em que o mercado foi parcialmente convencido de que os
+BCs continuarão o processo até que os mercados de trabalho estejam menos
+desequilibrados. Nos EUA, o FED optou por não alterar a taxa básica de juros,
+deixando-a em 5,25%.
+SUMÁRIONa Europa, o ECB aumentou a taxa básica de juros em 25 bps, deixando-a em 3,5%.
+No Brasil, o IPCA de maio foi de 0,23%, acumulando 3,94% em 12 meses. Esperamos
+que o IPCA encerre o ano de 2023 em alta de 4,9%. Esperamos que a Selic encerre
+2023 em 12%, com corte inicial de 0,25pp na próxima reunião do COPOM.
+Esperamos um câmbio médio de R$/U$ 5,00 e taxa de crescimento do PIB de 1,70%
+no ano, advindo da forte atividade no campo e de melhoria nos preços dos ativos ao
+longo do ano, conforme a equipe econômica reconquiste a credibilidade da política
+fiscal. Em junho, o fundo obteve bons resultados no book de Bolsa Local, comprado
+em Ibovespa, Small Caps e em ações da Petrobrás. O book de Juros Locais também
+contribuiu positivamente, com destaque para as posições na curva Pré e com
+ganhos também nas posições em NTN-Bs de longo prazo. Em mercados de Bolsas
+Internacionais, houve resultado levemente negativo em operações táticas, sem
+posicionamento grande do fundo. O book de Moedas também deu resultado
+negativo, na venda de BRL, e também em posições em outros pares (JPY, CAD, CNH).
+O maior detrator de resultado no mês foi a estratégia de Juros Internacionais, com
+posições aplicadas em Treasuries de 2 anos e Juros Reais Americanos (TIPs). Por fim,
+em Commodities, o fundo teve resultado neutro em operações táticas do book
+Quantitativo.
+Az Quest Top Long Biased Ações (CNPJ: 34.109.771/0001-33) e Az Quest Top
+Long Biased Ações Ágora (CNPJ: 34.109.764/0001-31)
+Em junho, as principais bolsas americanas registraram alta. O S&P-500 subiu 6,47%.
+A decisão do FED em manter os juros estáveis por hora indicam que o processo de
+alta de juros pode estar perto do fim. O índice de ações de tecnologia Nasdaq
+avançou 6,49%, impulsionado por fortes resultados das companhias de tecnologia,
+enquanto o Dow Jones registrou alta de 4,56%. A bolsa chinesa operou estável (-
+0.08%) em junho. Dados relacionados a atividade chinesa continuam a indicar que a
+economia está sofrendo um processo de desaquecimento. A bolsa brasileira
+registrou forte alta em junho com o Ibovespa avançando 9,00%.
+SUMÁRIOA aprovação do texto do arcabouço fiscal juntamente com os dados mais positivos
+de inflação contribuiu para reforçar o bom momento do mercado de ações.
+Adicionalmente, a ata da reunião de junho do COPOM trouxe uma mensagem que
+abre portas para o início de um ciclo de queda de juros já na próxima reunião em
+agosto. O AZ Quest Top Long Biased teve um resultado positivo no mês. Quanto à
+atribuição de resultados dos nossos portfólios, os setores de Serviços Financeiros,
+Petróleo e Petroquímica e Utilidade Pública foram os que mais contribuíram
+positivamente, enquanto Bens de Consumo foi o único setor detrator da carteira no
+mês. Seguimos com exposição líquida comprada, principalmente nos setores de
+Bancos, Petróleo e Petroquímica e Varejo. Pelo lado vendido, o fundo carrega
+posições em empresas do setor de Bens de Consumo.
+Az Quest Yield Renda Fixa LP Ágora (CNPJ: 37.280.124/0001-88)
+No Brasil, o IPCA de maio foi de 0,23%, acumulando 3,94% em 12 meses, abaixo dos
+4,18% observados nos doze meses anteriores entre maio de 2022 e abril de 2023.
+Após as recentes surpresas baixistas e melhor composição da inflação corrente,
+esperamos que o IPCA encerre o ano de 2023 em alta de 4,9% e de 3,6%, em 2024.
+Esperamos que a Selic encerre 2023 em 12,00%, com corte inicial de 0,25pp na
+próxima reunião do COPOM, em agosto. Por fim, no momento, esperamos um
+câmbio médio de R$/U$ 5,00 e taxa de crescimento do PIB de 1,70% no final deste
+ano, advindo da forte atividade no campo e de melhoria nos preços dos ativos ao
+longo do ano, conforme a equipe econômica reconquiste a credibilidade da política
+fiscal.
+Bahia AM Multimercado Ágora (CNPJ: 37.265.158/0001-01)
+No mês, os ganhos do fundo vieram de posições aplicadas de juros nominais no
+Brasil. As perdas vieram de posições aplicadas em países desenvolvidos e vendidas
+em bolsa americana.
+SUMÁRIONo cenário macro, duas incertezas foram afastadas após o acordo do teto da dívida
+americana e da ausência de novos desdobramentos negativos relevantes no setor
+bancário. Com os dados de atividade corrente americana mais resilientes, alguns
+membros do FED voltaram a indicar a possibilidade de altas adicionais de juros. Na
+China, os dados de atividade permanecem fracos e continuam as preocupações
+com a recuperação econômica. Consideramos que a economia global deve
+desacelerar à frente devido ao enorme aperto monetário realizado ao longo dos
+últimos meses, com crescente probabilidade de uma recessão mais adiante. O
+eventual aperto no crédito decorrente da recente crise bancária acentua este
+processo. A inflação dos preços ao consumidor e os reajustes salariais seguem
+como
+importantes
+variáveis
+a
+serem
+monitoradas.
+Seguimos
+com
+posições
+aplicadas em países desenvolvidos, relativas em volatilidade e vendidas em risco. Na
+mesa de moedas, temos posições relativas neutras ao dólar. Seguimos comprados
+no dólar australiano contra o dólar neozelandês e comprados no iene contra o yuan.
+No mercado doméstico, mantemos posições aplicadas em inclinação de juro
+nominal e aplicadas no juro nominal.
+Bahia AM Long Biased II Multimercado Ágora (CNPJ: 38.315.485/0001-85)
+As contribuições positivas ficaram concentradas em posições nos setores de
+Consumo Discricionário, Shoppings e Bancos. O ambiente favorável para queda de
+juros vem beneficiando as empresas mais expostas à economia doméstica. No mês,
+a performance positiva veio das nossas posições em Banco Pactual, SmartFit, Grupo
+Soma e Aliansce Sonae.
+As contribuições negativas foram concentradas em
+Serviços Financeiros e Papel e Celulose. O ambiente competitivo nos meios de
+pagamento segue desafiador, pesando nas ações da Cielo. Já em Celulose, Suzano
+teve um mês de underperformance puxado pela valorização do real contra o dólar.
+O fundo segue com uma carteira diversificada, alocando risco privilegiando a
+liquidez, a robustez dos modelos de negócios e a capacidade de navegar em um
+ambiente de juros altos e incertezas fiscais. As maiores posições estão hoje nos
+setores de Consumo Discricionário, Bancos e Setor Elétrico.
+SUMÁRIOBahia AM Valuation Ações Ágora (CNPJ: 37.265.183/0001-87)
+No mês, os ganhos do fundo vieram de posições aplicadas de juros nominais no
+Brasil. As perdas vieram de posições aplicadas em países desenvolvidos e vendidas
+em bolsa americana.
+No cenário macro, duas incertezas foram afastadas após o
+acordo do teto da dívida americana e da ausência de novos desdobramentos
+negativos relevantes no setor bancário. Com os dados de atividade corrente
+americana
+mais
+resilientes,
+alguns
+membros
+do
+FED
+voltaram
+a
+indicar
+a
+possibilidade de altas adicionais de juros. Na China, os dados de atividade
+permanecem fracos e continuam as preocupações com a recuperação econômica.
+Consideramos que a economia global deve desacelerar à frente devido ao enorme
+aperto
+monetário
+realizado
+ao
+longo
+dos
+últimos
+meses,
+com
+crescente
+probabilidade de uma recessão mais adiante. O eventual aperto no crédito
+decorrente da recente crise bancária acentua este processo. A inflação dos preços
+ao consumidor e os reajustes salariais seguem como importantes variáveis a serem
+monitoradas. Seguimos com posições aplicadas em países desenvolvidos, relativas
+em volatilidade e vendidas em risco. Na mesa de moedas, temos posições relativas
+neutras ao dólar. Seguimos comprados no dólar australiano contra o dólar
+neozelandês e comprados no iene contra o yuan. No mercado doméstico,
+mantemos posições aplicadas em inclinação de juro nominal e aplicadas no juro
+nominal.
+Bahia AM Maraú Multimercado (CNPJ: 30.378.522/0001-92 ) e Bahia AM Maraú
+Multimercado Ágora (CNPJ:21.228.297/0001-17)
+As contribuições positivas ficaram concentradas em posições nos setores de
+Consumo Discricionário e Saneamento. Nossas posições em empresas domésticas,
+principalmente em vestuário, tiveram uma performance muito positiva, puxadas
+pela melhora do cenário macroeconômico local. Em Saneamento, Sabesp teve um
+mês positivo com avanços na agenda de negociação com as prefeituras para a
+privatização da companhia. As contribuições negativas foram concentradas em
+Serviços Financeiros e Setor Elétrico.
+SUMÁRIOCielo teve uma má performance em cima da discussão de um ambiente competitivo
+mais desafiador, com queda nos volumes e perda de market share. Por sua vez,
+Copel sofreu com as discussões de renovação de concessão de distribuição.
+Embora o impacto na empresa seja marginal, o tom das discussões reflete um
+alinhamento pior do ministério e das agências reguladoras com a expectativa do
+mercado.
+O
+fundo
+segue
+com
+uma
+carteira
+diversificada,
+alocando
+risco
+privilegiando a liquidez, a robustez dos modelos de negócios e a capacidade de
+navegar em um ambiente de juros altos e incertezas fiscais. As maiores posições
+estão hoje nos setores de Consumo Discricionário, Bancos e Setor Elétrico.
+Blue Alpha B Multimercado Ágora (CNPJ: 36.619.728/0001-43)
+Os ganhos foram bastante diversificados dentre as diversas estratégias, com
+destaque para o mercado de juros, seguido pelas moedas e complementados pelos
+ganhos em bolsas. Os principais temas de nossos cenários macroeconômicos global
+e local foram sendo confirmados ao longo do mês, resultando em incremento
+paulatino no risco alocado e retornos positivos nos mercados on e offshore em
+junho.
+BNP Paribas Action Ações Ágora (CNPJ: 40.226.068/0001-08)
+O BNP Action obteve um mês negativo na geração de alpha contra o benchmark. Em
+junho, tivemos alguns ativos da nossa basket core apresentando performance mais
+fraca, como o setor de infraestrutura, seguros, tecnologia e Agro. Por outro lado,
+podemos destacar alguns ativos que estamos underweight e apresentaram
+performance mais forte, como o setor de bancos, petróleo e utilidade pública.
+BNP Paribas Rubi Crédito Privado Ágora (CNPJ: 34.081.022/0001-45)
+O fundo teve desempenho positivo e acima do CDI no mês. Observamos um leve
+fechamento nos prêmios de crédito, após a estabilização do mês de maio.
+SUMÁRIOCom uma carteira de alta qualidade de crédito e uma duration mais curta, o fundo
+conseguiu aproveitar bem esse cenário. O carregamento da carteira de crédito está
+próximo a CDI+1,45% a.a. para uma duration média de 1,6 anos.
+BNP Paribas Small Caps Ações Ágora (CNPJ: 37.265.082/0001-06)
+O fundo BNP Small Caps apresentou um mês negativo na geração de alpha contra o
+benchmark. O mês de junho foi uma continuação da performance do mês anterior
+devido a maior apetite a risco do investidor. Como mencionado no comentário do
+mês anterior, ativos nos setores de educação e aviação apresentando performance
+relevantes nesse cenário.
+Canvas Enduro Multimercado Ágora (CNPJ:35.848.052/0001-05)
+O Canvas Enduro fechou o mês com rentabilidade positiva de 1.39%. Nas posições
+no mercado local, as estratégias aplicadas em juros nominais e juros reais obtiveram
+resultados positivos. Já as posições tomadas em juros nominais tiveram retorno
+negativo. Combinadas, as estratégias trouxeram um retorno positivo para o book de
+Juros. Na estratégia de câmbio local, as posições vendidas em Real obtiveram
+resultados negativos. O book de renda variável local, teve resultado positivo para o
+fundo através das posições em ações específicas e via índice. Nos mercados
+internacionais, posições aplicadas em juros tiveram resultados negativos. Os books
+de
+renda
+variável
+e
+de
+moedas
+obtiveram
+resultados
+positivos.
+No mercado local, o fundo encerrou o mês com posições aplicadas em juros
+nominais na parte curta e intermediária da curva e tomadas na parte longa.
+Continuamos também com posições aplicadas em papeis atrelados à inflação na
+parte intermediária da curva. Em bolsa local, posições compradas em ações
+específicas e via índice. Em câmbio, posição vendida no Real via futuros. Já na parte
+internacional, posições aplicadas em juros dos EUA no 2 anos. Em bolsa, o fundo
+está comprado via índice. Já em câmbio, o fundo mantém uma posição comprada
+numa cesta de moedas.
+SUMÁRIOCanvas Vector Multimercado (CNPJ:34.081.012/0001-00 ) e Canvas
+Vector Multimercado Ágora (CNPJ:34.081.031/0001-36)
+Em junho, o FED decidiu, após 10 altas seguidas, pela manutenção da taxa básica da
+economia americana. A despeito da decisão, houve sinalização da necessidade de
+novos aumentos nas próximas reuniões – também expressada pelo Banco Central
+Europeu, que aumentou os juros da Zona do Euro em 25 bps. Somando-se o tom
+dos bancos centrais a dados econômicos e de inflação ainda robustos, países
+desenvolvidos passaram por aberturas de diferentes graus em suas taxa. Nos
+emergentes, por outro lado, sinais mais claros de arrefecimento da inflação levaram
+à prevalência de fechamentos nas taxas. No Vector, a classe de juros contribuiu
+negativamente para o resultado mensal. Apesar das altas nos juros norte-
+americanos, o dólar apresentou desvalorização. Esse movimento resultou em
+ganhos para o book de Juros EM e perdas de menor magnitude com Juros DM.
+Ativos cíclicos tiveram bom desempenho no mês, com apreciação das bolsas
+globais, queda no VIX e fechamento nos spreads de crédito corporativo. Todas as
+classes cíclicas geraram resultado positivo para o fundo. Por fim, commodities não
+apresentaram tendência definida. Essa classe de ativos contribuiu positivamente
+para a cota do Vector. Em comparação com o mês anterior, não houve mudanças
+significativas na alocação relativa de risco de cada classe de ativos. O yield da
+carteira do Vector encontra-se no patamar de CDI + 6.1% a.a., ao passo que o
+expected shortfall semanal do fundo é de 7.5% – isto é, existe, na janela de uma
+semana, 1% de chance de uma perda de 7.5%.
+Claritas Long Short Multimercado (CNPJ: 35.845.046/0001-96) e Claritas Long
+Short Multimercado Ágora (CNPJ: 35.845.044/0001-05)
+O mês de junho foi marcado por alta das bolsas globais e das curvas de juros. Os
+riscos bancários desapareceram do noticiário. Por outro lado, a economia chinesa
+seguiu surpreendendo negativamente. O FED manteve a taxa de juros inalterada, em
+sua primeira pausa desde o início do ciclo de alta de juros. As projeções dos
+membros indicam mais duas altas de 25 bps nesse ano. No ambiente doméstico, a
+bolsa subiu, os juros caíram e o real valorizou.
+SUMÁRIOO Banco Central manteve o tom duro no comunicado pós decisão, mas, modulou o
+discurso na ata, abrindo espaço para o corte de juros na reunião de agosto. O
+arcabouço fiscal passou por alterações no senado e retornou para a câmera dos
+deputados, enquanto a reforma tributária ganhou tração e parece avançar na
+tramitação. No mês, o principal destaque positivo foi nossa posição em Cury. O
+conselho curador do FGTS aprovou o aumento dos subsídios, a redução das taxas
+de juros e a ampliação do valor máximo do imóvel a ser financiado no âmbito do
+programa Minha Casa Minha Vida, o que deve melhorar a acessibilidade à habitação
+pela população de baixa renda. Outro destaque positivo foi nossa posição em BTG
+Pactual, que se beneficiou da forte queda dos juros de longo prazo e da retomada
+das atividades no mercado de capital, com o anúncio de diversas ofertas de ações
+durante o mês. Por outro lado, o principal destaque negativo foi nossa posição em
+Vamos, que realizou uma oferta primária de ações precificada a R$11/ação. Na
+oferta, a empresa levantou R$ 868 milhões para reforçar sua estrutura de capital e
+acelerar seu plano de expansão orgânica com a compra de máquinas e caminhões.
+Clave Alpha Macro Multimercado Ágora (CNPJ: 42.494.301/0001-69)
+No mês, os resultados positivos vieram principalmente dos books de ações no brasil
+e moedas globais, e negativos principalmente do book de juros globais. No cenário
+local, junho foi marcado pela continuidade do processo de descompressão de
+prêmio de risco e consequente melhora nos preços dos ativos financeiros, tanto
+pelo encaminhamento do arcabouço fiscal e boas expectativas em relação à
+votação no Congresso da Reforma Tributária, como por dados benignos de inflação
+confirmando a tendência de queda dos preços. Nesse ambiente de melhora,
+voltamos a ver entrada de investimento estrangeiro nos mercados brasileiros. No
+mercado externo, o mês encerra o melhor 1º semestre da história do Nasdaq,
+resultado da animação dos investidores com o tema de IA, dados fortes de
+atividade, mercado de trabalho resiliente e inflação sem surpresas.
+SUMÁRIOO cenário de goldilocks volta à tona postergando mais uma vez as projeções de fim
+do ciclo de aperto da política monetária. No continente europeu os destaques do
+período foram a persistência da inflação no Reino Unido e a desaceleração da
+atividade na zona do Euro. Nos books locais mantemos posições compradas em
+ações ligadas ao mercado doméstico, tanto no book direcional como no book
+relativo vs. posição tomada em juros. Nos books externos seguimos posicionados
+para o tema de peak rates, com destaque para posições de inclinação de juros no
+Canadá.
+Constellation Ações Ágora (CNPJ: 34.109.948/0001-00)
+O Constellation Estratégia FIC FIA apresentou uma performance positiva e em linha
+com o Ibovespa em junho de 2023. Os principais setores que contribuíram para a
+performance positiva foram Financeiro, Utilities e Consumo.
+O mês de junho
+marcou a maior alta mensal da bolsa brasileira em mais de dois anos. O crescimento
+do PIB acima das expectativas e o fato do S&P ter elevado a perspectiva do Brasil
+para positiva foram boas notícias para o cenário macroeconômico. Na reunião do
+COPOM, decidiu-se por manter a taxa Selic. O tom a reunião foi de cautela, adiando
+um pouco as expectativas sobre a queda dos juros no Brasil. Esse mês, o Ministério
+de Minas e Energia (MME) divulgou a nova proposta de renovação de concessões,
+que foi interpretada positivamente pelo mercado, contribuindo para o setor de
+Utilities. Apesar de não termos perspectivas iminentes de IPOs, o anúncio de Follow-
+Ons já indica uma retomada gradual do mercado de capitais, contribuindo, tanto
+para o crescimento das próprias companhias, quanto para o setor Financeiro.
+Recentemente aumentamos o Beta do nosso portfólio e estamos praticamente
+alocados
+em
+negócios
+que
+acreditamos
+que
+podem
+gerar
+retornos
+consistentes no longo prazo.
+SUMÁRIOConstellation Compounders ESG Ágora (CNPJ: 37.590.561/0001-06)
+O Constellation Compounders FIC FIA apresentou uma performance positiva, mas
+abaixo do Ibovespa em junho de 2023. Os principais setores que contribuíram para a
+performance positiva foram Financeiro, Utilities e Consumo.
+O mês de junho
+marcou a maior alta mensal da bolsa brasileira em mais de dois anos. O crescimento
+do PIB acima das expectativas e o fato do S&P ter elevado a perspectiva do Brasil
+para positiva foram boas notícias para o cenário macroeconômico. Na reunião do
+COPOM, decidiu-se por manter a taxa Selic. O tom a reunião foi de cautela, adiando
+um pouco as expectativas sobre a queda dos juros no Brasil. Esse mês, o Ministério
+de Minas e Energia (MME) divulgou a nova proposta de renovação de concessões,
+que foi interpretada positivamente pelo mercado, contribuindo para o setor de
+Utilities. Apesar de não termos perspectivas iminentes de IPOs, o anúncio de Follow-
+Ons já indica uma retomada gradual do mercado de capitais, contribuindo, tanto
+para o crescimento das próprias companhias, quanto para o setor Financeiro.
+Recentemente aumentamos o Beta do nosso portfólio e estamos praticamente
+alocados
+em
+negócios
+que
+acreditamos
+que
+podem
+gerar
+retornos
+consistentes no longo prazo.
+Equitas Selection Ações (CNPJ: 34.109.912/0001-18) e Equitas Selection Ações
+Ágora (CNPJ: 34.109.921/0001-09)
+Em junho, o Equitas Selection apresentou uma performance positiva e acima do
+Ibovespa. No primeiro trimestre de 2023, enquanto a receita das empresas que
+compõem o Ibovespa cresceu em média 3%, as empresas do nosso portfólio
+apresentaram crescimento de 54% em relação ao mesmo período de 2022. Em
+relação ao EBITDA, as empresas do Ibovespa registraram queda de -8% em média
+em comparação com o primeiro trimestre de 2022, enquanto as empresas do
+Selection apresentaram crescimento de mais de 100%. Seguimos muito confiantes
+nas empresas do nosso portfólio e nas dinâmicas microeconômicas às quais estão
+expostas.
+SUMÁRIOProjetamos uma taxa interna de retorno para portfólio superior a 25% ao ano,
+considerando horizonte de investimento de 3 anos, mesmo sem considerar a
+reprecificação dos ativos que atualmente negociam a múltiplos entre um e dois
+desvios padrões abaixo da média histórica. No mês, as bolsas de valores
+internacionais apresentaram desempenho positivo, encerrando o primeiro semestre
+com altas expressivas. Nos EUA, os dados de crescimento do PIB acima do
+esperado, a desaceleração da inflação e o sólido desempenho reportados pelas
+grandes empresas de tecnologia contribuíram para o bom desempenho das bolsas
+no semestre. No Brasil, a melhora do cenário macro segue se refletindo na
+precificação dos ativos. Em junho, as taxas dos juros de LP caíram quase 100bps, o
+que resultou em um bom desempenho das ações domésticas. O IPCA e IGPM
+registraram redução significativa nos últimos dados, e o BC sinalizou que os juros
+podem começar a cair na próxima reunião do COPOM. As projeções para o
+crescimento do PIB também vêm sendo revisadas para cima pelos principais bancos.
+GAP Absoluto Multimercado Ágora (CNPJ: 36.619.783/0001-33)
+O resultado positivo do Gap Absoluto em junho é explicado por estratégias no
+mercado brasileiro, tanto aplicadas em juros quanto compradas em bolsa. As
+posições se beneficiaram da consolidação do cenário de corte de juros a partir da
+reunião de agosto, em meio a revisões baixistas de inflação e uma atividade
+econômica ainda sustentada. Nos mercados internacionais, o fundo teve resultado
+positivo com a posição aplicada em juros no Chile, que se beneficiou com a postura
+mais branda do banco Central. Do lado negativo, destacaram-se posições aplicadas
+em juros nos EUA e no Reino Unido, que sofreram com dados de atividade mais
+fortes, e posições compradas na coroa norueguesa contra o peso colombiano.
+SUMÁRIOGauss Multimercado Ágora (CNPJ: 36.620.660/0001-12)
+Em junho, o Gauss FIC FIM registrou ganhos. No mercado externo, a maioria dos
+bancos centrais de países desenvolvidos adotou uma postura mais rígida em
+relação à inflação. O Fed decidiu manter as taxas de juros em 5,25%, mas indicou a
+possibilidade de mais duas elevações de 0,25% até o final do ano. Além disso, dados
+de atividade continuaram vindo fortes nos países desenvolvidos, e um cenário de
+soft landing voltou à narrativa do mercado. Dessa forma, os índices de ações
+tiveram desempenho positivo (S&P +6.5% e Nikkei +4.0%), enquanto o dólar teve
+desempenho misto contra seus pares (EURUSD +2.0%, USDJPY +3.6%, USDCNH
++2.1%) e as taxas de juros também tiveram performance mista (UST 10y +19bps,
+Bunds +12bps e JGB 10y -4bps). No Brasil, os ativos tiveram performances positivas
+(IBOV +9.0%, USDBRL -5.3% e DI jan27 -76bps). O Fundo registrou ganhos nas
+posições de bolsas internacionais e no real, mais que compensando as perdas no
+mercado de juros de países emergentes. No mercado externo, continuamos
+otimistas com ações no Japão e mantemos o basket de empresas norte-americanas
+ligadas à Inteligência Artificial. Além disso, reduzimos a posição comprada no dólar
+americano contra uma cesta de moedas e a posição vendida na lira turca. No
+mercado de juros, mantemos posições tomadas na inclinação do México e no um
+ano na curva de Turquia e posições tomadas nas JGBs contra aplicadas nos swaps
+de Japão. No mercado local, mantemos as posições compradas no real, em uma
+cesta de ações, com destaque para incorporadoras de baixa renda e na debênture
+participativa da Vale.
+Genoa Capital Radar Multimercado Ágora (CNPJ: 37.511.023/0001-70)
+As principais contribuições positivas do mês vieram das posições compradas no
+real, vendidas em inflação e compradas em renda variável no Brasil. Também
+ganhamos nos juros da Colômbia e do México. Foram detratoras as apostas nos
+juros e moeda da África do Sul e do Chile. No Brasil, seguimos comprados no real
+contra o dólar americano e uma cesta de moedas de países emergentes, e aplicados
+nos juros nominais e nos juros reais.
+SUMÁRIONo exterior, estamos comprados no dólar americano contra o euro e o peso chileno,
+e comprados no dólar de Singapura contra o yuan chinês. Seguimos tomados nos
+juros da África do Sul e do Japão. Temos apostas táticas na inclinação dos juros
+nominais nos EUA, México, Chile e Colômbia. Estamos comprados em ações no
+Brasil. A carteira comprada é composta por empresas brasileiras dos setores de
+consumo e utilidades públicas, e empresas americanas ligadas à computação em
+nuvem e IA. Seguimos vendidos nos setores de alimentos e bebidas, e com
+proteções em índices globais.
+Ibiúna Equities 30 Ações Ágora (CNPJ: 37.280.206/0001-22)
+O setor de consumo discricionário teve a maior contribuição positiva no mês, com
+destaque para a posição O setor de consumo discricionário teve a maior
+contribuição positiva no mês, com destaque para a posição em SOMA3. Mantivemos
+nossos investimentos no Grupo de Moda Soma (SOMA3) e na Vivara Part. (VIVA3)
+dado os fortes resultados operacionais esperados e valuations ainda descontados.
+Fizemos aumentos marginais em Iguatemi (IGTI11) e Sabesp (SBSP3). Entre os novos
+investimentos, vale ressaltar posições em BB Seguridade (BBSE3) e Porto Seguro
+(PSSA3) feitas nos últimos 30 dias (ambas são empresas que não se beneficiam
+diretamente dos cortes de juros, mas que se encontram em bom momento
+operacional
+e
+apresentam
+valuations
+relativamente
+atrativos).
+Também
+participamos da oferta de ações de Direcional Engenharia (DIRR3) e aumentamos
+nossa posição na empresa. Finalmente, após um rally de quase 70% nos últimos 12
+meses, reduzimos marginalmente nosso investimento em Petrobras (PETR4).
+Ibiúna Hedge Multimercado Ágora (CNPJ:
+37.554.478/0001-73) e Ibiúna Hedge
+STH Multimercado (CNPJ: 32.273.503/0001-27)
+Os destaques positivos no mês foram as posições construtivas em Brasil, com
+ganhos na compra do Real, nos livros aplicados em juros nominais e reais, e na
+posição comprada no índice Ibovespa.
+SUMÁRIOSUMÁRIO
+No exterior, o livro de moedas se beneficiou das posições de carrego e também
+tiveram retorno positivo as posições compradas em bolsa americana e Japonesa.
+Por outro lado, o livro de juros tomados no G10 mostrou a principal performance
+negativa em junho. No Brasil, temos posições aplicadas em juros nominais e reais
+além de trades de valor relativo nas curvas de juro real e de implícitas. No exterior,
+reduzimos posições tomadas em juros curtos nos EUA, e mantemos posições
+aplicadas em países tanto do G10 como emergentes com maior perspectiva de
+precificação do início de ciclos de queda de juro no segundo semestre. Em moedas,
+nosso viés segue sendo ficar vendido em Dólar e comprado principalmente em
+moedas de maior carrego como o Peso Mexicano e o Real. Na renda variável,
+mantemos pequena posição tática comprada no Ibovespa e em uma estrutura de
+valor relativo (“paridade de risco”) na bolsa americana.
+Ibiúna Long Biased Multimercado Ágora (CNPJ: 37.280.163/0001-85)
+O setor de consumo discricionário teve a maior contribuição positiva no mês, com
+destaque para a posição em SOMA3. O setor financeiro também teve contribuição
+relevante, principalmente com posições de valor relativo em empresas de serviços
+financeiros. Mantivemos nossos investimentos no Grupo de Moda Soma (SOMA3) e
+na Vivara Part. (VIVA3) dado os fortes resultados operacionais esperados e
+valuations ainda descontados. Fizemos aumentos marginais em Iguatemi (IGTI11) e
+Sabesp (SBSP3). Entre os novos investimentos, vale ressaltar posições em BB
+Seguridade (BBSE3) e Porto Seguro (PSSA3) feitas nos últimos 30 dias (ambas são
+empresas que não se beneficiam diretamente dos cortes de juros, mas que se
+encontram em bom momento operacional e apresentam valuations relativamente
+atrativos). Também participamos da oferta de ações de Direcional Engenharia
+(DIRR3) e aumentamos nossa posição na empresa. Finalmente, após um rally de
+quase 70% nos últimos 12 meses, reduzimos marginalmente nosso investimento em
+Petrobras (PETR4).SUMÁRIO
+Ibiúna Long Short Multimercado Ágora (CNPJ: 40.226.075/0001-00)
+O setor financeiro teve a maior contribuição positiva no mês, com destaque para
+posições de valor relativo em empresas de serviços financeiros. O setor de
+consumo discricionário também teve contribuição relevante, principalmente com
+posições em empresas varejistas. Mantivemos nossos investimentos no Grupo de
+Moda Soma (SOMA3) e na Vivara Part. (VIVA3) dado os fortes resultados
+operacionais
+esperados
+e
+valuations
+ainda
+descontados.
+Fizemos
+aumentos
+marginais em Iguatemi (IGTI11) e Sabesp (SBSP3). Entre os novos investimentos, vale
+ressaltar posições em BB Seguridade (BBSE3) e Porto Seguro (PSSA3) feitas nos
+últimos 30 dias (ambas são empresas que não se beneficiam diretamente dos
+cortes de juros, mas que se encontram em bom momento operacional e
+apresentam valuations relativamente atrativos). Também participamos da oferta de
+ações de Direcional Engenharia (DIRR3) e aumentamos nossa posição na empresa.
+Finalmente, após um rally de quase 70% nos últimos 12 meses, reduzimos
+marginalmente nosso investimento em Petrobras (PETR4).
+Indie Ações Ágora (CNPJ: 35.847.977/0001-23)
+As principais posições do portfólio são Eneva, Hapvida e Banrisul. Setorialmente as
+principais exposições são em utilidades públicas (22%), consumo (17%) e serviços
+financeiros (15%), que também foram os maiores atribuidores de performance no
+mês. Ao longo do primeiro semestre no Brasil, diversos desdobramentos políticos e
+econômicos contribuíram para o ânimo dos mercados, fechamento da curva de
+juros futuros e maior apetite ao risco, como: (i) o novo arcabouço fiscal, que apesar
+de baseado na receita, reduz, momentaneamente, incertezas em torno dos gastos
+futuros; (ii) um Congresso mais inflexível na defesa das reformas estruturais feitas
+nos últimos anos (independência do BC, Lei do Saneamento e privatização da
+Eletrobras, por exemplo); (iii) crescimento do PIB no primeiro trimestre melhor que
+esperado pelo mercado, ainda que muito concentrado no setor agropecuário, e que
+pode implicar em crescimento acima de 2,5% em 2023; (iv) inflação menor queSUMÁRIO
+esperada com perspectiva fiscal, que pode abrir espaço para o início do ciclo de
+corte de juros; e, (v) maior clareza sobre a reforma tributária e seus impactos.
+Apesar da aparência de melhor conjuntura para renda variável, vale ressaltar que
+existem riscos no radar que podem impactar negativamente a recuperação dos
+preços dos ativos locais. No curto prazo, teremos as diversas ofertas de ações
+anunciadas que precisam ser acompanhadas por capital novo em um mercado com
+fluxo ainda baixo. No médio prazo, o principal driver será o efeito da queda efetiva
+da taxa SELIC para melhora de resultados operacionais e financeiros das empresas.
+Assim sendo, nosso portfólio continua diversificado buscando equilíbrio entre ativos
+domésticos ainda muito descontados em relação à média histórica e ativos
+resilientes para enfrentar um cenário de permanência de juros elevados.
+Kadima High Vol Multimercado Ágora (CNPJ: 36.620.364/0001-11)
+Em Junho, a principal contribuição positiva para o fundo veio do mercado de DIs
+futuros, onde tanto os modelos seguidores de tendências de longo prazo, como os
+modelos seguidores de tendências de curto prazo apresentaram ganhos. Outro
+modelo que apresentou performance positiva no período foi o de alocação
+sistemática entre diferentes classes de ativos. Finalmente, os modelos de fatores
+operando futuros de commodities em mercados internacionais também tiveram
+bons resultados no mês. No lado negativo, os principais detratores de performance
+foram os modelos seguidores de tendência (tanto de curto como de longo prazo)
+no dólar. No agregado, o fundo fechou o mês com resultado positivo e acima do
+benchmark. Acreditamos no potencial da estratégia do fundo, composta por uma
+combinação de modelos matemáticos e estatísticos. Nossa área de pesquisa vem
+empenhando-se em desenvolver novos modelos e melhorias que contribuem para
+termos confiança na capacidade do fundo gerar bons resultados no longo prazo.SUMÁRIO
+Kadima Long Short Plus Ações Ágora (CNPJ: 39.807.296/0001-92)
+O Kadima Long Short Plus FIA é um fundo long short. O modelo de fatores na
+versão long-short é a principal alocação de risco do fundo. Adicionalmente, também
+estão presentes no fundo outros modelos operando diversas classes de ativos no
+Brasil e no exterior, com a finalidade de aumentar a geração de resultados.
+Finalmente, alguns modelos podem aproveitar oscilações na bolsa para capturar
+oportunidades de curto prazo, fazendo a exposição net do fundo na bolsa oscilar de
+-20% a +50%.Em Junho, a principal contribuição positiva para o fundo veio do
+mercado de DIs futuros, onde tanto os modelos seguidores de tendências de longo
+prazo, como os modelos seguidores de tendências de curto prazo apresentaram
+ganhos. Outro modelo que apresentou performance positiva no período foi o de
+alocação sistemática entre diferentes classes de ativos. Por fim, a parcela
+internacional do fundo também apresentou ganhos. No lado negativo, os principais
+detratores de performance foram os modelos seguidores de tendência (tanto de
+curto como de longo prazo) no dólar. Seguimos confiantes na capacidade do fundo
+de gerar bons resultados através da combinação entre uma exposição a fatores de
+risco e os demais modelos, beneficiando os investidores no longo prazo através da
+geração de alfa.
+Kadima LT Multimercado Ágora (CNPJ: 37.577.063/0001-15)
+Em Junho, a principal contribuição positiva para o fundo foram os modelos
+seguidores de tendências de longo prazo com operações em futuros de DIs. Outro
+modelo que apresentou performance positiva no período foi o modelo de alocação
+sistemática entre diferentes classes de ativos. Por fim, a parcela internacional do
+fundo, recentemente implementada, também apresentou resultados positivos
+durante o mês passado. No lado negativo, os modelos seguidores de tendências de
+longo
+prazo
+com
+operações
+em
+futuro
+de
+dólar
+apresentou
+resultado
+marginalmente negativo. No agregado, o fundo fechou o mês com resultado
+positivo e acima do benchmark. Acreditamos no potencial das estratégias de longo
+prazo presentes no Kadima LT em gerar retornos interessantes no longo prazo,
+principalmente quando ajustados ao risco.SUMÁRIO
+Kairós Macro Multimercado Ágora (CNPJ: 37.591.228/0001-03)
+Em junho vimos uma forte alta dos ativos de risco. A pausa no aperto monetário do
+FED, e dados econômicos mostrando resiliência da economia americana, levaram à
+melhora das bolsas globais, das moedas frente ao USD e de boa parte das
+commodities. No caso do FED, mesmo com a maioria dos membros esperando mais
+2 altas de juros, a decisão foi pausar para avaliar o impacto do aperto já realizado.
+Na economia, apesar da fraqueza da manufatura, dados mostrando a resiliência do
+consumidor americano, em vendas no varejo e serviços ainda firmes, e mercado de
+trabalho apertado, ajudaram o humor dos mercados. No Brasil a aprovação do
+arcabouço fiscal no Senado, o início das discussões da Reforma Tributária na
+Câmara e dados de inflação bem abaixo do esperado, agregaram ao bom humor
+externo. Isso gerou forte fechamento de taxas ao longo da curva de juros,
+valorização da bolsa e do Real frente ao USD.
+Kapitalo K10 Multimercado Ágora (CNPJ: 40.040.714/0001-48)
+A resiliência do mercado de trabalho e dos núcleos de inflação levaram os Bancos
+Centrais a reforçar uma postura mais dura. Apesar da alta importante na taxas de
+juros, os ativos de risco tiveram desempenho positivo. Os livros de bolsa e câmbio
+tiveram resultado positivo. Os livros de commodities e juros foram negativos.
+Kapitalo Kappa Multimercado (CNPJ: 28.428.226/0001-07) e Kapitalo Kappa
+Multimercado Ágora (CNPJ: 21.052.962/0001-64)
+Mesmo com sinais de enfraquecimento da atividade, vimos no último mês as
+economias serem surpreendidas com dados de inflação e mercado de trabalho
+bastante fortes, o que forçou os bancos centrais a aumentarem as suas respectivas
+taxas de juros. Em relação à performance, contribuíram negativamente as posições
+de moedas e juros.SUMÁRIO
+Kapitalo Tarkus Ações Ágora (CNPJ: 32.291.950/0001-09)
+Mesmo com sinais de enfraquecimento da atividade, vimos no último mês as
+economias serem surpreendidas com dados de inflação e mercado de trabalho
+bastante fortes, o que forçou os bancos centrais a aumentarem as suas respectivas
+taxas de juros. Contribuíram positivamente para o desempenho relativo do fundo as
+posições nos setores de serviços financeiros e tecnologia e negativamente os
+setores de óleo e gás e papel e celulose.
+Kapitalo Zeta Multimercado (CNPJ: 41.545.212/0001-31)
+Mesmo com sinais de enfraquecimento da atividade, vimos no último mês as
+economias serem surpreendidas com dados de inflação e mercado de trabalho
+bastante fortes, o que forçou os bancos centrais a aumentarem as suas respectivas
+taxas de juros. Em relação à performance, contribuíram negativamente as posições
+de moedas e juros.
+Leblon Ações Ágora (CNPJ: 35.848.004/0001-09)
+Em junho, o fundo teve um retorno positivo e acima do Ibovespa. As principais
+contribuições positivas foram B3, Natura e Springs Global. Os detratores foram Mills,
+Blau e Vamos. No mês, aumentamos a posição em Vamos; reduzimos, em função de
+uma realização de lucros, a posição em B3, Mills e Lojas Renner; zeramos Suzano.
+Legacy Capital Multimercado (CNPJ: 32.312.094/0001-20) e Legacy Capital
+Multimercado Ágora (CNPJ: 32.312.090/0001-42)
+O fundo apresentou desempenho positivo em junho, ainda que abaixo do CDI. As
+posições aplicadas em juros locais e externos foram o destaque, e contribuíram
+positivamente
+para
+o
+resultado.
+Posições
+vendidas
+em
+bolsa
+contribuíram
+negativamente, tendo compensado parcialmente os ganhos na renda fixa. A
+economia dos EUA tem mostrado resiliência. Embora acumulem-se sinais de
+desaceleração no mercado de trabalho, a evolução e os níveis dos indicadores de
+vagas abertas, pedidos de auxílio desemprego, e geração de emprego são
+consistentes com a manutenção de condições de aperto no mercado de trabalhoSUMÁRIO
+pelo restante de 2023. Os setores mais cíclicos seguem mostrando força, a despeito
+do aperto das condições de crédito à compra destes bens, por parte dos bancos, o
+que tem permitido à economia sustentar taxas de crescimento próximas à
+potencial. A inflação vem mostrando melhora mais consistente. Nossas projeções
+são de 4,7% em 2023, e de 3,8% em 2024. A convergência da inflação à meta
+sugere haver espaço para um ajuste de juros superior a 400 pontos, e permitiria ao
+BC iniciar o ciclo a um ritmo mais significativo.
+Moat Capital Equity Hedge Multimercado Ágora (CNPJ: 35.848.058/0001-74)
+Os destaques positivos foram nos setores de Infraestrutura, educação e petróleo, já
+os destaques negativos para os setores de financeiro, varejo e telecomunicações. O
+fundo encerrou o mês com exposição liquida neutra e exposição bruta de 162%.
+Moat Capital Ações (CNPJ: 36.620.874/0001-99) e Moat Capital Ações Ágora
+Fechamos o mês com maior alocação nos setores de utilidade pública, consumo
+não cíclico e petróleo. Os destaques positivos no mês foram Petrobras, Carrefour e
+Braskem, já os negativos foram Lojas Renner, Ecorodovias e Cielo.
+Moat Capital Long Biased Multimercado Ágora (CNPJ: 35.848.055/0001-30)
+A exposição líquida do fundo começou o mês perto do neutro (50% comprado),
+porém a partir da segunda semana passou a operar comprado, com exposição entre
+65 e 75% . As estratégias Long Short foram o destaque negativo. Já os destaques
+positivos ficaram para as estratégias comprada em ações no Brasil e Indice
+Ibovespa.
+Navi Long Biased Multimercado Ágora (CNPJ: 38.315.700/0001-48)
+Em junho, as maiores contribuições positivas vieram do setor de Utilities, já sobre as
+principais contribuições negativas vieram do setor de Commodities. Durante esse
+mês, os ativos brasileiros mantiveram o desempenho positivo do mês anterior.SUMÁRIO
+O destaque no cenário local foi a melhora da perspectiva de inflação, impulsionada
+tanto pela melhora da inflação corrente, quanto pelas sinalizações futuras de
+política monetária. De fato, ao final do mês, o CMN confirmou a manutenção da
+meta de inflação no patamar vigente, elevando a expectativa que o Banco Central
+inicie a flexibilização monetária em sua próxima reunião, que já é o cenário base. No
+âmbito político, apesar de alguns ruídos no Senado em relação ao arcabouço fiscal,
+líderes da Câmara reforçaram que o texto deverá ser aprovado sem grandes
+alterações em relação ao que já foi aprovado. No cenário internacional, os ativos
+dos mercados emergentes se beneficiaram de um ciclo monetário mais avançado
+em comparação às economias mais desenvolvidas, o que levou a uma maior
+alocação de risco nessa classe de ativos. Nos Estados Unidos, a questão do teto da
+dívida foi resolvida conforme o esperado, sem impacto negativo na liquidez dos
+mercados, o que era considerado um risco para muitos. Além disso, os dados da
+economia americana continuam fortes, com certa resiliência na inflação, levando o
+Fed a adotar uma postura mais hawkish ao longo do mês.
+Novus Ações Institucional Ágora (CNPJ: 37.511.070/0001-14)
+O Novus Institucional apresentou resultado positivo no mês, com ganhos em renda
+fixa e perdas em moedas. No cenário internacional, o mês foi marcado por uma
+postura hawk dos BCs americano, inglês, norueguês, australiano e canadense. Na
+contramão, estiveram China e Japão. No Brasil, o Copom manteve o juro inalterado;
+a inflação segue em declínio; a S&P alterou o outlook para positivo; no Congresso
+avançou a tramitação do arcabouço e o texto da reforma tributária; na reunião do
+CMN foi mantida a meta. Nos EUA, tomamos juro e zeramos taticamente a venda do
+S&P500. No Brasil, mantivemos nossas posições aplicadas em juros e a venda de
+inflação curta, além de comprarmos NTN-B e novas opções visando possível
+aceleração dos cortes esse ano. Em bolsa, seguimos comprados em uma carteira de
+ações de qualidade que se beneficiam de um cenário de queda de juros.SUMÁRIO
+Novus Macro Multimercado Ágora (CNPJ: 36.617.768/0001-56)
+O Novus Macro apresentou resultado positivo no mês, com ganhos em renda fixa e
+perdas em moedas. No cenário internacional, o mês foi marcado por uma postura
+hawk
+dos
+BCs
+americano,
+inglês,
+norueguês,
+australiano
+e
+canadense.
+Na
+contramão, estiveram China e Japão. No Brasil, o Copom manteve o juro inalterado;
+a inflação segue em declínio; a S&P alterou o outlook para positivo; no Congresso
+avançou a tramitação do arcabouço e o texto da reforma tributária; na reunião do
+CMN foi mantida a meta. Nos EUA, mantivemos a compra de inflação curta,
+tomamos juro e zeramos taticamente a venda do S&P500. Em moedas, estamos
+vendidos em euro contra o dólar. No Brasil, mantivemos nossas posições aplicadas
+em juros e a venda de inflação curta, além de comprarmos NTN-B e novas opções
+visando possível aceleração dos cortes esse ano. Em bolsa, seguimos comprados
+em uma carteira de ações de qualidade que se beneficiam de um cenário de queda
+de juros.
+Occam Equity Hedge Multimercado Ágora (CNPJ: 38.657.339/0001-38)
+No mês de junho, observamos uma divergência pronunciada no comportamento das
+curvas de juros de países desenvolvidos em relação à de emergentes. Nos EUA,
+tivemos dados de atividade econômica mais fortes, que se somaram à sinalização
+de que ajustes adicionais nos Fed Funds devem ser necessários. Além disso, tivemos
+surpresas altistas nas decisões de política monetária do Reino Unido, Canadá,
+Austrália e Noruega. Já nos países emergentes, o processo de desinflação se mostra
+mais avançado. A proximidade do início dos cortes de juros em vários países fez
+com que a Renda Fixa tivesse um comportamento benigno nessa região, com
+destaque para América Latina. Nas bolsas, o Ibovespa obteve forte alta em junho
+subindo 9,0%, maior alta desde dezembro/2020 e já acumula ganhos de 7,6% no
+ano. Revisões altistas de PIB, e baixistas de IPCA e Selic foram os principais motivos
+para o rally, além de um cenário externo benigno onde a bolsa americana (S&P)
+subiu 6,5%. Ao enxergar maiores oportunidades no Brasil, reduzimos parcialmenteSUMÁRIO
+nossa exposição bruta aos mercados externos, mantendo carteira similar, comprada
+em ações ligadas a tecnologia, e vendida no índice americano. No Brasil, estamos
+observando uma melhora do cenário doméstico que permitirá que o BC inicie o ciclo
+de corte de juros em breve. Diante disso, no livro doméstico, estamos com posições
+aplicadas tanto em juros nominais curtos quanto nos juros reais longos e com
+posições de curvatura que se beneficiam do processo de distensão. Também
+aumentamos nossas exposições liquida e bruta localmente no book de ações. No
+livro internacional, optamos por zerar as posições aplicadas em juros de alguns
+emergentes. Nessa frente, seguimos com risco reduzido e buscando posições que
+se beneficiem de uma inflexão nos ciclos de política monetária. No livro de moedas,
+encerramos a posição comprada em dólar contra uma cesta de moedas e abrimos
+uma posição comprada no real contra o peso chileno.
+SPX
+Nimitz
+Multimercado
+(CNPJ:
+e
+SPX
+Nimitz
+Multimercado Ágora (CNPJ: 28.797.765/0001-13)
+No mercado de juros, estamos com posições relativas, explorando a posição cíclica
+idiossincrática de diferentes países. No Brasil, estamos com alocações aplicadas.
+Nos mercados de moedas, seguimos com posições compradas no dólar americano.
+No book de ações internacional, estamos com alocações relativas em Estados
+Unidos refletindo uma visão negativa com o cenário macro, e no book de Brasil,
+estamos sem direcional relevante, apenas com posições relativas. Nas commodities,
+possuímos posições vendidas e de valor relativo nos metais industriais. Nos
+mercados de crédito desenvolvidos, movemos parte de nossa exposição em crédito
+de curta duração para posições High Yield via índices líquidos e adicionamos um
+hedge tático em Investment Grade.SUMÁRIO
+Tork 60 Ações (CNPJ: 36.619.844/0001-62) e Tork 60 Ações Ágora
+O fundo Tork FIC 60 teve uma rentabilidade positiva, mas abaixo do Ibovespa. As
+principais contribuições positivas vieram de Equatorial, Smartfit e Eletrobras . As
+principais contribuições negativas vieram de SPY, Pagseguros e Rede D´Or. Junho foi
+um mês bastante positivo para ativos domésticos. Apesar de reconhecermos que o
+movimento recente de alta foi bastante pronunciado e veloz, entendemos que a
+tendência de apreciação pode continuar. Uma janela de corte de juro em ambiente
+de atividade resiliente nos parece uma combinação positiva para a bolsa brasileira.
+Adicionalmente, é plausível acreditar que o mercado acionário não necessariamente
+incorpora imediatamente todos os efeitos positivos da precificação de queda de
+juros. Afinal, fluxos se dão ao longo do tempo e é razoável que, gradualmente,
+vejamos alguma migração de volta para ativos de risco após esse longo período de
+custo de oportunidade muito elevado.
+Verde
+AM 60 Multimercado (CNPJ: 30.378.646/0001-78) e Verde
+Multimercado Ágora (CNPJ: 30.378.660/0001-71)
+No mês de junho, tivemos a divulgação de dados econômicos que demonstraram
+um avanço no processo de desinflação global, o que aumentou as expectativas do
+mercado em relação a um soft landing e ajudou a impulsionar os ativos de risco.
+Entretanto, o tom dos bancos centrais continua firme, sugerindo maiores apertos
+monetários e, como consequência, aumentando o risco de cauda de uma recessão
+mais forte. No Brasil, também vemos uma desinflação mais forte do que
+esperávamos no início do ano, e dados como manufaturados, alimentos e nível do
+câmbio possibilitaram revisões baixistas. De forma geral, continuamos construtivos,
+dado uma dinâmica de inflação mais baixa, atividade mais forte e um risco fiscal de
+médio prazo mais controlado, especialmente se comparado com as expectativas
+embutidas nos preços dos ativos. Nesse contexto, o fundo apresentou ganhos nas
+estratégias de bolsa brasileira, nos juros americanos e europeus e na carteira de
+crédito, enquanto os principais detratores do mês foram as posições de inflação
+implícita brasileira, ouro, bolsa global e juros japoneses. Ao longo do mês,SUMÁRIO
+aumentamos marginalmente o livro comprado em ações globais, principalmente em
+nomes mais cíclicos e aumentamos o hedge via S&P, resultando em uma posição
+total marginalmente vendida. Na bolsa brasileira, mantivemos a alocação comprada
+de aproximadamente 20% em cases como, Suzano, Localiza, Rumo e Equatorial. Na
+parcela de renda fixa, mantivemos a posição de inflação implícita longa no Brasil e
+reduzimos a alocação de implícita americana, pois apesar de termos uma visão mais
+inflacionária para o médio prazo, o tom mais hawkish do FED pode aumentar a
+probabilidade de uma recessão mais forte. Mantivemos as posições tomadas nos
+juros japoneses e americanos. Os livros de crédito brasileiros e globais não sofreram
+alterações significativas, assim como o livro de commodities.
+Verde AM Long Biased Ações Ágora (CNPJ: 37.527.106/0001-58)
+Em junho de 2023, as maiores contribuições vieram das ações de Assaí, XP Inc,
+Equatorial e Energisa. Dado o movimento generalizado de alta da bolsa, não tivemos
+detratores relevantes. Apesar do beta mais baixo das ações do setor elétrico,
+Equatorial e Energisa, 2 das maiores distribuidoras de energia do país, vinham
+pressionadas pela expectativa da divulgação pelo MME no dia 22 de junho (que
+efetivamente aconteceu dia 23) da nota técnica da consulta pública das Disco’s.
+Como o mercado estava excessivamente pessimista sobre o estágio inicial das
+discussões entre empresas e Governo, os papeis tiveram forte alta após a
+divulgação da nota, respondendo por parte importante dos ganhos dos mandatos
+de ações no mês. Nem mesmo o tom mais duro dos principais bancos centrais inibiu
+mais um mês de forte valorização dos ativos de risco. No Brasil, tivemos uma
+melhora de percepção de risco com ajustes importantes nas expectativas de
+inflação e juros, até mesmo com aumento da probabilidade de antecipação do início
+do corte, bem como da intensidade do ciclo. Há importantes sinais de ancoragem
+das expectativas de médio prazo, com a manutenção da meta de inflação e de suas
+bandas, e com as expectativas relacionadas a PEC da Reforma Tributária e ao
+Arcabouço Fiscal. Diante do exposto acima, temos mantido uma exposição maior aSUMÁRIO
+nomes
+domésticos
+que
+devem
+continuar
+se
+beneficiando
+do
+cenário
+mais
+construtivo de Brasil. Nossas maiores apostas são Suzano, Barrick Gold US, Localiza,
+Rumo, Equatorial e Vibra.
+Verde
+Multiestratégia
+Multimercado
+(CNPJ:
+e
+Verde
+Multiestratégia Multimercado Ágora (CNPJ: 32.273.549/0001-46)
+No mês de junho, tivemos a divulgação de dados econômicos que demonstraram
+um avanço no processo de desinflação global, o que aumentou as expectativas do
+mercado em relação a um soft landing e ajudou a impulsionar os ativos de risco.
+Entretanto, o tom dos bancos centrais continua firme, sugerindo maiores apertos
+monetários e, como consequência, aumentando o risco de cauda de uma recessão
+mais forte. No Brasil, também vemos uma desinflação mais forte do que
+esperávamos no início do ano, e dados como manufaturados, alimentos e nível do
+câmbio possibilitaram revisões baixistas. De forma geral, continuamos construtivos,
+dado uma dinâmica de inflação mais baixa, atividade mais forte e um risco fiscal de
+médio prazo mais controlado, especialmente se comparado com as expectativas
+embutidas nos preços dos ativos. Nesse contexto, o fundo apresentou ganhos em
+todas as estratégias. A exposição em bolsa brasileira está rodando em torno de 8%
+a 10% do portfólio desde o final do ano passado e o portfólio global está
+marginalmente vendido. Na renda fixa local continuamos com posição aplicada em
+juros reais na parte intermediária da curva. Mantivemos a parcela de crédito e
+seguimos com a posição comprada no Real e vendida no Euro.
+Vinland Long Bias Multimercado Ágora (CNPJ: 38.315.724/0001-05)
+O fundo encerrou o mês de junho com performance positiva e acima do seu
+benchmark ligado ao IMA-B. Os destaques positivos estiveram em nossa carteira de
+ações locais, principalmente, e também nossas estratégias de juros locais e
+internacionais. Nossa estratégia de ações globais foi detrimental durante o mês.
+Durante o mês, diminuímos nossa exposição comprada em Brasil para 65% (de 75%)SUMÁRIO
+conforme o rally em bolsa se realizou. Vemos o início de um ciclo de afrouxamento
+monetário como positivo para a bolsa brasileira ao longo do segundo semestre
+deste ano. Diminuímos ligeiramente nossa posição comprada na carteira offshore
+para 2% (de 6%). Nossa carteira continua bastante diversificada - nos EUA, temos
+posição em tecnologia versus setores de small caps. Em Brasil, nossas principais
+posições estão nos setores financeiro, setores ligados à economia doméstica e ao
+setor elétrico.
+Vinland Long Only Ações Ágora (CNPJ: 39.807.251/0001-18)
+O fundo encerrou o mês de junho com alta, mas abaixo do Ibovespa no mês. Os
+destaques positivos da carteira estiveram ligados ao setor bancário, ao setor
+elétrico e ao setor de consumo resiliente. Os destaques negativos estiveram ligados
+ao setor de petróleo e ao setor de proteínas. Ao longo do mês, diminuímos nossa
+alocação em bolsa para níveis próximos a 80% (de 90%), após o rally em bolsa em
+junho. Mantivemos nossa exposição ao setor financeiro, ao setor de utilities, a
+setores ligados à economia doméstica como supermercados, saúde e malls.
+Diminuímos nossa posição em metais. Acreditamos que o ciclo de afrouxamento
+monetário deve se iniciar nesse segundo semestre e continuará a ser uma força
+propulsora para os retornos em bolsa de valores.
+Vinland Macro Multimercado Ágora (CNPJ: 37.565.243/0001-87)
+O
+fundo
+Macro
+terminou
+junho
+com
+performance
+positiva.
+Juros
+globais
+apresentaram ganho no mês. Nos Estados Unidos, posições aplicadas na parte curta
+e tomadas na parte média da curva contribuíram positivamente. Posições aplicadas
+nas curvas de Chile e Colômbia também tiveram ganhos, enquanto no México
+apresentaram retornos negativos. A estratégia de juros locais teve variação positiva.
+Posições aplicadas em juros nominais foram a principal contribuição positiva.
+Inflação implícita vendida
+também teve resultado
+favorável. Renda
+variável
+apresentou retorno negativa. Posição long Nasdaq e short Russell e arbitragensSUMÁRIO
+offshore foram os principais detratores. A estratégia de moedas teve performance
+neutra. A carteira de crédito apresentou retorno levemente positivo. Para o mês de
+julho, nos Estados Unidos continuamos posicionados para um adiamento do ciclo de
+cortes de juros. No Chile, Colômbia e México seguimos aplicados. Em juros locais,
+temos posições de valor relativo para o início do ciclo de corte de juros. Em moedas,
+estamos com risco reduzido no momento. Em Renda Variável, o long short Nasdaq
+vs short Russell foi zerado. Na nossa carteira versus índice, prevalece uma maior
+exposição a bancos, elétricas/saneamento e consumo.
+Western Asset Ativo Renda Fixa Ágora (CNPJ: 40.141.885/0001-63)
+Ao longo do mês de Junho os mercados locais de renda fixa voltaram a apresentar
+desempenho bastante positivo, com fechamento expressivo das curvas de juros.
+Esse fechamento foi motivado pela percepção do mercado de que o BC esteja
+bastante próximo de iniciar um ciclo de cortes de juros, apesar de a ata da última
+reunião do COPOM não ter afirmado isso categoricamente. Contribuíram para esse
+movimento de queda dos juros, a melhora das expectativas inflacionárias locais que
+reagiram à percepção de que haveria a manutenção da meta de inflação pelo CMN
+em 3% a.a. ( o que efetivamente ocorreu ). Globalmente, houve também alguma
+acomodação da percepção de risco em função de dados de atividade e de inflação
+relativamente mistos, indicando que já á algum efeito da política monetária mais
+dura dos bancos centrais das principais economias. As curvas de juros locais pré-
+fixados recuaram entre 60-75 pontos-base, enquanto as curvas de juros reais
+recuaram cerca de 30 pontos-base. Adicionalmente, a parcela de crédito privado,
+mais uma vez, adicionou valor à estratégia. O fundo apresentou forte desempenho
+acima do CDI. Tanto os posicionamentos em taxas de juros pré-fixadas de médio
+prazo, quanto as posições em crédito privado adicionaram valor. Seguimos
+aumentando o tamanho das posições aplicadas em juros de forma cautelosa,
+buscando capturar parte significativa do ciclo de recuo das curvas de juros, frente àSUMÁRIO
+expectativa do mercado de cortes por parte do BC. Seguimos vislumbrando uma
+perspectiva positiva no médio prazo para o segmento de crédito, dado o
+carregamento dos ativos ao longo do tempo que se mostram bastante interessante.
+Além disso, vale lembrar que posições aplicadas em títulos de crédito privado
+cumprem o papel de diversificação da exposição ao mercado de renda fixa.
+Western Asset Ativo Max Renda Fixa Ágora (CNPJ: 40.152.028/0001-69)
+Ao longo do mês de Junho os mercados locais de renda fixa voltaram a apresentar
+desempenho bastante positivo, com fechamento expressivo das curvas de juros.
+Esse fechamento foi motivado pela percepção do mercado de que o BC esteja
+bastante próximo de iniciar um ciclo de cortes de juros, apesar de a ata da última
+reunião do COPOM não ter afirmado isso categoricamente. Contribuíram para esse
+movimento de queda dos juros, a melhora das expectativas inflacionárias locais que
+reagiram à percepção de que haveria a manutenção da meta de inflação pelo CMN
+em 3% a.a. ( o que efetivamente ocorreu ). Globalmente, houve também alguma
+acomodação da percepção de risco em função de dados de atividade e de inflação
+relativamente mistos, indicando que já á algum efeito da política monetária mais
+dura dos bancos centrais das principais economias. As curvas de juros locais pré-
+fixados recuaram entre 60-75 pontos-base, enquanto as curvas de juros reais
+recuaram cerca de 30 pontos-base. O fundo apresentou forte desempenho acima
+do CDI. Os posicionamentos em taxas de juros pré-fixadas de médio prazo
+adicionaram valor. Seguimos aumentando o tamanho das posições aplicadas em
+juros de forma cautelosa, buscando capturar parte significativa do ciclo de recuo
+das curvas de juros, frente à expectativa do mercado de cortes por parte do BC.SUMÁRIO
+Western Asset Ações BDR Nível 1 Ágora (CNPJ: 39.816.705/0001-17)
+O Fed reuniu-se em junho e anunciou, uma pausa no ciclo de aperto monetário. No
+entanto, os “dots” (previsões dos diretores do Fed para os próximos passos da
+política monetária) indicaram que o serviço ainda não terminou. Os diretores do Fed
+elevaram sua previsão de taxa terminal de juros em 2023 do intervalo de 5,00%-
+5,25% para 5,50%-5,75%. A mensagem do comunicado e da coletiva pós-reunião
+caracterizou a manutenção da taxa básica como uma pausa para entender melhor
+os efeitos da elevação dos juros realizada até o momento e poder acompanhar os
+dados de atividade e inflação com mais calma. Os “dots”, já dão como certo de que
+se trata de uma pausa provisória, não definitiva. As bolsas globais, no entanto,
+deram pouca bola para a piora da perspectiva para os juros, e deram continuidade
+ao rally que vem tendo lugar desde março, o pior momento da crise bancária. O
+S&P500, que subiu 6,5% em junho, já está 15% acima de seu pior momento do ano, e
+está a cerca de 7% do seu pico do final de 2021. Os investidores continuam
+antecipando os efeitos do fim do ciclo de aperto da política monetária. A exposição
+à variação cambial, impactou a performance, dada a valorização do Real frente ao
+Dólar. O fundo apresentou desempenho acima do mercado americano em geral. O
+fundo mantém exposição ao desempenho do mercado acionário americano, com
+exposição à variação cambial através de uma carteira concentrada em BDRs de
+empresas americanas de grande porte com potencial de crescimento.
+Western Asset US Index 500 Multimercado Ágora (CNPJ: 40.226.091/0001-00)
+Em sua mais recente reunião para definição das taxas de juros nos EUA o FED
+pausou o ciclo de aperto monetário para poder observar a reação da atividade
+econômica aos efeitos cumulativos do ciclo implementado até o momento. Apesar
+de os membros do FED terem comunicado uma percepção de que possivelmente os
+juros precisem voltar a ser elevados, caso as expectativas inflacionárias não
+recuem, os investidores seguiram animados e o mercado acionário americano
+apresentou bom desempenho positivo no mês. Contribuíram para esse desempenho
+nomes atrelados a setores que potencialmente se beneficiam de um ambiente de
+taxas de juros mais acomodadas, notadamente o setor de tecnologia.SUMÁRIO
+O fundo mantém exposição ao desempenho do mercado acionário americano, sem
+exposição à variação cambial e capturando boa parte do diferencial de juros.
+Western Asset Valuation Ações Ágora (CNPJ: 40.152.706/0001-93)
+Com a perspectiva do início do ciclo de afrouxamento monetário, a bolsa brasileira
+novamente apresentou boa performance. O Ibovespa subiu 9%, acumulando alta de
+7,61% no ano. No entanto, avaliamos que o cenário para as empresas brasileiras
+continua delicado, em função da necessidade de o governo aumentar a arrecadação
+para manter em pé o novo arcabouço fiscal. Para tanto, pode ser necessária a
+mudança do regime de tributação de alguns setores, o que deixa uma sombra de
+incerteza sobre a projeção de lucros futuros de uma série de empresas. O fundo
+teve retorno superior ao desempenho do Ibovespa no mês por conta da escolha dos
+papéis de sua carteira. Atualmente temos um mix de exposição a empresas cujos
+desempenhos estão relacionadas ao ciclo econômico doméstico e empresas ligadas
+a commodities. O fundo apresentou desempenho abaixo do Ibovespa no mês de
+Maio.Fonte: Economática, junho de 2023
 SUMÁRIO
-Maio
+Junho
 ACUM. 
 a.a.
 Ibovespa
@@ -530,7 +2176,6 @@ IBX
 OURO
 DÓLAR
 DÓLAR
-OURO
 IMA-B
 IRF-M
 CDI
@@ -540,9 +2185,9 @@ IMA-B
 IHFA
 OURO
 IHFA
-IMA-B
 IRF-M
-IMA-S
+IMA-B
+Ibovespa
 IRF-M
 OURO
 IRF-M
@@ -553,48 +2198,48 @@ IRF-M
 IMA-S
 IRF-M
 IMA-S
+IHFA
+IRF-M
+IMA-S
+IMA-B
+CDI
+IMA-B
+IMA-B
+IMA-B
+OURO
+IHFA
+CDI
+CDI
+OURO
+IHFA
+IBX
+Ibovespa
+IHFA
+IHFA
+IRF-M
+IRF-M
+IMA-B
+CDI
+IMA-B
+IMA-S
+IRF-M
+IMA-S
+IMA-S
+CDI
+IBX
+IMA-B
+IBX
+IHFA
+IHFA
+IHFA
+IMA-S
+IRF-M
+CDI
+IBX
+CDI
+CDI
 IHFA
 DÓLAR
-CDI
-IMA-B
-CDI
-IMA-B
-IMA-B
-IMA-B
-OURO
-IHFA
-CDI
-CDI
-IRF-M
-IMA-S
-OURO
-Ibovespa
-IHFA
-IHFA
-IRF-M
-IRF-M
-IMA-B
-CDI
-IMA-B
-IMA-S
-IRF-M
-IMA-S
-CDI
-IHFA
-IBX
-IMA-B
-IBX
-IHFA
-IHFA
-IHFA
-IMA-S
-IRF-M
-CDI
-IBX
-CDI
-IHFA
-Ibovespa
-DÓLAR
 IRF-M
 Ibovespa
 IMA-S
@@ -603,7 +2248,8 @@ IMA-S
 IHFA
 IMA-B
 DÓLAR
-IBX
+DÓLAR
+OURO
 OURO
 IBX
 CDI
@@ -625,321 +2271,7 @@ DÓLAR
 Ibovespa
 Ibovespa
 OURO
-IbovespaFamília Alocação (Moderada CNPJ: 01.606.543/0001-10, Dinâmica CNPJ: 13.902.266/0001-71, Arrojada CNPJ: 13.911.703/0001-13)
-A estratégia quantitativa Família Alocação apresentou resultados positivos e superiores ao
-CDI no mês de maio. Em um mês em que os mercados globais estavam atentos às
-definições do debt ceiling americano, bem como ao rally das empresas de tecnologia
-puxando boa parte dos resultados das bolsas, as atenções estavam voltadas ao mercado
-doméstico. Os dados de inflação mais brandos e a proximidade com as definições do
-arcabouço fiscal aceleraram o passo do comportamento das taxas de juros reais e nominais
-e do mercado acionário. Com a percepção de melhora no ambiente de risco, os fundos
-conseguiram capturar bons resultados, as alocações nas estratégias em RF Local, Macro,
-Sistemática, Volatilidade, Tail Hedge + Dólar e RV Local apresentaram resultados positivos.
-Já os principais detratores da carteira foram as posições em Renda Variável e Renda Fixa
-Global. Os portfólios seguem diversificados de acordo com a modelagem quantitativa.
-Carteira Bradesco (Moderada CNPJ: 44.302.283/0001-00, Dinâmica CPNJ: 44.302.264/0001-75, Arrojada: 44.302.238/0001-47)
-Os fundos Carteira Bradesco são fundos multimercados que permitem, por meio de um
-único click, acesso ao que há de mais avançado na análise quantitativa para definição da
-alocação nas classes de ativos com o que há de mais robusto no processo de construção da
-carteira, sendo esta última definida pela área de Solução de Investimentos (FOF). Os fundos
-Carteira Bradesco contam ainda com a alocação em ativos diretos, índices e fundos de
-investimento. No mês de maio, os resultados refletem o perfil de risco individualizado,
-todos eles apresentando retornos nominais positivos. Em um mês em que os mercados
-globais estavam atentos às definições do debt ceiling americano, bem como ao rally das
-empresas de tecnologia puxando boa parte dos resultados das bolsas, as atenções estavam
-voltadas ao mercado doméstico. Os dados de inflação mais brandos e a proximidade com as
-definições do arcabouço fiscal aceleraram o passo do comportamento das taxas de juros
-reais e nominais e do mercado acionário.
-Multigestores Multimercado (CNPJ: 07.667.620/0001-28)
-O mês de maio foi muito positivo para os ativos de maior risco, fazendo com que os fundos
-tivessem um desempenho superior aos seus índices de referência. O destaque positivo de
-performance ficou com a classe de renda variável local, que foi beneficiada tanto pelo
-fechamento da curva de juros nominal, quanto pela melhor perspectiva de crescimento do
-PIB para o ano.
-SUMÁRIODessa forma, as alocações em ações long only e long biased contribuíram positivamente no
-mês. Outro destaque ao longo de maio foi a alocação em títulos públicos atrelados à
-inflação, que também foram beneficiados pelo fechamento da curva de juros. As decisões
-de aumento de risco de boa parte dos gestores, e aumento de alocação em juros real no
-início de maio, amplificaram esse resultado positivo dentro dos fundos tanto de renda
-variável quanto multimercado.
-No cenário internacional, tivemos um mês mais estável, com a expectativa de juros mais
-altos pelo mundo prejudicando as alocações em renda fixa global, mas compensado pela
-renda variável, que teve pouca influência da alta de juros e teve um mês positivo com a
-empolgação referente as empresas ligadas a Inteligência Artificial, que tiveram forte alta no
-mês.
-Portanto, o fundo Bradesco Multigestor Multimercado apresentou um retorno positivo e
-acima do CDI, com destaque para o fundo da Az Quest.
-Multigestores Plus (CNPJ: 28.428.129/0001-14)
-O mês de maio foi muito positivo para os ativos de maior risco, fazendo com que os fundos
-tivessem um desempenho superior aos seus índices de referência. O destaque positivo de
-performance ficou com a classe de renda variável local, que foi beneficiada tanto pelo
-fechamento da curva de juros nominal, quanto pela melhor perspectiva de crescimento do
-PIB para o ano. Dessa forma, as alocações em ações long only e long biased contribuíram
-positivamente no mês. Outro destaque ao longo de maio foi a alocação em títulos públicos
-atrelados à inflação, que também foram beneficiados pelo fechamento da curva de juros. As
-decisões de aumento de risco de boa parte dos gestores, e aumento de alocação em juros
-real no início de maio, amplificaram esse resultado positivo dentro dos fundos tanto de
-renda variável quanto multimercado.No cenário internacional, tivemos um mês mais estável,
-com a expectativa de juros mais altos pelo mundo prejudicando as alocações em renda fixa
-global, mas compensado pela renda variável, que teve pouca influência da alta de juros e
-teve um mês positivo com a empolgação referente as empresas ligadas a Inteligência
-Artificial, que tiveram forte alta no mês.O fundo Bradesco Multigestores Plus apresentou
-um resultado negativo, com destaque para a posição em ações via os fundos long biased da
-Dahlia e Moat.
-SUMÁRIOMultigestores Sirius (CNPJ: 35.845.002/0001-66)
-O mês de maio foi muito positivo para os ativos de maior risco, o destaque positivo de
-performance ficou com a classe de renda variável local, que foi beneficiada tanto pelo
-fechamento da curva de juros nominal, quanto pela melhor perspectiva de crescimento do
-PIB para o ano. Dessa forma, as alocações em fundos Long Only e Long Biased renderam
-acima do Ibovespa. Outro destaque foi a alocação em títulos públicos atrelados à inflação,
-que também foram beneficiados pelo fechamento da curva de juros. As decisões de
-aumento de duration em abril, e aumento de alocação em juros real no início de maio,
-amplificaram esse resultado positivo dentro do fundo. No cenário internacional, tivemos um
-mês mais estável, com a expectativa de juros mais altos pelo mundo prejudicando as
-alocações em renda fixa global, mas compensado pela renda variável, que teve pouca
-influência da alta de juros e teve um mês positivo com a empolgação referente as empresas
-ligadas a Inteligência Artificial, que tiveram forte alta no mês. Portanto, o fundo Bradesco
-Multigestores Sirius apresentou um resultado de positivo, com destaque para os fundos
-long biased Helius e Norte.
-SUMÁRIO
-Multigestores Max (CNPJ: 32.743.384/0001-29)
-O mês de maio foi muito positivo para os ativos de maior risco, fazendo com que os fundos
-tivessem um desempenho superior aos seus índices de referência. O destaque positivo de
-performance ficou com a classe de renda variável local, que foi beneficiada tanto pelo
-fechamento da curva de juros nominal, quanto pela melhor perspectiva de crescimento do
-PIB para o ano. Dessa forma, as alocações em ações long only e long biased contribuíram
-positivamente no mês. Outro destaque ao longo de maio foi a alocação em títulos públicos
-atrelados à inflação, que também foram beneficiados pelo fechamento da curva de juros. As
-decisões de aumento de risco de boa parte dos gestores, e aumento de alocação em juros
-real no início de maio, amplificaram esse resultado positivo dentro dos fundos tanto de
-renda variável quanto multimercado. No cenário internacional, tivemos um mês mais
-estável, com a expectativa de juros mais altos pelo mundo prejudicando as alocações em
-renda fixa global, mas compensado pela renda variável, que teve pouca influência da alta de
-juros e teve um mês positivo com a empolgação referente as empresas ligadas a
-Inteligência Artificial, que tiveram forte alta no mês. Portanto, o fundo Bradesco
-Multigestores Max apresentou um resultado positivo e acima do CDI, com destaque para a
-posição em Legacy.Cambial Dólar (CNPJ: 02.294.024/0001-26)
-O fundo segue as variações do dólar versus o real e apresentou um resultado positivo em
-maio, em linha com a valorização do dólar no mês. O real é uma das moedas que mais se
-destaca em valorização frente ao dólar no ano, o mês corrente teve impacto negativa dada
-expectativa de continuidade da elevação da taxa de juros americana.
-.
-SUMÁRIO
-Ouro (CNPJ: 37.235.748/0001-83)
-O fundo não hedgeado apresentou um resultado negativo em maio, tal resultado foi
-beneficiado pela valorização do dólar, que impactou e deixou o resultado do fundo ouro
-hedgeado ainda mais negativo. O desempenho do ouro no mês reflete, também, o
-momento da continuidade na percepção do alívio de risco global. Importante destacar que
-investimento em ouro é uma excelente opção para quem busca diversificação, liquidez e
-proteção em momentos de crise.Apex Infinity Long Biased Ações
-No mês de maio de 2023, o fundo Apex Infinity apresentou retorno positivo e acima do
-Ibovespa. Os destaques positivos em termos absolutos foram em Saúde, Construção,
-Transporte e Varejo. Os destaques negativos em termos absolutos foram em Investimento
-no exterior, Energia e Petroquímica. O fundo terminou o mês com uma exposição líquida de
-54,84% e bruta de 162,51%. A exposição bruta setorial do fundo está conforme a seguir:
-Financeiro e Outros 37,9%; Materias Básicos 27%; Consumo Cíclico 26,4%; Utilidade Pública
-21%; Bens Industriais 16,2%; Consumo não Cíclico 12,6%; Saúde 10,4%; ETF 8,4%; Petróleo,
-Gás e Biocombustíveis 1% e Tecnologia da Informação 1%.
-Bahia Maraú Multimercado
-No mês, os ganhos do fundo vieram de posições aplicadas de juros nominais no Brasil. As
-perdas vieram de posições aplicadas em países desenvolvidos e vendidas em bolsa
-americana. No cenário macro, duas incertezas foram afastadas após o acordo do teto da
-dívida americana e da ausência de novos desdobramentos negativos relevantes no setor
-bancário. Com os dados de atividade corrente americana mais resilientes, alguns membros
-do FED voltaram a indicar a possibilidade de altas adicionais de juros. Na China, os dados de
-atividade
-permanecem
-fracos
-e
-continuam
-as
-preocupações
-com
-a
-recuperação
-econômica.Consideramos que a economia global deve desacelerar à frente devido ao
-enorme
-aperto monetário realizado
-ao
-longo
-dos
-últimos meses, com crescente
-probabilidade de uma recessão mais adiante. O eventual aperto no crédito decorrente da
-recente crise bancária acentua este processo. A inflação dos preços ao consumidor e os
-reajustes salariais seguem como importantes variáveis a serem monitoradas. Seguimos com
-posições aplicadas em países desenvolvidos, relativas em volatilidade e vendidas em risco.
-Na mesa de moedas, temos posições relativas neutras ao dólar. Seguimos comprados no
-dólar australiano contra o dólar neozelandês e comprados no iene contra o yuan. No
-mercado doméstico, mantemos posições aplicadas em inclinação de juro nominal e
-aplicadas no juro nominal.
-SUMÁRIOCanvas Vector Multimercado
-Em maio de 2023, o Canvas Vector teve retorno positivo. O mês de maio foi de baixas para o
-mercado de renda fixa soberana, em que prevaleceram aberturas de diferentes graus nas
-taxas pré-fixadas. Esses movimentos geraram perdas para o Vector. A alta nos juros norte-
-americanos contribuiu para a valorização do dólar americano contra seus pares. As
-exceções foram as moedaslatino-americanas, que tiveram variações positivas no mês. No
-fundo, esses movimentos foram favoráveis para os books de Moedas. No geral, o mês foi
-negativo para as bolsas globais, ainda que o S&P 500 tenha apresentado leve alta. Quanto
-às outras classes cíclicas, os futuros de VIX tiveram queda aproximada de 2 pontos e
-spreads de crédito corporativo passaram por leve abertura. Consolidadas, essas classes
-contribuíram positivamente para o resultado do fundo. Por fim, commodities sofreram forte
-desvalorização. Essa dinâmica não teve impacto significativo sobre o book de commodities
-do fundo, que possui exposição neutra à classe de ativos. Ao fim do mês, o Vector
-apresentava resultado próximo de zero com essa classe. Em comparação com o mês
-anterior, não houve mudanças significativas na alocação relativa de risco de cada classe de
-ativos.O yield da carteira do Vector encontra-se no patamar de CDI + 6.6% a.a., ao passo
-que o expected shortfall semanal do fundo é de 7.5% – isto é, existe, na janela de uma
-semana, 1% de chance de uma perda de 7.5%.
-SUMÁRIO
-Claritas Long Short Multimercado
-No mês, com dados de inflação surpreendendo positivamente e maior proximidade do início
-do ciclo de corte de juros, os setores domésticos apresentaram boa performance, com
-destaque para nossas construtoras, que se beneficiam da queda dos juros. Outro destaque
-positivo foi nosso par entre Sabesp e Eletrobras. As ações da Sabesp tiveram boa
-performance refletindo os trabalhos do Governo do Estado de São Paulo em busca do
-processo de privatização da empresa. Por outro lado, as ações da Eletrobras seguem
-pressionadas com expectativa de menor preço de energia com o excesso estrutural da
-capacidade de geração no país.Por outro lado, o destaque negativo foi nossa posição
-comprada em Porto Seguro vs. Ibovespa. Apesar da empresa ter reportado bons resultados
-operacionais no 1T23, com crescimento sólido nos prêmios emitidos e índice de
-sinistralidade controlada, o perfil defensivo da empresa levou à performance inferior ao
-Ibovespa no mês.SUMÁRIO
-Equitas Selection Ações
-"Em maio, o Equitas Selection apresentou uma performance positiva e acima do
-Ibovespa.No último mês, a respostas dos ativos domésticos a melhora do cenário macro foi
-muito superior a aqueles que compõem o Ibovespa, em grande parte commodities. O índice
-SMALL11 teve alta de quase 13%, enquanto vários ativos domésticos cíclicos tiveram
-performance acima de 20% e 30%. No cenário que se desenha, com crescimento
-econômico, queda de juros e inflação arrefecendo, esperamos que os ativos domésticos
-com alto potencial de crescimento e retorno sobre o capital investido, que compõem o
-fundo, continuem apresentando com desempenho superior.No primeiro trim de 2023,
-enquanto a receita das empresas que compõem o Ibovespa cresceu 3%, a receita das
-empresas que compõem o Equitas Selection cresceu 54%. Analisando o EBITDA, enquanto
-as empresas que compõem o Ibovespa tiveram queda de -8% em relação ao primeiro
-trimestre de 2022, nas empresas que compõem o Equitas Selection houve crescimento de
-mais de 100%.No último mês, as bolsas de valores estrangeiras também apresentaram um
-desempenho positivo. No Brasil, as incertezas em relação à política fiscal foram reduzidas
-mais uma vez com a aprovação do arcabouço fiscal, mais restritivo do que o inicialmente
-proposto pelo governo. Apesar das premissas otimistas, principalmente em relação ao
-crescimento da arrecadação, espera-se uma redução significativa do risco de cauda, o que
-já vem refletindo no desempenho do mercado. Além disso, tanto IPCA-15 quanto IGPM
-registraram redução nos últimos dados, aumentando as expectativas que o Banco Central
-poderá reduzir as taxas de juros nas próximas reuniões. Enquanto isso, as projeções para o
-crescimento do PIB no ano vêm sendo revisadas para cima pelos principais bancos de 1%
-para próximo a 2% em 2023."
-Moat Capital Ações
-Fechamos o mês com maior alocação nos setores financeiro, petróleo e utilidade pública. Os
-destaques positivos no mês foram MRV, Soma e Yduqs, já os negativos foram Carrefour, 3R e
-Cielo.GAP Absoluto Fic Multimercado
-O resultado positivo do fundo em maio é explicado principalmente por posições aplicadas
-em juros nominais e reais no Brasil. Também contribuíram positivamente, posições em
-commodities, no real e na bolsa brasileira. Do lado negativo, destacaram-se posições na
-bolsa americana e em juros desenvolvidos. No Brasil, o fechamento da curva de juros teve
-sequência ao longo do mês de maio, beneficiando as nossas posições aplicadas. Também
-ajudou na compressão de prêmio de risco a aprovação do arcabouço fiscal na Câmara, com
-algumas melhoras em relação ao texto original. Com isso, o mercado precifica atualmente
-um cenário de corte de juros a partir de agosto/setembro. Em commodities, o fundo teve
-ganhos com posições táticas em petróleo. A narrativa de queda de demanda tem dominado
-no mercado, mantendo o preço em patamares baixos. Entendemos que estamos em um
-momento de incerteza, principalmente se considerarmos os estoques ainda altos.
-SUMÁRIO
-Ibiúna Hedge STH Multimercado
-Quão próximos estamos do fim do ciclo de aperto monetário global? Essa incerteza tem
-condicionado os preços de ativos no mercado internacional. Se em abril o fim desse ciclo
-nos EUA parecia iminente, em maio voltou-se a precificar novas altas. Quase todos os
-países ocidentais
-que acompanhamos também mostraram distensão de condições
-financeiras em abril e reaperto em maio. O principal tema de investimento macro que vemos
-é o impacto da precificação do fim do aperto monetário. Caso a expectativa de tendência de
-depreciação global do Dólar se confirme, o alívio nos preços de bens transacionáveis em
-moeda local pode ser importante para Bancos Centrais combater a inflação. O possível fim
-das altas de juros permitirá voltar ao foco os fatores idiossincráticos de cada país.
-Kapitalo Zeta Multimercado
-Após os diversos episódios recentes envolvendo a questão financeira dos bancos nos EUA e
-pressão inflacionária no mundo, vimos melhoras do stress ao longo do mês. Em relação à
-performance, contribuíram positivamente as posições de moedas, e negativamente juros e
-commodities.Kadima Multimercado
-Em Maio, a principal contribuição positiva para o fundo foi o modelo seguidor de tendências
-de longo prazo com operações em futuro de DI. Outro modelo que apresentou performance
-positiva no período foi o modelo seguidor de tendências de curto prazo, com operações em
-futuro de dólar e DI. No lado negativo, o principal detrator de performance foi o modelo de
-eventos em mercados internacionais. Além disso, o modelo de alocação sistemática entre
-diferentes classes de ativos também foi detrator no período. No agregado, o fundo fechou
-o mês com resultado positivo e acima do CDI.Acreditamos no potencial da estratégia do
-fundo, composta por uma combinação de modelos matemáticos e estatísticos. Nossa área
-de pesquisa vem empenhando-se em desenvolver novos modelos e melhorias que
-contribuem para termos confiança na capacidade do fundo gerar bons resultados no longo
-prazo.
-Kapitalo K10 Multimercado
-O acordo para o aumento do teto de dívida e a estabilização do setor bancário dos EUA
-levaram a uma redução do prêmio de risco das curvas de juros e a uma leve alta nos ativos
-de risco. O livro de bolsa teve resultado positivo no mês. Juros, câmbio e commodities
-tiveram resultado negativo.
-Kapitalo Kappa Multimercado
-Após os diversos episódios recentes envolvendo a questão financeira dos bancos nos EUA e
-pressão inflacionária no mundo, vimos melhoras do stress ao longo do mês. Em relação à
-performance, contribuíram positivamente as posições de moedas, e negativamente juros e
-commodities.
-SUMÁRIO
-Moat Capital Ações
-Fechamos o mês com maior alocação nos setores financeiro, petróleo e utilidade pública. Os
-destaques positivos no mês foram MRV, Soma e Yduqs, já os negativos foram Carrefour, 3R e
-Cielo.Verde AM 60 Multimercado
-No Brasil, a maioria das mudanças que tivemos referentes ao arcabouço fiscal foram na direção
-correta, o que nos tornou mais otimistas quanto ao cenário, pois se reduziram os riscos de
-cauda e as reformas realizadas nos últimos cinco anos deixam o país mais preparado para
-crescer. Temos visto já há alguns trimestres sistemáticas surpresas positivas de crescimento, a
-despeito do ambiente externo, e acreditamos que esse fenômeno (que também apareceu nos
-recém-divulgados dados do primeiro trimestre de 2023) vai continuar por mais tempo. Com
-mais crescimento o risco fiscal de médio prazo cai, e temos condições para uma dinâmica
-construtiva, especialmente se comparado com as expectativas ainda bastante pessimistas
-embutidas nos preços dos ativos. Nesse contexto, o fundo apresentou ganhos nas estratégias
-de bolsa brasileira, juros nos EUA e crédito, enquanto os principais detratores do mês foram as
-posições de inflação implícita, bolsa global e ouro.Ao longo do mês, aumentamos o direcional
-alocado em ações globais, principalmente em empresas que se beneficiam dessa nova
-tendência secular de inteligência artificial, aumentamos também a exposição a setores mais
-cíclicos em detrimento de setores defensivos, além dos hedges de S&P, resultando em uma
-exposição net menor desse livro. No mercado brasileiro, mantivemos a alocação em bolsa
-brasileira, sendo os principais cases: Suzano, Vibra, Equatorial, Rumo. Na parcela de renda fixa
-mantivemos a posição de inflação implícita longa no Brasil e de médio prazo nos EUA, além das
-posições tomadas nos juros japoneses e americanos de curto prazo. No livro de commodities,
-mantivemos as alocações de ouro e petróleo. As posições de crédito brasileiros e a parcela de
-créditos high yield global não sofreram alterações significativas.
-Verde Multiestratégia Multimercado
-"No Brasil, a maioria das mudanças que tivemos referentes ao arcabouço fiscal foram na direção
-correta, o que nos tornou mais otimistas quanto ao cenário, pois se reduziram os riscos de
-cauda e as reformas realizadas nos últimos cinco anos deixam o país mais preparado para
-crescer. Temos visto já há alguns trimestres sistemáticas surpresas positivas de crescimento, a
-despeito do ambiente externo, e acreditamos que esse fenômeno (que também apareceu nos
-recém-divulgados dados do primeiro trimestre de 2023) vai continuar por mais tempo. Com
-mais crescimento o risco fiscal de médio prazo cai, e temos condições para uma dinâmica
-construtiva, especialmente se comparado com as expectativas ainda bastante pessimistas
-embutidas nos preços dos ativos. Nesse contexto, o fundo apresentou ganhos em todas as
-estratégias brasileiras, enquanto as perdas foram concentradas nos livros internacionais de
-ações, juros e moedas.
-SUMÁRIOAumentamos marginalmente as nossas exposições em ações brasileiras e mantivemos o livro
-internacional marginalmente vendido. Na renda fixa local continuamos com posição aplicada em
-juros reais na parte intermediária da curva. Mantivemos a parcela de crédito e seguimos com a
-posição comprada no Real e vendida no Euro.
-Vinland Macro Multimercado
-O fundo Macro terminou maio com performance positiva. Juros globais apresentaram
-rentabilidade negativa no mês. Ao longo do mês as posições de Chile apresentaram ganhos,
-enquanto as de México perdas de igual magnitude. Nos Estados Unidos as posições de opções e
-de juros real contribuíram negativamente para o resultado. A estratégia de juros locais teve
-variação positiva. Posições aplicadas em juros nominais foram a principal contribuição positiva.
-Inflação implícita vendida também teve resultado favorável. Renda variável apresentou retorno
-negativo. Posição long Nasdaq e short Russell foi o destaque positivo, enquanto arbitragens
-onshore e offshore foram detratores. A estratégia de moedas teve performance levemente
-negativa. Venda de volatilidade em USDBRL teve retorno positivo, enquanto posições direcionais
-táticas em USDBRL tiveram resultado negativo. A carteira de crédito apresentou retorno de
-levemente positivo. Para o mês de junho, nos Estados Unidos temos posições opcionalizadas
-para um adiamento do ciclo de cortes de juros. No México e Chile, seguimos tomados na parte
-curta e aplicados na parte média da curva. Em juros locais, temos posições aplicadas no meio da
-curva de juros nominais, além de venda de inflação implícita. Em moedas, não temos posições
-relevantes. Em Renda Variável, seguimos com a posição long Nasdaq vs short Russell. Na nossa
-carteira versus índice, prevalece uma maior exposição a bancos, elétricas/saneamento e
-consumo.
-SUMÁRIOYouTube
+IbovespaYouTube
 Acompanhe os nossos vídeos no
 Bradesco Asset Management
 LinkedIn

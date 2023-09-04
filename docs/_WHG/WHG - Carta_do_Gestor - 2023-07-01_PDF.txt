@@ -1,0 +1,1515 @@
+‘  
+ 
+INVESTMENT LETTER 
+ 
+ 
+ 
+Agosto de 2023 
+Carta do Gestor 
+Inteligência Artificial 
+A Mais Nova Onda de Disrupção: 
+o que mudou, quem está se 
+beneficiando e o que está por vir Carta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Sumário Executivo 
+“Most people overestimate what they can achieve in a year and underestimate 
+what they can achieve in ten years.” Bill Gates 
+ 
+ 
+ 
+     
+Prezados Investidores: 
+▪ 
+Esta carta é dedicada a uma discussão sobre a Inteligência 
+Artificial Generativa (IA Generativa) e sua força transformadora 
+sobre mercados e empresas. Ainda que estejamos nos 
+primeiros passos desta revolução, o potencial de mudança é 
+comparável ao impacto que os smartphones tiveram em 
+nosso cotidiano 
+▪ 
+A IA Generativa formou um ecossistema de empresas 
+dedicadas ao seu desenvolvimento. Há diversas formas como 
+empresas estão implementando esta tecnologia, levando a 
+debates tanto relacionados à forma de utilizar a tecnologia, 
+quanto aos riscos inerentes de uma mudança deste tamanho 
+na forma de organizar seus negócios. A IA já está impactando 
+diversos setores, levando a benefícios e desafios para muitas 
+empresas. 
+▪ 
+Toda 
+inovação 
+tecnológica 
+inevitavelmente 
+trará 
+preocupações e discussões relacionados aos riscos e 
+limitações do uso da tecnologia, resultando em tentativas de 
+regulação por partes de governos e conflitos geopolíticos para 
+tentar controlar esta tecnologia transformadora. Carta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+A revolução da Inteligência 
+Artificial chegou 
+ 
+Fonte: MidJourney, WHG. “Close de uma pessoa digitando” 
+Você já imaginou como seria viver em um 
+mundo onde máquinas podem desenvolver 
+programas de software, identificar doenças, 
+compor músicas e até mesmo redigir relatórios 
+de investimentos? Estamos à beira de uma 
+revolução 
+tecnológica, 
+impulsionada 
+pela 
+Inteligência 
+Artificial 
+Generativa 
+(“IA 
+Generativa”), 
+que promete transformar 
+a 
+maneira como interagimos com a tecnologia.  
+Em particular, a IA Generativa está emergindo 
+como um catalisador poderoso para um novo 
+superciclo de investimentos, com potencial 
+para remodelar setores inteiros da economia. 
+Super ciclos ao longo dos anos 
+Fonte: Coatue 
+Como em todas as revoluções tecnológicas, a 
+atual traz consigo tanto oportunidades de 
+investimento empolgantes quanto incertezas 
+consideráveis, especialmente em relação ao 
+impacto potencial sobre setores e empregos.  
+Nesta carta, vamos discutir o potencial desta 
+tecnologia emergente, discutir a falácia do 
+'Lump of Labor' que molda muitos debates 
+sobre revoluções e empregos, e explorar os 
+riscos e benefícios associados a esta nova era. 
+Vamos apresentar como estamos avaliando os 
+vencedores e perdedores desta revolução 
+tecnológica.  
+O nosso objetivo é apresentar aos nossos 
+investidores as oportunidades e desafios que 
+este novo super ciclo de investimentos trará, 
+destacando 
+a 
+importância 
+crucial 
+de 
+compreender e navegar neste novo cenário. As 
+implicações dessa revolução estão apenas 
+começando, e estamos ansiosos para explorar 
+as oportunidades de investimento que ela 
+fornecerá. 
+ 
+Mainframe
+PC
+Networking
+Desktop
+Internet
+Mobile
+Internet
+Cloud/
+SaaS
+Generative
+Artificial
+IntelligenceCarta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Entendendo a IA Generativa 
+ 
+Fonte: MidJourney, WHG. “Robô futurista tocando um touchscreen digital” 
+A inteligência artificial não é um conceito novo, 
+tendo suas origens remontando à década de 
+1950. No entanto, a tecnologia se tornou mais 
+proeminente apenas nos últimos quinze anos, 
+com a Alphabet, proprietária do Google, 
+lançando seu programa de veículos autônomos 
+em 2009. 
+A IA Generativa, no entanto, representa uma 
+evolução significativa da IA. Enquanto a IA 
+tradicional se baseia em regras predefinidas e 
+dados de entrada para fornecer respostas ou 
+resultados, a IA Generativa vai além, aprendendo 
+padrões a partir dos dados e gerando novas 
+informações que não estavam presentes nos 
+dados originais. 
+Desta forma, um modelo de IA generativa é um 
+programa 
+de 
+computador 
+que 
+consegue 
+entender e criar textos e imagens na mesma 
+qualidade que um humano. Ele é “treinado” ao 
+processar uma quantidade imensa de textos e 
+ 
+1 Databricks: 2023 State of Data + AI 
+imagens disponíveis na internet, em livros e 
+outras fontes. 
+O modelo de IA generativa mais conhecido hoje 
+em dia é o GPT-3/4 da OpenAI acessado via o 
+ChatGPT. O grande diferencial deste modelo foi 
+a facilidade de interação por parte de usuários, 
+que podiam fazer “perguntas” ao modelo como 
+se estivessem conversando com um amigo. Este 
+diferencial resultou em uma explosão de 
+usuários do ChatGPT, que se tornou a mais 
+rápida plataforma tecnológica a alcançar um 
+milhão de usuários. 
+Tempo para alcançar um milhão de usuários 
+Fonte: Statista, WHG 
+A Databricks estima que o número de empresas 
+usando APIs para acessar modelos de IA 
+generativa cresceu 1310% de novembro 2022 
+(quando o ChatGPT 3 foi lançado) até maio de 
+20231. 
+ 
+ 
+ChatGPT
+Instagram
+Spotify
+Dropbox
+Facebook
+Foursquare
+Twitter
+Kickstarter
+Airbnb
+NetflixCarta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Quais são as principais partes nesse 
+ecossistema? 
+O crescimento exponencial da criação e uso de 
+modelos de IA generativa naturalmente levam 
+investidores a procurar as melhores opções de 
+investimento. Uma pergunta crucial se destaca 
+no centro do desenvolvimento da IA generativa: 
+onde será gerado o maior valor agregado desta 
+tecnologia 
+revolucionária? 
+Onde 
+devemos 
+investir para aproveitar ao máximo esse avanço? 
+Um estudo do Morgan Stanley indica que 
+durante 
+as 
+grandes 
+transformações 
+tecnológicas dos últimos200 anos, as maiores 
+empresas no início da revolução tendem a não 
+ser as líderes após a transição. Os vencedores 
+nem sempre são fáceis de identificar. 
+Para responder a essas perguntas, precisamos 
+primeiro entender o ecossistema que se formou 
+em torno da IA generativa. Este ecossistema é 
+composto 
+por 
+empresas 
+focadas 
+em 
+semicondutores, 
+provedores 
+de 
+nuvem, 
+desenvolvedores de modelos de IA e aplicações 
+que se alavancam desses modelos. 
+Ecossistema da Inteligência Artificial 
+Fonte: WHG 
+1. O Papel dos Semicondutores 
+A IA generativa depende de intensivos cálculos 
+estatísticos, 
+realizados 
+paralelamente 
+para 
+otimizar o tempo de processamento. As 
+unidades de processamento gráfico (GPUs) são 
+amplamente utilizadas devido à sua habilidade 
+de executar operações paralelas, tornando-as 
+ideais para os cálculos intensivos necessários na 
+IA generativa. A Nvidia é a principal fornecedora 
+de GPUs e de conectividade de rede Infiniband 
+que interliga GPUs. 
+Crescimento T/T da receita da Nvidia 
+Fonte: WHG 
+A demanda pelos GPUs cresceu de tal maneira 
+devido à IA generativa, que a Nvidia indicou que 
+a receita do segundo trimestre deste ano terá o 
+maior crescimento trimestre contra trimestre de 
+sua história, +62%. Antes disso, a maior alta foi de 
++40%, no terceiro trimestre de 2017.  
+Além da Nvidia, há uma tendência crescente 
+entre os grandes provedores de nuvem para 
+desenvolver seus próprios chips customizados 
+para treinamento e inferência de IA, como o TPU 
+do Google, e o Trainium e Inferentia da AWS. Os 
+provedores utilizam parcerias, principalmente 
+com a Broadcom (AVGO), para desenvolver 
+estes chips. A Broadcom, como a Nvidia, está 
+vendo um crescimento muito forte de receitas 
+provenientes da IA generativa. Ela estima que 
+em seu ano fiscal de 2024, essas receitas 
+representarão mais de 25% do total de receitas 
+de semicondutores, um crescimento de quase 
+100% ano contra ano. 
+SEMICONDUTORES 
+(Provedores de Hardware)
+GPU (Nvidia) | Networking (Broadcom)
+TPU (Alphabet)
+HYPERSCALERS  
+(Provedores de Nuvem)
+AWS (Amazon) | Azure (Microsoft)
+GCP (Google) | OCI (Oracle)
+MODELOS
+OpenAI | Anthropic | HuggingFace
+Bard | Midjourney | LLaMa
+APLICAÇÕES
+Github Copilot | Adobe FireflyCarta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Esta tendência é menos uma competição com a 
+Nvidia e mais uma indicação da importância 
+desse tipo de demanda computacional. Os 
+provedores de nuvem não conseguem comprar 
+todos os chips que gostariam da Nvidia. Além 
+disso, ao desenvolver seus próprios chips, 
+buscam proteger suas margens no médio prazo 
+dada a elevada margem embutida nos GPUs da 
+Nvidia. A matéria prima utilizada para produzir o 
+GPU custa perto de $13 mil, enquanto os GPUs 
+H100 são vendidos por mais de $40 mil. 
+TSMC, a maior fabricante do mundo de chips 
+semicondutores, 
+detém 
+essencialmente 
+o 
+monopólio dessa produção para IA. Em seu mais 
+recente resultado trimestral, a TSMC espera que 
+sua receita vinda de chips para IA irá crescer 50% 
+ao ano pelos próximos 5 anos. O papel dos 
+semicondutores na IA generativa é fundamental. 
+Com a crescente demanda por GPUs e o 
+desenvolvimento de chips customizados pelos 
+provedores 
+de 
+nuvem, 
+o 
+mercado 
+de 
+semicondutores está se tornando cada vez mais 
+importante na era da IA generativa. Empresas 
+como Nvidia, Broadcom e AMD devem se 
+beneficiar enormemente dessa tendência. O fato 
+de os fundos de Venture Capital estarem usando 
+o acesso a GPUs como um diferencial para atrair 
+startups 
+é 
+um 
+testemunho 
+do 
+valor 
+e 
+importância desses chips na atual paisagem 
+tecnológica. A demanda está tão alta que 
+empresas como a Coatue, BlackRock, PIMCO e 
+Carlyle aceitaram a CoreWeave colocar GPUs da 
+Nvidia como colateral para uma dívida de $2,3 bi. 
+2. Hyperscalers – provedores de nuvem 
+As principais provedoras de nuvem, AWS 
+(Amazon), Azure (Microsoft) e GCP (Google), 
+conhecidas 
+como 
+“hyperscalers”, 
+são 
+as 
+principais clientes da Nvidia, Broadcom e AMD. 
+O modelo de negócios dessas empresas 
+consiste, 
+principalmente, 
+em 
+investir 
+em 
+infraestrutura, adquirindo chips para construir 
+“data centers”. Essa capacidade instalada é 
+alugada para empresas de software, que pagam 
+pelo seu uso. 
+A IA generativa tem levado a um aumento 
+significativo 
+no 
+consumo 
+da 
+capacidade 
+instalada das hyperscalers, tanto do lado de 
+criação quanto do consumo de dados. 
+Modelos estão ficando mais intensivos em 
+computação 
+Fonte: Coatue 
+A Coatue estima que atualmente 15% da 
+capacidade dos data centers é utilizada para 
+modelos de IA, e que esse número subirá para 
+60% até 2030. A capacidade instalada atual não 
+conseguirá suportar essa transição, o que torna 
+necessário a criação de novos data centers e a 
+atualização da infraestrutura dos já existentes. 
+Como resultado disso, as provedoras de nuvem 
+estão acelerando os investimentos em GPUs e 
+chips customizados. O mercado estima que o 
+capex da Microsoft deve ir para $45-50bilhoes 
+em seu próximo ano fiscal contra $31 bilhões no 
+ano anterior. Google e Meta (META) indicaram 
+que o elevado nível de investimentos em 
+infraestrutura técnica vai aumentar em 2024.  
+Além dos GPUs e data centers, os hyperscalers 
+representam o centro de gravidade da IA 
+generativa, pois armazenam o ativo mais crítico 
+para essa tecnologia: os dados. A abundância e a 
+diversidade desses dados é o que permitirá que 
+os modelos de IA generativa aprendam, se 
+adaptem e forneçam insights personalizados a 
+cada cliente.  
+Primeira Era
+Era Moderna
+Percepção
+Dobramento de 2 
+anos (Lei de Moore)
+RNN for 
+Speech
+Dobramento 
+de 3,4 meses
+ResNet
+Alpha
+GoCarta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Portanto, os hyperscalers não apenas fornecem 
+a infraestrutura de computação necessária, mas 
+também o vasto oceano de dados que alimenta 
+(e alimentará) os modelos. 
+Imagem gerada por IA (FireFly) 
+Computação em nuvem 
+Fonte: FireFly, WHG 
+A infraestrutura construída pelos provedores de 
+nuvem é um componente essencial que 
+alimenta a revolução da IA. A demanda 
+crescente por capacidade de data center e GPUs 
+de empresas como Nvidia e Broadcom é um 
+indicador de como a IA generativa está 
+moldando a indústria de tecnologia." 
+Os modelos criados a partir da IA generativa 
+estão 
+no 
+epicentro 
+desta 
+revolução. 
+Organizações como OpenAI, Anthropic, Cohere 
+e Hugging Face estão na vanguarda do 
+desenvolvimento de modelos avançados de IA, 
+definindo o futuro dessa tecnologia emergente. 
+Hoje, existem dois debates essenciais em torno 
+dos modelos de IA:  
+O primeiro debate se refere à diferença entre 
+modelos open-source (abertos) e closed-source 
+(fechados). Modelos open-source, como o 
+LLaMA da Meta e Hugging Face, são acessíveis a 
+qualquer pessoa e podem ser modificados 
+livremente. Eles possibilitam o treinamento com 
+dados proprietários para usos específicos e 
+especializados. No entanto, eles exigem um 
+investimento inicial maior para implementação 
+e manutenção. . Por outro lado, modelos closed-
+source como os da OpenAI são menos flexíveis e 
+pouco customizáveis, oferecendo um acesso 
+mais comoditizado. Esses modelos, porém, 
+permitem uma implementação rápida e com 
+menos capital, seja financeiro ou de mão de obra 
+especializada. 
+O segundo debate está relacionado a escolha 
+entre modelos grandes e generalistas versus 
+menores e especializados. Modelos grandes, 
+como o GPT4 da OpenAI, são treinados em 
+grandes volumes de dados, permitindo-lhes 
+lidar com uma ampla gama de tarefas dos mais 
+diversos assuntos. Contudo, o custo para treiná-
+los e mantê-los é consideravelmente alto. De 
+acordo com o SemiAnalysis, o custo da OpenAI 
+para manter o ChatGPT em funcionamento é de 
+aproximadamente $700 mil por dia. Em 
+contraste, modelos menores e mais específicos 
+podem ser mais eficientes e econômicos para 
+tarefas específicas. 
+Por trás destes dois debates está a mesma 
+questão: quanto controle uma empresa gostaria 
+de ter sobre o modelo? A decisão resume-se da 
+seguinte maneira: quanto mais controle uma 
+empresa deseja sobre os resultados de um 
+modelo e do uso dos seus dados, maior será o 
+investimento inicial necessário. Carta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Investimento de capital necessário aumenta 
+conforme empresas querem mais controle 
+Fonte: Goldman Sachs 
+Após escolher o tipo de modelo que gostariam 
+de implementar, existem três maneiras pelas 
+quais uma empresa pode integrar um modelo 
+de IA generativa em suas atividades. 
+1. A forma mais simples é acessar um modelo 
+existente, como o GPT3 (ou GPT4), através de 
+um API ou plug-in. Esse é o caminho mais 
+utilizado inicialmente em razão da velocidade 
+de implementação e custos envolvidos 
+2. A segunda alternativa é treinar um modelo 
+existente com os dados específicos da 
+empresa. Esse é o caminho que acreditamos 
+a maior parte das grandes empesas vai optar 
+no médio prazo em razão da possibilidade de 
+incorporar dados proprietários no modelo 
+para uso em casos especializados.  
+3. A última alternativa é uma empresa criar seu 
+próprio 
+modelo. 
+Essa 
+alternativa 
+nao 
+depende somente de capital disponível, mas 
+de cultura de inovação e mão de obra 
+especializada. Empresas como Bloomberg e 
+Adobe estão seguindo esse caminho. 
+ 
+Comparação entre as alternativas para implementação de IA Generativa 
+Fonte: Goldman Sachs 
+ 
+Investimento da empresa em P&D de LLM
+(Large Language Model)
+Controle da empresa sobre LLM
+1 - Desenvolver plug-ins terceirizados para chatbots
+disponíveis no mercado
+2 - Integrar a API de chatbots terceirizados no 
+interface da empresa
+3 - Ajuste fino e ajuste de parâmetros de um LLM 
+pré-treinado utilizando os dados da empresa
+4 - Empresa desenvolve seu próprio LLM do zero e o 
+treina com dados
+Plug-ins
+de terceiros
+Integração
+via API
+Ajustes em
+modelo existente
+Construir
+modelo próprio
+Migração de dados
+para a Nuvem
+Armazenamento na nuvem 
+protege dados proprietários
+Armazenamento na nuvem 
+para todos os dados utilizados 
+para treinar o modelo
+Requerimentos
+computacionais
+GPU/TPU hospedados na nuvem 
+para treinar o modelo com um 
+pequeno conjunto de dados
+GPU/TPU hospedados na 
+nuvem para treinar o modelo 
+com um grande conjunto de 
+dados
+Serviços de terceiros
+para modelos
+Contratar prestadores de 
+serviços (opcional)
+Serviços relacionados a fase pré-
+treinamento (opcional)
+Manutenção
+Ajustes quando o 
+chatbot é 
+atualizado
+Cobrança por 
+cada query, de 
+acordo com o 
+tamanho da 
+resposta
+Ajustes necessários quando o 
+modelo é atualizado para uma 
+nova versão
+P&D contínuo para melhorar a 
+performance do modelo
+Programadores
+internos
+Pequeno time
+Pequeno time
+Pequeno times de experts em
+machine learning
+Time extenso de experts em 
+machine learning e cientistas 
+de dadosCarta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+À medida que a indústria de IA amadurece, 
+podemos esperar mudanças na dinâmica entre 
+open-source e closed-source, bem como entre 
+modelos grandes e pequenos. A demanda por 
+personalização pode impulsionar um maior uso 
+de modelos open-source. Simultaneamente, os 
+avanços na eficiência do treinamento podem 
+levar a um aumento na utilização de modelos 
+menores e mais especializados, modelos que 
+custam menos para serem utilizados no dia a 
+dia. 
+As 
+empresas 
+precisam 
+se 
+manter 
+atualizadas com essas tendências para fazerem 
+escolhas estratégicas bem-informadas na era da 
+IA generativa. Esta não é uma decisão simples, 
+sendo influenciada por uma variedade de 
+fatores, 
+incluindo 
+objetivos 
+estratégicos, 
+disponibilidade 
+de 
+capital 
+inicial 
+para 
+investimento e a capacidade da empresa de 
+gerenciar a implementação da IA. 
+Essas escolhas estão se tornando ainda mais 
+complexas 
+e 
+críticas, 
+apresentando 
+simultaneamente 
+novas 
+oportunidades 
+e 
+desafios para as empresas. Um exemplo disso é 
+a possibilidade dos modelos “rodarem” em 
+hardware pessoal, como smartphones, laptops e 
+até mesmo carros. Isso permitiria ao modelo 
+“aprender” os hábitos e preferências do usuário. 
+Ao mesmo tempo, os dados do usuário estariam 
+protegidos, pois não seriam transmitidos para 
+outro repositório.  
+Nos resultados do segundo trimestre algumas 
+empresas começaram a comentar sobre o 
+potencial deste mercado, com Intel (INTC) e 
+AMD (AMD) acreditando que a IA generativa 
+será integrada em computadores pessoais, e a 
+Qualcomm (QCOM) comentando que o setor 
+automotivo será um grande beneficiado ao usar 
+estes 
+modelos 
+para 
+otimizar 
+a 
+direção 
+autônoma em veículos. Além disso, é notório 
+que os chips semicondutores utilizados pela 
+Apple, por exemplo, já possuem capacidade 
+para rodar aplicações de IA.  
+A última peça do ecossistema é representada 
+pelas aplicações construídas sobre os modelos de 
+IA generativa. Da mesma forma que a Snowflake 
+se beneficiou dos provedores de nuvem, as novas 
+aplicações modernas estão se alavancando sob a 
+IA generativa. Os usos potenciais são vastos, 
+desde chatbots para atendimento ao cliente até 
+geração de imagens para campanhas de 
+marketing, e até mesmo auxílio a estudantes na 
+busca de informações sobre qualquer assunto. 
+Microsoft Copilot 
+Um exemplo proeminente é o Copilot da 
+Microsoft 365 (MSFT 365). Copilot utiliza a 
+tecnologia da OpenAI para revolucionar a forma 
+como trabalhamos. Integrado a todos os 
+aplicativos 
+do 
+MSFT 
+(Word, 
+Excel, 
+PowerPoint, Outlook, Teams, etc.), o Copilot tem 
+a capacidade de responder a perguntas com 
+base em qualquer fonte de dados disponível no 
+MSFT 365. Além disso, executa tarefas intra-
+aplicativos, como criar um PowerPoint com base 
+em um e-mail, resumir um documento Word 
+para um e-mail ao seu chefe, ou gerar um 
+gráfico a partir de uma base de dados no Excel. 
+A Microsoft está dando passos largos para 
+capitalizar 
+a 
+crescente 
+influência 
+da 
+IA 
+Generativa. A empresa recentemente anunciou 
+um novo plano de Inteligência Artificial que custa 
+US$30 por mês, por usuário. Para colocar isso em 
+contexto, a Microsoft possui atualmente cerca de 
+380 milhões de usuários que pagam uma média 
+de US$107 por ano (perto de $9 por mês). 
+Acreditamos que a penetração deste novo plano 
+de IA pode alcançar 30% do total de usuários nos 
+próximos anos. Isso implicaria um aumento de 
+$30 bilhões de receita e $20 bilhões no lucro 
+operacional de 2026. Como contexto, Microsoft 
+gerou $211 bilhões de receita e $89 bilhões de 
+lucro operacional no ano fiscal de 2023.  
+ Carta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Outras empresas também estão vendo o valor de 
+ter um assistente virtual e implementando a IA 
+generativa via copilotos, como a Salesforce (CRM) 
+que lançou o Einstein GPT. 
+O potencial vai muito além. Programas e/ou 
+ambientes onde os usuários passam muito 
+tempo ou realizam uma variedade de atividades 
+são 
+candidatos 
+ideais 
+para 
+desenvolver 
+aplicações que funcionarão como verdadeiros 
+assistentes 
+virtuais, 
+ajudando 
+em 
+uma 
+infinidade de tarefas, como programar viagens, 
+fazer reservas, aprender novos temas, e muito 
+mais. 
+Apple é um forte candidato 
+A Apple, por exemplo, possui uma oportunidade 
+única de integrar um assistente virtual baseado 
+em IA generativa em seu ecossistema, afinal, são 
+mais de 1,2 bilhões de pessoas que gastam em 
+média três horas e meia todos os dias no 
+telefone. 
+E o WhatsApp? 
+O WhatsApp é outro exemplo, dado o tempo 
+que 
+passamos 
+trocando 
+mensagens 
+e 
+realizando diversas tarefas dentro do aplicativo. 
+E, é claro, o Google, com seu vasto ecossistema 
+de serviços, também é um forte candidato para 
+desenvolver esses assistentes virtuais do futuro. 
+Gerenciando Expectativas na Era da IA 
+Generativa 
+Como Bill Gates uma vez disse: "A maioria das 
+pessoas superestima o que pode alcançar em 
+um ano e subestima o que pode alcançar em 
+dez anos." Essa citação se aplica perfeitamente 
+ao atual estado da IA generativa. 
+Apesar do entusiasmo dos consumidores e das 
+empresas com o lançamento de novos produtos 
+e soluções que incorporam IA generativa, 
+devemos ser cautelosos ao avaliar o impacto 
+financeiro desses produtos no curto prazo.  
+O mercado tende a superestimar o impacto 
+imediato dessas inovações.  
+Nessa linha, a Microsoft, comentou em seu mais 
+recente resultado que o aumento de receita de 
+seus serviços de IA será gradual, com a maior 
+parte do impacto vindo apenas em 2024, o que 
+foi uma decepção para o mercado que esperava 
+impacto maior no curto prazo.  
+Grandes corporações costumam se mover 
+lentamente ao implementar novas soluções, por 
+mais revolucionárias que possam ser. Aplicações 
+novas como o Teams, Loop ou Slack podem 
+demorar mais de um ano para implementação 
+e treinamentos para todos. Quem não se lembra 
+do processo para upgrade para versão mais 
+nova de um Office ou Windows? Apesar do 
+impacto menor no curto prazo, temos bastante 
+convicção que a IA Generativa tem o potencial 
+de ser tão transformadora quanto o smartphone 
+foi. Esta simbiose inevitavelmente impactará 
+diversos 
+setores, 
+positivamente 
+e 
+negativamente. A questão que resta é se a soma 
+destes impactos será positiva para a sociedade. 
+ Carta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Quais os impactos de 
+revoluções tecnológicas? 
+ 
+Fonte: MidJourney, WHG. “Robô futurista tocando um touchscreen digital” 
+Um dos principais vieses cognitivos que 
+acompanham uma revolução tecnológica é o 
+“Lump of Labor”. Nele, se acredita que a 
+economia possui uma quantidade de trabalho 
+fixo e, portanto, se uma revolução tecnológica 
+aumentar a produtividade dos trabalhadores, 
+a quantidade de trabalho disponível para cada 
+trabalhador diminuirá. 
+Apesar desta preocupação, as revoluções 
+tecnológicas têm um histórico com saldo 
+indiscutivelmente positivo em termos de 
+criação 
+de 
+empregos. 
+Empregos 
+serão 
+eliminados, porém saldo de criação é muito 
+superior a eliminação.  
+Vejamos, por exemplo, a Revolução Industrial 
+do século XIX: a introdução de maquinário 
+inovador alterou significativamente ofícios 
+manuais de artesãos. No entanto, a eficiência 
+de 
+produção 
+proporcionada 
+por 
+essas 
+máquinas impulsionou o surgimento de novas 
+indústrias e estimulou a demanda por novos 
+tipos de trabalho. 
+Um 
+paralelo 
+mais 
+moderno 
+pode 
+ser 
+encontrado na transição das carroças para 
+automóveis. Grandes fabricantes de carroças, 
+como a Studebaker, tiveram que se adaptar à 
+nova realidade ou enfrentar a obsolescência. 
+De maneira semelhante, a era digital viu o 
+declínio de empregos manuais em áreas como 
+contabilidade 
+e 
+datilografia, 
+mas, 
+em 
+contrapartida, impulsionou o crescimento da 
+maior indústria do mundo hoje - a tecnologia 
+da informação. 
+Imagem gerada por IA (MidJourney) 
+Corrida entre uma carroça e um Lamborghini. Cenário de 
+1920. 
+Fonte: MidJourney, WHG Carta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Uma análise da McKinsey2 indica que, entre 1980 
+e 2018, a introdução de computadores pessoais e 
+da internet resultou na perda de 3,5 milhões de 
+empregos nos EUA, como os de digitadores e 
+fabricantes de máquinas de escritório. No 
+entanto, essas mesmas tecnologias ajudaram a 
+impulsionar novos setores como semicondutores 
+e desenvolvimento de software, criando 19 
+milhões de novos empregos no mesmo período. 
+Olhando para o ciclo tecnológico atual, a 
+McKinsey3 estima que, até o final da década, as 
+áreas de saúde e as profissões relacionadas a 
+ciências, engenharia, tecnologia e matemática 
+devem 
+ser 
+as 
+que 
+mais 
+apresentarão 
+crescimento em termos de postos de trabalho. 
+Por outro lado, áreas de suporte ao cliente e 
+funções administrativas são esperadas para 
+sofrer a maior redução em termos de 
+empregos disponíveis. 
+Crescimento estimado na demanda por 
+empregos nos EUA, por ocupação 
+Fonte: McKinsey, WHG 
+ 
+work/what-can-history-teach-us-about-technology-and-jobs 
+Dados históricos mostram que o aumento da 
+produtividade, muitas vezes impulsionado por 
+avanços tecnológicos, tende a criar mais 
+empregos do que os que são eliminados. Este 
+tem sido certamente o caso nos EUA, onde, 
+desde 1960, todas as décadas de aumento da 
+produtividade dos trabalhadores, resultantes 
+de revoluções ou inovações tecnológicas, 
+resultaram em um aumento do emprego. 
+Apesar das preocupações iniciais, é provável 
+que a IA generativa, assim como as revoluções 
+tecnológicas que a precederam, resulte em 
+um saldo líquido positivo de empregos.  
+O impacto da IA generativa irá além do 
+impacto em empregos, também trazendo 
+impactos significativos para as empresas, 
+influenciando processos, produtos e futuros. 
+Como as empresas serão impactadas? 
+Nesta seção, buscamos explorar o ecossistema 
+em torno da IA generativa e identificar os 
+possíveis vencedores e perdedores dessa 
+revolução 
+tecnológica. 
+Assim 
+como 
+em 
+qualquer revolução, existem aqueles que se 
+beneficiam diretamente das mudanças e 
+aqueles que são desafiados por elas. Para 
+entender melhor este cenário, vamos dividi-lo 
+em duas partes: as empresas que podem se 
+beneficiar diretamente da IA generativa, e 
+aquelas 
+que 
+podem 
+enfrentar 
+desafios 
+significativos. 
+Observamos 
+um 
+influxo 
+de 
+empresas 
+tentando se posicionar como protagonistas de 
+"IA", mas é fundamental identificar aquelas 
+que realmente trazem soluções diferenciadas 
+e 
+estão 
+colhendo 
+os 
+benefícios 
+dessa 
+tecnologia. 
+ 
+ 
+ai-and-the-future-of-work-in-america#/ 
+Profisionais de saúde
+Apoio à Saúde
+Ciência e Tecnologia
+Construtores
+Gerentes
+Setores Criativos
+Manutenção de propriedades
+Serviços de Transporte
+Instalação e Reparo
+Jurídico
+Serviços Comunitários
+Educação
+Agricultura
+Produção do Trabalho
+Serviços alimentícios
+Serviços ao consumidor
+Apoio ao EscritórioCarta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Exemplos de Aplicações da IA Generativa em Diferentes Setores 
+Fonte: McKinsey, WHG 
+ 
+Acreditamos que as maiores oportunidades 
+residem 
+nas 
+empresas 
+que 
+podem 
+implementar efetivamente os modelos de IA. 
+Simplesmente conectar uma empresa a um 
+modelo de IA generativa não é suficiente para 
+se destacar. Vemos um mar de startups de IA 
+surgindo com soluções semelhantes, todas 
+integrando a OpenAI via API, mas com pouca 
+diferenciação. 
+Além 
+dos 
+beneficiados 
+e 
+desafiados, existem também aqueles cujo 
+futuro na era da IA generativa ainda está 
+incerto.  
+1. Beneficiados pela IA Generativa 
+Na corrida do ouro da IA Generativa, assim 
+como na histórica corrida do ouro, muitas 
+vezes são os fornecedores das ferramentas - as 
+picaretas e pás - que colhem os maiores 
+benefícios. Neste caso, as "picaretas e pás" são 
+os 
+semicondutores 
+e 
+os 
+hyperscalers. 
+Empresas de semicondutores como Nvidia 
+(NVDA), Broadcom (AVGO) e AMD, além dos 
+hyperscalers – Azure, AWS e GCP – estão à 
+frente 
+desta 
+revolução, 
+fornecendo 
+as 
+ferramentas 
+essenciais 
+para 
+o 
+desenvolvimento e implementação da IA 
+Generativa. Estas empresas estão no epicentro 
+desta nova era, desempenhando um papel 
+fundamental na construção do futuro da IA. 
+2. Desafiados pela IA Generativa 
+Por outro lado, encontramos empresas que 
+estão 
+na 
+linha 
+de 
+frente 
+dos 
+desafios 
+apresentados pela IA Generativa. Estas são as 
+organizações cujo seu negócio principal pode 
+ser potencialmente substituído pela nova 
+tecnologia. 
+Empresas 
+cujos 
+funcionários 
+desempenham 
+tarefas 
+administrativas 
+repetitivas 
+e 
+de 
+baixa 
+qualificação 
+são 
+particularmente vulneráveis. 
+Bancos
+Consumo
+Farma e 
+procedimentos
+médicos
+Valor total por indústria
+(% da receita da indústria)
+Valor potencial
+(% dos lucros)
+P&D, software
+Otimizar migração de 
+código-fonte legado
+Acelerar pesquisa
+dos consumidores
+Acelerar seleção de proteínas 
+e moléculas para formulação 
+de novas drogas
+Operações com 
+consumidores
+Automatizar parcialmente, 
+acelerar e melhorar 
+resoluções de problemas 
+de clientes
+Informar os trabalhadores 
+rapidamente do status 
+e produtos e preferências dos 
+consumidores
+Preparar instruções 
+para medicamentos e 
+disclaimers de drogas
+Marketing e vendas
+Marketing personalizado 
+para cada cliente baseado 
+em seu histórico e perfil
+Acelerar cópias de conteúdo 
+publicitário e scripts de 
+propagandas
+Preparar scripts 
+para interação 
+com médicos
+Outras funções
+Criar documentação modelo 
+e escanear por 
+documentação pendente e 
+updates regulatórios
+Preparar processo e script 
+para negociar com 
+fornecedores
+Preparar documentos legais, 
+incorporando requisitos 
+regulatóriosCarta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Um exemplo paradigmático é o setor de 
+atendimento ao cliente. A IA Generativa tem 
+potencial para transformar drasticamente esta 
+indústria, automatizando tarefas que antes 
+eram realizadas por humanos. Empresas como 
+a Concentrix (CNXC), que se especializam em 
+atendimento ao cliente, podem ver seus 
+modelos de negócios desafiados por esta 
+mudança. A Exponential View e Morgan 
+Stanley estimam que, um assistente que 
+utiliza 
+um 
+co-piloto 
+de 
+IA 
+Generativa 
+conseguirá atender quase duas vezes mais 
+resoluções por hora. 
+Resoluções/hora de atendimento ao cliente 
+Fonte: Exponential View, Morgan Stanley 
+Outro setor em risco é o da educação. 
+Ferramentas educacionais online, como a 
+Chegg (CHGG), podem ver seus usuários 
+migrarem para soluções gratuitas alimentadas 
+por IA Generativa. Esta mudança pode 
+representar uma ameaça significativa para o 
+seu modelo de negócios. Outro risco existe é 
+um aluno usar um modelo para fazer uma 
+prova online. O Business Insider4 testou o 
+ChatGPT 4 no Bar, prova de direito dos EUA. 
+Ele marcou no percentil 90 e teria passado na 
+prova em Nova Iorque. 
+A indústria de terceirização de processos de 
+negócios também está sujeita a disrupção. 
+Empresas que oferecem serviços de baixo 
+valor 
+agregado, 
+como 
+a 
+WNS, 
+podem 
+encontrar-se em dificuldades à medida que a 
+ 
+IA Generativa começa a desempenhar as 
+tarefas que antes eram terceirizadas. Experts 
+estimam que modelos como o GPT4 já 
+conseguem responder perguntas do tipo 
+“como que eu faço”. Isso hoje representa perto 
+de 30% da receita do setor de terceirização de 
+processos de negócios de experiência do 
+cliente. O maior entrave hoje é o prazo para 
+implementação, que é estimada hoje em 1-3 
+anos.Esses exemplos ilustram a vasta gama de 
+indústrias que podem ser desafiadas pela 
+ascensão da IA Generativa. Embora cada 
+empresa enfrentará seu próprio conjunto de 
+desafios, um aspecto é claro: a capacidade de 
+se adaptar e inovar será crucial para sobreviver 
+e prosperar nesta nova era. 
+3. Outras Discussões Relevantes 
+Há também setores onde a influência da IA 
+ainda não é clara. Com a IA facilitando a criação 
+de imagens, textos e possivelmente vídeos, a 
+barreira 
+de 
+entrada 
+em 
+setores 
+tradicionalmente "criativos", como marketing 
+e jogos, está diminuindo. 
+Imagem gerada por IA (MidJourney) 
+Santos Dumont dentro de um Jato Executivo 
+Fonte: MidJourney, WHG 
+Assistência de IA
+Sem assistência
+Assistência de
+IA após 5 mesesCarta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+A 
+programação 
+também 
+está 
+sendo 
+impactada, com modelos de IA como o Copilot 
+do 
+GitHub 
+auxiliando 
+no 
+processo 
+de 
+desenvolvimento. A GitHub acredita que seu 
+Copilot consegue escrever até 40% do código 
+de um desenvolvedor. A pergunta neste caso é 
+se isso levará à dispensa de programadores ou 
+ao aumento da produtividade, e à criação de 
+mais software. 
+Imagem gerada por IA (MidJourney) 
+Android programando 
+Fonte: MidJourney, WHG 
+Acreditamos que isso levará a uma maior 
+produção de software. Atualmente, a principal 
+limitação para o desenvolvimento de software 
+não 
+é 
+a 
+demanda, 
+mas 
+a 
+falta 
+de 
+programadores 
+qualificados. 
+Portanto, 
+ferramentas como o Copilot podem tornar os 
+programadores existentes mais produtivos, 
+em vez de torná-los obsoletos, além de reduzir 
+custo de desenvolvimento o que deve induzir 
+ainda 
+mais 
+demanda. 
+Aumento 
+no 
+desenvolvimento de softwares deve beneficiar 
+empresas como a MongoDB (MDB), que 
+fornece infraestrutura de base de dados no 
+desenvolvimento de aplicações. 
+Finalmente, empresas como a Meta parecem 
+prontas para se beneficiar dessas inovações. A 
+ascensão do conteúdo gerado por IA pode 
+impulsionar o engajamento e a personalização 
+dos anúncios. Isso significa que a IA pode 
+facilitar a criação e o ajuste de conteúdo 
+publicitário para atender às necessidades 
+específicas de um determinado público-alvo. 
+Esses avanços podem resultar em maior 
+conversão e um melhor retorno sobre o 
+investimento para os anunciantes, criando 
+uma vantagem competitiva para a Meta. 
+Concluímos que a IA generativa terá impactos 
+significativos nas empresas, influenciando 
+processos, produtos e o futuro. As empresas 
+estão se apressando para implementar a IA 
+generativa em busca de diferenciação. Isto 
+posto, é importante estar ciente das limitações 
+e preocupações em relação ao uso dessa nova 
+tecnologia. 
+ Carta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Quais as limitações e preocupações? 
+ 
+Fonte: MidJourney, WHG. “Robô tocando violino com uma mulher sorrindo” 
+A IA generativa, embora revolucionária, traz 
+consigo várias preocupações, principalmente 
+centradas 
+em 
+torno 
+do 
+uso 
+de 
+dados 
+proprietários, questões de direitos autorais e 
+regulação governamental. 
+O uso de dados é um assunto delicado. As 
+empresas desejam treinar os modelos de IA em 
+seus próprios dados para obter respostas mais 
+personalizadas e relevantes. Porém, existe a 
+preocupação de como esses dados serão 
+protegidos e se poderiam ser usados por outros 
+usuários do modelo (ChatGPT 3), ou pela 
+própria empresa desenvolvedora (OpenAI). Isso 
+é ainda mais sensível para setores altamente 
+regulados, como bancos e de saúde. 
+Nem todos os dados de uma empresa são úteis 
+– apenas cerca de 25% dos dados são 
+considerados valiosos, necessitando de um 
+processo de “limpeza” antes de serem usados. 
+A IA tem o potencial de desvendar o valor 
+desses destes dados, por exemplo, utilizando a 
+gravação da voz de um artista para criar 
+conteúdo, algo que era muito difícil no passado. 
+O artista Grimes lançou um projeto que 
+permite que indivíduos usem um modelo, 
+treinado em sua voz, para criar músicas, e o 
+artista recebe 50% do royalty das músicas 
+criadas. Músicas escritas pelos Beatles mas 
+nunca antes gravadas podem ser reproduzidas 
+como se todos integrantes estivessem vivos. 
+As questões de direitos autorais também estão 
+se tornando cada vez mais complexas. Um 
+modelo precisa respeitar os direitos autorais 
+dos dados utilizados para treiná-lo? E quem 
+detém os direitos sobre os resultados gerados 
+pelos modelos? Nos EUA, a tendência atual é 
+considerar que os materiais criados sem a 
+intervenção direta de um humano não podem 
+ser protegidos por direitos autorais. 
+Por último, a regulação governamental é uma 
+questão crucial. Países em todo o mundo estão 
+elaborando leis para proteger a privacidade 
+dos dados e regular o uso da IA generativa. 
+Japão e Cingapura, por exemplo, adotaram 
+legislações mais flexíves. Nos EUA e na União 
+Europeia, as regulações ainda estão sendo 
+formuladas, mas a abordagem inicial da EU 
+parece ser mais cautelosa, com foco na 
+proteção dos dados e dos direitos individuais. 
+Dentre as complicações de uso de dados, 
+regulamentações e diferencial competitivo, a 
+IA generativa está se tornando um ponto de 
+conflito geopolítico entre EUA e China. Os EUA 
+estão tentando limitar o acesso da China a essa 
+tecnologia, enquanto a China responde com 
+suas próprias restrições. 
+Essas 
+questões 
+e 
+conflitos 
+destacam 
+a 
+complexidade e a importância da IA generativa 
+no mundo atual. Apesar desses desafios, o 
+potencial da tecnologia é imenso e o futuro da 
+IA 
+generativa 
+permanece 
+promissor. 
+As 
+empresas 
+precisarão 
+navegar 
+cuidadosamente 
+essas 
+questões 
+ao 
+implementar a IA generativa. Carta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+E agora? 
+ 
+Fonte: FireFly, WHG. “Robô olhando para o horizonte” 
+A magnitude da mudança que virá da IA 
+generativa será imensa e sua aplicação tem o 
+potencial 
+de 
+transformar 
+radicalmente 
+diversos setores, desde a educação, saúde, 
+comércio e a indústria. 
+Para os investidores, a IA generativa pode 
+representar um momento ‘iPhone’ no ciclo de 
+investimentos – uma oportunidade de investir 
+em uma tecnologia disruptiva que está pronta 
+para redefinir como pensamos sobre diversos 
+negócios. As empresas que adotarem e 
+implementarem com sucesso essa tecnologia 
+estarão posicionadas para obter vantagens 
+competitivas significativas. Portanto, é crucial 
+que possamos identificar e investir em 
+organizações que estão na vanguarda desta 
+revolução. Compreender, adaptar-se e investir 
+nessa tendência não é mais uma opção, mas 
+uma necessidade. 
+Para empresas, a implantação bem-sucedida 
+de IA generativa pode resultar em melhor 
+eficiência operacional, inovação de produtos e 
+serviços, 
+e 
+uma 
+experiência 
+do 
+cliente 
+melhorada. 
+No 
+entanto, 
+é 
+fundamental 
+abordar 
+também 
+as 
+limitações 
+e 
+preocupações, 
+tais 
+como 
+questões 
+de 
+privacidade de dados e direitos autorais. 
+Em 
+relação 
+às 
+ações 
+concretas, 
+recomendamos que os investidores estejam 
+atentos à dinâmica deste setor em rápida 
+evolução. Isso inclui acompanhar de perto as 
+empresas líderes em IA generativa, manter-se 
+atualizado sobre as últimas tendências e 
+desenvolvimentos na indústria de IA, e 
+considerar 
+a 
+diversificação 
+de 
+seus 
+investimentos para incluir empresas que estão 
+na vanguarda desta revolução em diversos 
+setores. 
+Navegaremos este incrível novo capítulo da 
+tecnologia e dos investimentos. Nosso objetivo 
+é explorar as oportunidades de investimento 
+na IA generativa e continuar gerando ‘alpha’ 
+para nossos investidores. O futuro da IA 
+generativa é brilhante e cheio de promessas, e 
+estamos 
+ansiosos 
+para 
+ajudar 
+nossos 
+investidores a aproveitar ao máximo as 
+oportunidades que ela trará. 
+Estes, e outros, investimentos são realizados 
+através da nossa estratégia principal, WHG 
+Global Long Biased. O fundo é oferecido tanto 
+em dólar quanto hedgeado, e nas versões FIM 
+e FIA. 
+Agradecemos novamente sua confiança. 
+ 
+Todas as imagens utilizadas neste relatório foram geradas 
+via Inteligência Artificial Generativa (Firefly e MidJourney). O 
+texto deste relatório foi revisado pelo modelo da Anthropic 
+via Notion e pelo ChatGPT utilizando o Code Interpreter. 
+ 
+Para mais informações sobre nossos fundos, 
+consulte: 
+https://whg.com.br/asset-management/ Carta do Gestor 
+Agosto de 2023 
+ 
+ 
+ 
+ 
+ 
+Este material de divulgação é destinado exclusivamente ao cliente, não considera situação 
+financeira ou necessidades individuais e particulares e não contém todas as informações que um 
+investidor em potencial deve considerar ou analisar antes de investir. Este material foi elaborado 
+pela equipe de gestão de fundos de investimento (“time de gestão”) da Wealth High Governance 
+Asset Management Ltda. (“WHG”), empresa responsável pela gestão de fundos de investimento. 
+O material foi preparado com base em informações públicas, dados desenvolvidos internamente 
+e outras fontes externas, não devendo ser entendido como análise de valor mobiliário, material 
+promocional de oferta, distribuição, consultoria, solicitação de compra e/ ou venda ou 
+recomendação de qualquer ativo financeiro ou investimento. A decisão final de alocação cabe 
+exclusivamente ao gestor discricionário da carteira do veículo de investimento. Recomendamos 
+ao cliente que sempre consulte profissionais especializados antes de decidir sobre investimentos 
+em ativos mobiliários. Este material não se caracteriza nem deve ser entendido como uma 
+promessa/um compromisso da WHG de realizar os serviços ou estruturar os veículos de 
+investimento aqui descritos. Este material não se caracteriza e não deve ser entendida como 
+consultoria jurídica, contábil, regulatória ou fiscal em relação aos assuntos aqui tratados. O cliente 
+deve basear-se, exclusivamente, em sua opinião e na opinião de profissionais especializados por 
+ele contratados, para opinar e decidir. A reprodução total ou parcial desta publicação é 
+expressamente proibida, exceto com a autorização da WHG ou a citação por completo da fonte 
+(nomes dos autores, da publicação e da WHG). Os indicadores citados no documento que não 
+sejam os indicadores econômicos estabelecidos no regulamento do fundo devem ser 
+interpretados como mera referência econômica e não meta ou parâmetro de performance. 
+Rentabilidade obtida no passado não representa garantia de resultados futuros. A rentabilidade 
+divulgada não é líquida de impostos. O investimento em Fundo não é garantido pelo Fundo 
+Garantidor de Crédito. Informações adicionais através do link https://whg.com.br/asset-
+management/fundos-whg/ 
+ 
+Agradecemos a confiança. 
+Para mais informações sobre nossos fundos, consulte:  
+https://whg.com.br/asset-management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wealth High Governance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instagram 
+@wealth_high_governance 
+ 
+LinkedIn 
+/wealth-high-governance 
+ 
+Telegram 
+wealth_high_governance 
+ 
+Twitter 
+@WHGAsset 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

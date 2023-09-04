@@ -1,83 +1,113 @@
 Relatório Econômico Mensal
-O foco (excessivo) nas receitas
+Quando, quanto e como?
 Porto Asset Management
-Maio - 2023Relatório Econômico Mensal
-A quebra de dois bancos regionais em março nos EUA consolidou de vez a expectativa de que
-os EUA, e consequentemente, a economia global, estariam à beira de uma recessão. Essa
-possibilidade, aliás, era considerada antes mesmo daqueles episódios, uma vez que diversos
-indicadores que tipicamente antecipam os ciclos econômicos já apontavam nessa direção. Um
-exemplo é a inclinação da curva de juros americana: em períodos de expansão econômica, a
-taxa de juros de 10 anos normalmente se situa acima do juro de 2 anos. Quando essa relação
-se inverte, uma recessão tipicamente ocorre meses depois.
-Entretanto, desafiando esses prognósticos, o PIB americano ainda segue mostrando um vigor
-bastante razoável, a taxa de desemprego permanece em níveis historicamente baixos e os
-salários seguem com crescimento sustentado. À medida em que os problemas com os bancos
-regionais vão ficando para trás, a probabilidade de uma recessão iminente no EUA se reduz.
-Com isso, a persistência da inflação em patamares elevados segue como principal foco de
-atuação do Fed, sugerindo que o processo para trazê-la de volta para a meta será longo. Assim,
-mesmo que a elevação da taxa básica de juros na reunião deste início de maio se mostre a
-última do atual ciclo, tudo indica que a autoridade monetária norte-americana manterá as
-taxas inalteradas por um período maior que o atualmente precificado pelo mercado.
-Aqui no Brasil também observamos sinais de resiliência da economia. O desempenho do setor
-de serviços e das vendas do varejo tem surpreendido positivamente, e indicadores de
-confiança sugerem que o momento mais agudo/veloz de desaceleração da atividade pode ter
-ficado para trás. Igualmente importante tem sido o vigor demonstrado pelo mercado de
-trabalho. Embora sejam desdobramentos positivos, eles vão na direção contrária ao esperado
-pela autoridade monetária, que tenta controlar a inflação através de contenção da demanda.
-Dito de outro modo, esse é um quadro que no mínimo retarda o processo de desinflação e,
-consequentemente, de queda da Selic.
-Recessão
-Diferencial de Juros 10 anos - 2 anos
-Inclinação da Curva de Juros - EUA
-Fontes: Federal Reserve, Porto Asset ManagementRelatório Econômico Mensal
-Nesse sentido, a política fiscal poderia contribuir decisivamente para trazer a inflação de volta
-para a meta de forma mais rápida. Isso porque sinalizações firmes de empenho com a agenda
-fiscal, mesmo que no futuro, contribuiriam para reduzir prêmios de risco, valorizando o BRL
-desde já e, consequente, impactando a inflação no curto prazo.
-A experiência recente com o teto de gastos exemplifica esse processo. O teto prometia uma
-ajuste das finanças públicas ao longo de vários anos, mas foi importante fator para que a
-inflação corresse abaixo da meta logo após a sua promulgação, muito antes de ter efeitos
-concretos sobre as contas do governo. A proposta era essencialmente corrigir as despesas
-apenas pela inflação. Assim, contanto que o PIB crescesse em termos reais, as despesas como
-proporção do PIB cairiam ao longo do tempo. Já as receitas, mantida a mesma carga tributária,
-cresceriam conforme o PIB se elevasse. Com isso, o governo gradualmente passaria a gerar
-resultados positivos, endereçando a sustentabilidade da dívida pública.
-Já o novo arcabouço fiscal propõe que as despesas cresçam de 0,6% a 2,5% acima da inflação.
-Logo, as receitas precisarão crescer ainda mais para se obter resultados primários que reduzam
-a dívida, ou ao menos a estabilizem. A grande fragilidade do novo arcabouço é justamente
-depender tanto do crescimento das receitas públicas, que já representam uma parcela
-significativa do PIB.
-O gráfico a seguir mostra a trajetória necessária das receitas para garantir o cumprimento das
-metas de resultado primário sinalizadas pelo governo Lula. Por outro lado, a hipótese de
-despesas estáveis (como % do PIB) a partir deste ano parece difícil de ser concretizada diante
-do histórico do último quarto de século. Diante da inescapável restrição fiscal, sem a realização
-dos resultados primários devidos, a sustentabilidade da dívida será obtida através do perverso
-imposto inflacionário.
-Receita líquida
-Receita necessária para a meta de superávit
-Despesas
-Despesas projetadas pelo governo
-Resultado do Governo Central
-Em % do PIB. Fontes: STN, Porto Asset ManagementA Porto Asset Management é responsável pela elaboração desse material, mas não se responsabiliza por quaisquer atos e/ou decisões tomadas com base nas
-informações disponibilizadas por meio de suas publicações e projeções. Todos os dados e/ou opiniões aqui presentes não devem ser tomados, em nenhuma
-hipótese, como base, balizamento, guia ou norma para qualquer documento, avaliações, julgamentos ou tomadas de decisões, sejam de natureza formal ou
-informal. Desse modo, todas as consequências ou responsabilidades pelo uso de quaisquer dados e/ou análises desta publicação deverão ser assumidas
-exclusivamente pelo usuário, eximindo a Porto Seguro Investimentos de todas e quaisquer responsabilidades decorrentes do uso deste material.
+Julho - 2023Relatório Econômico Mensal
+Em sua última reunião, o Copom manteve a taxa Selic em 13,75%. Contudo, diante de
+uma maior confiança no processo de desinflação, sinalizou o começo dos cortes da
+taxa básica de juros a partir da reunião do início agosto. À luz dos novos dados e da
+intenção manifestada pelo Copom, revisamos nossas projeções sobre esse novo
+ciclo. No relatório anterior apontamos os quatro pilares que sustentavam nossa
+avaliação de que o afrouxamento monetário se daria apenas no início de 2024. E
+embora alguns deles sigam presentes, é forçoso reconhecer que outros de fato
+perderam força. Porém, acreditamos que a antecipação do movimento não garante
+uma redução da Selic maior e/ou mais rápida.
+O primeiro dos quatro pilares trata da economia internacional. Tanto como no mês
+passado, avaliamos que as economias avançadas ainda não venceram suas batalhas
+contra a inflação. Se de um lado é possível enxergar alguns efeitos da alta dos juros
+realizada nos últimos vários meses, uma vez que o pico da inflação parece ter ficado
+para trás em muitos desses países, de outro, os núcleos da inflação persistem em
+patamares elevados, o mercado de trabalho segue resiliente e a atividade econômica
+como um todo dá seguidos sinais de força.
+Não por acaso, os bancos centrais do Reino Unido, Canadá e Austrália, que até há
+pouco davam por concluído seu trabalho, se viram obrigados a retomar (ou
+intensificar) o movimento de alta dos juros. Acreditamos que será necessário um
+aperto adicional por parte do Fed e do BCE nos próximos meses, mantendo os juros
+em patamares elevados por um período prolongado. Sendo assim, os mercados serão
+forçados a refazer novamente suas projeções para as curvas de juros naqueles
+países, algo recorrente no atual ciclo, conforme ilustra o gráfico acima para o caso
+dos EUA e que também se observou em vários outros países desenvolvidos.
+FFR efetiva
+FFR precificada pelo mercado
+Taxa de juros nos EUA e trajetórias esperadas em diferentes momentos
+Fed Funds Rate (FFR) em % a.a. Fontes: Bloomberg, Porto Asset Management
+Precificação em jun-23Relatório Econômico Mensal
+O segundo pilar dizia respeito à atividade doméstica. Tudo o mais constante, se
+espera que uma atividade econômica forte produza pressão inflacionária. O PIB do
+1T23 surpreendeu positivamente, o que deveria sustentar esse pilar. Mas as primeiras
+rachaduras podem ser observadas quando avaliamos que muito desse crescimento
+veio de exportações líquidas, apoiadas particularmente no setor agropecuário. O
+cenário ainda está muito longe de uma recessão, afinal o consumo é um componente
+grande do PIB, e no curto prazo ele é fortalecido pela forte expansão das políticas de
+transferência de renda empenhada desde fins de 2022. Além disso, o mercado de
+trabalho segue demonstrando força, evidenciada por exemplo pela taxa de
+desemprego em patamar historicamente baixo.
+O terceiro pilar era referente às expectativas de inflação. No período decorrido entre
+as duas últimas reuniões do Copom, registrou-se um recuo considerável nas
+projeções para o IPCA dos próximos vários anos. Parte do movimento esteve
+associado à melhora do quadro inflacionário de alimentos e dos bens industriais. Esta
+melhora, por sua vez, esteve amparada um dois fatores fundamentais: (i) a
+restauração gradual de um equilíbrio entre oferta e demanda desses bens no
+mercado internacional e (ii) uma importante valorização cambial. Em outras palavras,
+a queda de alguns desses preços em USD foi acentuada pela apreciação do Real.
+Na fase atual do ciclo, ainda enfrentamos pressões inflacionárias no setor de
+serviços, mas a desinflação/deflação de bens é tão intensa que acaba predominando
+na
+determinação
+das
+expectativas
+de
+inflação.
+Mesmo
+enxergando
+riscos
+inflacionários relevantes no segmento de serviços, acabamos por revisar para baixo
+nossas projeções de IPCA em razão dos desdobramentos benignos nos alimentos e
+de outros bens de consumo.
+Taxa de desemprego
+% da força de trabalho, com ajuste sazonal. Fontes: IBGE, Porto Asset ManagementRelatório Econômico Mensal
+Essa valorização cambial está também ligada ao nosso quarto pilar: o temor quanto à
+evolução das contas públicas no médio prazo. O chamado novo arcabouço fiscal, em
+fase final de tramitação no Congresso Nacional, promete a geração de resultados
+primários sucessivamente melhores a partir de 2024, culminando com um superávit
+equivalente a 1% do PIB em 2026. Por mais modesta que seja, tanto porque depende
+crucialmente da geração de receitas, como porque na própria projeção do governo
+só estabiliza a relação dívida pública/PIB depois de 2030, tal trajetória ajuda a reduzir,
+inegavelmente, a incerteza percebida pelos participantes de mercado em relação à
+sustentabilidade das contas públicas.
+Seguimos céticos de que o novo arcabouço garanta de maneira duradoura um regime
+fiscal mais saudável, o que significa a persistência de um certo prêmio de risco, ainda
+que em patamar menor do que vigorava antes de sua apresentação e aprovação. De
+qualquer maneira, no curto prazo, essa descompressão do risco contribui para
+valorizar o BRL e, consequentemente, avançar no processo de desinflação.
+BRL
+Taxa de juros real (10 anos)
+Preços de ativos brasileiros
+Fontes: BCB, Anbima, Porto Asset Management
+Expectativas de inflação (IPCA)
+Fontes: Banco Central do Brasil, Porto Asset ManagementA Porto Asset Management é responsável pela elaboração desse material, mas não se responsabiliza por quaisquer atos e/ou decisões tomadas
+com base nas informações disponibilizadas por meio de suas publicações e projeções. Todos os dados e/ou opiniões aqui presentes não devem
+ser tomados, em nenhuma hipótese, como base, balizamento, guia ou norma para qualquer documento, avaliações, julgamentos ou tomadas de
+decisões, sejam de natureza formal ou informal. Desse modo, todas as consequências ou responsabilidades pelo uso de quaisquer dados e/ou
+análises desta publicação deverão ser assumidas exclusivamente pelo usuário, eximindo a Porto Seguro Investimentos de todas e quaisquer
+responsabilidades decorrentes do uso deste material.
 Relatório Econômico Mensal
-Com a demanda ainda aquecida e sem a ajuda do lado fiscal, a inflação ao consumidor segue
-em patamar muito alto, ainda que cadente, bem longe do centro da meta. Se por um lado o
-ritmo de avanço dos preços de alimentos e outros bens já caiu substancialmente, a inflação de
-serviços segue elevada. Os núcleos de inflação, para os quais o Banco Central dedica maior
-atenção, também não sinalizam alívio. E para além dos números correntes, as expectativas de
-inflação seguem distantes do centro da meta por todo o chamado horizonte relevante da
-política monetária.
-Diante de todos esses fatores, a missão de trazer a inflação de volta para a meta parece ainda
-longe de concluída. Uma recessão global certamente teria reflexos no Brasil mas, como
-mencionamos anteriormente, ela não parece iminente. Enquanto isso, a atividade doméstica
-mostra uma certa resiliência, sustentada em grande medida por uma política fiscal
-expansionista que vai na direção oposta da ação da política monetária. A resultante desses
-fatores é uma inflação persistentemente elevada, que requer juros igualmente altos por mais
-tempo.
+Apesar da inegável melhora recente do quadro inflacionário, seja no que diz respeito
+à redução da inflação corrente, inclusive dos chamados núcleos da inflação, seja no
+tocante às expectativas da inflação para o médio prazo (nesse sentido, a decisão do
+Conselho Monetário Nacional de manter a meta em 3% para os próximos anos deve
+promover uma nova rodada, ainda que limitada, de convergência dessas projeções
+para o centro da meta), enxergamos que processo de desinflação ainda exige uma
+dose de cautela por parte do Copom.
+Essa cautela, por sua vez, deve se traduzir num ritmo moderado de cortes da Selic. Na
+sequência de uma redução inicial de 0,25 ponto percentual (pp) em agosto, o passo
+das quedas seguintes deverá ser acelerado para 0,50pp, encerrando 2023 no
+patamar de 12%. O ciclo de cortes deverá se estender até meados de 2024, com a
+Selic alcançando 9,75%.
+Juros elevados nas principais economias do mundo (notadamente nos EUA) e um risco
+fiscal doméstico ainda elevado (mesmo que inferior ao percebido até recentemente)
+deverão limitar o espaço de queda adicional da taxa básica de juros na busca da
+convergência do IPCA para o centro da meta (3%). De acordo com nossas estimativas,
+taxas inferiores àquele patamar de 9,75% não garantiriam tal convergência.
 PIB
 var. acum. %
 IPCA
@@ -86,10 +116,5 @@ Câmbio
 R$/US$, dez
 Selic
 %, dez
-                                                                                        (p): atual (anterior)
-IPCA
-Expectativa (Focus)
-Meta
-Inflação: Expectativas e Meta
-Fontes: IBGE, Porto Asset Management
-dez/16: promulgação do teto de gastos
+                                                                                        
+(p): atual (anterior)

@@ -1,56 +1,93 @@
 Classificação da informação: Uso Interno
 Cenário
 EconômicoClassificação da informação: Uso Interno
-O texto foi enviado ao Congresso no dia 18 de abril, em linha com o apresentado pelo governo na coletiva de imprensa do início do mês,
-com destaque para:
+•
+Nos Estados Unidos, a difícil negociação para aumento ou suspensão do teto da dívida pública gerou volatilidade nos preços dos
+ativos.
+•
+O limite para emissão de nova dívida foi atingido no início de 2023, levando a uma forte redução da posição de caixa do Tesouro, que
+poderia não ter fundos para cobrir suas despesas a partir de junho.
+•
+O aumento do risco de não pagamento de suas obrigações, embora por um problema político, fez com que a Fitch, uma das principais
+agências classificadoras de risco, colocasse o rating soberano dos Estados Unidos com perspectiva negativa.
+•
+Esse episódio pressionou o Dólar em relação às moedas das principais economias globais. Com o Real não foi diferente, encerrando o
+mês com desvalorização de 1,9%, cotado a R$ 5,10/US$.
+•
+Esse problema foi solucionado com a suspensão do teto da dívida pelo Congresso no dia 01/06.
+O cenário externo se mantém desafiador
+Sicredi Asset Management
+Cenário Econômico | Junho/23Classificação da informação: Uso Interno
+O texto do relator foi modificado e aprovado pela Câmara dos Deputados com um placar robusto (372 votos a favor e 108 votos
+contrários ao Projeto de Lei Complementar). Entre as alterações, destacamos:
 (i)
-a Lei de Diretrizes Orçamentárias passa a fixar a meta fiscal e os valores para o ano posterior;
+um regime de gastos especial para 2024, via crédito suplementar, que poderá levar a crescimento real das despesas de até 2,5%;
 (ii)
-o cálculo da taxa de variação das despesas para o ano seguinte será feito com base na projeção do IPCA acumulado 12 meses até
-dezembro do ano corrente mais um percentual da variação real das receitas acumuladas em 12 meses até junho;
-(iii) a descaracterização do não cumprimento da meta de resultado primário como Crime de Responsabilidade Fiscal; e,
-(iv) treze exceções aos limites de gastos.
-A viabilidade de execução do arcabouço fiscal, no entanto, ainda preocupa. Os principais pontos de atenção são a falta de mecanismos
-para garantir que as metas de resultado primário sejam cumpridas e as diversas exceções que foram feitas ao limite de despesa. A fim
-de que a regra gere uma trajetória sustentável para a relação dívida/PIB, se faz necessário um aumento significativo de arrecadação no
-curto prazo – isto é, alta de impostos.
-No Brasil, a pauta dominante é o arcabouço fiscal
+a taxa de variação das despesas para o ano seguinte será calculada com base na variação do IPCA acumulado em 12 meses até
+junho do ano anterior;
+(iii) a proibição da exclusão de despesas do resultado primário; e,
+(iv) o rompimento da meta de resultado primário só não será infração à Lei de Responsabilidade Fiscal se o Executivo comprovar que
+realizou todas as contingências possíveis.
+O arcabouço deverá passar ainda pelo Comitê de Assuntos Econômicos do Senado e ser aprovado pela Casa antes de seguir para
+sanção do Presidente da República.
+No Brasil, o novo arcabouço fiscal deverá ser aprovado em junho
 Sicredi Asset Management
-Cenário Econômico | Maio/23Classificação da informação: Uso Interno
-No início de abril, o Real apreciou fortemente em relação ao Dólar, mas perdeu força nos últimos dias do mês, fechando com apreciação
-de 0,98%. Tudo o mais constante, uma valorização da taxa de câmbio tende a antecipar o início do ciclo de corte de juros por parte do
-Banco Central do Brasil, caso afete as expectativas de inflação – algo ainda não verificado no Relatório Focus e não incorporado nas
-nossas projeções.
-Em nossos modelos, um dos fatores mais importantes para explicar o comportamento da taxa de câmbio é o diferencial entre as taxas
-de juros doméstica e internacional. Antecipamos que o aperto das condições financeiras, especialmente em economias desenvolvidas,
-ainda não chegou ao fim e, quando encerrado, as taxas de juros permanecerão em níveis restritivos por algum tempo. Este é o caso, por
-exemplo, do Banco Central norte-americano.
-A taxa de câmbio tem ajudado o trabalho do Banco Central
+Cenário Econômico | Junho/23Classificação da informação: Uso Interno
 Sicredi Asset Management
-Cenário Econômico | Maio/23Classificação da informação: Uso Interno
-Sicredi Asset Management
-Cenário Econômico | Maio/23
-Os
-índices
-de
-preços
-ao
-consumidor
-têm
-mostrado
-comportamento mais benigno. O IPCA fechou março com
-variação de 0,71%, enquanto o IPCA-15 de abril ficou em
-0,57%, ambos com projeções abaixo do mercado. Apesar da
-surpresa baixista, vale ressaltar que a inflação segue elevada,
-principalmente, pela categoria de bens administrados.
-Nossa estimativa é que o IPCA encerre o ano em 5,9% e convirja
-para o centro da meta apenas em 2025. Considerando esses
-desenvolvimentos recentes, a nossa projeção para o início dos
-cortes de juros foi antecipada do segundo para o primeiro
-trimestre de 2024, mais especificamente, na segunda reunião do
-Copom do ano que vem.
+Cenário Econômico | Junho/23
+O PIB brasileiro do primeiro trimestre cresceu 1,9%, acima da
+mediana das expectativas (1,2%), com contribuição significativa
+da agropecuária.
+Com isso, revisamos as projeções de crescimento da economia
+para este ano para 2,6%.
+Para 2024, projetamos crescimento de 1,4%, por conta dos
+efeitos defasados da manutenção da taxa de juros em território
+contracionista.
 Fonte: IBGE, Sicredi Asset Management
-Ainda assim, antecipamos um processo de desinflação lentoClassificação da informação: Uso Interno
+A atividade econômica segue robusta...Classificação da informação: Uso Interno
+Sicredi Asset Management
+Cenário Econômico | Junho/23
+O IPCA-15 do mês de maio desacelerou frente a leitura do IPCA
+de
+abril
+(de
+para
+com
+surpresa
+baixista,
+essencialmente,
+devido
+à
+forte
+deflação
+nos
+preços
+de
+passagens aéreas. O núcleo de serviços, importante medida
+acompanhada
+pelo
+Banco
+Central,
+também
+arrefeceu
+e
+apresentou leve deflação.
+Considerando, adicionalmente, a mudança na política de preços
+da Petrobrás e os cortes nos combustíveis anunciados pela
+empresa, revisamos as projeções do IPCA de 2023 e 2024 para
+Fonte: IBGE, Sicredi Asset Management
+... a inflação do consumidor em queda...Classificação da informação: Uso Interno
+Sicredi Asset Management
+Cenário Econômico | Junho/23
+Nesse cenário, que conta ainda com melhora adicional das
+expectativas de inflação, antecipamos o início do ciclo de cortes
+de juros para a reunião de setembro de 2023, com uma redução
+de 0,25 ponto percentual, seguida de cortes de 0,50 ponto
+percentual até o nível que estimamos como neutro.
+Isso significa que a taxa Selic deverá encerrar 2023 em 12,50%
+ao ano e 2024 em 8,50% ao ano.
+Fonte: Banco Central, Sicredi Asset Management
+... antecipando o início do ciclo de corte de jurosClassificação da informação: Uso Interno
 Atividade Econômica
 Crescimento Real do PIB
 Taxa de Câmbio
@@ -60,9 +97,9 @@ IPCA
 Taxa de Juros
 Selic
 Sicredi Asset Management
-Cenário Econômico | Maio/23
+Cenário Econômico | Junho/23
 Cenário ProspectivoClassificação da informação: Uso Interno
-Cenário Econômico | Maio/23
+Cenário Econômico | Junho/23
 Sicredi Asset Management
 DISCLAIMER
 Esse documento foi produzido pela Sicredi Asset Management, que é o segmento da Confederação Sicredi especializado em gestão de

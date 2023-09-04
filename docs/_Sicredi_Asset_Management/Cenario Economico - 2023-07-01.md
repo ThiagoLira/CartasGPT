@@ -9,19 +9,19 @@ tipo: Carta
 twitter: true
 ---
 
-- A política monetária no Brasil e nos Estados Unidos não alterou suas taxas básicas de juros, mantidas em 13,75% a.a. e 5,25% a.a., respectivamente.
-<a href="#" onclick="search_on_pdf('mantidas em 13,75% a.a. e 5,25% a.a., respectivamente.Diferentemente do último, que provavelmente e')">Ref</a>
-- Banco Central do Brasil pode iniciar cortes de juros em agosto, condicionado à reancoragem das expectativas de inflação.
-<a href="#" onclick="search_on_pdf('Segundo a ata publicado após a última decisão, a queda dosjuros, quando iniciada, deverá ocorrer de')">Ref</a>
-- Conselho Monetário Nacional (CMN) manteve a meta para a inflação de 2024 em 3% e definiu que, a partir de 2025, o regime de metas será contínuo.
-<a href="#" onclick="search_on_pdf('inflação e postergação do início do ciclo de cortes dos juros.Essa, entretanto, não foi a decisão d')">Ref</a>
-- Melhora adicional das expectativas de inflação é prevista, principalmente nos dados de médio/longo prazo, influenciando a projeção de inflação do COPOM para o centro da meta.
-<a href="#" onclick="search_on_pdf('básico com que trabalhamos. Antecipamos melhora adicionaldas expectativas de inflação, mais pronunc')">Ref</a>
-- Ciclo de corte dos juros deve iniciar em agosto, reduzindo a taxa Selic em 25 pontos-base e 50 pontos-base nas reuniões subsequentes, prevendo 12,00% a.a. no final do ano e 8,00% a.a. no final de 2024.
-<a href="#" onclick="search_on_pdf('base em agosto e 50 pontos-base nas reuniões subsequentes,encerrando o ano em 12,00% a.a. e 8,00% a')">Ref</a>
-- IPCA-15 de junho desacelerou, especialmente devido à deflação nos preços de alimentação, veículos e monitorados, como a gasolina, diesel e botijão de gás.
-<a href="#" onclick="search_on_pdf('IPCA de maio (de 0,23% para 0,04%), fundamentalmente,devido à deflação nos preços de alimentação no')">Ref</a>
-- Estimativas para o IPCA no final do ano são de 4,9%, com convergência gradual em direção à meta ao longo de 2024. 
-<a href="#" onclick="search_on_pdf('cenário o corte nos combustíveis recentemente anunciado pelaPetrobrás.Projetamos variação de 4,9% ')">Ref</a>
-- Ativos brasileiros tiveram valorização relevante em junho.
-<a href="#" onclick="search_on_pdf('Fonte: BloombergOs ativos brasileiros tiveram valorização relevante em junhoClassificação da infor')">Ref</a>
+- A Sicredi Asset Management registra que, devido ao aumento da classificação soberana pela Fitch e às surpresas benignas nos índices de preços, os ativos brasileiros continuaram valorizando em julho.
+<a href="#" onclick="search_on_pdf('Classificação da informação: Uso InternoCenárioEconômicoClassificação da informação: Uso Interno')">Ref</a>
+- O IPCA de junho e o IPCA-15 de julho tiveram deflações devido: (i) ao desconto aplicado na conta de energia dos consumidores no mês de julho (“Bônus Itaipu”); (ii) ao desconto da medida provisória de veículos novos; e (iii) à redução na alimentação no domicílio devido à sazonalidade positiva para os preços de alimentos.
+<a href="#" onclick="search_on_pdf('pela Fitch e as surpresas benignas nos índices de preços. OIPCA de junho e o IPCA-15 de julho regis')">Ref</a>
+- Previsão de que o IPCA do ano encerre em 4,8% e atingirá 3,9% em 2024.
+<a href="#" onclick="search_on_pdf('preços de alimentos. Projetamos que o IPCA encerrará o ano em4,8% e atingirá 3,9% em 2024.Os ativo')">Ref</a>
+- O texto da reforma tributária aprovado foca na tributação sobre bens e serviços no Brasil, destacando a introdução do IVA dual, impostos do tipo IVA para evitar a cumulatividade de impostos, uniformidade de alíquota independente do tipo de consumo e cobrança no local onde o produto é consumido.
+<a href="#" onclick="search_on_pdf('O texto da reforma tributária, aprovado com 375 votos a favor e 113 contra, traz uma proposta para a')">Ref</a>
+- Algumas exceções foram permitidas para acelerar a aprovação da reforma, incluindo alíquotas reduzidas e nulas para alguns serviços e itens.
+<a href="#" onclick="search_on_pdf('A fim de ter uma aprovação célere algumas exceções foram permitidas:(i)Alíquotas reduzidas (40% da')">Ref</a>
+- A reforma também prevê a criação de um Fundo de Desenvolvimento Regional (FDR) e um Conselho Federativo, bem como um sistema de cashback para a cesta básica.
+<a href="#" onclick="search_on_pdf('Cenário Econômico | Agosto/23Classificação da informação: Uso Interno(i)Criação de um Fundo de De')">Ref</a>
+- O Banco Central deu início ao ciclo de flexibilização monetária com um corte surpreendente de 50 pontos-base na taxa Selic, que é projetada para encerrar 2023 em 11,50% e 2024 em 8,50%.
+<a href="#" onclick="search_on_pdf('Nesse cenário, o Banco Central iniciou o ciclo de flexibilizaçãomonetária na reunião de agosto, com')">Ref</a>
+- A gestora ainda ressalta que todas as análises são baseadas em percepções atuais e podem sofrer alterações futuras.
+<a href="#" onclick="search_on_pdf('as projeções contidas refletem a percepção da Sicredi Asset Management no momento em que o texto é p')">Ref</a>

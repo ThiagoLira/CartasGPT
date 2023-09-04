@@ -9,29 +9,29 @@ tipo: Carta
 twitter: true
 ---
 
-- Aperto nas condições de crédito e políticas monetárias nos EUA e Europa
-<a href="#" onclick="search_on_pdf('na curva de juros de algumas economias avançadas. Nos EUA em particular, os choques no sistema fina')">Ref</a>
-- Medidas de liquidez adotadas para manter estabilidade financeira
-<a href="#" onclick="search_on_pdf('EUA e na Europa para a manutenção da estabilidade financeira. Estas medidas, construídas em respost')">Ref</a>
-- Aperto monetário intenso e rápido afetou a rentabilidade do setor bancário
-<a href="#" onclick="search_on_pdf('mas não isolam o sistema do problema original: um aperto monetário intenso e rápido que afetou a re')">Ref</a>
-- Possibilidade de que a taxa de juros nos EUA não seja mais aumentada de seu nível atual, de 5.25%
-<a href="#" onclick="search_on_pdf('clara que há grandes chances de que a taxa de juros não seja mais aumentada de seu nível atual, de ')">Ref</a>
-- Final de ciclo na Zona do Euro com restrição mais acentuada nas condições de crédito
-<a href="#" onclick="search_on_pdf('ocorrendo aparentemente uma restrição mais acentuada nas condições de crédito. De forma análoga aos')">Ref</a>
-- Economia chinesa impulsionada pela reabertura pós-Covid, consumo e serviços em alta, mas setor imobiliário em crise
-<a href="#" onclick="search_on_pdf('chinesa tem mostrado uma recuperação impulsionada pela reabertura da economia pós-Covid, que se car')">Ref</a>
-- Manutenção de condições financeiras apertadas necessária para convergência da inflação
-<a href="#" onclick="search_on_pdf('de condições financeiras apertadas parece necessária, dado o desafio de convergência da inflação em')">Ref</a>
-- No Brasil, novo arcabouço fiscal e desenvolvimentos positivos na inflação
-<a href="#" onclick="search_on_pdf('novos focos de stress no sistema financeiro, o que poderia antecipar o início do ciclo de relaxamen')">Ref</a>
-- Atividade econômica brasileira deve desacelerar nos próximos meses
-<a href="#" onclick="search_on_pdf('na parte curta da curva DI. Na nossa visão, a atividade econômica deve desacelerar sensivelmente no')">Ref</a>
-- Fundo mantém posições aplicadas na parte curta da curva DI no Brasil e mercados internacionais
-<a href="#" onclick="search_on_pdf('importante para a possibilidade de início do ciclo de cortes na Selic a partir do terceiro ou quart')">Ref</a>
-- Inclusão de posições compradas na bolsa brasileira em papéis de qualidade e resilientes
-<a href="#" onclick="search_on_pdf('Neste contexto, a confirmação da manutenção da meta de inflação poderia abrir espaço para o COPOM i')">Ref</a>
-- Posições vendidas em bolsas internacionais devido ao aumento do risco de recessão
-<a href="#" onclick="search_on_pdf('em curso sobre a atividade econômica. Mantemos também posições vendidas em bolsas internacionais pe')">Ref</a>
-- Encerramento de posição tática comprada no dólar contra moedas do G10
-<a href="#" onclick="search_on_pdf('posição tática comprados no dólar contra moedas do G10.CARTA DO GESTOR | MAIO 2023Ouvidoria Opport')">Ref</a>
+- Aumento da incerteza proveniente do final do processo de alta nos juros iniciado pelos principais bancos centrais. 
+<a href="#" onclick="search_on_pdf('alta nos juros pelos principais bancos centrais, observamos no mês de maio um aumento de incerteza ')">Ref</a>
+- Sinais ambíguos nos dados econômicos, especialmente em relação aos impactos tardios da política monetária e do recente aperto nas condições de crédito.
+<a href="#" onclick="search_on_pdf('impactos defasados da política monetária e do aperto recente nas condições de crédito tem gerado di')">Ref</a>
+- Choques resultantes da pandemia e conflito na Ucrânia já são menos visíveis nos principais indicadores.
+<a href="#" onclick="search_on_pdf('associados à pandemia e ao conflito na Ucrânia já se dissipam nos principais indicadores, a identif')">Ref</a>
+- Identificação dos componentes de tendência dificultada pela magnitude desses choques.
+<a href="#" onclick="search_on_pdf('associados à pandemia e ao conflito na Ucrânia já se dissipam nos principais indicadores, a identif')">Ref</a>
+- Inflação continua em queda, principalmente devido à queda nos preços da energia/combustíveis e commodities/alimentos.
+<a href="#" onclick="search_on_pdf('mostram, de forma geral, quedas contínuas, com grande contribuição dos componentes de energia/combu')">Ref</a>
+- Indicações mais robustas que sugerem que a inflação central, incluindo no setor de serviços, alcançou seu pico.
+<a href="#" onclick="search_on_pdf('associados à pandemia e ao conflito na Ucrânia já se dissipam nos principais indicadores, a identif')">Ref</a>
+- Dicotomia global nos indicadores de atividade entre os setores de serviços (forte) e indústria (fraco).
+<a href="#" onclick="search_on_pdf('movimento descendente nos núcleos será suficiente para a convergência da inflação a patamares neutr')">Ref</a>
+- Vizinhos de desacordo no Federal Reserve (Fed) e consenso no Banco Central Europeu (ECB) sobre o final iminente do ciclo de alta nos juros.
+<a href="#" onclick="search_on_pdf('esperadas do Federal Reserve (Fed) e do Banco Central Europeu (ECB). As comunicações do Fed mostrar')">Ref</a>
+- Surpresa negativa com os dados de atividade econômica na China, principalmente devido a problemas no setor imobiliário e consumo.
+<a href="#" onclick="search_on_pdf('China, tanto no lado dos investimentos, que ainda sentem a crise ocorrida no setor imobiliário, com')">Ref</a>
+- No Brasil, dados recentes mostram sinais mais positivos para a inflação e desaceleração na demanda interna.
+<a href="#" onclick="search_on_pdf('ouvidoria@opportunity.com.brWWW.OPPORTUNITY.COM.BR OPPORTUNITY@OPPORTUNITY.COM.BRNo Brasil, os úl')">Ref</a>
+- Expectativa de início de corte de juros a partir de agosto ou setembro, dependendo dos novos dados divulgados e da ausência de surpresas fiscais negativas.
+<a href="#" onclick="search_on_pdf('e considerando um resultado favorável das discussões a respeito das metas de inflação (que deverão ')">Ref</a>
+- No mercado brasileiro, a gestora mantém posições aplicadas na parte curta da curva DI e posições compradas na bolsa brasileira em papéis de qualidade que se beneficiarão de uma queda na taxa de juros.
+<a href="#" onclick="search_on_pdf('a re-ancorar as expectativas inflacionárias. Mantemos também posição comprada na bolsa brasileira e')">Ref</a>
+- No mercado internacional, procura posições aplicadas nas curvas de juros em países onde o aperto monetário esteja no fim ou próximo dele e mantém posições vendidas em bolsas internacionais devido ao aumento do risco de recessão.
+<a href="#" onclick="search_on_pdf('a re-ancorar as expectativas inflacionárias. Mantemos também posição comprada na bolsa brasileira e')">Ref</a>
