@@ -1,0 +1,120 @@
+Relatório Econômico
+Guiados pelas 
+estrelas
+Porto Asset 
+Management
+Setembro - 2023Relatório Econômico Mensal
+A economia americana tem emitido sinais encorajadores de desinflação. Nesse sentido, o
+mercado já precifica a proximidade do final do ciclo de altas e se prepara para o início do
+processo de normalização da taxa de juros nos EUA. Surge então a pergunta: qual é o
+nível normal da taxa de juros? A resposta conceitual é o chamado juro neutro, ou r*
+(”r-estrela”). Vale para os EUA assim como para o Brasil, que já inaugurou o movimento de
+queda da taxa básica de juros. Logo, a identificação do nível do r* é relevante para saber,
+entre outras coisas, quão longe o Copom consegue levar a Selic.
+Sabemos que uma taxa de juros muito elevada desestimula consumo e investimentos,
+esfria a economia e desacelera a inflação; simetricamente, uma taxa muito baixa tem o
+efeito oposto. Portanto, existe uma taxa intermediária que não aquece nem esfria a
+economia — esse patamar é o juro neutro. Essa é uma construção teórica, não
+exatamente medida nem observada. Ainda assim, podemos estimar o r* porque
+entendemos que ele é determinado fundamentalmente por crescimento econômico e
+outros fatores secundários.
+De maneira simplificada, podemos considerar que o “presente” será mais valioso em uma
+economia que naturalmente cresce mais — afinal, se sabemos que riquezas nos esperam
+no futuro, vamos exigir uma remuneração maior para poupar agora. Dito de outro modo,
+uma taxa mais acelerada de crescimento da economia está associada a um juro neutro
+maior. A figura acima ilustra como estão relacionados os grandes ciclos do PIB americano
+e da taxa de juros de longo prazo. Essa comparação sugere que, em grande parte, a taxa
+de juros nos EUA no passado recente permaneceu baixa porque essa economia já não
+crescia com a mesma velocidade dos anos 80 e 90.
+PIB (var. % em 12 meses)
+Juro real - 10 anos (% a.a.)
+PIB e Juros reais - EUA
+Fontes: BEA, Fed Cleveland, Porto Asset ManagementRelatório Econômico Mensal
+Além do crescimento, outros fatores como a abrangência e a competição no mercado de
+capitais, a propensão a poupar da população, seu perfil demográfico e a percepção de
+risco também exercem sua influência sobre o juro neutro. Entre esses fatores, o risco
+fiscal tem se destacado no passado mais recente. A economia americana é a maior do
+mundo, e a capacidade de financiamento do governo americano é muito robusta.
+Contudo, o elevado patamar da dívida pública, aliado às projeções de déficits primários
+relevantes por todo o horizonte de projeções do Congresso Americano põem em risco
+essa avaliação, sobretudo porque os financiadores clássicos da economia americana
+(Europa, China e Japão) também enfrentam dificuldades em suas próprias economias.
+A combinação da taxa de crescimento com esses outros fatores nos dá uma boa ideia do
+nível do r*. Um modelo que ganhou notoriedade na estimação do juro neutro foi
+elaborado por Thomas Laubach e John Williams (hoje diretor do Fed de NY), carregando
+os sobrenomes dos autores. Esse modelo condensa as variáveis que exploramos acima
+em uma única medida, e nos dá uma pista do nível em que os juros nos EUA devem se
+equilibrar, depois que o Fed normalizar a política monetária.
+Para além desse modelo, os diretores do Fed divulgam suas estimativas de juros de longo
+prazo, que também podem ser entendidas como suas visões para o juro neutro. Diante
+dessas estimativas, dos preços de mercado e dos riscos que observamos, sobretudo na
+seara fiscal, vemos como crescente a possibilidade de que, nos próximos anos, o juro
+básico definido pelo Fed se estabilize em patamares mais próximos do topo dessas
+estimativas.
+Intervalo de estimativas do Fed
+Mediana das estimativas do Fed
+Laubach-Williams + meta de inflação
+US Treasuries 30 anos
+Juros de longo prazo - EUA
+Fontes: Federal Reserve, Bloomberg, Porto Asset ManagementRelatório Econômico Mensal
+Para a economia brasileira, os determinantes do juro neutro são essencialmente os
+mesmos. Aliás, no nosso caso específico, um fator crucial é justamente o nível global de
+juros, uma vez que a economia brasileira é significativamente sensível aos fluxos de
+capital estrangeiro. Inspirados no trabalho de Laubach & WIlliams, nós desenvolvemos
+uma estimativa de r* para o Brasil, com algumas modificações em relação ao modelo
+original para o adaptar à nossa realidade de país emergente.
+Nossa estimativa sugere que o juro neutro vinha em trajetória cadente desde 2005, mas
+se elevou substancialmente após a pandemia, na esteira da significativa expansão fiscal
+promovida durante esse período – doméstica e internacionalmente. E no momento atual,
+os três principais fatores que explicam o r* apontam para uma taxa mais elevada.
+Primeiro, o crescimento econômico tem ganhado força. Parte disso nasce da expansão
+fiscal, sobretudo na forma de transferências do governo. Ainda que políticas desse tipo
+não tenham uma relação inequívoca com o crescimento de longo prazo (haja visto o
+desempenho da economia brasileira nos últimos dez anos), é fato que enquanto esse
+impulso durar, o r* segue inflado.
+Segundo, os juros externos estão elevados – por uma combinação de razões boas
+(crescimento) e ruins (risco). Isso quer dizer que o r* que equilibra oferta e demanda de
+recursos no Brasil compete com taxas maiores lá fora, e, por isso, também aumenta.
+Finalmente, o ambiente de risco doméstico segue latente, sobretudo diante da incerteza
+persistente ao redor das sustentabilidade das contas públicas. A reação do mercado ante
+a divulgação do Projeto de Lei Orçamentária de 2024 ilustra a fragilidade do momento.
+Brasil
+EUA
+Juros reais de longo prazo
+Taxas de 10 anos, em % ao ano. Fontes: Anbima, Fed Cleveland, Porto Asset ManagementRelatório Econômico Mensal
+Como disse o presidente do Federal Reserve, Jerome Powell, em discurso recente na
+conferência de Jackson Hole, a execução da política monetária é como navegar sob as
+estrelas – em alusão ao r* e às demais variáveis não observáveis dos modelos
+econômicos.
+A principal dificuldade aqui é identificar justamente onde essas estrelas se encontram.
+Do nosso lado, cabe apontar também para onde vemos essas estrelas migrando.
+Seguimos reforçando que, sem a contribuição da política fiscal, a monetária não
+consegue ser muito eficaz. Será um grande desafio para o Fed reduzir substancialmente
+a taxa de juros sem maior atenuação do expansionismo fiscal nos EUA.
+E por aqui, com juros americanos persistentemente elevados, e risco fiscal latente, o r*
+mais baixo que experimentamos no final da década passada pode ter ficado para trás.
+Esse é o fundamento por trás da nossa avaliação de que, nas condições atuais, o mais
+prudente para o BC é concluir o ciclo de normalização com a Selic em 9,25%.
+A Porto Asset Management é responsável pela elaboração desse material, mas não se responsabiliza por quaisquer atos e/ou
+decisões tomadas com base nas informações disponibilizadas por meio de suas publicações e projeções. Todos os dados e/ou
+opiniões aqui presentes não devem ser tomados, em nenhuma hipótese, como base, balizamento, guia ou norma para qualquer
+documento, avaliações, julgamentos ou tomadas de decisões, sejam de natureza formal ou informal. Desse modo, todas as
+consequências ou responsabilidades pelo uso de quaisquer dados e/ou análises desta publicação deverão ser assumidas
+exclusivamente pelo usuário, eximindo a Porto Seguro Investimentos de todas e quaisquer responsabilidades decorrentes do
+uso deste material. Site: https://www.portoseguro.com.br/fundos-de-investimento
+Cresc. Potencial
+Juro externo
+Percepção de risco
+Juro neutro
+Juro real neutro - Brasil
+Em % ao ano. Fonte: Porto Asset Management
+PIB
+var. acum. %
+IPCA
+var. acum. %
+BRL
+R$/US$, dez
+Selic
+%, dez
+                                                                                        
+(p): atual (anterior)
